@@ -68,23 +68,41 @@ The project is organized into separate files for the homepage, individual plant 
 
 plantipedia/
 │
+
 ├── index.html
+
 │
+
 ├── style.css
+
 │
+
 ├── script.js
+
 │
+
 ├── periwinkle.html
+
 │
+
 ├── rose.html
+
 │
+
 ├── sunflower.html
+
 │
+
 ├── mango.html
+
 │
+
 ├── marigold.html
+
 │
+
 └── ixora.html
+
 
 File Description
 
