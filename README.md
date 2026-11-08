@@ -1,209 +1,214 @@
 🌺 Plantipedia
 
-Discover the Diversity of the Plants Around You.
+<p align="center">
+  <strong>Explore the green world, one species at a time.</strong>
+</p>
 
-Plantipedia is a plant encyclopedia website designed to explore the fascinating world of plants. It provides educational information about different plant species, including their descriptions, classifications, habitats, uses, importance, and cultivation.
+<p align="center">
+  <a href="https://shahjahankabir22459-ship-it.github.io/plantipedia/">
+    <strong>🌐 Visit Plantipedia</strong>
+  </a>
+</p>
 
-The goal of Plantipedia is to make plant-related knowledge accessible through a simple, attractive, and easy-to-navigate interface.
+📖 About the Project
 
-🌐 Live Website: https://shahjahankabir22459-ship-it.github.io/plantipedia/
+Plantipedia is an online plant encyclopedia designed to help people explore and learn about the fascinating world of plants.
+
+The website provides educational information about different plant species, including their descriptions, classifications, habitats, distributions, uses, importance, and cultivation.
+
+Built using HTML, CSS, and JavaScript, Plantipedia aims to make botanical knowledge accessible through a simple, attractive, and user-friendly interface.
+
+📸 Website Preview
+
+<p align="center">
+  <img src="images/homepage.png" width="85%" alt="Plantipedia Homepage">
+  <br>
+  <em>Plantipedia Homepage</em>
+</p>
+
+<p align="center">
+  <img src="images/search.png" width="85%" alt="Plantipedia Search Suggestions">
+  <br>
+  <em>Live Search Suggestions</em>
+</p>
+
+<p align="center">
+  <img src="images/article.png" width="85%" alt="Plant Information Page">
+  <br>
+  <em>Individual Plant Article</em>
+</p>
+
+Note: Add your screenshots to the images folder using the filenames shown above. Otherwise, remove the image elements until the screenshots are uploaded.
 
 ✨ Features
 
-Plant Search: Search for different plant species using the search bar.
+🔍 Plant Search: Search for different plant species.
 
-Live Search Suggestions: Displays matching plant names dynamically as users type.
+💡 Live Search Suggestions: Displays matching plant names while typing.
 
-Individual Plant Pages: Each plant has a separate HTML page containing its information.
+🌱 Individual Plant Pages: Each plant has its own dedicated information page.
 
-Detailed Plant Information: Explore different aspects of each plant, including:
+📚 Detailed Information: Explore different botanical aspects of plants.
 
-Description
+🧭 Interactive Navigation: Easily navigate through different sections.
 
-Classification
+🎨 Nature-Inspired Design: A green-themed interface with a natural background.
 
-Habitat and Distribution
+✨ Animations: Smooth visual effects and transitions.
 
-Uses and Importance
-
-Cultivation
-
-Interactive Navigation: Dropdown navigation menu for convenient browsing.
-
-Smooth Animations: Includes fade-in and scroll-reveal animations.
-
-Nature-Inspired Design: A green-themed interface with a natural background.
-
-Educational Content: Provides plant-related information for learning and exploration.
+📱 User-Friendly Interface: Designed for convenient browsing.
 
 🛠️ Technologies Used
 
-Plantipedia is developed using fundamental front-end web technologies.
+<table>
+  <thead>
+    <tr>
+      <th>Technology</th>
+      <th>Purpose</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>HTML5</td>
+      <td>Website structure and content</td>
+    </tr>
+    <tr>
+      <td>CSS3</td>
+      <td>Styling, layouts, backgrounds, and animations</td>
+    </tr>
+    <tr>
+      <td>JavaScript</td>
+      <td>Search functionality, suggestions, and interactive elements</td>
+    </tr>
+    <tr>
+      <td>GitHub Pages</td>
+      <td>Website hosting and deployment</td>
+    </tr>
+  </tbody>
+</table>
 
-Technology
+🌿 Plant Encyclopedia
 
-Purpose
+Plantipedia contains individual articles about different plant species.
 
-HTML5
+<table>
+  <thead>
+    <tr>
+      <th>Plant Name</th>
+      <th>Scientific Name</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Periwinkle</td>
+      <td><i>Catharanthus roseus</i></td>
+    </tr>
+    <tr>
+      <td>Rose</td>
+      <td><i>Rosa</i></td>
+    </tr>
+    <tr>
+      <td>Sunflower</td>
+      <td><i>Helianthus annuus</i></td>
+    </tr>
+    <tr>
+      <td>Mango</td>
+      <td><i>Mangifera indica</i></td>
+    </tr>
+    <tr>
+      <td>Marigold</td>
+      <td><i>Tagetes</i></td>
+    </tr>
+    <tr>
+      <td>Ixora</td>
+      <td><i>Ixora</i></td>
+    </tr>
+  </tbody>
+</table>
 
-Website structure and content
+More plant species will be added as the project develops.
 
-CSS3
+🔎 Search Functionality
 
-Styling, layouts, backgrounds, and animations
+Plantipedia uses JavaScript to provide an interactive search experience.
 
-JavaScript
+Users enter a plant name in the search bar.
 
-Search functionality, suggestions, and interactive elements
+JavaScript checks the entered text against the available plant database.
 
-GitHub Pages
+Matching plant names appear in a suggestion dropdown.
 
-Website hosting and deployment
+Users can select a suggestion to visit the corresponding plant article.
 
-No front-end frameworks are required.
+The plant database is maintained in JavaScript, making it easier to add new species.
 
-📁 Project Structure
+📂 Project Structure
 
-The project is organized into separate files for the homepage, individual plant articles, styling, and JavaScript functionality.
+The project uses separate files for the homepage, styling, JavaScript functionality, and individual plant articles.
 
 plantipedia/
 │
 
 ├── index.html
 
-│
-
 ├── style.css
-
-│
 
 ├── script.js
 
-│
+├── README.md
 
-├── periwinkle.html
+├─ plant files  (like, periwinkle.html, rose.html, mango.html etc.)
 
-│
+🚀 Running Locally
 
-├── rose.html
+To explore or modify Plantipedia on your computer:
 
-│
+Clone or download the repository.
 
-├── sunflower.html
+Open the project folder in Visual Studio Code.
 
-│
+Open index.html in your browser.
 
-├── mango.html
-
-│
-
-├── marigold.html
-
-│
-
-└── ixora.html
-
-
-File Description
-
-index.html: The main homepage containing the introduction and plant search interface.
-
-style.css: Contains the website's styling, layouts, animations, and visual elements.
-
-script.js: Handles JavaScript functionality, including plant searching, live suggestions, and interactive navigation.
-
-Individual HTML files: Each contains the information and presentation of a particular plant species.
-
-🔍 How the Search Works
-
-Plantipedia uses JavaScript to provide an interactive search experience.
-
-The user enters a plant name into the search bar.
-
-JavaScript checks the entered text against the available plant names.
-
-Matching plant names appear in a suggestion dropdown.
-
-The user can select a suggestion to open the corresponding plant page.
-
-The search form also supports searching for available plant articles.
-
-The plant database is maintained in a JavaScript array, making it relatively easy to add more plant species.
-
-🌱 Available Plant Articles
-
-Currently, Plantipedia includes information about:
-
-Plant
-
-Scientific Name
-
-Periwinkle
-
-Catharanthus roseus
-
-Rose
-
-Rosa
-
-Sunflower
-
-Helianthus annuus
-
-Mango
-
-Mangifera indica
-
-Marigold
-
-Tagetes
-
-Ixora
-
-Ixora
-
-More plant species can be added as the project develops.
-
-🚀 Future Improvements
-
-Some possible improvements for future versions include:
-
-Expanding the plant encyclopedia with more species.
-
-Adding scientific names to the search functionality.
-
-Improving search accuracy and suggestions.
-
-Introducing plant categories and filtering options.
-
-Improving responsiveness across different screen sizes.
-
-Adding more botanical illustrations and photographs.
-
-Expanding the classification and botanical information sections.
+Alternatively, use the Live Server extension for local development.
 
 🌐 Deployment
 
 Plantipedia is hosted using GitHub Pages.
 
-The website is publicly accessible through the following address:
+<p align="center">
+  <a href="https://shahjahankabir22459-ship-it.github.io/plantipedia/">
+    <strong>Visit the Live Website 🌺</strong>
+  </a>
+</p>
 
-https://shahjahankabir22459-ship-it.github.io/plantipedia/
+🔮 Future Improvements
+
+Add more plant species.
+
+Expand search functionality to include scientific names.
+
+Introduce plant categories and filtering.
+
+Improve mobile responsiveness.
+
+Add more botanical photographs and illustrations.
+
+Expand botanical information for each species.
 
 ⚖️ Disclaimer and Copyright
 
-The original design, layout, styling, and source code of Plantipedia are protected by their respective copyright.
+Plantipedia is an educational project.
 
-The botanical information and third-party materials presented on this website are provided for educational and informational purposes only.
+The original website design, layout, styling, and source code belong to the project creator.
 
-Plantipedia does not claim ownership of third-party information, photographs, or other materials. Their respective authors and owners retain their rights.
+Botanical information and third-party photographs or materials may belong to their respective authors and owners. Plantipedia does not claim ownership of third-party materials.
 
-🌺 About the Project
+Please check the licensing terms of individual resources before reusing them.
 
-Plantipedia is a web development project created to combine an interest in the plant kingdom with front-end web development.
-
-It aims to create an accessible digital encyclopedia where visitors can discover, explore, and learn about the diversity of plants.
-
-Explore the green world, one species at a time.
-
-© 2026 Plantipedia. All rights reserved.
+<p align="center">
+  <strong>🌺 Plantipedia</strong>
+  <br>
+  Discover. Explore. Learn.
+  <br><br>
+  © 2026 Plantipedia. All rights reserved.
+</p>
