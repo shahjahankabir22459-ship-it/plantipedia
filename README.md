@@ -10,7 +10,7 @@
   </a>
 </p>
 
-📖 About the Project
+📖 <b>About the Project</b>
 
 Plantipedia is an online plant encyclopedia designed to help people explore and learn about the fascinating world of plants.
 
@@ -21,44 +21,29 @@ Built using HTML, CSS, and JavaScript, Plantipedia aims to make botanical knowle
 📸 Website Preview
 
 <p align="center">
-  <img src="images/homepage.png" width="85%" alt="Plantipedia Homepage">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2oouADI9qLEG6UDf8icpxqiwhLA8NKN3oGIURGyvdFg&s=10" width="85%">
   <br>
-  <em>Plantipedia Homepage</em>
 </p>
 
-<p align="center">
-  <img src="images/search.png" width="85%" alt="Plantipedia Search Suggestions">
-  <br>
-  <em>Live Search Suggestions</em>
-</p>
+✨ <b>Features</b>
 
-<p align="center">
-  <img src="images/article.png" width="85%" alt="Plant Information Page">
-  <br>
-  <em>Individual Plant Article</em>
-</p>
+🔍 <b>Plant Search:</b> Search for different plant species.
 
-Note: Add your screenshots to the images folder using the filenames shown above. Otherwise, remove the image elements until the screenshots are uploaded.
+💡 <b>Live Search Suggestions:</b> Displays matching plant names while typing.
 
-✨ Features
+🌱 <b>Individual Plant Pages:</b> Each plant has its own dedicated information page.
 
-🔍 Plant Search: Search for different plant species.
+📚 <b>Detailed Information:</b> Explore different botanical aspects of plants.
 
-💡 Live Search Suggestions: Displays matching plant names while typing.
+🧭 <b>Interactive Navigation:</b> Easily navigate through different sections.
 
-🌱 Individual Plant Pages: Each plant has its own dedicated information page.
+🎨 <b>Nature-Inspired Design:</b> A green-themed interface with a natural background.
 
-📚 Detailed Information: Explore different botanical aspects of plants.
+✨ <b>Animations:</b> Smooth visual effects and transitions.
 
-🧭 Interactive Navigation: Easily navigate through different sections.
+📱 <b>User-Friendly Interface:</b> Designed for convenient browsing.
 
-🎨 Nature-Inspired Design: A green-themed interface with a natural background.
-
-✨ Animations: Smooth visual effects and transitions.
-
-📱 User-Friendly Interface: Designed for convenient browsing.
-
-🛠️ Technologies Used
+🛠️ <b>Technologies Used</b>
 
 <table>
   <thead>
@@ -87,7 +72,11 @@ Note: Add your screenshots to the images folder using the filenames shown above.
   </tbody>
 </table>
 
-🌿 Plant Encyclopedia
+🌿 <b>Plant Encyclopedia</b>
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzNWfracQ_005tYp-dSbL8_YspYZ3UIhVPOH9kBs88fQ&s=10">
+  <br>
+</p>
 
 Plantipedia contains individual articles about different plant species.
 
@@ -128,7 +117,7 @@ Plantipedia contains individual articles about different plant species.
 
 More plant species will be added as the project develops.
 
-🔎 Search Functionality
+🔎 <b>Search Functionality</b>
 
 Plantipedia uses JavaScript to provide an interactive search experience.
 
@@ -142,7 +131,7 @@ Users can select a suggestion to visit the corresponding plant article.
 
 The plant database is maintained in JavaScript, making it easier to add new species.
 
-📂 Project Structure
+📂 <b>Project Structure</b>
 
 The project uses separate files for the homepage, styling, JavaScript functionality, and individual plant articles.
 
@@ -181,7 +170,7 @@ Plantipedia is hosted using GitHub Pages.
   </a>
 </p>
 
-🔮 Future Improvements
+🔮 <b>Future Improvements</b>
 
 Add more plant species.
 
@@ -195,7 +184,7 @@ Add more botanical photographs and illustrations.
 
 Expand botanical information for each species.
 
-⚖️ Disclaimer and Copyright
+⚖️ <B>Disclaimer and Copyright</b>
 
 Plantipedia is an educational project.
 
