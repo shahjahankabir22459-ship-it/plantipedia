@@ -1,3 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    overflow-x: hidden;
+}
+
+img {
+    max-width: 100%;
+}
 html {
     scroll-behavior: smooth;
 }
@@ -406,4 +418,412 @@ tr:hover {
 
 .suggestion-item:last-child {
     border-bottom: none;
+}
+@media screen and (max-width: 1024px) {
+
+    /* Navigation */
+    nav {
+        width: 90%;
+        padding: 15px 5%;
+    }
+
+    .logo {
+        font-size: 1.7rem;
+    }
+
+    /* Hero */
+    .hero h1 {
+        font-size: 2.8rem;
+    }
+
+    .hero p {
+        font-size: 1.2rem;
+    }
+
+    /* Sections */
+    section {
+        padding: 65px 7%;
+    }
+
+    section h2 {
+        font-size: 3.5rem;
+    }
+
+    section p {
+        font-size: 20px;
+    }
+
+    section h5 {
+        font-size: 35px;
+    }
+
+    /* Images */
+    .textbook-image {
+        width: 340px;
+    }
+
+    .textbook-image img {
+        height: 260px;
+    }
+
+    /* Plant container */
+    .plant-container {
+        margin: 20px;
+    }
+
+    .plant-container img {
+        height: auto;
+    }
+
+}
+
+
+/* ---------- TABLETS ---------- */
+
+@media screen and (max-width: 768px) {
+
+    /* Navigation */
+    nav {
+        width: 90%;
+        padding: 12px 5%;
+    }
+
+    .logo {
+        font-size: 1.5rem;
+    }
+
+    .logo span {
+        font-size: 1.5rem;
+    }
+
+    .menu-icon {
+        font-size: 26px;
+    }
+
+    .menu {
+        min-width: 170px;
+    }
+
+
+    /* Hero section */
+    .hero {
+        padding: 120px 15px 45px;
+    }
+
+    .hero h1 {
+        font-size: 2.4rem;
+    }
+
+    .hero p {
+        font-size: 1.1rem;
+    }
+
+
+    /* General sections */
+    section {
+        min-height: auto;
+        padding: 55px 6%;
+    }
+
+    section h2 {
+        font-size: 2.8rem;
+    }
+
+    section p {
+        font-size: 18px;
+        line-height: 1.7;
+    }
+
+    section h5 {
+        font-size: 30px;
+    }
+
+
+    /* Search bar */
+    .search-container {
+        width: 90%;
+    }
+
+    #search-form {
+        padding: 5px;
+    }
+
+    #search-input {
+        padding: 12px;
+        font-size: 15px;
+    }
+
+    #search-form button {
+        padding: 12px 18px;
+        font-size: 14px;
+    }
+
+
+    /* Textbook images */
+    .textbook-image {
+        width: 280px;
+        margin: 12px 18px 15px;
+    }
+
+    .textbook-image img {
+        height: 220px;
+    }
+
+
+    /* Plant container */
+    .plant-container {
+        margin: 15px;
+        padding: 18px;
+        border-radius: 20px;
+    }
+
+    .plant-container img {
+        width: 100%;
+        height: auto;
+    }
+
+    .plant-text p {
+        font-size: 19px;
+    }
+
+
+    /* Tables */
+    table {
+        width: 100%;
+        font-size: 15px;
+    }
+
+    th, td {
+        padding: 10px;
+    }
+
+
+    /* Footer */
+    .site-footer {
+        padding: 35px 15px 20px;
+    }
+
+}
+
+
+/* ---------- MOBILE PHONES ---------- */
+
+@media screen and (max-width: 480px) {
+
+    /* Navigation */
+    nav {
+        width: 92%;
+        padding: 12px 4%;
+    }
+
+    .logo {
+        font-size: 1.3rem;
+    }
+
+    .logo span {
+        font-size: 1.3rem;
+    }
+
+    .menu-icon {
+        font-size: 24px;
+    }
+
+    .menu {
+        right: 0;
+        min-width: 160px;
+    }
+
+
+    /* Hero */
+    .hero {
+        padding: 110px 12px 35px;
+    }
+
+    .hero h1 {
+        font-size: 2rem;
+        line-height: 1.3;
+    }
+
+    .hero p {
+        font-size: 1rem;
+        line-height: 1.6;
+    }
+
+
+    /* Sections */
+    section {
+        padding: 40px 5%;
+    }
+
+    section h2 {
+        font-size: 2rem;
+        line-height: 1.3;
+    }
+
+    section p {
+        font-size: 16px;
+        line-height: 1.7;
+    }
+
+    section h5 {
+        font-size: 25px;
+        line-height: 1.5;
+    }
+
+
+    /* Search bar */
+    .search-container {
+        width: 95%;
+        margin: 20px auto;
+    }
+
+    #search-form {
+        border-radius: 10px;
+    }
+
+    #search-input {
+        padding: 11px 8px;
+        font-size: 14px;
+    }
+
+    #search-form button {
+        padding: 11px 12px;
+        font-size: 13px;
+    }
+
+    #suggestions {
+        max-height: 240px;
+    }
+
+    .suggestion-item {
+        padding: 12px 14px;
+        font-size: 14px;
+    }
+
+
+    /* Textbook images */
+    .textbook-image {
+        float: none;
+        width: 100%;
+        max-width: 100%;
+        box-sizing: border-box;
+        margin: 20px auto;
+    }
+
+    .textbook-image img {
+        width: 100%;
+        height: auto;
+        aspect-ratio: 5 / 4;
+        object-fit: cover;
+    }
+
+    .image-left,
+    .image-right {
+        float: none;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+
+    /* Plant container */
+    .plant-container {
+        margin: 10px 0;
+        padding: 15px;
+        border-radius: 15px;
+        gap: 15px;
+    }
+
+    .plant-container img {
+        width: 100%;
+        height: auto;
+        aspect-ratio: 3 / 2;
+        object-fit: cover;
+    }
+
+    .plant-text {
+        width: 100%;
+    }
+
+    .plant-text h2 {
+        font-size: 23px;
+    }
+
+    .plant-text p {
+        font-size: 16px;
+        line-height: 1.7;
+    }
+
+
+    /* Tables */
+    table {
+        display: block;
+        width: 100%;
+        overflow-x: auto;
+        white-space: nowrap;
+        font-size: 14px;
+    }
+
+    th, td {
+        padding: 9px;
+    }
+
+
+    /* Footer */
+    .site-footer {
+        padding: 30px 12px 18px;
+        margin-top: 40px;
+    }
+
+    .site-footer h2 {
+        font-size: 23px;
+    }
+
+    .footer-description {
+        font-size: 13px;
+    }
+
+    .disclaimer h3 {
+        font-size: 16px;
+    }
+
+    .disclaimer p {
+        font-size: 12px;
+    }
+
+    .copyright {
+        font-size: 11px;
+    }
+
+}
+
+
+/* ---------- VERY SMALL PHONES ---------- */
+
+@media screen and (max-width: 360px) {
+
+    .logo {
+        font-size: 1.1rem;
+    }
+
+    .logo span {
+        font-size: 1.1rem;
+    }
+
+    .hero h1 {
+        font-size: 1.7rem;
+    }
+
+    section h2 {
+        font-size: 1.7rem;
+    }
+
+    #search-input {
+        font-size: 12px;
+    }
+
+    #search-form button {
+        padding: 10px;
+        font-size: 12px;
+    }
+
 }

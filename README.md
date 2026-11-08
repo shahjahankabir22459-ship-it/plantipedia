@@ -1,4 +1,4 @@
-🌺 Plantipedia
+<b style="font-size: 40px">🌺 Plantipedia</b>
 
 <p align="center">
   <strong>Explore the green world, one species at a time.</strong>
@@ -184,7 +184,7 @@ Add more botanical photographs and illustrations.
 
 Expand botanical information for each species.
 
-⚖️ <B>Disclaimer and Copyright</b>
+⚖️ <b>Disclaimer and Copyright</b>
 
 Plantipedia is an educational project.
 
