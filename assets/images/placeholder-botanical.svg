@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Plantipedia botanical specimen placeholder">
+  <defs>
+    <radialGradient id="bgGlow" cx="72%" cy="22%" r="75%">
+      <stop offset="0%" stop-color="#10b981" stop-opacity="0.28" />
+      <stop offset="55%" stop-color="#062819" stop-opacity="0.96" />
+      <stop offset="100%" stop-color="#04140c" stop-opacity="1" />
+    </radialGradient>
+    <linearGradient id="leafMain" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6ee7b7" />
+      <stop offset="100%" stop-color="#059669" />
+    </linearGradient>
+    <linearGradient id="goldAccent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fde68a" />
+      <stop offset="100%" stop-color="#fbbf24" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bgGlow)" />
+  <rect x="24" y="24" width="752" height="452" rx="16" fill="none" stroke="#6ee7b7" stroke-opacity="0.22" stroke-width="1.5" />
+  <g transform="translate(400 240)">
+    <circle cx="0" cy="-12" r="92" fill="#10b981" fill-opacity="0.08" stroke="#6ee7b7" stroke-opacity="0.24" stroke-width="1" />
+    <path d="M0 78 V-32" stroke="#6ee7b7" stroke-width="3.2" stroke-linecap="round" />
+    <path d="M0 14 C-48 14 -78 -18 -72 -56 C-34 -50 -6 -22 0 14 Z" fill="url(#leafMain)" fill-opacity="0.88" />
+    <path d="M0 14 C48 14 78 -18 72 -56 C34 -50 6 -22 0 14 Z" fill="#10b981" fill-opacity="0.72" />
+    <path d="M0 -18 C-28 -36 -38 -74 -14 -96 C0 -74 2 -44 0 -18 Z" fill="#fb7185" fill-opacity="0.85" />
+    <path d="M0 -18 C28 -36 38 -74 14 -96 C0 -74 -2 -44 0 -18 Z" fill="#fda4af" fill-opacity="0.82" />
+    <circle cx="0" cy="-42" r="7" fill="url(#goldAccent)" />
+    <text x="0" y="122" text-anchor="middle" fill="#b8ccc0" font-family="Georgia, serif" font-size="18" letter-spacing="1.2">
+      Plantipedia Herbarium Plate
+    </text>
+  </g>
+</svg>

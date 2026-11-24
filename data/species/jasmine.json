@@ -1,0 +1,188 @@
+{
+  "schemaVersion": "1.1.0",
+  "slug": "jasmine",
+  "commonName": "Jasmine (Beli)",
+  "scientificName": "Jasminum sambac",
+  "localName": "Beli (বেলি)",
+  "category": "Flowers",
+  "categories": ["Flowers", "Shrubs & Herbs"],
+  "taxonomicDomain": "Angiosperms & Ornamentals",
+  "featuredRank": null,
+  "shortSummary": "Fragrant night-opening white vine-shrub of the olive family celebrated for jasmine tea scenting, attar perfumery, and ceremonial garlands.",
+  "leadOverview": "Arabian Jasmine (Jasminum sambac)—beloved across Bengal and South Asia as Beli or Bela—is a compact scrambling shrub in the olive family (Oleaceae). Opening waxy star-like white blossoms at dusk that release an intoxicating indole-linalool perfume, it anchors Asia's luxury floral perfumery and traditional jasmine tea harvests.",
+  "heroImage": {
+    "url": "https://images.pexels.com/photos/54608/flower-jasmine-bush-white-54608.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "alt": "Clusters of pure white Jasminum sambac jasmine flowers",
+    "caption": "Star-like pure white Jasminum sambac flowers opening amid glossy opposite leaves."
+  },
+  "overview": {
+    "plantGroup": "Angiosperm (Eudicot)",
+    "family": "Oleaceae",
+    "genus": "Jasminum",
+    "species": "J. sambac",
+    "growthForm": "Scrambling evergreen shrub or low twining vine (0.5–3 m)",
+    "nativeOrigin": "South & Southeast Asia",
+    "commonUses": "Jasmine green tea, attar/perfumery, wedding garlands, aromatherapy"
+  },
+  "sections": [
+    {
+      "number": "01",
+      "title": "Morphological Description",
+      "subtitle": "Opposite glossy leaves, tubular white corollas, and double-whorled cultivars",
+      "summary": "Botanical structure of climbing stems, whorled leaves, night-fragrant blooms, and double mutants.",
+      "paragraphs": [
+        "Jasminum sambac grows as an evergreen semi-climbing shrub with slender, softly pubescent green stems reaching 1 to 3 metres when supported. Its thin, glossy ovate leaves measure 4 to 10 centimetres long and are borne either in opposite pairs or in characteristic whorls of three along the nodes, with prominent arcuate lateral veins.",
+        "Flowers emerge in terminal cymes of 3 to 12 buds. Each blossom consists of a narrow tubular base flaring into 5 to 9 pure white oval lobes (or dense rose-like concentric petal whorls in double cultivars such as 'Grand Duke of Tuscany') that gradually blush pale lilac-pink as they age."
+      ],
+      "subblocks": [
+        {
+          "heading": "Scrambling Stems",
+          "text": "Slender woody-based green shoots displaying mild pubescence and arching climbing habit."
+        },
+        {
+          "heading": "Leaves & Nodes",
+          "text": "Ovate-elliptic glossy blades arranged oppositely or in ternate whorls of three with short curved petioles."
+        },
+        {
+          "heading": "Nocturnal Corolla",
+          "text": "Waxy white salverform flowers opening at twilight with two concealed stamens inside the floral tube."
+        },
+        {
+          "heading": "Berries & Roots",
+          "text": "Rarely set twin globose black berries (many double forms are sterile); vigorous fibrous root system."
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/33030613/pexels-photo-33030613.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Close-up of delicate white jasmine blossoms",
+          "caption": "Waxy salverform corollas releasing volatile benzyl acetate and linalool at dusk."
+        },
+        {
+          "url": "https://images.pexels.com/photos/32718726/pexels-photo-32718726.png?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Jasmine leaves and opening floral buds",
+          "caption": "Terminal cymes of pointed pearl-white buds prior to evening anthesis."
+        }
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Taxonomy & Botanical Classification",
+      "subtitle": "Lamiales order and Oleaceae cultivar taxonomy",
+      "summary": "Taxonomic kinship with olives and lilacs plus key ornamental cultivars.",
+      "paragraphs": [
+        "Classified within order Lamiales and the olive family (Oleaceae), Jasminum sambac is related to Olea europaea (olive), Syringa (lilac), and Nyctanthes arbor-tristis (night-flowering coral jasmine). Unlike many plants mistakenly labelled jasmine (such as toxic yellow Gelsemium or Madagascar stephanotis), true Jasminum species possess two-stamen tubular flowers and non-toxic foliage.",
+        "Horticulturally, three main clones dominate: single-petalled 'Maid of Orleans' (prized for tea scenting), semi-double 'Belle of India', and heavily doubled 'Grand Duke of Tuscany'."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/54608/flower-jasmine-bush-white-54608.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "White Jasminum sambac specimen",
+          "caption": "Diagnostic pure white corolla lobes of Jasminum sambac 'Maid of Orleans'."
+        }
+      ]
+    },
+    {
+      "number": "03",
+      "title": "Natural Habitat & Global Distribution",
+      "subtitle": "South Asian monsoon plains to Fujian tea-scenting valleys",
+      "summary": "Origin in tropical South Asia and historic spread to China, Southeast Asia, and Middle East.",
+      "paragraphs": [
+        "Originating in tropical regions of the Indian subcontinent and Myanmar, Jasminum sambac thrives in warm, humid monsoon lowlands with rich alluvial soil and distinct summer warmth. Centuries ago, maritime and overland spice routes carried living cuttings eastward to China and Southeast Asia, and westward across Arabia.",
+        "In Bangladesh, commercial Beli flower farms flourish around Jashore's Godkhali floral belt and Savar, supplying fresh evening buds to urban flower markets every dawn."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/32718726/pexels-photo-32718726.png?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Jasmine shrub growing in sunlit foliage",
+          "caption": "Warm humid garden conditions ideal for continuous warm-season bud flush."
+        }
+      ]
+    },
+    {
+      "number": "04",
+      "title": "Ecological Role & Pollinator Interactions",
+      "subtitle": "Twilight scent synthesis and nocturnal hawkmoth pollination",
+      "summary": "Circadian aroma emission synchronized with crepuscular moth activity.",
+      "paragraphs": [
+        "Jasminum sambac regulates its perfume biosynthesis via a strict circadian clock: unopened buds harvested in late afternoon remain nearly scentless until twilight temperatures cool, triggering enzymatic release of benzyl acetate, indole, cis-jasmone, and linalool.",
+        "Pure white petals gleam in moonlight while narrow floral tubes guide nocturnal sphinx moths and crepuscular bees straight to deep basal nectar rewards."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/40222323/pexels-photo-40222323.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Moth pollinator on pale blossom",
+          "caption": "Nocturnal lepidopteran pollinators navigated by twilight terpene plumes and white petals."
+        }
+      ]
+    },
+    {
+      "number": "05",
+      "title": "Economic, Culinary & Cultural Importance",
+      "subtitle": "Jasmine tea scenting, Bengali wedding gajra garlands, and solvent extraction",
+      "summary": "Multi-million-dollar floral fragrance crop and beloved cultural heirloom across Asia.",
+      "paragraphs": [
+        "In Chinese and Vietnamese tea craft, freshly plucked evening Beli buds are layered repeatedly over dried Camellia sinensis green tea leaves overnight so warm tea leaves absorb the rising nocturnal perfume—producing classic Jasmine Pearls and scented oolongs. Concurrently, concrete and absolute oils extracted from blooms anchor prestige global perfumery.",
+        "Culturally, Jasminum sambac is the national flower of the Philippines (Sampaguita) and Indonesia (Melati Putih), and across Bangladesh and India, braided white Beli gajra garlands adorn brides, classical dancers, and festive gatherings."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/33030613/pexels-photo-33030613.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Picked white jasmine blooms",
+          "caption": "Freshly opened white corollas prized for tea scenting, attar, and ceremonial gajras."
+        }
+      ]
+    },
+    {
+      "number": "06",
+      "title": "Traditional & Scientific Medicinal Properties",
+      "subtitle": "Linalool aromatherapy, calming infusions, and cutaneous cooling",
+      "summary": "Aromatherapeutic relaxation and mild antimicrobial compounds in flowers and leaves.",
+      "paragraphs": [
+        "Traditional Unani and Ayurvedic medicine utilize jasmine flower compresses and gentle floral waters (Ruh-e-Motia) to cool irritated eyes, soothe nervous tension, and calm minor skin inflammation. Essential-oil constituents include linalool, benzyl benzoate, farnesene, and phytol.",
+        "Psychophysiological aromatherapy trials indicate that inhaling jasmine volatiles can modestly elevate parasympathetic calm and alertness balance, while leaf extracts demonstrate mild antimicrobial properties in vitro."
+      ],
+      "safetyNote": "True Jasminum sambac flowers are food-safe for tea scenting, whereas ornamental lookalikes such as Carolina Jessamine (Gelsemium sempervirens) are highly poisonous. Always verify botanical identity and keep concentrated jasmine absolute oils properly diluted before skin contact.",
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/54608/flower-jasmine-bush-white-54608.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Medicinal white jasmine blossoms",
+          "caption": "Linalool-rich blossoms applied in soothing aromatherapy and traditional herbal washes."
+        }
+      ]
+    },
+    {
+      "number": "07",
+      "title": "Comprehensive Cultivation & Care Guide",
+      "subtitle": "Full sun, deadheading, post-bloom pruning, and spider-mite hygiene",
+      "summary": "Growing profusely blooming Beli shrubs in gardens and sunny balconies.",
+      "paragraphs": [
+        "Provide Jasminum sambac with 5 to 6 hours of direct morning-to-midday sun and fertile, humus-rich, well-drained soil (pH 6.0–7.0). Water consistently during active summer budding without letting pots sit waterlogged, and feed every 3 to 4 weeks with balanced organic compost or potassium-rich bloom feed.",
+        "Because flowers form exclusively on new terminal shoots, snip spent flower trusses cleanly just above a healthy leaf node and perform a structural prune after the main monsoon flush to keep shrubs compact and profusely budded."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/32718726/pexels-photo-32718726.png?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Healthy potted or garden jasmine",
+          "caption": "Regular deadheading and bright sun sustain continuous waves of evening buds."
+        }
+      ]
+    }
+  ],
+  "schemaOrg": {
+    "@type": "Taxon",
+    "name": "Jasminum sambac",
+    "alternateName": ["Jasmine (Beli)", "Beli (বেলি)"],
+    "taxonRank": "Species",
+    "parentTaxon": {
+      "@type": "Taxon",
+      "name": "Jasminum",
+      "taxonRank": "Genus",
+      "parentTaxon": {
+        "@type": "Taxon",
+        "name": "Oleaceae",
+        "taxonRank": "Family"
+      }
+    }
+  }
+}

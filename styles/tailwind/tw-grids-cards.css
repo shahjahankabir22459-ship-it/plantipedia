@@ -1,0 +1,21 @@
+@layer components {
+  .tw-species-directory-grid {
+    @apply grid grid-cols-1 gap-7 md:grid-cols-2;
+  }
+
+  .tw-featured-grid {
+    @apply grid grid-cols-1 gap-7 md:grid-cols-2 lg:grid-cols-3;
+  }
+
+  .tw-species-card {
+    @apply relative flex flex-col overflow-hidden rounded-2xl border border-emerald-300/20 bg-white/[0.03] shadow-glass backdrop-blur-glass transition-all duration-300 hover:-translate-y-1 hover:border-emerald-300/50 hover:bg-white/[0.055] hover:shadow-glass-hover;
+  }
+
+  .tw-species-card-media-16x10 {
+    @apply relative aspect-[16/10] w-full overflow-hidden border-b border-emerald-300/10 bg-botanical-surface;
+  }
+
+  .tw-taxonomy-badge {
+    @apply inline-flex items-center rounded-full border border-emerald-300/30 bg-emerald-accent/15 px-3 py-1 font-mono text-xs font-semibold text-mint-bright;
+  }
+}

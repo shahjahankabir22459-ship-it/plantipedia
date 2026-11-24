@@ -1,0 +1,188 @@
+{
+  "schemaVersion": "1.1.0",
+  "slug": "banyan",
+  "commonName": "Banyan",
+  "scientificName": "Ficus benghalensis",
+  "localName": "Bot Gachh (বটগাছ)",
+  "category": "Shrubs & Herbs",
+  "categories": ["Shrubs & Herbs", "Medicinal", "Trees & Palms"],
+  "taxonomicDomain": "Tropical Canopy & Sacred Trees",
+  "featuredRank": null,
+  "shortSummary": "Monumental hemiepiphytic fig tree capable of forming multi-trunk cathedral canopies through descending aerial prop roots.",
+  "leadOverview": "The Indian Banyan (Ficus benghalensis) is one of the largest canopy-forming trees on Earth in horizontal crown spread. Starting life either terrestrially or as a bird-sown epiphyte high in another tree's fork, this keystone fig drops curtain-like aerial roots that thicken into secondary pillar trunks across centuries.",
+  "heroImage": {
+    "url": "https://images.pexels.com/photos/5479919/pexels-photo-5479919.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "alt": "Ancient banyan tree with cascading aerial prop roots",
+    "caption": "Mature Ficus benghalensis specimen anchored by woody columnar aerial prop roots."
+  },
+  "overview": {
+    "plantGroup": "Angiosperm (Eudicot)",
+    "family": "Moraceae",
+    "genus": "Ficus",
+    "species": "F. benghalensis",
+    "growthForm": "Massive spreading evergreen banyan tree (20–30 m tall)",
+    "nativeOrigin": "Indian Subcontinent (Bangladesh, India, Sri Lanka)",
+    "commonUses": "Village shade canopies, sacred groves, bonsai, folk medicine"
+  },
+  "sections": [
+    {
+      "number": "01",
+      "title": "Morphological Description",
+      "subtitle": "Aerial pillar roots, milky latex, leathery oval leaves, and enclosed syconia",
+      "summary": "Signature columnar root curtains, white latex ducts, ovate leaves, and paired red figs.",
+      "paragraphs": [
+        "Ficus benghalensis achieves extraordinary lateral expansion because horizontal boughs continuously send down slender, reddish-brown aerial roots that absorb atmospheric humidity during monsoon months. Upon reaching soil, these roots thicken rapidly via secondary vascular growth into stout, woody pillar trunks indistinguishable from the primary bole, supporting an ever-widening crown.",
+        "All vegetative tissues contain pressurized laticifers exuding sticky white latex when bruised. Leaves are alternate, leathery, broadly elliptic-ovate with conspicuous pale basal veins and protective deciduous stipules capping terminal buds. True flowers are invisible externally, lining the hollow interior of paired, globular sessile figs (syconia) that ripen crimson-scarlet."
+      ],
+      "subblocks": [
+        {
+          "heading": "Aerial Prop Roots",
+          "text": "Adventitious roots descending vertically from lateral branches, fusing into load-bearing auxiliary trunks."
+        },
+        {
+          "heading": "Bark & Latex",
+          "text": "Smooth pale greyish-ash bark housing white milky latex rich in triterpenes and rubber-like polyisoprenes."
+        },
+        {
+          "heading": "Leathery Leaves",
+          "text": "Thick, glossy ovate blades (10–20 cm) with prominent pale ribs resisting monsoon wind tear and desiccation."
+        },
+        {
+          "heading": "Syconium Figs",
+          "text": "Enclosed urn-shaped inflorescences ripening to bright red 1.5–2 cm figs lacking external petals."
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/5479919/pexels-photo-5479919.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Banyan trunks and drooping aerial roots",
+          "caption": "Multi-columnar pillar roots creating a self-supporting architectural grove from one organism."
+        },
+        {
+          "url": "https://images.pexels.com/photos/30316269/pexels-photo-30316269.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Spreading banyan canopy overhead",
+          "caption": "Dense evergreen leaf crown casting deep cooling microclimate shade."
+        }
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Taxonomy & Botanical Classification",
+      "subtitle": "Rosales order and Moraceae fig-tree lineage",
+      "summary": "Botanical classification within subgenus Urostigma alongside sacred bodhi fig and rubber fig.",
+      "paragraphs": [
+        "Classified within order Rosales and family Moraceae, Ficus benghalensis belongs to the strangler and banyan subgenus Urostigma. Linnaeus gave the species the epithet benghalensis in 1753 after specimens observed in Bengal, while the English name 'banyan' arose from Gujarati merchants (baniyas) who conducted trade beneath its vast shade.",
+        "Close congeners include the peepal or bodhi tree (Ficus religiosa) and Indian rubber fig (Ficus elastica), all united by milky sap, enveloping bud stipules, and specialized enclosed syconium fruiting bodies."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/30316269/pexels-photo-30316269.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Banyan tree branching structure",
+          "caption": "Diagnostic Urostigma habit combining wide horizontal limbs and descending roots."
+        }
+      ]
+    },
+    {
+      "number": "03",
+      "title": "Natural Habitat & Global Distribution",
+      "subtitle": "Lowland deciduous forests and historic village plazas of South Asia",
+      "summary": "Indigenous distribution from the Himalayan foothills to Bengal plains and legendary multi-acre specimens.",
+      "paragraphs": [
+        "Native across Bangladesh, India, Nepal, Pakistan, and Sri Lanka, Ficus benghalensis inhabits lowland tropical dry-to-moist deciduous forests, riverbanks, and rocky crevices up to 1,200 metres altitude. As a hemiepiphyte, seeds deposited by birds on palm crowns or ancient masonry germinate in humid bark fissures before sending roots down to earth.",
+        "Renowned landmark specimens—including the Great Banyan near Kolkata and historic village Bot-gach trees across rural Bangladesh—can shade thousands of square metres under a single interconnected clonal canopy."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/31591013/pexels-photo-31591013/free-photo-of-lush-monstera-leaves-in-colombian-jungle.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Lush tropical forest vegetation",
+          "caption": "Humid monsoon forest biome supporting epiphytic fig germination and aerial root growth."
+        }
+      ]
+    },
+    {
+      "number": "04",
+      "title": "Ecological Role & Pollinator Interactions",
+      "subtitle": "Obligate fig-wasp mutualism and year-round frugivore keystone resource",
+      "summary": "Coevolved Eupristina fig wasps and vital sustenance for hornbills, mynas, and fruit bats.",
+      "paragraphs": [
+        "Like every Ficus species, Ficus benghalensis depends exclusively on a species-specific chalcid wasp—Eupristina masoni—to crawl through the tiny apical ostiole pore of young green syconia, pollinating female florets while laying eggs in specialized gall flowers. Without its microscopic wasp partner, no viable seed forms.",
+        "Because asynchronous trees fruit throughout dry seasons when other trees are barren, ripe red figs serve as an irreplaceable keystone food bank for green pigeons, coppersmith barbets, bulbuls, macaques, and flying foxes."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/13012247/pexels-photo-13012247.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Wild green tropical canopy ecosystem",
+          "caption": "Multi-tiered canopy ecosystem sustained year-round by asynchronous fig fruiting."
+        }
+      ]
+    },
+    {
+      "number": "05",
+      "title": "Economic, Culinary & Cultural Importance",
+      "subtitle": "Sacred village commons, folk markets, and celebrated bonsai art",
+      "summary": "Social hub of South Asian rural life, ecological cooling, and miniature bonsai architecture.",
+      "paragraphs": [
+        "For millennia, the banyan tree has functioned as South Asia's living town hall: rural haat markets, community councils, travellers' resting pavilions, and cultural festivals gather beneath its cool canopy, which lowers ambient ground temperatures noticeably on scorching afternoons.",
+        "While fibrous figs are seldom eaten directly by humans except during famine periods, young aerial roots supply tough cordage fibres, wide leaves serve as biodegradable meal plates, and dwarf-pruned Ficus benghalensis specimens rank among the most coveted tropical bonsai subjects worldwide."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/5479919/pexels-photo-5479919.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Monumental banyan tree landmark",
+          "caption": "Living civic and cultural landmark sheltering generations beneath cascading prop roots."
+        }
+      ]
+    },
+    {
+      "number": "06",
+      "title": "Traditional & Scientific Medicinal Properties",
+      "subtitle": "Bark tannins, leucopelargonidin glycosides, and topical poultices",
+      "summary": "Astringent bark decoctions and latex applications with ingestion safety precautions.",
+      "paragraphs": [
+        "Within Ayurveda and Unani medicine (where the bark is known as Vata or Bargad), inner stem bark decoctions are prescribed as gentle astringents for mucosal inflammation, oral gum strengthening, and blood-sugar support, while warmed milky latex is applied externally to cracked heels and minor joint swellings.",
+        "Phytochemical studies identify bengalenoside, leucopelargonidin derivatives, beta-sitosterol, and polyphenolic tannins exhibiting antioxidant and mild hypoglycemic activity in experimental models."
+      ],
+      "safetyNote": "Raw milky latex of Ficus species contains proteolytic enzymes and irritating resins capable of triggering skin sensitization or severe oral/gastric irritation if ingested undiluted. Never substitute traditional bark decoctions for prescribed endocrine or antimicrobial therapy.",
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/30316269/pexels-photo-30316269.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Banyan bark and woody aerial roots",
+          "caption": "Fibrous bark and adventitious root tissues rich in condensed tannins and sterols."
+        }
+      ]
+    },
+    {
+      "number": "07",
+      "title": "Comprehensive Cultivation & Care Guide",
+      "subtitle": "Spatial clearance, air-layering, humidity, and root training",
+      "summary": "Managing colossal outdoor specimens versus container-grown architectural bonsai.",
+      "paragraphs": [
+        "Due to aggressive surface and aerial root expansion, full-sized Ficus benghalensis trees must only be planted in expansive parks, campuses, or rural open ground at least 20 metres away from building foundations, septic pipes, and paved walls. Full sun and deep tropical warmth stimulate vigorous lateral boughs and hanging root curtains.",
+        "For urban enthusiasts, grow banyans effortlessly in large bonsai trays using fast-draining pumice-and-compost substrate; mist aerial root shoots with water or enclose young branches inside damp moss sleeves to guide slender vertical prop roots straight into the pot."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/5479919/pexels-photo-5479919.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Mature open-park banyan specimen",
+          "caption": "Expansive park setting accommodating unrestricted lateral crown and prop-root development."
+        }
+      ]
+    }
+  ],
+  "schemaOrg": {
+    "@type": "Taxon",
+    "name": "Ficus benghalensis",
+    "alternateName": ["Banyan", "Bot Gachh (বটগাছ)"],
+    "taxonRank": "Species",
+    "parentTaxon": {
+      "@type": "Taxon",
+      "name": "Ficus",
+      "taxonRank": "Genus",
+      "parentTaxon": {
+        "@type": "Taxon",
+        "name": "Moraceae",
+        "taxonRank": "Family"
+      }
+    }
+  }
+}

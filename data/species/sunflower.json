@@ -1,0 +1,193 @@
+{
+  "schemaVersion": "1.1.0",
+  "slug": "sunflower",
+  "commonName": "Sunflower",
+  "scientificName": "Helianthus annuus",
+  "localName": "Surjomukhi (সূর্যমুখী)",
+  "category": "Flowers",
+  "categories": ["Flowers"],
+  "taxonomicDomain": "Angiosperms & Ornamentals",
+  "featuredRank": 3,
+  "shortSummary": "Heliotropic annual composite bearing golden ray florets, Fibonacci-spiralled disc seeds, and high-oleic culinary oil.",
+  "leadOverview": "The common sunflower (Helianthus annuus) is a fast-growing annual herb of the daisy family Asteraceae, immediately recognizable by its towering rough stems and radiant flower heads. Domesticated in North America over 4,000 years ago, it serves today as both a premier oilseed crop and an emblem of solar tracking.",
+  "heroImage": {
+    "url": "https://images.pexels.com/photos/27024149/pexels-photo-27024149.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "alt": "Golden sunflower capitulum in bright sunlight",
+    "caption": "Helianthus annuus capitulum displaying golden sterile ray florets framing fertile central disc florets."
+  },
+  "overview": {
+    "plantGroup": "Angiosperm (Eudicot)",
+    "family": "Asteraceae",
+    "genus": "Helianthus",
+    "species": "H. annuus",
+    "growthForm": "Erect annual forb (0.5–3.5 m)",
+    "nativeOrigin": "North America",
+    "commonUses": "Edible oil, roasted seeds, cut flowers, livestock meal, phytoremediation"
+  },
+  "sections": [
+    {
+      "number": "01",
+      "title": "Morphological Description",
+      "subtitle": "Hispid stems, capitulum pseudanthium, Fibonacci spirals, and cypsela achenes",
+      "summary": "Anatomy of the composite head, heliotropic buds, and oil-rich achenes.",
+      "paragraphs": [
+        "Helianthus annuus produces a stout, unbranched or sparsely branched hispid stem covered in stiff trichomes that deter small herbivores and reduce water loss. Large, rough, cordate-ovate leaves are arranged spirally along the stem to maximize photosynthetic capture across varying sun angles.",
+        "What appears to be a single giant flower is actually a dense composite inflorescence (capitulum) composed of two distinct floret types: an outer ring of bright yellow, sterile ray florets that function as visual pollinator beacons, and hundreds to thousands of fertile, tubular disc florets arranged in interlocking clockwise and counterclockwise Fibonacci parastichies."
+      ],
+      "subblocks": [
+        {
+          "heading": "Hispid Stems",
+          "text": "Thick, pith-filled herbaceous stalks fortified by peripheral vascular bundles and stiff scabrous hairs reaching 1 to 3.5 metres."
+        },
+        {
+          "heading": "Cordate Leaves",
+          "text": "Large alternate petiolate leaves with dentate margins, prominent three-veined bases, and rough sandpapery surfaces."
+        },
+        {
+          "heading": "Composite Capitulum",
+          "text": "Pseudanthium surrounded by green involucral bracts; central disc florets mature centripetally from rim to centre over 5–10 days."
+        },
+        {
+          "heading": "Seeds & Taproot",
+          "text": "Single-seeded dry cypsela fruits (achenes) encased in striped or black pericarps; deep branching taproot extracting deep soil moisture."
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/34537615/pexels-photo-34537615/free-photo-of-vibrant-sunflower-in-full-bloom-close-up.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Close-up of sunflower disc and ray florets",
+          "caption": "Centripetal maturation of fertile disc florets arranged along golden-angle spirals."
+        },
+        {
+          "url": "https://images.pexels.com/photos/18702246/pexels-photo-18702246/free-photo-of-close-up-of-sunflowers-in-paper.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Freshly cut ornamental sunflowers",
+          "caption": "Floral bracts and golden ray corollas harvested for ornamental display."
+        }
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Taxonomy & Botanical Classification",
+      "subtitle": "Asteraceae systematics and domestication genetics",
+      "summary": "Placement in tribe Heliantheae and contrast between oilseed and confectionery types.",
+      "paragraphs": [
+        "Helianthus annuus belongs to the massive family Asteraceae (Compositae) and tribe Heliantheae, sharing composite capitula with marigolds, zinnias, and Jerusalem artichokes (H. tuberosus). Wild populations remain extensively branched with small multi-headed inflorescences.",
+        "Millennia of indigenous North American selection suppressed lateral branching and dramatically enlarged the single terminal capitulum and achene oil content, laying the foundation for modern single-stem oilseed and confectionery cultivars."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/30994370/pexels-photo-30994370/free-photo-of-vibrant-sunflower-in-thailand-close-up.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Single-stem cultivated sunflower head",
+          "caption": "Unbranched terminal capitulum typical of domesticated Helianthus annuus cultivars."
+        }
+      ]
+    },
+    {
+      "number": "03",
+      "title": "Natural Habitat & Global Distribution",
+      "subtitle": "Prairie origins and coastal rabi cultivation in Bangladesh",
+      "summary": "Drought-tolerant plains crop expanding across Europe, Asia, and saline coastal deltas.",
+      "paragraphs": [
+        "Native to sunlit prairies, disturbed riverbanks, and open grasslands across central and western North America, Helianthus annuus thrives under high solar irradiance and moderate rainfall. Today, Ukraine, Russia, Argentina, and China lead global oilseed production.",
+        "In Bangladesh, sunflower has emerged as a vital rabi (winter-spring) crop in coastal districts such as Patuakhali, Barguna, and Khulna, where moderate salt tolerance and deep roots enable profitable harvests on fallow lands after aman rice."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/34128564/pexels-photo-34128564/free-photo-of-vibrant-sunflowers-blooming-in-summer-field.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Expansive sunflower field in summer bloom",
+          "caption": "Monoculture agricultural stand thriving under unobstructed solar exposure."
+        },
+        {
+          "url": "https://images.pexels.com/photos/31299770/pexels-photo-31299770/free-photo-of-vibrant-sunflower-in-thai-summer-field.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Sunflowers blooming across tropical winter field",
+          "caption": "Warm-season field cultivation mirroring South Asian rabi cropping systems."
+        }
+      ]
+    },
+    {
+      "number": "04",
+      "title": "Ecological Role & Pollinator Interactions",
+      "subtitle": "Solar-tracking warmth and pollinator landing platforms",
+      "summary": "Heliotropism, east-facing mature heads, and heavy bee-and-bird mutualisms.",
+      "paragraphs": [
+        "Immature sunflower buds exhibit true circadian heliotropism—tracking the sun from east to west each day via differential stem elongation driven by auxin gradients—before locking permanently toward the rising eastern sun upon anthesis. Research shows east-facing flower heads warm faster at dawn, attracting five times more morning bees than artificially west-turned heads.",
+        "During seed set, lipid-dense achenes sustain finches, parrots, and migratory songbirds, while roots act as hyperaccumulators capable of phytoremediating heavy metals."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/39665142/pexels-photo-39665142.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Bumblebee visiting composite disc florets",
+          "caption": "Pollinator attraction enhanced by morning solar warming of eastern-oriented heads."
+        }
+      ]
+    },
+    {
+      "number": "05",
+      "title": "Economic, Culinary & Cultural Importance",
+      "subtitle": "Heart-healthy oil, roasted snacks, and artistic icon",
+      "summary": "Global vegetable oil production, protein press-cake, and Van Gogh heritage.",
+      "paragraphs": [
+        "Pressed sunflower seeds provide one of the world's premier culinary vegetable oils, available in classic linoleic and high-oleic varieties prized for high smoke points and light neutral flavour. Striped confectionery seeds are roasted whole or hulled into nut-free spreads and bakery toppings.",
+        "Culturally immortalized in Vincent van Gogh's Arles still lifes and indigenous North American harvest ceremonies, sunflowers also symbolize loyalty, vitality, and renewable energy."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/27305386/pexels-photo-27305386/free-photo-of-a-sunflower-is-in-a-frame-in-a-field.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Sunflowers in bright rural landscape",
+          "caption": "Agricultural sunflower crop nearing peak pollination prior to achene filling."
+        }
+      ]
+    },
+    {
+      "number": "06",
+      "title": "Traditional & Scientific Medicinal Properties",
+      "subtitle": "Tocopherols, phytosterols, and unsaturated fatty acids",
+      "summary": "Vitamin E antioxidant density and cardiovascular lipid profiles.",
+      "paragraphs": [
+        "Sunflower kernels are exceptionally rich in alpha-tocopherol (vitamin E), delivering over 20 mg per 100 g alongside selenium, magnesium, and phytosterols that support cellular membrane integrity and healthy serum cholesterol ratios. Traditional herbalists prepared warm petal and seed infusions for soothing mild respiratory irritation.",
+        "Cold-pressed sunflower seed oil is widely formulated in dermatological emollients due to its linoleic acid barrier-repair properties."
+      ],
+      "safetyNote": "While generally non-toxic and widely consumed, individuals with severe Asteraceae pollen allergies (ragweed cross-reactivity) or rare seed allergies should exercise caution. Avoid harvesting seeds from plants grown on contaminated industrial soils used for phytoremediation.",
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/27024149/pexels-photo-27024149.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Detailed view of sunflower florets",
+          "caption": "Developing achenes and vitamin E-rich floret structures."
+        }
+      ]
+    },
+    {
+      "number": "07",
+      "title": "Comprehensive Cultivation & Care Guide",
+      "subtitle": "Direct sowing, wind staking, and boron nutrition",
+      "summary": "Full sun, 6–8 hours daily irradiance, taproot-friendly direct seeding, and harvest timing.",
+      "paragraphs": [
+        "Sunflowers perform best when direct-sown into fertile, well-drained loam (pH 6.0–7.5) after frost risk passes, as their fast-growing taproot resents transplant shock. Space giant varieties 45 to 60 centimetres apart in full sun; excessive shade causes weak, leaning stalks.",
+        "Water regularly during bud formation and flowering, supplementing sandy soils with trace boron if hollow stems or poor seed fill appear. Harvest heads when the back of the receptacle turns lemon-yellow and bracts begin to brown."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/34128564/pexels-photo-34128564/free-photo-of-vibrant-sunflowers-blooming-in-summer-field.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Sunflowers aligned in sunlit rows",
+          "caption": "Proper row spacing ensuring uniform stem strength and full seed development."
+        }
+      ]
+    }
+  ],
+  "schemaOrg": {
+    "@type": "Taxon",
+    "name": "Helianthus annuus",
+    "alternateName": ["Sunflower", "Surjomukhi (সূর্যমুখী)"],
+    "taxonRank": "Species",
+    "parentTaxon": {
+      "@type": "Taxon",
+      "name": "Helianthus",
+      "taxonRank": "Genus",
+      "parentTaxon": {
+        "@type": "Taxon",
+        "name": "Asteraceae",
+        "taxonRank": "Family"
+      }
+    }
+  }
+}

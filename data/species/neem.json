@@ -1,0 +1,188 @@
+{
+  "schemaVersion": "1.1.0",
+  "slug": "neem",
+  "commonName": "Neem",
+  "scientificName": "Azadirachta indica",
+  "localName": "Neem (নিম)",
+  "category": "Medicinal",
+  "categories": ["Medicinal", "Shrubs & Herbs", "Trees & Palms"],
+  "taxonomicDomain": "Ethnobotanical & Ayurvedic Herbs",
+  "featuredRank": null,
+  "shortSummary": "Drought-hardy evergreen mahogany tree revered across South Asia as a botanical pharmacy and natural azadirachtin biopesticide.",
+  "leadOverview": "Neem (Azadirachta indica), affectionately titled 'the village pharmacy' across the Indian subcontinent, is a fast-growing evergreen tree of the mahogany family (Meliaceae). Every tissue—from bitter serrated leaflets to oil-rich drupe kernels—synthesizes complex limonoid triterpenoids that protect crops naturally and anchor traditional hygiene.",
+  "heroImage": {
+    "url": "https://images.pexels.com/photos/36537544/pexels-photo-36537544.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "alt": "Lush green Azadirachta indica neem tree foliage in sunlight",
+    "caption": "Dense feathery imparipinnate foliage canopy of Azadirachta indica thriving in warm sunlight."
+  },
+  "overview": {
+    "plantGroup": "Angiosperm (Eudicot)",
+    "family": "Meliaceae",
+    "genus": "Azadirachta",
+    "species": "A. indica",
+    "growthForm": "Medium-to-large evergreen shade tree (15–25 m)",
+    "nativeOrigin": "Indian Subcontinent & Myanmar",
+    "commonUses": "Organic biopesticide, dental twigs, soap/oil, timber, agroforestry"
+  },
+  "sections": [
+    {
+      "number": "01",
+      "title": "Morphological Description",
+      "subtitle": "Falcate serrated leaflets, scented white panicles, and olive-like drupes",
+      "summary": "Anatomy of fissured bark, curved pinnate leaflets, honey-scented blossoms, and yellow drupes.",
+      "paragraphs": [
+        "Azadirachta indica forms a rounded, densely foliated evergreen crown reaching 15 to 25 metres tall, supported by a straight trunk clothed in rough, dark-grey longitudinally furrowed bark. During severe dry seasons, trees may briefly shed a portion of their leaves before bursting into fresh copper-tinted spring growth.",
+        "Its gracefully drooping compound leaves are 20 to 40 centimetres long, bearing 9 to 15 asymmetrical, sickle-shaped (falcate) leaflets with coarsely serrated margins. Axillary panicles carry small, star-like, honey-fragrant white flowers that mature into smooth ellipsoidal green-to-golden drupes enclosing a bitter oil-rich kernel."
+      ],
+      "subblocks": [
+        {
+          "heading": "Bark & Wood",
+          "text": "Dark grey-brown fissured bark exposing reddish inner phloem; durable, termite-resistant mahogany-toned heartwood."
+        },
+        {
+          "heading": "Compound Foliage",
+          "text": "Imparipinnate leaves bearing curved, jaggedly toothed leaflets rich in bitter nimbin and quercetin."
+        },
+        {
+          "heading": "Panicle Flowers",
+          "text": "Drooping axillary panicles of small white pentamerous blossoms fused at the stamen tube."
+        },
+        {
+          "heading": "Drupes & Roots",
+          "text": "Golden-yellow single-seeded drupes (1.5–2 cm); deep penetrating taproot capable of tapping subsoil moisture."
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/36537544/pexels-photo-36537544.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Serrated curved neem leaflets",
+          "caption": "Diagnostic falcate, coarsely serrated leaflets arranged along compound neem petioles."
+        },
+        {
+          "url": "https://images.pexels.com/photos/40439931/pexels-photo-40439931.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Neem tree branches against bright sky",
+          "caption": "Open evergreen branching and dense cooling leaf shade."
+        }
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Taxonomy & Botanical Classification",
+      "subtitle": "Sapindales order and Meliaceae mahogany family lineage",
+      "summary": "Distinguishing Azadirachta indica from Chinaberry (Melia azedarach) within family Meliaceae.",
+      "paragraphs": [
+        "Neem belongs to order Sapindales and family Meliaceae alongside true mahogany (Swietenia) and toon. Adrien-Henri de Jussieu established the genus Azadirachta from the Persian name 'Azad-dirakht' ('noble tree'), distinguishing it cleanly from the lookalike Chinaberry tree (Melia azedarach).",
+        "Botanists differentiate the two by leaf division and chemistry: true neem possesses once-pinnate leaves and white flowers, whereas Chinaberry exhibits twice-pinnate (bipinnate) leaves, lilac flowers, and noticeably more toxic fruits."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/40439931/pexels-photo-40439931.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Once-pinnate neem foliage specimen",
+          "caption": "Once-pinnate leaf symmetry distinguishing Azadirachta indica from bipinnate Melia species."
+        }
+      ]
+    },
+    {
+      "number": "03",
+      "title": "Natural Habitat & Global Distribution",
+      "subtitle": "Dry monsoon plains, degraded soils, and Sahelian shelterbelts",
+      "summary": "Resilience across semi-arid South Asia and global tropical reforestation belts.",
+      "paragraphs": [
+        "Indigenous to the dry deciduous woodlands of India, Bangladesh, and Myanmar, Azadirachta indica tolerates scorching heat above 45°C, prolonged drought, and stony, nutrient-poor calcareous soils. It struggles only in waterlogged clay basins and freezing frost zones.",
+        "Because neem arrests desertification while yielding shade and fuelwood, foresters have naturalized it widely across West Africa's Sahel, East Africa, and the Caribbean, while in Bangladesh it remains a cherished homestead guardian planted near courtyards to purify ambient air."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/36537544/pexels-photo-36537544.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Neem canopy flourishing in warm climate",
+          "caption": "Drought-resilient evergreen foliage thriving under intense tropical solar irradiance."
+        }
+      ]
+    },
+    {
+      "number": "04",
+      "title": "Ecological Role & Pollinator Interactions",
+      "subtitle": "Selective insect-growth regulation and bee-friendly nectar",
+      "summary": "Protecting crops without harming pollinators while feeding frugivorous birds and bats.",
+      "paragraphs": [
+        "Remarkably, neem's flagship limonoid azadirachtin acts primarily as a feeding deterrent and ecdysone-hormone disruptor against chewing and sucking plant pests—whiteflies, aphids, locusts, and caterpillars—while leaving adult honeybees, ladybirds, and earthworms largely unharmed when applied responsibly.",
+        "Spring neem blossoms yield prized light amber honey, and sweet ripe yellow drupes nourish bulbuls, starlings, and fruit bats that scatter viable seeds beneath roosting perches."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/36441123/pexels-photo-36441123.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Honeybees pollinating white tree blossoms",
+          "caption": "Foraging honeybees gathering nectar from spring tree inflorescences."
+        }
+      ]
+    },
+    {
+      "number": "05",
+      "title": "Economic, Culinary & Cultural Importance",
+      "subtitle": "Cold-pressed neem oil, organic farming, datun twigs, and bitter spring greens",
+      "summary": "Biodegradable pest control, oral-care traditions, urea-coating agriculture, and Bengali cuisine.",
+      "paragraphs": [
+        "Economically, cold-pressed neem seed oil and de-oiled neem cake form pillars of certified organic agriculture worldwide: neem cake enriches soil nitrogen while inhibiting nitrifying bacteria and root-knot nematodes, and neem oil emulsions shield orchards without persistent synthetic residues.",
+        "Across South Asia, fresh slender neem twigs (datun) serve as natural antimicrobial toothbrushes, dried leaves protect stored rice and woollens from weevils, and in Bengali spring cooking, tender young neem leaves are lightly crisped with diced aubergine (Neem Begun) as a cherished seasonal bitter dish."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/40439931/pexels-photo-40439931.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Neem tree in agricultural homestead",
+          "caption": "Multipurpose homestead neem yielding organic pesticide kernels, leaves, and timber."
+        }
+      ]
+    },
+    {
+      "number": "06",
+      "title": "Traditional & Scientific Medicinal Properties",
+      "subtitle": "Azadirachtin, nimbidin, gedunin, and antimicrobial pharmacology",
+      "summary": "Broad antibacterial, antifungal, and dermatological profile alongside strict internal oil cautions.",
+      "paragraphs": [
+        "Ayurvedic texts call neem 'Sarva Roga Nivarini'—the curer of all ailments—employing leaf infusions for skin eruptions, scalp care, oral gingivitis, and mild fever management. Laboratory research isolates over 140 biologically active compounds including nimbin, nimbidin, gedunin, and azadirachtin.",
+        "Peer-reviewed studies confirm strong antifungal activity against Candida and dermatophytes, dental-plaque reduction from neem-bark rinses, and anti-inflammatory modulation in topical creams."
+      ],
+      "safetyNote": "Never ingest cold-pressed neem oil internally—especially in infants, children, or pregnant individuals—as concentrated seed oil has been linked to serious hepatotoxicity and Reye-like encephalopathy. Limit neem oil to diluted topical or agricultural applications and consult physicians before taking leaf capsules.",
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/36537544/pexels-photo-36537544.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Fresh neem leaves rich in limonoids",
+          "caption": "Fresh leaflets containing bitter limonoids, flavonoids, and antimicrobial polyphenols."
+        }
+      ]
+    },
+    {
+      "number": "07",
+      "title": "Comprehensive Cultivation & Care Guide",
+      "subtitle": "Short-lived fresh seeds, well-drained soil, minimal irrigation, and pruning",
+      "summary": "Propagating fresh neem seeds and establishing fast-growing drought-tolerant shade trees.",
+      "paragraphs": [
+        "Neem seeds are recalcitrant and lose viability rapidly within 2 to 4 weeks of harvest, so depulp freshly fallen yellow drupes and sow immediately 1 centimetre deep in sandy nursery bags. Seedlings appreciate bright warmth and transplant readily once 30 centimetres tall.",
+        "Plant in full unobstructed sunlight in well-drained sandy or loamy soil (pH 6.0–8.0). Water moderately during the first year; once established, avoid excessive irrigation or heavy nitrogen, as neem naturally thrives on lean soils and bounces back vigorously from light crown shaping."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/40439931/pexels-photo-40439931.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Healthy neem tree thriving in sunlit ground",
+          "caption": "Established neem canopy flourishing in well-drained sunlit terrain with zero supplemental irrigation."
+        }
+      ]
+    }
+  ],
+  "schemaOrg": {
+    "@type": "Taxon",
+    "name": "Azadirachta indica",
+    "alternateName": ["Neem", "Neem (নিম)"],
+    "taxonRank": "Species",
+    "parentTaxon": {
+      "@type": "Taxon",
+      "name": "Azadirachta",
+      "taxonRank": "Genus",
+      "parentTaxon": {
+        "@type": "Taxon",
+        "name": "Meliaceae",
+        "taxonRank": "Family"
+      }
+    }
+  }
+}

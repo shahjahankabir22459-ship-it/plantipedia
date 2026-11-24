@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.1.0",
+  "section": {
+    "id": "highlights",
+    "eyebrow": "05. Field Notes & Ecology",
+    "heading": "Botanical Highlights & Stewardship Principles"
+  },
+  "items": [
+    {
+      "id": "plant-conservation-genetic-diversity",
+      "title": "Plant Conservation & Native Genetic Diversity",
+      "description": "Preserving heirloom cultivars—from landrace mango orchards in Rajshahi to wild wetland stands of sacred lotus—safeguards resilience against shifting monsoon patterns, salinity, and emerging crop pathogens.",
+      "image": {
+        "imageUrl": "https://images.pexels.com/photos/35141996/pexels-photo-35141996.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "imageAlt": "Terraced emerald green flora stewardship landscape preserving heirloom botanical diversity",
+        "photographer": "Pexels Botanical Contributor",
+        "aspectRatio": "16 / 10",
+        "fallbackLabel": "Plant Conservation & Genetic Diversity"
+      },
+      "metadata": {
+        "pillar": "Conservation",
+        "biome": "Alluvial & Wetland"
+      }
+    },
+    {
+      "id": "pollination-guilds-mutualisms",
+      "title": "Pollination Guilds & Co-Evolved Mutualisms",
+      "description": "Floral architecture directly reflects pollinator ecology: night-blooming jasmine attracts crepuscular moths via volatile terpenoids, while open sunflower capitula sustain native solitary bees and syrphid flies.",
+      "image": {
+        "imageUrl": "https://images.pexels.com/photos/38669618/pexels-photo-38669618.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "imageAlt": "Foraging bee pollinating bright floral corolla in co-evolved insect-plant mutualism",
+        "photographer": "Pexels Botanical Contributor",
+        "aspectRatio": "16 / 10",
+        "fallbackLabel": "Pollination Guilds & Mutualisms"
+      },
+      "metadata": {
+        "pillar": "Ecology",
+        "biome": "Pollinator Corridors"
+      }
+    },
+    {
+      "id": "tropical-subtropical-adaptations",
+      "title": "Tropical & Subtropical Flora Adaptations",
+      "description": "Across humid river deltas and monsoon plains, plants exhibit remarkable adaptations—aerial prop roots in banyans, waxy aerenchyma leaves in water lilies, and nitrogen-efficient bamboo rhizome networks.",
+      "image": {
+        "imageUrl": "https://images.pexels.com/photos/30316269/pexels-photo-30316269.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "imageAlt": "Spreading tropical Ficus canopy showcasing humid monsoon adaptation and broad foliar crown",
+        "photographer": "Pexels Botanical Contributor",
+        "aspectRatio": "16 / 10",
+        "fallbackLabel": "Tropical & Subtropical Flora"
+      },
+      "metadata": {
+        "pillar": "Morphology",
+        "biome": "Monsoon & Deltaic"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "schemaVersion": "1.0.0",
+  "page": "compare",
+  "seo": {
+    "title": "Compare Split View — Side-by-Side Botanical Monographs | Plantipedia",
+    "description": "Compare any two curated botanical species side-by-side in an edge-to-edge dual-pane split workspace or switch seamlessly in Focus Mode.",
+    "keywords": "compare plants, botanical comparison, split view, side-by-side species monograph, Plantipedia",
+    "author": "Plantipedia Botanical Archive",
+    "canonicalFile": "compare/",
+    "ogType": "website",
+    "ogTitle": "Compare Split View — Side-by-Side Botanical Monographs | Plantipedia",
+    "ogDescription": "Inspect morphology, taxonomy, ecology, and cultivation telemetry of two plant species side-by-side.",
+    "ogImage": "https://images.pexels.com/photos/31591013/pexels-photo-31591013/free-photo-of-lush-monstera-leaves-in-colombian-jungle.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "ogImageAlt": "Plantipedia Compare Split View Workspace"
+  },
+  "selector": {
+    "eyebrow": "Comparative Botanical Workspace",
+    "headline": "Compare Split View",
+    "subcopy": "Select two distinct plant species from the 20-monograph archive to launch an edge-to-edge comparative inspection.",
+    "leftLabel": "Left Specimen",
+    "rightLabel": "Right Specimen",
+    "placeholderOption": "Select a botanical specimen...",
+    "submitLabel": "Compare Specimens",
+    "sameSpeciesWarning": "Please select two different species to run a side-by-side comparison.",
+    "incompleteWarning": "Choose both a Left Specimen and a Right Specimen to continue."
+  },
+  "loaderStages": [
+    [
+      "Retrieving botanical monograph archives...",
+      "Sequencing Linnaean taxonomic lineage...",
+      "Indexing herbarium specimen records...",
+      "Loading native habitat & distribution data...",
+      "Cross-referencing species catalog entries..."
+    ],
+    [
+      "Aligning morphological & leaf venation traits...",
+      "Calibrating soil pH & cultivation parameters...",
+      "Comparing pollinator guilds & ecological roles...",
+      "Synthesizing phytochemical & medicinal profiles...",
+      "Mapping seasonal flowering & growth cycles..."
+    ],
+    [
+      "Assembling dual-pane split comparison...",
+      "Finalizing high-contrast specimen plates...",
+      "Synchronizing responsive monograph viewports...",
+      "Preparing side-by-side botanical workspace...",
+      "Ready — launching comparative view..."
+    ]
+  ],
+  "workspace": {
+    "changeSpeciesLabel": "Change Species",
+    "focusModeLabel": "Focus Mode",
+    "splitViewLabel": "Split View"
+  }
+}

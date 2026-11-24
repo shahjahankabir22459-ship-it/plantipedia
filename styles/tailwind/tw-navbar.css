@@ -1,0 +1,21 @@
+@layer components {
+  .tw-navbar-shell {
+    @apply fixed top-0 left-0 right-0 z-50 w-full min-h-[68px] border-b border-emerald-300/20 bg-botanical-dark/80 text-ink-primary backdrop-blur-glass;
+  }
+
+  .tw-navbar-inner {
+    @apply mx-auto flex min-h-[68px] max-w-[1400px] items-center justify-between gap-5 px-4 py-2.5 md:px-8;
+  }
+
+  .tw-nav-link {
+    @apply relative shrink-0 whitespace-nowrap py-1.5 text-sm font-medium text-ink-secondary transition-colors duration-200 hover:text-ink-primary;
+  }
+
+  .tw-nav-search-pill {
+    @apply flex h-[38px] items-center gap-2 rounded-full border border-emerald-300/20 bg-white/5 px-3 transition-all duration-200 focus-within:border-mint-luminous focus-within:bg-botanical-dark/90;
+  }
+
+  .tw-mobile-drawer {
+    @apply fixed inset-0 z-[2500] flex flex-col overflow-hidden bg-botanical-dark/90 text-ink-primary backdrop-blur-heavy;
+  }
+}

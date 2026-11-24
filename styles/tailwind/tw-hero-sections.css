@@ -1,0 +1,25 @@
+@layer components {
+  .tw-hero-banner {
+    @apply relative overflow-hidden border-b border-emerald-300/20 bg-botanical-dark px-4 py-16 text-ink-primary md:px-10 md:py-24;
+  }
+
+  .tw-section-eyebrow {
+    @apply mb-2.5 inline-block font-mono text-xs font-semibold uppercase tracking-[0.1em] text-mint-luminous;
+  }
+
+  .tw-section-heading {
+    @apply mb-4 font-display text-3xl font-bold leading-tight text-ink-primary md:text-[2.6rem];
+  }
+
+  .tw-editorial-prose {
+    @apply text-justify text-base leading-[1.78] text-ink-secondary;
+    text-justify: inter-word;
+    overflow-wrap: break-word;
+    hyphens: auto;
+    -webkit-hyphens: auto;
+  }
+
+  .tw-glass-panel {
+    @apply rounded-2xl border border-emerald-300/20 bg-white/[0.03] shadow-glass backdrop-blur-glass transition-all duration-300 hover:border-emerald-300/50 hover:bg-white/[0.055] hover:shadow-glass-hover;
+  }
+}

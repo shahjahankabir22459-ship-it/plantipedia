@@ -1,0 +1,188 @@
+{
+  "schemaVersion": "1.1.0",
+  "slug": "tea-plant",
+  "commonName": "Tea Plant",
+  "scientificName": "Camellia sinensis",
+  "localName": "Cha Gachh (চা গাছ)",
+  "category": "Shrubs & Herbs",
+  "categories": ["Shrubs & Herbs", "Medicinal"],
+  "taxonomicDomain": "Ethnobotanical & Agroforestry Shrubs",
+  "featuredRank": null,
+  "shortSummary": "Acid-loving evergreen mountain camellia whose tender apical 'two leaves and a bud' yield black, green, oolong, and white teas.",
+  "leadOverview": "The Tea Plant (Camellia sinensis) is a long-lived evergreen shrub of the family Theaceae whose young vegetative flush has shaped global trade, social rituals, and pharmacology for millennia. Grown in terraced hillside estates from Sylhet and Sreemangal to Yunnan and Uji, one single species produces green, white, oolong, and black teas strictly through post-harvest oxidation.",
+  "heroImage": {
+    "url": "https://images.pexels.com/photos/35141996/pexels-photo-35141996.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "alt": "Terraced emerald green Camellia sinensis tea plantation",
+    "caption": "Pruned plucking-table rows of Camellia sinensis flourishing across mist-draped acidic hillsides."
+  },
+  "overview": {
+    "plantGroup": "Angiosperm (Eudicot)",
+    "family": "Theaceae",
+    "genus": "Camellia",
+    "species": "C. sinensis",
+    "growthForm": "Evergreen shrub or small tree (pruned to 1 m; wild up to 15 m)",
+    "nativeOrigin": "Southwest China, Myanmar & Northeast India",
+    "commonUses": "Black, green, oolong & white tea, matcha, seed oil, EGCG extracts"
+  },
+  "sections": [
+    {
+      "number": "01",
+      "title": "Morphological Description",
+      "subtitle": "Serrated glossy leaves, silvery apical leaf buds, camellia blossoms, and woody capsules",
+      "summary": "Anatomy of plucking-flush shoots, petiolate serrated leaves, fragrant white blossoms, and oil seeds.",
+      "paragraphs": [
+        "Left unpruned in wild mountain forests, Camellia sinensis grows into a 10-to-15-metre evergreen tree; in managed tea gardens, regular skiffing maintains a waist-high flat plucking table roughly 1 metre tall that stimulates continuous tender lateral shoots ('flushes'). The prized harvest unit—'two leaves and a bud'—consists of the silvery-downy unopened apical bud (pekoe) plus the two youngest soft leaves.",
+        "Mature leaves are alternate, short-stalked, glossy dark green, leathery, and elliptic-lanceolate with finely serrated glandular teeth and acute tips. Fragrant solitary or clustered white flowers (2.5–4 cm wide) present 5 to 7 waxy petals and dense golden stamens, ripening into woody three-lobed capsules holding spherical brown oil-bearing seeds."
+      ],
+      "subblocks": [
+        {
+          "heading": "Apical Flush (Pekoe)",
+          "text": "Silvery-haired terminal shoot buds rich in L-theanine, caffeine, and polyphenol oxidase enzymes."
+        },
+        {
+          "heading": "Serrated Foliage",
+          "text": "Alternate leathery elliptic leaves (5–14 cm) with finely toothed margins and slightly recurved edges."
+        },
+        {
+          "heading": "White Blossoms",
+          "text": "Fragrant axillary Camellia flowers bearing numerous golden stamens fused briefly at petal bases."
+        },
+        {
+          "heading": "Capsules & Taproot",
+          "text": "Three-chambered woody seed pods yielding camellia oil; deep taproot system seeking acidic hillside moisture."
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/16952402/pexels-photo-16952402.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Fresh bright-green tender tea flush leaves ready for plucking",
+          "caption": "Young emerald-green 'two leaves and a bud' vegetative flush atop pruned tea bushes."
+        },
+        {
+          "url": "https://images.pexels.com/photos/34344554/pexels-photo-34344554.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Lush hillside tea estate rows in sunlight",
+          "caption": "Uniform waist-high plucking tables maximizing solar capture and flush density."
+        }
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Taxonomy & Botanical Classification",
+      "subtitle": "Ericales order and sinensis vs. assamica botanical varieties",
+      "summary": "Distinguishing small-leaved Chinese C. sinensis var. sinensis from broad-leaved C. sinensis var. assamica.",
+      "paragraphs": [
+        "Assigned to order Ericales and family Theaceae, Camellia sinensis sits alongside ornamental winter-blooming Camellia japonica and oilseed Camellia oleifera. Tea botany recognizes two primary botanical varieties: small-leaved, cold-hardy Camellia sinensis var. sinensis suited to high-altitude green and oolong teas, and broad-leaved, vigorous Camellia sinensis var. assamica thriving in humid lowland plains.",
+        "Crucially, green, white, oolong, black, and fermented pu-erh teas all derive from this SAME species—differing by cultivar and whether polyphenol oxidase enzymes are halted immediately by heat (green tea) or allowed to oxidize catechins into coppery theaflavins (black tea)."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/35141996/pexels-photo-35141996.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Extensive cultivated Camellia sinensis tea garden",
+          "caption": "Contour-planted Camellia sinensis varieties flourishing across acidic sloping terrain."
+        }
+      ]
+    },
+    {
+      "number": "03",
+      "title": "Natural Habitat & Global Distribution",
+      "subtitle": "Cloudy monsoon foothills from Yunnan to Sylhet and Sreemangal",
+      "summary": "Acid-soil monsoon mountains and Bangladesh's iconic Sylhet-Chattogram tea valleys.",
+      "paragraphs": [
+        "Wild ancestors of Camellia sinensis evolved in the misty, humid subtropical forest slopes spanning Yunnan in southwestern China, northern Myanmar, and Assam. The shrub demands abundant rainfall (1,500–3,000 mm annually), high atmospheric humidity, zero standing floodwater, and strictly acidic soils (pH 4.5–5.5).",
+        "In Bangladesh, rolling green tea gardens across Sylhet, Moulvibazar's Sreemangal ('the tea capital'), Habiganj, Panchagarh, and Chattogram—often dappled beneath nitrogen-fixing Albizia shade trees—rank among the nation's most iconic agricultural landscapes."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/34344554/pexels-photo-34344554.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Misty terraced tea garden slopes",
+          "caption": "Well-drained sloped hillside topography essential for preventing root waterlogging."
+        }
+      ]
+    },
+    {
+      "number": "04",
+      "title": "Ecological Role & Pollinator Interactions",
+      "subtitle": "Shade-tree agroforestry, insect pollinators, and chemical herbivore defense",
+      "summary": "Caffeine as a natural neurotoxic leaf shield alongside shade-canopy biodiversity.",
+      "paragraphs": [
+        "Evolutionarily, Camellia sinensis did not synthesize caffeine to delight morning commuters—bitter purine alkaloids (caffeine and theobromine) plus astringent catechins function as natural chemical defenses deterring foliage-chewing insects and fungal infection on delicate young shoots.",
+        "Modern ecological tea estates interplant leguminous canopy shade trees (such as Albizia and Indigofera) that filter midday heat, host insectivorous songbirds, fix atmospheric nitrogen, and sustain native bees visiting white autumn tea flowers."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/36441123/pexels-photo-36441123.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Honeybees pollinating white blossoms",
+          "caption": "Self-incompatible tea flowers relying on bees and flies for cross-pollination and seed set."
+        }
+      ]
+    },
+    {
+      "number": "05",
+      "title": "Economic, Culinary & Cultural Importance",
+      "subtitle": "World's most widely consumed brewed beverage after water",
+      "summary": "Global tea commerce, Sylheti cha culture, matcha ceremony, and seven-layer tea craft.",
+      "paragraphs": [
+        "After plain water, brewed Camellia sinensis is the most widely consumed beverage on Earth, anchoring multi-billion-dollar rural employment across Asia and East Africa. From brisk malty Bangladeshi and Assam CTC milk cha to shade-grown Japanese matcha stone-milled from whole tencha leaves, tea shapes daily hospitality worldwide.",
+        "In Sreemangal, Sylhet, culinary tea artistry famously celebrates layered spiced teas alongside traditional spiced cha stalls across every street corner."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/16952402/pexels-photo-16952402.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Close-up of emerald young tea leaves",
+          "caption": "Tender newly unfurled leaves carrying peak concentrations of aromatic oils and amino acids."
+        }
+      ]
+    },
+    {
+      "number": "06",
+      "title": "Traditional & Scientific Medicinal Properties",
+      "subtitle": "EGCG catechins, L-theanine calm focus, and extract hepatotoxicity bounds",
+      "summary": "Cardiovascular polyphenols and alert calm in brewed tea versus concentrated EGCG pill cautions.",
+      "paragraphs": [
+        "Tea leaves uniquely combine stimulating caffeine with L-theanine—an amino acid that crosses the blood-brain barrier to promote alpha-wave calm alertness without jitteriness. Unoxidized green tea abounds in epigallocatechin gallate (EGCG), while black tea concentrates antioxidant theaflavins and thearubigins.",
+        "Large observational cohort studies consistently associate moderate daily unsweetened tea drinking (3–4 cups) with favourable cardiovascular health, endothelial support, and alert cognitive focus."
+      ],
+      "safetyNote": "While whole-leaf brewed tea is remarkably safe, highly concentrated green tea extract supplements (>800 mg EGCG/day on an empty stomach) have occasionally caused acute liver injury; brewed tea tannins also bind non-heme plant iron if drunk directly with iron-rich meals, and caffeine intake should be moderated during pregnancy or insomnia.",
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/35141996/pexels-photo-35141996.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Organic mountain Camellia sinensis bushes",
+          "caption": "High-elevation leaves rich in catechins, L-theanine, and volatile floral terpenes."
+        }
+      ]
+    },
+    {
+      "number": "07",
+      "title": "Comprehensive Cultivation & Care Guide",
+      "subtitle": "Strict acid pH (4.5–5.5), rainwater irrigation, semi-shade, and skiff pruning",
+      "summary": "Growing container or garden Camellia sinensis bushes outside commercial estates.",
+      "paragraphs": [
+        "Success with Camellia sinensis hinges above all on maintaining strongly acidic, loose, organic soil (pH 4.5–5.5) blended with pine bark, peat-free acid compost, and coarse grit. Hard alkaline tap water rapidly yellows foliage via iron lockup, so irrigate potted plants with collected rainwater or acidified water.",
+        "Provide bright morning sun with dappled afternoon shade during scorching summers, keep soil evenly moist yet sharply drained, mulch with pine needles, and tip-prune upper shoots in spring to encourage bushy harvests of tender two-leaves-and-a-bud flushes."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/34344554/pexels-photo-34344554.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Managed rows of Camellia sinensis tea bushes",
+          "caption": "Acid-rich organic beds and disciplined tipping sustaining continuous tender leaf flushes."
+        }
+      ]
+    }
+  ],
+  "schemaOrg": {
+    "@type": "Taxon",
+    "name": "Camellia sinensis",
+    "alternateName": ["Tea Plant", "Cha Gachh (চা গাছ)"],
+    "taxonRank": "Species",
+    "parentTaxon": {
+      "@type": "Taxon",
+      "name": "Camellia",
+      "taxonRank": "Genus",
+      "parentTaxon": {
+        "@type": "Taxon",
+        "name": "Theaceae",
+        "taxonRank": "Family"
+      }
+    }
+  }
+}

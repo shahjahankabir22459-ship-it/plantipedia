@@ -1,0 +1,188 @@
+{
+  "schemaVersion": "1.1.0",
+  "slug": "bougainvillea",
+  "commonName": "Bougainvillea",
+  "scientificName": "Bougainvillea spectabilis",
+  "localName": "Baganbilash (বাগানবিলাস)",
+  "category": "Shrubs & Herbs",
+  "categories": ["Shrubs & Herbs", "Flowers"],
+  "taxonomicDomain": "Angiosperms & Ornamentals",
+  "featuredRank": null,
+  "shortSummary": "Thorny Neotropical scrambling vine renowned for papery magenta-to-coral petaloid bracts surrounding inconspicuous creamy true flowers.",
+  "leadOverview": "Bougainvillea (Bougainvillea spectabilis and B. glabra)—universally known in Bangladesh as Baganbilas—is a rugged, drought-defying thorny shrub-vine of the four-o'clock family (Nyctaginaceae). What appear to be paper-thin neon petals are actually modified colour-drenched leaf bracts framing clusters of three tiny tubular cream blossoms.",
+  "heroImage": {
+    "url": "https://images.pexels.com/photos/28337842/pexels-photo-28337842.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "alt": "Cascading magenta Bougainvillea bracts blooming across sunlit wall",
+    "caption": "Vivid magenta papery bracts of Bougainvillea spectabilis draping over sun-baked walls."
+  },
+  "overview": {
+    "plantGroup": "Angiosperm (Eudicot)",
+    "family": "Nyctaginaceae",
+    "genus": "Bougainvillea",
+    "species": "B. spectabilis / B. glabra",
+    "growthForm": "Woody scrambling thorny vine or pruned shrub (2–12 m)",
+    "nativeOrigin": "South America (Brazil, Peru, Argentina)",
+    "commonUses": "Architectural trellises, security hedges, drought landscaping, bonsai"
+  },
+  "sections": [
+    {
+      "number": "01",
+      "title": "Morphological Description",
+      "subtitle": "Papery petaloid bracts, axillary thorns, alternate ovate leaves, and true tubular flowers",
+      "summary": "Anatomy of true three-flower clusters cradled inside vivid betalain-dyed leafy bracts.",
+      "paragraphs": [
+        "Bougainvillea grows as a vigorously scrambling woody vine or dome-shaped shrub climbing up to 12 metres by hooking stiff, slightly curved axillary thorns onto arbors and neighboring branches. Its alternate simple ovate leaves range from velvety-pubescent (B. spectabilis) to smooth glossy green (B. glabra).",
+        "Each showy floral display actually consists of three crisp, papery, heart-shaped modified leaves—botanically termed bracts—arranged in a triad encircling three slender, tubular creamy-white or yellow true flowers lacking true petals. Betalain pigments rather than anthocyanins give the bracts their electric magenta, crimson, tangerine, apricot, and snowy tones."
+      ],
+      "subblocks": [
+        {
+          "heading": "Scrambling Thorns",
+          "text": "Stout woody axillary spines modified from sterile inflorescence shoots, assisting vertical climbing."
+        },
+        {
+          "heading": "Foliage",
+          "text": "Alternate petiolate ovate-acuminate blades shedding partially during intense winter dry spells prior to bloom."
+        },
+        {
+          "heading": "Papery Bracts",
+          "text": "Three colourful veined petaloid bracts cradling three miniature tubular cream-yellow true perianths."
+        },
+        {
+          "heading": "Anthocarp & Roots",
+          "text": "Five-ribbed dry achene-like fruits (rare in sterile hybrids); delicate, brittle water-sensitive root system."
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/16987747/pexels-photo-16987747.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Close-up of Bougainvillea bracts revealing tiny cream true flowers",
+          "caption": "Tiny creamy tubular true flowers nestled squarely at the centre of three papery magenta bracts."
+        },
+        {
+          "url": "https://images.pexels.com/photos/10351679/pexels-photo-10351679.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Dense sunlit Bougainvillea cascade",
+          "caption": "Profuse dry-season floral bract display completely blankets exterior branches."
+        }
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Taxonomy & Botanical Classification",
+      "subtitle": "Caryophyllales order and betalain-pigmented Nyctaginaceae",
+      "summary": "Taxonomic placement alongside four-o'clock flowers and unusual betalain chemistry.",
+      "paragraphs": [
+        "Assigned to order Caryophyllales and family Nyctaginaceae alongside Mirabilis jalapa (four-o'clock flower), Bougainvillea was named by botanist Philibert Commerson in honour of French admiral Louis Antoine de Bougainville during his 1768 circumnavigation.",
+        "Like beets, cacti, and amaranth in Caryophyllales, Bougainvillea synthesizes nitrogenous betalain pigments (betacyanins and betaxanthins) instead of ordinary flavonoid anthocyanins—an evolutionary biochemical hallmark."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/28337842/pexels-photo-28337842.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Cultivated Bougainvillea spectabilis cultivar",
+          "caption": "Betacyanin-rich magenta bracts characterizing classic Bougainvillea spectabilis hybrids."
+        }
+      ]
+    },
+    {
+      "number": "03",
+      "title": "Natural Habitat & Global Distribution",
+      "subtitle": "Seasonally dry South American scrub to Mediterranean and South Asian rooftops",
+      "summary": "From Brazilian coastal forests to iconic gates and rooftops across Bangladesh.",
+      "paragraphs": [
+        "Native to seasonally dry Atlantic forests and coastal scrublands of Brazil, Peru, and northern Argentina, Bougainvillea evolved to burst into massive reproductive bloom precisely when prolonged dry sunshine stresses vegetative growth.",
+        "Today it flourishes throughout Mediterranean resorts, arid California, and South Asia. Across Dhaka, Chattogram, and Rajshahi, vibrant Baganbilas arches crown residential gates, overhead bridges, and urban rooftop gardens, blooming hardest during dry winter and scorching pre-monsoon months."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/10351679/pexels-photo-10351679.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Bougainvillea cascading over sunny architecture",
+          "caption": "Sun-drenched masonry walls intensifying heat reflection and flowering bract density."
+        }
+      ]
+    },
+    {
+      "number": "04",
+      "title": "Ecological Role & Pollinator Interactions",
+      "subtitle": "Hummingbird, moth, and butterfly pollination + urban heat mitigation",
+      "summary": "Long slender floral tubes serving long-proboscis pollinators while cooling concrete facades.",
+      "paragraphs": [
+        "While colourful papery bracts act as long-distance billboards visible across urban blocks, actual nectar lies deep inside the narrow 2-centimetre cream flower tubes accessible primarily to hummingbirds in the Americas and hovering hawkmoths, sunbirds, and skippers in Asia.",
+        "Dense thorny tangles also shelter nesting songbirds from stray predators while shading concrete balconies and retaining walls from intense tropical heat."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/38669618/pexels-photo-38669618.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Butterfly feeding on bright nectar blooms",
+          "caption": "Long-tongued lepidopterans navigating visual bract flags to probe slender nectar tubes."
+        }
+      ]
+    },
+    {
+      "number": "05",
+      "title": "Economic, Culinary & Cultural Importance",
+      "subtitle": "Low-water municipal landscaping, living security barriers, and rooftop bonsai",
+      "summary": "Salt-tolerant xeriscape champion and celebrated flowering bonsai specimen.",
+      "paragraphs": [
+        "Municipal highway authorities worldwide rely on Bougainvillea for zero-irrigation median plantings because it endures heat islands, vehicle exhaust, coastal salt spray, and severe pruning better than virtually any flowering shrub. Dense thorny hedges also serve as attractive natural perimeter security barriers.",
+        "In South Asian and East Asian horticulture, gnarled old trunks trained into dwarf bonsai command prestige at flower shows, while papery crimson bracts are brewed into traditional Mexican 'té de bugambilia' herbal infusions."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/28337842/pexels-photo-28337842.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Vibrant urban Bougainvillea display",
+          "caption": "Drought-resilient urban pergola cover transforming concrete corridors with colour."
+        }
+      ]
+    },
+    {
+      "number": "06",
+      "title": "Traditional & Scientific Medicinal Properties",
+      "subtitle": "Betalain antioxidants, pinitol, and mild saponin precautions",
+      "summary": "Folk cough infusions in Latin America and skin-prick cautions around woody thorns.",
+      "paragraphs": [
+        "In Mexican and Central American folk herbalism, boiled crimson Bougainvillea bracts (Bugambilia) combined with honey and lemon are sipped traditionally to soothe dry seasonal coughs and bronchial irritation. Phytochemical screening identifies antioxidant betalains, D-pinitol, and flavonoids.",
+        "Experimental studies explore leaf and bract extracts for mild free-radical scavenging and glucose-transport modulation."
+      ],
+      "safetyNote": "Sharp thorns can inflict painful mechanical puncture wounds contaminated with soil microbes, and sap may cause mild skin rash during heavy pruning—wear leather gardening gloves. Large internal quantities of leaves or stems can trigger mild gastrointestinal upset due to saponins.",
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/16987747/pexels-photo-16987747.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Vibrant Bougainvillea bracts close-up",
+          "caption": "Betalain-pigmented bracts analyzed for antioxidant phenolics and pinitol."
+        }
+      ]
+    },
+    {
+      "number": "07",
+      "title": "Comprehensive Cultivation & Care Guide",
+      "subtitle": "Root-bound stress blooming, dry-down cycles, delicate rootballs, and low nitrogen",
+      "summary": "The secret to explosive flowers instead of rampant leafy green vines.",
+      "paragraphs": [
+        "The most common mistake growers make is overwatering and over-fertilizing Bougainvillea: excess nitrogen and constant wet soil produce rampant thorny green shoots with barely a single flower! Plant in full blazing sun (6+ hours), slightly cramped containers, and porous gritty soil (pH 5.5–6.5).",
+        "Allow the topsoil to dry noticeably between deep waterings to trigger vigorous bract flushes, feed sparingly with low-nitrogen high-potassium bloom food, and handle rootballs with extreme gentleness when repotting—Bougainvillea roots are fragile and resent disturbance."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/10351679/pexels-photo-10351679.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Profusely blooming sunlit Bougainvillea",
+          "caption": "Controlled dry intervals and maximum sunlight unlocking saturated non-stop bract flushes."
+        }
+      ]
+    }
+  ],
+  "schemaOrg": {
+    "@type": "Taxon",
+    "name": "Bougainvillea spectabilis",
+    "alternateName": ["Bougainvillea", "Baganbilash (বাগানবিলাস)"],
+    "taxonRank": "Species",
+    "parentTaxon": {
+      "@type": "Taxon",
+      "name": "Bougainvillea",
+      "taxonRank": "Genus",
+      "parentTaxon": {
+        "@type": "Taxon",
+        "name": "Nyctaginaceae",
+        "taxonRank": "Family"
+      }
+    }
+  }
+}

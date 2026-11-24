@@ -1,0 +1,19 @@
+{
+  "name": "Plantipedia — Digital Botanical Encyclopedia & Flora Archive",
+  "short_name": "Plantipedia",
+  "description": "Scholarly dark botanical archive documenting 20 curated plant species with 8-chapter monographs, Linnaean taxonomy, 6-season phenology, and side-by-side comparison.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#04140c",
+  "theme_color": "#04140c",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "./assets/images/brand-flower.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

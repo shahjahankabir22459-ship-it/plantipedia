@@ -1,0 +1,83 @@
+{
+  "schemaVersion": "1.1.0",
+  "section": {
+    "id": "taxonomy",
+    "eyebrow": "03. Taxonomic Flora Realms",
+    "heading": "Botanical Taxonomic Domains",
+    "description": "Navigate the collection by ecological guild and morphological lineage. Selecting any realm opens the full species directory filtered to that botanical domain."
+  },
+  "items": [
+    {
+      "id": "angiosperms-ornamentals",
+      "category": "Flowers",
+      "title": "Angiosperms & Ornamentals",
+      "description": "Showy dicot and monocot blossoms spanning Rosaceae, Asteraceae, Apocynaceae, and Orchidaceae—celebrated for floral symmetry, nectar chemistry, and pollinator guilds.",
+      "ctaLabel": "Browse Flowers",
+      "href": "./species/?category=Flowers",
+      "image": {
+        "imageUrl": "https://images.pexels.com/photos/30313199/pexels-photo-30313199.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "imageAlt": "Symmetrical Orchidaceae blossom illustrating zygomorphic angiosperm petal architecture and labellum",
+        "photographer": "Pexels Botanical Contributor",
+        "aspectRatio": "16 / 9",
+        "fallbackLabel": "Angiosperms & Ornamentals"
+      },
+      "metadata": {
+        "families": ["Rosaceae", "Asteraceae", "Apocynaceae", "Orchidaceae"]
+      }
+    },
+    {
+      "id": "tropical-pomology-fruit-trees",
+      "category": "Fruit Trees",
+      "title": "Tropical Pomology & Fruit Trees",
+      "description": "Evergreen orchard canopies and drupe, pepo, and syncarp producers across Anacardiaceae, Moraceae, Arecaceae, and Myrtaceae anchoring tropical nutrition.",
+      "ctaLabel": "Browse Fruit Trees",
+      "href": "./species/?category=Fruit%20Trees",
+      "image": {
+        "imageUrl": "https://images.pexels.com/photos/19229291/pexels-photo-19229291.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "imageAlt": "Cauliflorous Artocarpus heterophyllus jackfruit compound syncarps emerging from tree trunk",
+        "photographer": "Pexels Botanical Contributor",
+        "aspectRatio": "16 / 9",
+        "fallbackLabel": "Tropical Pomology & Fruit Trees"
+      },
+      "metadata": {
+        "families": ["Anacardiaceae", "Moraceae", "Arecaceae", "Myrtaceae"]
+      }
+    },
+    {
+      "id": "ethnobotanical-ayurvedic-herbs",
+      "category": "Medicinal",
+      "title": "Ethnobotanical & Ayurvedic Herbs",
+      "description": "Alkaloid-, terpenoid-, and polyphenol-rich species rooted in classical South Asian pharmacopeias, from Tulsi and Neem to Turmeric, Ginger, and Ashwagandha.",
+      "ctaLabel": "Browse Medicinal",
+      "href": "./species/?category=Medicinal",
+      "image": {
+        "imageUrl": "https://images.pexels.com/photos/38541130/pexels-photo-38541130.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "imageAlt": "Aromatic Ocimum tenuiflorum Holy Basil foliage and racemose flower spikes in sunlight",
+        "photographer": "Pexels Botanical Contributor",
+        "aspectRatio": "16 / 9",
+        "fallbackLabel": "Ethnobotanical & Ayurvedic Herbs"
+      },
+      "metadata": {
+        "keyTaxa": ["Tulsi", "Neem", "Turmeric", "Ginger", "Ashwagandha"]
+      }
+    },
+    {
+      "id": "hydrophytes-wetland-flora",
+      "category": "Aquatic",
+      "title": "Hydrophytes & Wetland Flora",
+      "description": "Floating-leaved macrophytes, tidal Sundarbans mangroves, and emergent marsh reeds adapted with aerenchyma tissue, pneumatophores, and waxy cuticles.",
+      "ctaLabel": "Browse Aquatic Flora",
+      "href": "./species/?category=Aquatic",
+      "image": {
+        "imageUrl": "https://images.pexels.com/photos/36002741/pexels-photo-36002741.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "imageAlt": "Floating Nymphaea water lily blossom surrounded by waxy hydrophobic orbicular pads",
+        "photographer": "Pexels Botanical Contributor",
+        "aspectRatio": "16 / 9",
+        "fallbackLabel": "Hydrophytes & Wetland Flora"
+      },
+      "metadata": {
+        "adaptations": ["Aerenchyma", "Pneumatophores", "Waxy Cuticles"]
+      }
+    }
+  ]
+}

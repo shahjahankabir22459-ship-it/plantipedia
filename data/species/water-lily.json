@@ -1,0 +1,188 @@
+{
+  "schemaVersion": "1.1.0",
+  "slug": "water-lily",
+  "commonName": "Water Lily",
+  "scientificName": "Nymphaea nouchali",
+  "localName": "Shapla (শাপলা)",
+  "category": "Flowers",
+  "categories": ["Flowers", "Medicinal", "Aquatic"],
+  "taxonomicDomain": "Hydrophytes & Wetland Flora",
+  "featuredRank": null,
+  "shortSummary": "Aquatic rhizomatous macrophyte famed for floating circular pads with aerenchyma tissue and star-like blooms—national flower of Bangladesh.",
+  "leadOverview": "The Blue and White Water Lily (Nymphaea nouchali), revered in Bangladesh as Shapla, is an ancient basal angiosperm anchoring freshwater wetlands across South and Southeast Asia. Floating on slender flexible petioles above submerged muddy rhizomes, its fragrant star-shaped blooms symbolize aquatic biodiversity and national cultural heritage.",
+  "heroImage": {
+    "url": "https://images.pexels.com/photos/36002741/pexels-photo-36002741.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "alt": "Water lily flower floating among round green pads",
+    "caption": "Nymphaea blossom rising gracefully above floating orbicular leaves in still freshwater."
+  },
+  "overview": {
+    "plantGroup": "Basal Angiosperm (Nymphaeales)",
+    "family": "Nymphaeaceae",
+    "genus": "Nymphaea",
+    "species": "N. nouchali",
+    "growthForm": "Perennial rooted floating-leaved aquatic herb",
+    "nativeOrigin": "South & Southeast Asia",
+    "commonUses": "National emblem, pond ornament, edible stems/seeds, traditional medicine"
+  },
+  "sections": [
+    {
+      "number": "01",
+      "title": "Morphological Description",
+      "subtitle": "Submerged rhizomes, air-filled petioles, waxy floating pads, and multi-whorled blooms",
+      "summary": "Aquatic structural adaptations enabling buoyancy, oxygen transport, and insect pollination.",
+      "paragraphs": [
+        "Nymphaea nouchali is anchored in anaerobic pond mud by a stout, starchy, creeping rhizome from which long, pliable petioles and peduncles ascend to match rising monsoon water depths. Both petioles and leaves are honeycombed with spacious longitudinal air canals called aerenchyma, piping atmospheric oxygen downward to submerged roots while keeping leaf blades buoyant.",
+        "The floating leaves are orbicular to cordate with a sharp V-shaped basal sinus, waxy water-repellent upper cuticles studded with stomata, and purplish-red undersides. Solitary fragrant flowers open just above or at the water surface, presenting 4 green sepals, 10 to 28 white, pink, or violet-blue petals, and dozens of golden-yellow stamens arranged around a disc-shaped stigma."
+      ],
+      "subblocks": [
+        {
+          "heading": "Rhizome & Roots",
+          "text": "Fleshy, tuberous submerged rhizomes producing adventitious anchoring roots within anoxic wetland silt."
+        },
+        {
+          "heading": "Aerenchyma Petioles",
+          "text": "Elastic, hollow-channeled stalks able to elongate rapidly during seasonal flood pulses without snapping."
+        },
+        {
+          "heading": "Floating Lamina",
+          "text": "Waxy, round pads (15–30 cm) bearing stomata exclusively on the upper epidermis for uninterrupted gas exchange."
+        },
+        {
+          "heading": "Flowers & Fruit",
+          "text": "Actinomorphic star-like blooms ripening underwater into spongy, many-seeded berry capsules."
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/31856394/pexels-photo-31856394.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Close-up of pink water lily petals and stamens",
+          "caption": "Spirally arranged petals and central stamen ring elevated cleanly above the water surface."
+        },
+        {
+          "url": "https://images.pexels.com/photos/33854693/pexels-photo-33854693.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Floating water lily leaves with basal sinus",
+          "caption": "Orbicular water-repellent pads with characteristic V-shaped sinus clefts."
+        }
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Taxonomy & Botanical Classification",
+      "subtitle": "Early-diverging Nymphaeales lineage distinct from sacred lotus",
+      "summary": "Basal angiosperm position and clear botanical distinction between Nymphaea and Nelumbo.",
+      "paragraphs": [
+        "Water lilies occupy the order Nymphaeales—one of the earliest-diverging lineages of flowering plants alongside Amborella—preserving ancestral floral features such as gradual morphological transitions between petals and stamens. Within family Nymphaeaceae, Nymphaea nouchali spans white, pink, and sky-blue regional varieties.",
+        "Although colloquially grouped with the sacred lotus (Nelumbo nucifera), water lilies differ fundamentally: Nymphaea leaves float directly on water with a radial notch and belong to basal angiosperms, whereas lotus leaves rise high above water on central peltate stems and belong to eudicots."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/26545863/pexels-photo-26545863.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Nymphaea flower and pads in quiet pond",
+          "caption": "Distinguishing floating notched pads and spirally graded perianth of Nymphaeaceae."
+        }
+      ]
+    },
+    {
+      "number": "03",
+      "title": "Natural Habitat & Global Distribution",
+      "subtitle": "Monsoon haors, beels, and freshwater floodplains of Bengal",
+      "summary": "Thriving in still freshwater lakes, marshes, and seasonal monsoon floodplains across tropical Asia.",
+      "paragraphs": [
+        "Native from Afghanistan and the Indian subcontinent through Myanmar, Thailand, and Java, Nymphaea nouchali colonizes quiet freshwater ponds, oxbow lakes, slow ditches, and seasonal floodplain wetlands up to 2 metres deep. Its tubers survive dry-season drawdowns buried in moist clay before sprouting vigorously once monsoon rains refill basins.",
+        "Across Bangladesh's haors, baors, and rural ponds—especially celebrated in Barishal's Satla wetlands—vast expanses of white and crimson Shapla bloom every autumn, shaping both aquatic ecology and regional livelihoods."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/36002741/pexels-photo-36002741.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Natural pond habitat filled with water lilies",
+          "caption": "Still freshwater wetland supporting dense floating Nymphaea mats."
+        }
+      ]
+    },
+    {
+      "number": "04",
+      "title": "Ecological Role & Pollinator Interactions",
+      "subtitle": "Beetle-and-bee pollination traps, shading algae, and fish nursery cover",
+      "summary": "Protogynous floral cycle, wetland oxygenation, and shelter for aquatic fauna.",
+      "paragraphs": [
+        "Water lily flowers exhibit sequential protogyny: on the first morning of opening, the central stigmatic bowl fills with sweet fluid that drowns or coats visiting scarab beetles and sweat bees in pollen carried from older blossoms. On subsequent days, the inner stamens curve inward to dust outgoing insects.",
+        "Broad floating pads cool surface waters, suppress excessive planktonic algal blooms by intercepting light, and create vital predator-shelter nurseries for small indigenous fish, frogs, and damselfly nymphs."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/39665142/pexels-photo-39665142.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Bee visiting flower petals for pollen",
+          "caption": "Hymenopteran pollinators visiting open floral bowls rich in pollen and stigmatic fluid."
+        }
+      ]
+    },
+    {
+      "number": "05",
+      "title": "Economic, Culinary & Cultural Importance",
+      "subtitle": "National flower of Bangladesh and wetland vegetable harvest",
+      "summary": "Official state emblem, edible crisp peduncles, popped seeds, and rural pond tourism.",
+      "paragraphs": [
+        "The white water lily (Shada Shapla) holds supreme symbolic honour as the national flower of Bangladesh, appearing on the national emblem, currency notes, and state seals as a tribute to the country's riverine plains. Seasonal water-lily meadows also anchor thriving ecotourism in southern delta districts.",
+        "Culinarily across rural Bengal, tender submerged flower stalks (shapla data) are peeled and stir-fried with mustard paste or small prawns, while mature seeds are dried, ground into flour, or roasted into crisp puffed snacks."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/31856394/pexels-photo-31856394.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Ornamental water lily blossom on pond",
+          "caption": "Culturally iconic aquatic bloom revered in South Asian literature and civic emblems."
+        }
+      ]
+    },
+    {
+      "number": "06",
+      "title": "Traditional & Scientific Medicinal Properties",
+      "subtitle": "Nymphayol phytochemistry and cooling Ayurvedic formulations",
+      "summary": "Antioxidant and metabolic-support compounds in petals and rhizomes with water-quality cautions.",
+      "paragraphs": [
+        "Traditional Ayurvedic and Unani texts describe dried water lily petals (Kumuda / Nilofar) as cooling cardiotonic and soothing infusions used during summer heat and digestive irritation. Chemical analyses confirm flavonoids, gallic acid, tannins, and the sterol nymphayol.",
+        "Preliminary pharmacological studies on Nymphaea nouchali extracts report free-radical scavenging capacity and glucose-modulating potential, though human clinical trials remain sparse."
+      ],
+      "safetyNote": "Because aquatic macrophytes can bioaccumulate heavy metals and waterborne pathogens from polluted canals or stagnant ponds, consume only stalks, seeds, or herbal preparations sourced from clean, uncontaminated freshwater environments.",
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/33854693/pexels-photo-33854693.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Water lily pads and blossom",
+          "caption": "Aquatic foliage and floral tissues studied for phenolic antioxidants and sterols."
+        }
+      ]
+    },
+    {
+      "number": "07",
+      "title": "Comprehensive Cultivation & Care Guide",
+      "subtitle": "Submerged clay pots, sunlight depth, division, and pond balance",
+      "summary": "Growing Nymphaea in garden ponds and wide patio water tubs.",
+      "paragraphs": [
+        "Grow tropical Nymphaea in quiet, unshaded water receiving at least 6 hours of direct daily sunlight away from splashing fountains or waterfalls that submerge leaves. Plant rhizomes horizontally in wide, non-perforated pots filled with heavy clay-loam garden soil—avoid light peat mixes that float away—capped with clean pea gravel.",
+        "Submerge the crown 25 to 60 centimetres below the water surface, insert slow-release aquatic fertilizer tablets monthly during summer bloom, and divide crowded tubers every 2 to 3 years in spring."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/26545863/pexels-photo-26545863.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Water lilies thriving in sunlit garden pond",
+          "caption": "Balanced pond cultivation providing full solar exposure and calm surface water."
+        }
+      ]
+    }
+  ],
+  "schemaOrg": {
+    "@type": "Taxon",
+    "name": "Nymphaea nouchali",
+    "alternateName": ["Water Lily", "Shapla (শাপলা)"],
+    "taxonRank": "Species",
+    "parentTaxon": {
+      "@type": "Taxon",
+      "name": "Nymphaea",
+      "taxonRank": "Genus",
+      "parentTaxon": {
+        "@type": "Taxon",
+        "name": "Nymphaeaceae",
+        "taxonRank": "Family"
+      }
+    }
+  }
+}

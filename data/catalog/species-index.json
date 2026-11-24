@@ -1,0 +1,581 @@
+{
+  "schemaVersion": "1.2.0",
+  "totalSpecies": 20,
+  "species": [
+    {
+      "slug": "mango",
+      "commonName": "Mango",
+      "commonNameBn": "আম",
+      "scientificName": "Mangifera indica",
+      "localName": "Aam (আম)",
+      "family": "Anacardiaceae",
+      "familyBn": "অ্যানাকার্ডিয়েসি (আম গোত্র)",
+      "plantGroup": "Angiosperm (Eudicot)",
+      "taxonomicDomain": "Tropical Pomology & Fruit Trees",
+      "category": "Fruit Trees",
+      "categories": [
+        "Fruit Trees",
+        "Trees & Palms"
+      ],
+      "seasons": [
+        "boshonto",
+        "grishmo"
+      ],
+      "seasonalPhenology": {
+        "boshonto": "Fragrant terminal panicles (মুকুল) burst into bloom, attracting hoverflies and native pollinators before early fruit set.",
+        "grishmo": "Drupes swell and reach peak sugar ripeness during Madhumas (Boishakh–Jyoishtho) across Rajshahi and Chapainawabganj orchards."
+      },
+      "shortSummary": "South Asia's iconic evergreen drupe tree prized for aromatic golden-orange fruit, panicle inflorescences, and centuries of cultivar selection.",
+      "thumbnailUrl": "https://images.pexels.com/photos/30893226/pexels-photo-30893226.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imageAlt": "Ripe golden mangoes harvested from Mangifera indica orchards",
+      "featuredRank": 1
+    },
+    {
+      "slug": "rose",
+      "commonName": "Rose",
+      "commonNameBn": "গোলাপ",
+      "scientificName": "Rosa",
+      "localName": "Golap (গোলাপ)",
+      "family": "Rosaceae",
+      "familyBn": "রোজেসি (গোলাপ গোত্র)",
+      "plantGroup": "Angiosperm (Eudicot)",
+      "taxonomicDomain": "Angiosperms & Ornamentals",
+      "category": "Flowers",
+      "categories": [
+        "Flowers",
+        "Shrubs & Herbs"
+      ],
+      "seasons": [
+        "hemonto",
+        "sheet",
+        "boshonto"
+      ],
+      "seasonalPhenology": {
+        "hemonto": "Post-monsoon pruning stimulates vigorous basal breaks and healthy winter flower-bud differentiation.",
+        "sheet": "Peak exhibition blooming in cool dry northern breezes with rich petal pigmentation and slow bud opening.",
+        "boshonto": "Final spring flush of fragrant blooms in Sadullapur and Jessore rose fields before pre-monsoon heat."
+      },
+      "shortSummary": "Perennial woody shrubs of the Rosaceae family celebrated worldwide for layered fragrant petals, curved prickles, and rosehip fruits.",
+      "thumbnailUrl": "https://images.pexels.com/photos/56866/garden-rose-red-pink-56866.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imageAlt": "Vibrant garden rose blossom in full bloom",
+      "featuredRank": 2
+    },
+    {
+      "slug": "sunflower",
+      "commonName": "Sunflower",
+      "commonNameBn": "সূর্যমুখী",
+      "scientificName": "Helianthus annuus",
+      "localName": "Surjomukhi (সূর্যমুখী)",
+      "family": "Asteraceae",
+      "familyBn": "অ্যাস্টেরেসি (সূর্যমুখী গোত্র)",
+      "plantGroup": "Angiosperm (Eudicot)",
+      "taxonomicDomain": "Angiosperms & Ornamentals",
+      "category": "Flowers",
+      "categories": [
+        "Flowers"
+      ],
+      "seasons": [
+        "hemonto",
+        "sheet"
+      ],
+      "seasonalPhenology": {
+        "hemonto": "Direct-sown across drying post-flood charlands and Gangetic loam for Robi oilseed and ornamental production.",
+        "sheet": "Golden heliotropic capitula open under bright, low-humidity winter skies as achene oil reserves mature."
+      },
+      "shortSummary": "Heliotropic annual composite bearing golden ray florets, Fibonacci-spiralled disc seeds, and high-oleic culinary oil.",
+      "thumbnailUrl": "https://images.pexels.com/photos/27024149/pexels-photo-27024149.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imageAlt": "Golden sunflower capitulum in bright sunlight",
+      "featuredRank": 3
+    },
+    {
+      "slug": "periwinkle",
+      "commonName": "Madagascar Periwinkle",
+      "commonNameBn": "নয়নতারা",
+      "scientificName": "Catharanthus roseus",
+      "localName": "Nayantara (নয়নতারা)",
+      "family": "Apocynaceae",
+      "familyBn": "অ্যাপোসাইনাসি (করবী গোত্র)",
+      "plantGroup": "Angiosperm (Eudicot)",
+      "taxonomicDomain": "Ethnobotanical & Ayurvedic Herbs",
+      "category": "Medicinal",
+      "categories": [
+        "Medicinal",
+        "Flowers",
+        "Shrubs & Herbs"
+      ],
+      "seasons": [
+        "shorot",
+        "hemonto",
+        "sheet"
+      ],
+      "seasonalPhenology": {
+        "shorot": "Receding monsoon warmth supports vigorous glossy foliage and continuous pink-to-white pinwheel corollas.",
+        "hemonto": "Dry soil conditions prevent root rot while indole alkaloid concentration remains high in aerial leaves.",
+        "sheet": "Steady winter flowering across sunlit courtyards and well-drained balcony containers."
+      },
+      "shortSummary": "Evergreen tropical subshrub famous for year-round five-petalled blooms and life-saving vinca alkaloid oncology compounds.",
+      "thumbnailUrl": "https://images.pexels.com/photos/5720961/pexels-photo-5720961.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imageAlt": "Pink Catharanthus roseus flowers blooming amidst glossy foliage",
+      "featuredRank": null
+    },
+    {
+      "slug": "marigold",
+      "commonName": "Marigold",
+      "commonNameBn": "গাঁদা",
+      "scientificName": "Tagetes erecta",
+      "localName": "Gada (গাঁদা)",
+      "family": "Asteraceae",
+      "familyBn": "অ্যাস্টেরেসি (সূর্যমুখী গোত্র)",
+      "plantGroup": "Angiosperm (Eudicot)",
+      "taxonomicDomain": "Angiosperms & Ornamentals",
+      "category": "Flowers",
+      "categories": [
+        "Flowers",
+        "Medicinal"
+      ],
+      "seasons": [
+        "hemonto",
+        "sheet"
+      ],
+      "seasonalPhenology": {
+        "hemonto": "Seedlings transplanted into raised nursery beds rapidly form dense bushy crowns rich in lutein-pigmented buds.",
+        "sheet": "Abundant golden-orange globular blossoms harvested across Gadkhali for winter garlands and cultural festivals."
+      },
+      "shortSummary": "Aromatic golden-orange Asteraceae annual prized for festive garlands, lutein carotenoids, and nematode-suppressing roots.",
+      "thumbnailUrl": "https://images.pexels.com/photos/14304140/pexels-photo-14304140.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imageAlt": "Bright orange Tagetes erecta marigold blossoms",
+      "featuredRank": null
+    },
+    {
+      "slug": "ixora",
+      "commonName": "Ixora",
+      "commonNameBn": "রঙ্গন",
+      "scientificName": "Ixora coccinea",
+      "localName": "Rangan (রঙ্গন)",
+      "family": "Rubiaceae",
+      "familyBn": "রুবিয়াসি (কদম গোত্র)",
+      "plantGroup": "Angiosperm (Eudicot)",
+      "taxonomicDomain": "Angiosperms & Ornamentals",
+      "category": "Shrubs & Herbs",
+      "categories": [
+        "Shrubs & Herbs",
+        "Flowers"
+      ],
+      "seasons": [
+        "grishmo",
+        "borsha",
+        "shorot"
+      ],
+      "seasonalPhenology": {
+        "grishmo": "Warm sunlight triggers dense scarlet floral corymbs across acidic garden borders.",
+        "borsha": "Monsoon humidity accelerates leathery opposite leaf flushes and continuous butterfly-pollinated clusters.",
+        "shorot": "Late warm sunshine maintains rich crimson-orange corymb displays before winter dormancy."
+      },
+      "shortSummary": "Evergreen tropical shrub producing hemispherical corymbs of star-shaped scarlet flowers and leathery opposite leaves throughout warm seasons.",
+      "thumbnailUrl": "https://images.pexels.com/photos/30122834/pexels-photo-30122834.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imageAlt": "Scarlet Ixora coccinea floral corymb in tropical daylight",
+      "featuredRank": null
+    },
+    {
+      "slug": "water-lily",
+      "commonName": "Water Lily",
+      "commonNameBn": "শাপলা",
+      "scientificName": "Nymphaea nouchali",
+      "localName": "Shapla (শাপলা)",
+      "family": "Nymphaeaceae",
+      "familyBn": "নিমফিয়াসি (শাপলা গোত্র)",
+      "plantGroup": "Basal Angiosperm (Nymphaeales)",
+      "taxonomicDomain": "Hydrophytes & Wetland Flora",
+      "category": "Flowers",
+      "categories": [
+        "Flowers",
+        "Medicinal",
+        "Aquatic"
+      ],
+      "seasons": [
+        "borsha",
+        "shorot"
+      ],
+      "seasonalPhenology": {
+        "borsha": "Monsoon floodwaters fill rural beels and haors, prompting submerged tubers to send up buoyant circular floating pads.",
+        "shorot": "Peak mass blooming turns Bengal's flooded wetlands into white and pink Tapestry carpets of national Shapla flowers."
+      },
+      "shortSummary": "Aquatic rhizomatous macrophyte famed for floating circular pads with aerenchyma tissue and star-like blooms—national flower of Bangladesh.",
+      "thumbnailUrl": "https://images.pexels.com/photos/36002741/pexels-photo-36002741.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imageAlt": "Water lily flower floating among round green pads",
+      "featuredRank": null
+    },
+    {
+      "slug": "banyan",
+      "commonName": "Banyan",
+      "commonNameBn": "বটগাছ",
+      "scientificName": "Ficus benghalensis",
+      "localName": "Bot Gachh (বটগাছ)",
+      "family": "Moraceae",
+      "familyBn": "মোরাসি (ডুমুর-কাঁঠাল গোত্র)",
+      "plantGroup": "Angiosperm (Eudicot)",
+      "taxonomicDomain": "Tropical Canopy & Sacred Trees",
+      "category": "Shrubs & Herbs",
+      "categories": [
+        "Shrubs & Herbs",
+        "Medicinal",
+        "Trees & Palms"
+      ],
+      "seasons": [
+        "grishmo",
+        "boshonto"
+      ],
+      "seasonalPhenology": {
+        "grishmo": "Expansive evergreen cathedral canopies provide critical thermal shade while paired red syconium figs nourish frugivorous birds.",
+        "boshonto": "Coppery stipules shed across village commons as fresh glossy foliage emerges alongside young fig receptacles."
+      },
+      "shortSummary": "Monumental hemiepiphytic fig tree capable of forming multi-trunk cathedral canopies through descending aerial prop roots.",
+      "thumbnailUrl": "https://images.pexels.com/photos/5479919/pexels-photo-5479919.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imageAlt": "Ancient banyan tree with cascading aerial prop roots",
+      "featuredRank": null
+    },
+    {
+      "slug": "neem",
+      "commonName": "Neem",
+      "commonNameBn": "নিম",
+      "scientificName": "Azadirachta indica",
+      "localName": "Neem (নিম)",
+      "family": "Meliaceae",
+      "familyBn": "মেলিয়াসি (মেহগনি-নিম গোত্র)",
+      "plantGroup": "Angiosperm (Eudicot)",
+      "taxonomicDomain": "Ethnobotanical & Ayurvedic Herbs",
+      "category": "Medicinal",
+      "categories": [
+        "Medicinal",
+        "Shrubs & Herbs",
+        "Trees & Palms"
+      ],
+      "seasons": [
+        "boshonto",
+        "grishmo"
+      ],
+      "seasonalPhenology": {
+        "boshonto": "Briefly sheds aged leaflets and bursts into honey-scented panicles of small white star blossoms.",
+        "grishmo": "Green drupes ripen golden-yellow with peak azadirachtin seed oil concentration for immediate monsoon nursery sowing."
+      },
+      "shortSummary": "Drought-hardy evergreen mahogany tree revered across South Asia as a botanical pharmacy and natural azadirachtin biopesticide.",
+      "thumbnailUrl": "https://images.pexels.com/photos/36537544/pexels-photo-36537544.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imageAlt": "Lush green Azadirachta indica neem tree foliage in sunlight",
+      "featuredRank": null
+    },
+    {
+      "slug": "tulsi",
+      "commonName": "Tulsi (Holy Basil)",
+      "commonNameBn": "তুলসী",
+      "scientificName": "Ocimum tenuiflorum",
+      "localName": "Tulsi (তুলসী)",
+      "family": "Lamiaceae",
+      "familyBn": "ল্যামিয়াসি (তুলসী গোত্র)",
+      "plantGroup": "Angiosperm (Eudicot)",
+      "taxonomicDomain": "Ethnobotanical & Ayurvedic Herbs",
+      "category": "Medicinal",
+      "categories": [
+        "Medicinal",
+        "Shrubs & Herbs"
+      ],
+      "seasons": [
+        "shorot",
+        "hemonto"
+      ],
+      "seasonalPhenology": {
+        "shorot": "Dense whorled racemes (মঞ্জরি) and eugenol-rich aromatic foliage reach peak essential-oil potency.",
+        "hemonto": "Late-autumn cooling triggers heavy seed set across courtyard Tulsi shrines before winter mist."
+      },
+      "shortSummary": "Aromatic square-stemmed subshrub of the mint family revered as an adaptogenic medicinal herb across South Asian courtyards.",
+      "thumbnailUrl": "https://images.pexels.com/photos/38541130/pexels-photo-38541130.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imageAlt": "Aromatic green Tulsi Ocimum tenuiflorum leaves and flower spikes",
+      "featuredRank": null
+    },
+    {
+      "slug": "hibiscus",
+      "commonName": "Hibiscus",
+      "commonNameBn": "জবা",
+      "scientificName": "Hibiscus rosa-sinensis",
+      "localName": "Joba (জবা)",
+      "family": "Malvaceae",
+      "familyBn": "ম্যালভেসি (জবা গোত্র)",
+      "plantGroup": "Angiosperm (Eudicot)",
+      "taxonomicDomain": "Angiosperms & Ornamentals",
+      "category": "Flowers",
+      "categories": [
+        "Flowers",
+        "Shrubs & Herbs"
+      ],
+      "seasons": [
+        "boshonto",
+        "grishmo",
+        "borsha"
+      ],
+      "seasonalPhenology": {
+        "boshonto": "Warming spring light stimulates fresh green vegetative shoots and terminal flower buds.",
+        "grishmo": "Large crimson trumpet corollas with protruding staminal columns open daily at dawn.",
+        "borsha": "Humid monsoon showers sustain lush glossy foliage and steady floral turnover."
+      },
+      "shortSummary": "Tropical evergreen mallow shrub famed for large trumpet blossoms featuring an elongated staminal column and mucilaginous foliage.",
+      "thumbnailUrl": "https://images.pexels.com/photos/33952257/pexels-photo-33952257.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imageAlt": "Crimson Hibiscus rosa-sinensis blossom with protruding staminal column",
+      "featuredRank": null
+    },
+    {
+      "slug": "jasmine",
+      "commonName": "Jasmine (Beli)",
+      "commonNameBn": "বেলি",
+      "scientificName": "Jasminum sambac",
+      "localName": "Beli (বেলি)",
+      "family": "Oleaceae",
+      "familyBn": "ওলিয়াসি (বেলি-জলপাই গোত্র)",
+      "plantGroup": "Angiosperm (Eudicot)",
+      "taxonomicDomain": "Angiosperms & Ornamentals",
+      "category": "Flowers",
+      "categories": [
+        "Flowers",
+        "Shrubs & Herbs"
+      ],
+      "seasons": [
+        "boshonto",
+        "grishmo",
+        "borsha"
+      ],
+      "seasonalPhenology": {
+        "boshonto": "Spring warmth awakens pruned woody canes into prolific white bud initiation.",
+        "grishmo": "Peak dusk opening releases intoxicating benzyl acetate perfume prized for summer evening garlands.",
+        "borsha": "Monsoon moisture extends successive flushes of star-white corollas amidst deep green leaves."
+      },
+      "shortSummary": "Fragrant night-opening white vine-shrub of the olive family celebrated for jasmine tea scenting, attar perfumery, and ceremonial garlands.",
+      "thumbnailUrl": "https://images.pexels.com/photos/54608/flower-jasmine-bush-white-54608.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imageAlt": "Clusters of pure white Jasminum sambac jasmine flowers",
+      "featuredRank": null
+    },
+    {
+      "slug": "lotus",
+      "commonName": "Sacred Lotus",
+      "commonNameBn": "পদ্ম",
+      "scientificName": "Nelumbo nucifera",
+      "localName": "Poddo (পদ্ম)",
+      "family": "Nelumbonaceae",
+      "familyBn": "নেলুম্বোনাসি (পদ্ম গোত্র)",
+      "plantGroup": "Basal Eudicot (Proteales)",
+      "taxonomicDomain": "Hydrophytes & Wetland Flora",
+      "category": "Flowers",
+      "categories": [
+        "Flowers",
+        "Medicinal",
+        "Aquatic"
+      ],
+      "seasons": [
+        "borsha",
+        "shorot"
+      ],
+      "seasonalPhenology": {
+        "borsha": "Rising warm floodwaters trigger emergent superhydrophobic peltate leaves above calm pond surfaces.",
+        "shorot": "Peak autumn flowering of pink-and-white thermogenic blossoms above beels before rhizome dormancy."
+      },
+      "shortSummary": "Emergent aquatic eudicot famed for superhydrophobic self-cleaning peltate leaves, thermogenic blossoms, and millennia-viable seeds.",
+      "thumbnailUrl": "https://images.pexels.com/photos/33059564/pexels-photo-33059564.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imageAlt": "Pink Sacred Lotus Nelumbo nucifera flower rising above pond leaves",
+      "featuredRank": null
+    },
+    {
+      "slug": "jackfruit",
+      "commonName": "Jackfruit",
+      "commonNameBn": "কাঁঠাল",
+      "scientificName": "Artocarpus heterophyllus",
+      "localName": "Kathal (কাঁঠাল)",
+      "family": "Moraceae",
+      "familyBn": "মোরাসি (ডুমুর-কাঁঠাল গোত্র)",
+      "plantGroup": "Angiosperm (Eudicot)",
+      "taxonomicDomain": "Tropical Pomology & Fruit Trees",
+      "category": "Fruit Trees",
+      "categories": [
+        "Fruit Trees",
+        "Trees & Palms"
+      ],
+      "seasons": [
+        "boshonto",
+        "grishmo"
+      ],
+      "seasonalPhenology": {
+        "boshonto": "Cauliflorous male and female inflorescence spikes ('মুচি') emerge directly along thick trunks and main limbs.",
+        "grishmo": "Giant prickly syncarps swell and ripen fragrant golden bulbs across Gazipur and Madhupur terraces."
+      },
+      "shortSummary": "Cauliflorous tropical evergreen bearing the largest tree-borne syncarp fruit in the world—celebrated as Bangladesh's national fruit.",
+      "thumbnailUrl": "https://images.pexels.com/photos/19229291/pexels-photo-19229291.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imageAlt": "Spiny green-gold jackfruits growing directly from tree trunk",
+      "featuredRank": null
+    },
+    {
+      "slug": "coconut",
+      "commonName": "Coconut",
+      "commonNameBn": "নারিকেল",
+      "scientificName": "Cocos nucifera",
+      "localName": "Narikel (নারিকেল)",
+      "family": "Arecaceae",
+      "familyBn": "অ্যারেকাসি (তাল-নারিকেল গোত্র)",
+      "plantGroup": "Angiosperm (Monocot)",
+      "taxonomicDomain": "Tropical Pomology & Fruit Trees",
+      "category": "Fruit Trees",
+      "categories": [
+        "Fruit Trees",
+        "Trees & Palms"
+      ],
+      "seasons": [
+        "grishmo",
+        "borsha"
+      ],
+      "seasonalPhenology": {
+        "grishmo": "Peak summer heat drives high demand and harvest of tender green ডাব (tender coconut water).",
+        "borsha": "Monsoon rainfall accelerates coastal palm frond expansion and mature nut sizing across southern delta groves."
+      },
+      "shortSummary": "Coastal monocot palm revered as the 'Tree of Life' for hydrating endosperm water, copra oil, coir fibre, and ocean-drifting seeds.",
+      "thumbnailUrl": "https://images.pexels.com/photos/28281017/pexels-photo-28281017.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imageAlt": "Tall coconut palms leaning over tropical coastline",
+      "featuredRank": null
+    },
+    {
+      "slug": "bamboo",
+      "commonName": "Bamboo",
+      "commonNameBn": "বাঁশ",
+      "scientificName": "Bambusa vulgaris",
+      "localName": "Baansh (বাঁশ)",
+      "family": "Poaceae (Bambusoideae)",
+      "familyBn": "পোয়াসি (ঘাস-বাঁশ গোত্র)",
+      "plantGroup": "Angiosperm (Monocot)",
+      "taxonomicDomain": "Perennial Grasses & Agroforestry",
+      "category": "Shrubs & Herbs",
+      "categories": [
+        "Shrubs & Herbs",
+        "Trees & Palms"
+      ],
+      "seasons": [
+        "borsha",
+        "shorot"
+      ],
+      "seasonalPhenology": {
+        "borsha": "Saturated monsoon soils trigger explosive emergence and vertical elongation of tender culm shoots (করুল).",
+        "shorot": "Young hollow culms rapidly expand nodal branches and deposit structural biogenic silica along alluvial banks."
+      },
+      "shortSummary": "Giant woody monocot grass exhibiting the fastest terrestrial shoot elongation, silica-armoured hollow culms, and clumping rhizomes.",
+      "thumbnailUrl": "https://images.pexels.com/photos/20793642/pexels-photo-20793642.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imageAlt": "Towering green and golden bamboo culms in lush grove",
+      "featuredRank": null
+    },
+    {
+      "slug": "aloe-vera",
+      "commonName": "Aloe Vera",
+      "commonNameBn": "ঘৃতকুমারী",
+      "scientificName": "Aloe vera",
+      "localName": "Ghritokumari (ঘৃতকুমারী)",
+      "family": "Asphodelaceae",
+      "familyBn": "অ্যাসফোডেলাসি (ঘৃতকুমারী গোত্র)",
+      "plantGroup": "Angiosperm (Monocot)",
+      "taxonomicDomain": "Ethnobotanical & Ayurvedic Herbs",
+      "category": "Medicinal",
+      "categories": [
+        "Medicinal",
+        "Shrubs & Herbs"
+      ],
+      "seasons": [
+        "grishmo",
+        "sheet"
+      ],
+      "seasonalPhenology": {
+        "grishmo": "Thick acemannan-gel rosettes conserve moisture via nocturnal CAM photosynthesis while cooling summer tonics peak.",
+        "sheet": "Dry winter sunlight keeps succulent rosettes compact and free of monsoon crown rot, occasionally sending up yellow flower spikes."
+      },
+      "shortSummary": "CAM-photosynthetic succulent rosette famous for hydrating acemannan inner leaf gel, yellow anthraquinone latex, and burn skincare.",
+      "thumbnailUrl": "https://images.pexels.com/photos/19797887/pexels-photo-19797887.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imageAlt": "Fleshy green Aloe vera succulent rosette with marginal teeth",
+      "featuredRank": null
+    },
+    {
+      "slug": "orchid",
+      "commonName": "Orchid",
+      "commonNameBn": "অর্কিড",
+      "scientificName": "Phalaenopsis & Orchidaceae",
+      "localName": "Orchid / Rasna (অর্কিড)",
+      "family": "Orchidaceae",
+      "familyBn": "অর্কিডাসি (অর্কিড গোত্র)",
+      "plantGroup": "Angiosperm (Monocot)",
+      "taxonomicDomain": "Angiosperms & Ornamentals",
+      "category": "Flowers",
+      "categories": [
+        "Flowers"
+      ],
+      "seasons": [
+        "shorot",
+        "sheet"
+      ],
+      "seasonalPhenology": {
+        "shorot": "Humid post-monsoon air fuels spongy velamen aerial root growth across epiphytic bark mounts.",
+        "sheet": "Cool night temperature drops trigger long-lasting arching Phalaenopsis flower spikes."
+      },
+      "shortSummary": "Hyper-diverse epiphytic monocot family featuring bilateral zygomorphic blooms, specialized labellum petals, and spongy velamen roots.",
+      "thumbnailUrl": "https://images.pexels.com/photos/30313199/pexels-photo-30313199.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imageAlt": "Delicate orchid blossoms showing symmetrical petals and central labellum lip",
+      "featuredRank": null
+    },
+    {
+      "slug": "bougainvillea",
+      "commonName": "Bougainvillea",
+      "commonNameBn": "বাগানবিলাস",
+      "scientificName": "Bougainvillea spectabilis",
+      "localName": "Baganbilash (বাগানবিলাস)",
+      "family": "Nyctaginaceae",
+      "familyBn": "নিক্টাজিনাসি (সন্ধ্যামালতী গোত্র)",
+      "plantGroup": "Angiosperm (Eudicot)",
+      "taxonomicDomain": "Angiosperms & Ornamentals",
+      "category": "Shrubs & Herbs",
+      "categories": [
+        "Shrubs & Herbs",
+        "Flowers"
+      ],
+      "seasons": [
+        "hemonto",
+        "sheet"
+      ],
+      "seasonalPhenology": {
+        "hemonto": "Drying post-monsoon soil provides the mild water-stress cue that shifts thorny canes from leafy growth to bract formation.",
+        "sheet": "Dry winter sunlight covers trellises and Dhaka rooftops in cascading magenta, coral, and white papery bracts."
+      },
+      "shortSummary": "Thorny Neotropical scrambling vine renowned for papery magenta-to-coral petaloid bracts surrounding inconspicuous creamy true flowers.",
+      "thumbnailUrl": "https://images.pexels.com/photos/28337842/pexels-photo-28337842.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imageAlt": "Cascading magenta Bougainvillea bracts blooming across sunlit wall",
+      "featuredRank": null
+    },
+    {
+      "slug": "tea-plant",
+      "commonName": "Tea Plant",
+      "commonNameBn": "চা গাছ",
+      "scientificName": "Camellia sinensis",
+      "localName": "Cha Gachh (চা গাছ)",
+      "family": "Theaceae",
+      "familyBn": "থিয়েসি (চা গোত্র)",
+      "plantGroup": "Angiosperm (Eudicot)",
+      "taxonomicDomain": "Ethnobotanical & Agroforestry Shrubs",
+      "category": "Shrubs & Herbs",
+      "categories": [
+        "Shrubs & Herbs",
+        "Medicinal"
+      ],
+      "seasons": [
+        "boshonto",
+        "borsha",
+        "hemonto"
+      ],
+      "seasonalPhenology": {
+        "boshonto": "Prized aromatic First-Flush apical 'two leaves and a bud' awaken across Sylhet and Sreemangal slopes.",
+        "borsha": "Monsoon mists and heavy hill rainfall drive peak Second-Flush tea plucking rounds.",
+        "hemonto": "Late-autumn cool nights concentrate L-theanine sweetness and waxy white axillary blossoms appear."
+      },
+      "shortSummary": "Acid-loving evergreen mountain camellia whose tender apical 'two leaves and a bud' yield black, green, oolong, and white teas.",
+      "thumbnailUrl": "https://images.pexels.com/photos/35141996/pexels-photo-35141996.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imageAlt": "Terraced emerald green Camellia sinensis tea plantation",
+      "featuredRank": null
+    }
+  ]
+}
