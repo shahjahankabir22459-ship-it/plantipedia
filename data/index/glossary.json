@@ -1,0 +1,255 @@
+{
+  "schemaVersion": "1.0.0",
+  "title": "Plantipedia Botanical Glossary",
+  "tooltipLabel": "Botanical Term",
+  "terms": [
+    {
+      "id": "deciduous",
+      "term": "Deciduous",
+      "aliases": ["deciduous", "semi-deciduous"],
+      "category": "Phenology",
+      "en": "Plants or trees that seasonally shed all or most of their leaves during dry or winter dormancy to conserve water.",
+      "bn": "পর্ণমোচী — যেসব গাছ বছরের নির্দিষ্ট শুষ্ক বা শীত ঋতুতে জল সংরক্ষণের জন্য পাতা ঝরিয়ে দেয়।"
+    },
+    {
+      "id": "inflorescence",
+      "term": "Inflorescence",
+      "aliases": ["inflorescence", "inflorescences"],
+      "category": "Morphology",
+      "en": "The complete arrangement or cluster of flowers borne on a single floral stem or branching axis (e.g., panicles, corymbs, or capitula).",
+      "bn": "পুষ্পমঞ্জরি — একটি প্রধান ডাঁটায় গুচ্ছবদ্ধভাবে সাজানো সম্পূর্ণ ফুলের বিন্যাস।"
+    },
+    {
+      "id": "alkaloid",
+      "term": "Alkaloids",
+      "aliases": ["alkaloid", "alkaloids"],
+      "category": "Phytochemistry",
+      "en": "Nitrogen-containing secondary plant compounds—such as vincristine or caffeine—that deter herbivores and often exhibit potent medicinal bioactivity.",
+      "bn": "উপক্ষাৰ / অ্যালকালয়েড — নাইট্রোজেনযুক্ত জৈব রাসায়নিক যৌগ, যা উদ্ভিদকে পোকামাকড় থেকে রক্ষা করে এবং ঔষধি গুণ বহন করে।"
+    },
+    {
+      "id": "pinnate",
+      "term": "Pinnate",
+      "aliases": ["pinnate", "imparipinnate", "bipinnate"],
+      "category": "Morphology",
+      "en": "Feather-like arrangement where leaflets or lateral leaf veins branch outward on opposite sides of a central axis (rachis or midrib).",
+      "bn": "পক্ষল — পাখির পালকের মতো একটি কেন্দ্রীয় শিরার দুই পাশে সমান্তরালভাবে সাজানো পত্রক বা শিরাবিন্যাস।"
+    },
+    {
+      "id": "endemic",
+      "term": "Endemic",
+      "aliases": ["endemic", "endemism"],
+      "category": "Biogeography",
+      "en": "A species or lineage occurring naturally only within a specific geographic region or ecological biome and nowhere else natively.",
+      "bn": "স্থানীয়/এনডেমিক — কেবল নির্দিষ্ট কোনো ভৌগোলিক অঞ্চলে প্রাকৃতিকভাবে জন্মানো উদ্ভিদ প্রজাতি।"
+    },
+    {
+      "id": "taproot",
+      "term": "Taproot",
+      "aliases": ["taproot", "taproots"],
+      "category": "Morphology",
+      "en": "A dominant central primary root descending vertically deep into soil strata, providing strong anchorage and dry-season moisture access.",
+      "bn": "প্রধান মূল — মাটির গভীরে সোজা নেমে যাওয়া শক্তিশালী প্রধান শিকড়, যা গাছকে দৃঢ়তা ও গভীর আর্দ্রতা দেয়।"
+    },
+    {
+      "id": "perennial",
+      "term": "Perennial",
+      "aliases": ["perennial", "perennials"],
+      "category": "Life Cycle",
+      "en": "A plant species living for more than two growing seasons, persisting through woody trunks, rhizomes, or underground rootstocks.",
+      "bn": "বহুবর্ষজীবী — দুই বছরের বেশি সময় ধরে বেঁচে থাকা ও বারবার ফুল-ফল উৎপাদনকারী উদ্ভিদ।"
+    },
+    {
+      "id": "drupe",
+      "term": "Drupe",
+      "aliases": ["drupe", "drupes"],
+      "category": "Carpology",
+      "en": "A fleshy indehiscent fruit (such as mango or coconut) with a thin outer skin, juicy or fibrous middle layer, and hard inner stone enclosing the seed.",
+      "bn": "আঁটিযুক্ত ফল (ড্রুপ) — বাইরের ত্বক, মাঝের রসালো শাঁস এবং ভেতরের শক্ত আঁটিযুক্ত ফল (যেমন আম বা নারিকেল)।"
+    },
+    {
+      "id": "rhizome",
+      "term": "Rhizome",
+      "aliases": ["rhizome", "rhizomes", "rhizomatous"],
+      "category": "Morphology",
+      "en": "A horizontal underground or submerged modified stem that stores starches and sends out new vegetative shoots and roots at nodes.",
+      "bn": "রাইজোম (ভূগর্ভস্থ কাণ্ড) — মাটির বা পানির নিচে অনুভূমিকভাবে বেড়ে ওঠা পরিবর্তিত কাণ্ড, যা থেকে নতুন চারা ও শিকড় গজায়।"
+    },
+    {
+      "id": "epiphytic",
+      "term": "Epiphytic",
+      "aliases": ["epiphytic", "epiphytes", "epiphyte", "hemiepiphytic"],
+      "category": "Ecology",
+      "en": "Growing harmlessly upon the bark or canopy branches of a host tree for physical support while absorbing moisture and nutrients from air and rain.",
+      "bn": "পরাশ্রয়ী — অন্য গাছের ডালে আশ্রয় নিয়ে বাতাস ও বৃষ্টি থেকে জল-পুষ্টি শোষণ করে বেড়ে ওঠা উদ্ভিদ।"
+    },
+    {
+      "id": "panicle",
+      "term": "Panicle",
+      "aliases": ["panicle", "panicles"],
+      "category": "Morphology",
+      "en": "A loosely branched, pyramidal compound flower cluster whose side branches bear pedicelled blossoms maturing sequentially.",
+      "bn": "যৌগিক মঞ্জরি (প্যানিকল) — শাখা-প্রশাখায় বিভক্ত পুষ্পস্তবক (যেমন আমের মুকুল)।"
+    },
+    {
+      "id": "corymb",
+      "term": "Corymb",
+      "aliases": ["corymb", "corymbs"],
+      "category": "Morphology",
+      "en": "A flat-topped or dome-shaped flower cluster where lower flower stalks elongate so all blooms sit in a unified visual canopy.",
+      "bn": "করিম্ব মঞ্জরি — যে পুষ্পস্তবকে নিচের ফুলের বোঁটা লম্বা হয়ে সব ফুল প্রায় একই সমতলে বা গম্বুজাকারে সাজানো থাকে।"
+    },
+    {
+      "id": "lanceolate",
+      "term": "Lanceolate",
+      "aliases": ["lanceolate"],
+      "category": "Morphology",
+      "en": "Shaped like a narrow spearhead—broadest slightly below the middle and tapering symmetrically toward a pointed apex.",
+      "bn": "বর্শাফলাকৃতির — বর্শার ফলার মতো লম্বাটে ও আগার দিকে ক্রমশ সরু হয়ে যাওয়া পাতার গড়ন।"
+    },
+    {
+      "id": "venation",
+      "term": "Venation",
+      "aliases": ["venation"],
+      "category": "Morphology",
+      "en": "The structural pattern of vascular veins across a leaf blade that conducts water, minerals, and synthesized sugars.",
+      "bn": "শিরাবিন্যাস — পাতার ফলকে জল ও খাদ্য পরিবহনকারী শিরাসমূহের বিন্যাস।"
+    },
+    {
+      "id": "cultivar",
+      "term": "Cultivar",
+      "aliases": ["cultivar", "cultivars"],
+      "category": "Horticulture",
+      "en": "A named cultivated plant variety selectively bred or grafted by growers for consistent fruit flavor, flower color, or vigor.",
+      "bn": "কাল্টিভার / নির্বাচিত জাত — উন্নত ফলন, স্বাদ বা রঙের জন্য কৃত্রিমভাবে নির্বাচিত ও সংরক্ষিত উদ্ভিদের জাত।"
+    },
+    {
+      "id": "angiosperm",
+      "term": "Angiosperm",
+      "aliases": ["angiosperm", "angiosperms"],
+      "category": "Taxonomy",
+      "en": "Flowering vascular plants whose ovules and seeds develop enclosed inside a protective ovary (ripening into a true fruit).",
+      "bn": "আবৃতবীজী উদ্ভিদ — ফুল উৎপাদনকারী উদ্ভিদ, যাদের বীজ ফলের ভেতরে সুরক্ষিত থাকে।"
+    },
+    {
+      "id": "eudicot",
+      "term": "Eudicot",
+      "aliases": ["eudicot", "dicot"],
+      "category": "Taxonomy",
+      "en": "A major flowering plant clade characterized by two embryonic seed leaves (cotyledons), reticulate leaf veins, and tricolpate pollen.",
+      "bn": "দ্বিবীজপত্রী উদ্ভিদ — যেসব উদ্ভিদের বীজে দুটি বীজপত্র এবং পাতায় জালিকাকার শিরাবিন্যাস থাকে।"
+    },
+    {
+      "id": "monocot",
+      "term": "Monocot",
+      "aliases": ["monocot", "monocots"],
+      "category": "Taxonomy",
+      "en": "Flowering plants possessing a single embryonic seed leaf (cotyledon), parallel leaf venation, and floral parts typically in threes.",
+      "bn": "একবীজপত্রী উদ্ভিদ — একটি বীজপত্র ও সমান্তরাল শিরাবিন্যাসযুক্ত পাতাবিশিষ্ট উদ্ভিদ (যেমন তাল, বাঁশ, অর্কিড)।"
+    },
+    {
+      "id": "nectary",
+      "term": "Nectary",
+      "aliases": ["nectary", "nectaries"],
+      "category": "Morphology",
+      "en": "A specialized sugar-secreting floral or extrafloral gland that rewards pollinating bees, butterflies, hoverflies, or birds.",
+      "bn": "মধুগ্রন্থি — ফুলের মধু নিঃসরণকারী গ্রন্থি, যা পরাগায়নকারী পতঙ্গ ও পাখিকে আকৃষ্ট করে।"
+    },
+    {
+      "id": "frugivore",
+      "term": "Frugivore",
+      "aliases": ["frugivore", "frugivores", "frugivorous"],
+      "category": "Ecology",
+      "en": "An animal—such as fruit bats, hornbills, or bulbuls—that feeds predominantly on fleshy fruits and disperses viable seeds across habitats.",
+      "bn": "ফলভোজী প্রাণী — ফল খেয়ে বীজ বিস্তারে সাহায্যকারী পাখি, বাদুড় বা বন্যপ্রাণী।"
+    },
+    {
+      "id": "alluvial",
+      "term": "Alluvial",
+      "aliases": ["alluvial", "alluvium"],
+      "category": "Ecology",
+      "en": "Fertile, mineral-rich silt, sand, and clay deposited along river floodplains and delta basins such as the Bengal Delta.",
+      "bn": "পলিমাটি-সমৃদ্ধ — নদী ও ব-দ্বীপ অঞ্চলের উর্বর পলি দ্বারা গঠিত ভূমি বা মৃত্তিকা।"
+    },
+    {
+      "id": "endocarp",
+      "term": "Endocarp",
+      "aliases": ["endocarp"],
+      "category": "Carpology",
+      "en": "The innermost layer of a fruit wall (pericarp) directly surrounding the seed—often hardened into a woody shell or fibrous stone.",
+      "bn": "অন্তঃত্বক (এন্ডোকার্প) — ফলের সবচেয়ে ভেতরের শক্ত আবরণ বা আঁটি, যা বীজকে ঘিরে রাখে।"
+    },
+    {
+      "id": "staminate",
+      "term": "Staminate",
+      "aliases": ["staminate"],
+      "category": "Morphology",
+      "en": "A male-functional flower bearing pollen-producing stamens without a fertile pistil.",
+      "bn": "পুরুষ পুষ্প — কেবল পরাগধানীযুক্ত পুরুষ ফুল, যাতে গর্ভকেশর অনুপস্থিত থাকে।"
+    },
+    {
+      "id": "hermaphroditic",
+      "term": "Hermaphroditic",
+      "aliases": ["hermaphroditic"],
+      "category": "Morphology",
+      "en": "A bisexual flower containing both functional male stamens and female carpels within the same blossom.",
+      "bn": "উভলিঙ্গ পুষ্প — একই ফুলে পুংকেশর ও গর্ভকেশর উভয়ই কার্যকরভাবে উপস্থিত থাকা।"
+    },
+    {
+      "id": "polyphenol",
+      "term": "Polyphenols",
+      "aliases": ["polyphenol", "polyphenols", "polyphenolic"],
+      "category": "Phytochemistry",
+      "en": "Antioxidant plant metabolites—including catechins, flavonoids, and tannins—that protect leaves against UV stress and oxidative damage.",
+      "bn": "পলিফেনল — উদ্ভিদের শক্তিশালী অ্যান্টিঅক্সিডেন্ট যৌগ, যা অতিবেগুনি রশ্মি ও রোগজীবাণু থেকে রক্ষা করে।"
+    },
+    {
+      "id": "aerenchyma",
+      "term": "Aerenchyma",
+      "aliases": ["aerenchyma"],
+      "category": "Anatomy",
+      "en": "Spongy gas-filled air canals inside wetland stems and floating petioles that supply oxygen to submerged roots and maintain buoyancy.",
+      "bn": "বায়বীয় কলা (এরেনকাইমা) — জলজ উদ্ভিদের পাতা ও ডাঁটার স্পঞ্জসদৃশ বায়ুকুঠুরি, যা ভাসমান থাকতে ও শিকড়ে অক্সিজেন পৌঁছাতে সাহায্য করে।"
+    },
+    {
+      "id": "cauliflorous",
+      "term": "Cauliflorous",
+      "aliases": ["cauliflorous", "cauliflory"],
+      "category": "Morphology",
+      "en": "Botanical habit where flowers and massive fruits emerge directly from the woody main trunk and thick scaffold branches rather than twig tips.",
+      "bn": "কাণ্ডলগ্ন পুষ্পায়ন — কচি ডালের পরিবর্তে সরাসরি গাছের মূল কাণ্ড বা মোটা ডাল থেকে ফুল ও ফল (যেমন কাঁঠাল) বের হওয়া।"
+    },
+    {
+      "id": "pollination guild",
+      "term": "Pollination Guild",
+      "aliases": ["pollination guild", "pollination guilds", "dipteran guilds"],
+      "category": "Ecology",
+      "en": "A functional group of pollinators (bees, hoverflies, bats, or hawkmoths) drawn to plants sharing compatible floral shapes, scents, and nectar timing.",
+      "bn": "পরাগায়নকারী দল — একই ধরনের ফুলের গঠন ও মধুর টানে আকৃষ্ট মৌমাছি, প্রজাপতি বা পাখির সমষ্টি।"
+    },
+    {
+      "id": "allelopathy",
+      "term": "Allelopathy",
+      "aliases": ["allelopathy", "allelopathic"],
+      "category": "Ecology",
+      "en": "The biochemical phenomenon where a plant releases secondary compounds (such as alpha-terthienyl from marigold roots) into soil to suppress competing weeds or root nematodes.",
+      "bn": "অ্যালিলোপ্যাথি — উদ্ভিদের শিকড় বা পাতা থেকে নিঃসৃত প্রাকৃতিক জৈব-রাসায়নিক পদার্থ, যা মাটির ক্ষতিকর কৃমি বা প্রতিদ্বন্দ্বী আগাছার বৃদ্ধি দমন করে।"
+    },
+    {
+      "id": "mycorrhiza",
+      "term": "Mycorrhiza",
+      "aliases": ["mycorrhiza", "mycorrhizal", "mycorrhizae"],
+      "category": "Ecology",
+      "en": "A mutually beneficial symbiotic association between beneficial soil fungi and vascular plant roots that expands phosphorus, micronutrient, and water uptake.",
+      "bn": "মাইকোরাইজা — উদ্ভিদের শিকড় ও উপকারী ছত্রাকের মিথোজীবী সম্পর্ক, যা মাটি থেকে ফসফরাস ও খনিজ শোষণ বহুগুণ বাড়িয়ে দেয়।"
+    },
+    {
+      "id": "l-theanine",
+      "term": "L-theanine",
+      "aliases": ["l-theanine", "theanine"],
+      "category": "Phytochemistry",
+      "en": "A unique non-protein amino acid synthesized predominantly in Camellia sinensis roots and leaves that imparts umami sweetness and promotes calm cognitive focus.",
+      "bn": "এল-থিয়ানিন — চা পাতায় (Camellia sinensis) পাওয়া বিশেষ অ্যামিনো অ্যাসিড, যা চায়ে মৃদু মিষ্টতা আনে এবং মানসিক প্রশান্তি ও মনোযোগ বাড়াতে সহায়তা করে।"
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "schemaVersion": "1.1.0",
+  "slug": "golpata",
+  "commonName": "Nipa Palm (Golpata)",
+  "scientificName": "Nypa fruticans",
+  "localName": "Golpata (গোলপাতা)",
+  "category": "Aquatic",
+  "categories": [
+    "Aquatic",
+    "Trees & Palms"
+  ],
+  "taxonomicDomain": "Hydrophytes & Wetland Flora",
+  "featuredRank": null,
+  "shortSummary": "Trunkless creeping mangrove palm lining Sundarbans tidal creeks with soaring feather fronds prized for storm-proof roof thatching and sweet brackish sap.",
+  "leadOverview": "Nypa fruticans—universally known across coastal Bangladesh as Golpata—is the world's only true mangrove palm and the sole surviving member of ancient subfamily Nypoideae. Lacking an upright aerial trunk, its massive dichotomous creeping rhizomes anchor muddy estuarine banks while sending up arching 6-to-9-metre feather fronds used for centuries as cool, cyclone-resilient coastal roofing.",
+  "heroImage": {
+    "url": "https://images.pexels.com/photos/18260130/pexels-photo-18260130.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "alt": "Trunkless mangrove Nipa palm fronds arching along muddy tidal waterway",
+    "caption": "Soaring feathery Nypa fruticans (Golpata) fronds rising straight from submerged tidal mudbanks."
+  },
+  "overview": {
+    "plantGroup": "Angiosperm (Monocot)",
+    "family": "Arecaceae",
+    "genus": "Nypa",
+    "species": "N. fruticans",
+    "growthForm": "Trunkless creeping estuarine palm (5–9 m fronds)",
+    "nativeOrigin": "Indo-West Pacific Tidal Estuaries & Sundarbans",
+    "commonUses": "Cool waterproof roof thatch, tidal bank stabilization, sweet sap/vinegar, jelly kernels"
+  },
+  "cultivationTelemetry": {
+    "phMin": 6.0,
+    "phMax": 8.0,
+    "phOptimalLabel": "pH 6.0 – 8.0",
+    "sunlightLevel": 3,
+    "sunlightLabel": "Full Tidal Sun",
+    "irrigationLevel": 3,
+    "irrigationLabel": "Twice-Daily Tidal Mud",
+    "soilDrainageLabel": "Soft Brackish Estuarine Silt"
+  },
+  "sections": [
+    {
+      "number": "01",
+      "title": "Morphological Description",
+      "subtitle": "Subterranean forked rhizomes, trunkless 9-metre fronds, and cannonball fruit heads",
+      "summary": "Anatomy of creeping submerged palm trunks, giant pinnate blades, and viviparous floating fruit clusters.",
+      "paragraphs": [
+        "Unlike Coconut or Palmyra palms that soar atop vertical wooden columns, Nypa fruticans grows horizontally beneath soft tidal mud via thick, spongily buoyant creeping rhizomes that fork dichotomously as they crawl along riverbanks. From these buried stems erupt graceful upright bouquets of massive feather-like pinnate fronds (5–9 m tall) clutching clean, bright-green ribbed petioles.",
+        "An upright club-shaped floral stalk rises scarcely a metre above the mud bearing tightly packed female flowers at its tip and golden catkin-like male branches below. Pollinated heads swell into striking dark-brown spiky cannonball clusters (25–35 cm wide) composed of dozens of angular buoyant fruits whose seeds often sprout right while drifting on brackish tides (incipient vivipary)."
+      ],
+      "subblocks": [
+        {
+          "heading": "Prostrate Forking Rhizome",
+          "text": "Spongy dichotomous underground stem anchoring estuarine silt while floating clear of anoxic mud layers."
+        },
+        {
+          "heading": "Thornless Soaring Fronds",
+          "text": "Giant 6–9 m glossy pinnate leaves lacking spines, packed with fibrous waterproof cuticles."
+        },
+        {
+          "heading": "Tidal Club Inflorescence",
+          "text": "Sturdy short stalk elevating sweet-scented yellow-orange blooms safely above daily high tides."
+        },
+        {
+          "heading": "Spiky Cannonball Infructescence",
+          "text": "Globular cluster of fibrous ridged fruits dispersing buoyant germinating seedlings along ebb tides."
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/18260130/pexels-photo-18260130.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Nypa fruticans mangrove palms on bank",
+          "caption": "Arching trunkless palm fronds lining muddy estuarine creek curves."
+        },
+        {
+          "url": "https://images.pexels.com/photos/30230219/pexels-photo-30230219.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Close-up of sunlit tropical palm leaflets",
+          "caption": "Durable waterproof leaflets prized across coastal Bangladesh for cooling roof thatch."
+        }
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Taxonomy & Botanical Classification",
+      "subtitle": "Living fossil monotypic subfamily Nypoideae in Arecaceae",
+      "summary": "Ancient Eocene-fossil palm lineage represented today by a single estuarine species.",
+      "paragraphs": [
+        "Placed in order Arecales and family Arecaceae, Nypa fruticans occupies its own monotypic subfamily Nypoideae—representing one of botany's oldest surviving monocot lineages, with distinctive fossilized Nypa fruits preserved in 70-million-year-old Paleocene sediments from London Clay to Brazil.",
+        "Friedrich von Wurmb formally described the species in 1779; remarkably, despite its Bengali colloquial name 'Golpata' ('Round Leaf'), the plant's leaves are unmistakably elongated pinnate palm fronds—scholars note the name likely stems either from the round cannonball fruit clusters ('Gol-phol') or bundled thatched rolls ('Gola')."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/18260130/pexels-photo-18260130.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Living-fossil Nypa fruticans stand",
+          "caption": "Ancient Paleocene-lineage palm unchanged in coastal estuarine adaptation for millennia."
+        }
+      ]
+    },
+    {
+      "number": "03",
+      "title": "Natural Habitat & Global Distribution",
+      "subtitle": "Sundarbans river meanders, Chakaria coasts, and Indo-West Pacific tidal muds",
+      "summary": "Soft brackish mudflat distribution from Ganges-Meghna delta eastward to Queensland and Ryukyu.",
+      "paragraphs": [
+        "Native across quiet tidal riverbanks, brackish lagoons, and mangrove backwaters from India and Bangladesh through Myanmar, Thailand, Malaysia, Indonesia, and the Philippines to northern Australia, Nypa thrives where soft silty mud meets twice-daily tidal mixing.",
+        "In Bangladesh, dense shimmering bands of Golpata fringe nearly every freshwater-influenced creek across the Sundarbans (Khulna, Bagerhat, Satkhira) as well as Barguna and Patuakhali coastlines."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/29290593/pexels-photo-29290593.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Serene Sundarbans tidal waterway",
+          "caption": "Calm brackish river bends providing soft silt and balanced tidal inundation."
+        }
+      ]
+    },
+    {
+      "number": "04",
+      "title": "Ecological Role & Pollinator Interactions",
+      "subtitle": "Drosophilid fly pollination, silt erosion armor, and Bengal tiger ambush cover",
+      "summary": "Specialized fly pollination, riverbank stabilization against tidal erosion, and estuarine biodiversity.",
+      "paragraphs": [
+        "Warm thermogenic male catkins emit fermented yeast-like scents attracting thousands of tiny fruit flies (Drosophilidae), nitidulid beetles, and stingless bees that shuttle sticky orange pollen onto globular female stigmas.",
+        "Dense creeping rhizomes act as living biological gabions—trapping floating river silt, cushioning monsoon wave scour along village embankments, and sheltering mudskippers, estuarine otters, and juvenile shrimp."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/36584776/pexels-photo-36584776.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Tidal mangrove riverbank habitat",
+          "caption": "Interlocking rhizomes and submerged leaf bases anchoring estuarine riverbanks."
+        }
+      ]
+    },
+    {
+      "number": "05",
+      "title": "Economic, Culinary & Cultural Importance",
+      "subtitle": "Sundarbans Mawali & Bawali roof thatching, Nipa sap sugar, and translucent Attap Chee kernels",
+      "summary": "Iconic coastal roof architecture, sustainable Bawali frond permits, and edible jelly seeds.",
+      "paragraphs": [
+        "For generations, licensed Sundarbans woodcutters ('Bawalis') have sailed wide wooden boats along tidal khals harvesting mature outer Golpata fronds—leaving the central young spear leaf untouched so clumps regenerate swiftly. Folded overlapping sheets craft cool, breathable, rainproof roofs ('Golpata-r Chhaal') lasting 4 to 6 years across coastal Bengal and eco-resorts.",
+        "Across Southeast Asia and southern coastal districts, gentle kicking and bending of maturing fruit stalks stimulates abundant sugary phloem sap yielding fragrant Nipa palm sugar, vinegar, and biofuels, while young fruits yield chewy translucent jelly kernels ('Attap Chee')."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/18260130/pexels-photo-18260130.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Harvestable Nipa palm fronds",
+          "caption": "Selective Bawali pruning of outer fronds sustains healthy regrowth and coastal housing livelihoods."
+        }
+      ]
+    },
+    {
+      "number": "06",
+      "title": "Traditional & Scientific Medicinal Properties",
+      "subtitle": "Chlorogenic polyphenols, young leaf-sap hydration, and saline-stress antioxidants",
+      "summary": "Phenolic antioxidant compounds in tender fronds and mineral-rich palm sap with hygiene guidance.",
+      "paragraphs": [
+        "Young unexpanded palm heart shoots and roasted seed kernels appear modestly in coastal folk diets for cooling energy and mild digestive soothing, while laboratory analyses reveal phenolic acids (chlorogenic and protocatechuic acids), flavonoids, and saponins helping leaves resist saline oxidative stress.",
+        "Sap sugars boast low-to-moderate glycemic mineral profiles alongside potassium and magnesium when boiled cleanly into Nipa jaggery."
+      ],
+      "safetyNote": "Harvest Golpata only under official Forest Department permits outside protected core tiger sanctuaries; never drink raw unboiled sap exposed to nocturnal wildlife, and beware razor-sharp waterlogged rhizome stubs in tidal mud.",
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/30230219/pexels-photo-30230219.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Sunlit green Nipa palm foliage",
+          "caption": "Phenolic-rich cuticles shielding coastal fronds against brackish spray and UV glare."
+        }
+      ]
+    },
+    {
+      "number": "07",
+      "title": "Comprehensive Cultivation & Care Guide",
+      "subtitle": "Floating sprouted fruit planting, tidal bank mud, and selective frond pruning",
+      "summary": "Establishing Golpata bands along brackish coastal embankments and aquaculture dykes.",
+      "paragraphs": [
+        "Collect buoyant sprouted fruits washing gently along tidal mudflats and press them two-thirds deep into soft sheltered estuarine silt or tidal shrimp-pond dykes (pH 6.0–8.0, low-to-moderate salinity 2–18 ppt) spaced 2 metres apart along waterlines.",
+        "Wait 3 to 4 years for subterranean rhizomes to knit banks solidly before harvesting; cut only mature outer fronds 30 centimetres above mud—always preserving at least 2 to 3 upright central fronds per clump so rhizomes never drown under high tides."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/18260130/pexels-photo-18260130.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Thriving coastal Golpata stand",
+          "caption": "Preserving central upright leaves ensures decades of sustainable thatch harvests and bank armor."
+        }
+      ]
+    }
+  ],
+  "schemaOrg": {
+    "@type": "Taxon",
+    "name": "Nypa fruticans",
+    "alternateName": [
+      "Nipa Palm (Golpata)",
+      "Golpata (গোলপাতা)"
+    ],
+    "taxonRank": "Species",
+    "parentTaxon": {
+      "@type": "Taxon",
+      "name": "Nypa",
+      "taxonRank": "Genus",
+      "parentTaxon": {
+        "@type": "Taxon",
+        "name": "Arecaceae",
+        "taxonRank": "Family"
+      }
+    }
+  }
+}

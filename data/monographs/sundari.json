@@ -1,0 +1,204 @@
+{
+  "schemaVersion": "1.1.0",
+  "slug": "sundari",
+  "commonName": "Sundari Mangrove",
+  "scientificName": "Heritiera fomes",
+  "localName": "Sundori (সুন্দরী)",
+  "category": "Aquatic",
+  "categories": [
+    "Aquatic",
+    "Trees & Palms"
+  ],
+  "taxonomicDomain": "Hydrophytes & Wetland Flora",
+  "featuredRank": null,
+  "shortSummary": "Flagship mangrove timber giant that gave the Sundarbans forest its name, armed with blade-like plank buttresses, upward-breathing pneumatophores, and silvery leaf undersides.",
+  "leadOverview": "Heritiera fomes—celebrated across Bangladesh and West Bengal as Sundori—is the iconic dominant canopy tree of the world's largest contiguous mangrove ecosystem, the Sundarbans ('Beautiful Forest' / 'Forest of Sundari'). Towering above tidal brackish creeks on fluted buttresses and vertical peg-like breathing roots, this endangered mallow-family tree shields coastal deltas from catastrophic cyclones.",
+  "heroImage": {
+    "url": "https://images.pexels.com/photos/29290592/pexels-photo-29290592.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "alt": "Lush green Sundari mangrove forest trees along Sundarbans waterway",
+    "caption": "Dense emerald tidal mangrove canopy dominating brackish channels in the Sundarbans."
+  },
+  "overview": {
+    "plantGroup": "Angiosperm (Eudicot)",
+    "family": "Malvaceae",
+    "genus": "Heritiera",
+    "species": "H. fomes",
+    "growthForm": "Evergreen tidal mangrove tree (15–25 m)",
+    "nativeOrigin": "Sundarbans & Indo-Burmese Estuarine Deltas",
+    "commonUses": "Estuarine cyclone bio-shield, heavy boat-building & bridge timber, wildlife habitat"
+  },
+  "cultivationTelemetry": {
+    "phMin": 6.5,
+    "phMax": 8.0,
+    "phOptimalLabel": "pH 6.5 – 8.0",
+    "sunlightLevel": 3,
+    "sunlightLabel": "Full Estuarine Sun",
+    "irrigationLevel": 3,
+    "irrigationLabel": "Tidal Brackish Floodplain",
+    "soilDrainageLabel": "Silty Estuarine Tidal Mud"
+  },
+  "sections": [
+    {
+      "number": "01",
+      "title": "Morphological Description",
+      "subtitle": "Silvery-scaly leaf undersides, plank buttresses, breathing pneumatophores, and keeled woody nuts",
+      "summary": "Anatomy of tidal adaptations: air-breathing peg roots, buttressed trunks, silvery blades, and buoyant samaras.",
+      "paragraphs": [
+        "Heritiera fomes reaches 15 to 25 metres in height atop narrow fluted plank buttresses radiating around the trunk base to anchor firmly in soft shifting estuarine silt. Surrounding the trunk, thousands of vertical blind peg-like aerial roots (pneumatophores, 15–50 cm tall) sprout upward out of oxygen-starved tidal mud—packed with spongy lenticel pores that inhale atmospheric oxygen during low tide.",
+        "Its alternate leathery oblong-elliptic leaves (10–20 cm long) gleam dark green above and shimmer metallic silvery-white underneath due to microscopic peltate scales that reflect intense estuarine glare and cut water loss. Tiny pinkish-orange unisexual bell flowers open in axillary panicles during Boshonto, ripening into woody dark-brown keeled fruits (3–4 cm) buoyed by internal air chambers."
+      ],
+      "subblocks": [
+        {
+          "heading": "Vertical Pneumatophores",
+          "text": "Spear-like upward-growing breathing roots piping atmospheric oxygen downward to submerged root zones."
+        },
+        {
+          "heading": "Silver-Scaled Leaf Undersides",
+          "text": "Densely packed silvery fimbriate scales reflecting heat and maintaining leaf osmotic balance."
+        },
+        {
+          "heading": "Plank Buttress Base",
+          "text": "Fluted basal trunk fins stabilizing tall canopies against ferocious tidal bores and cyclonic winds."
+        },
+        {
+          "heading": "Keeled Buoyant Nuts",
+          "text": "Winged-ribbed woody carpels floating upright along outgoing ebb tides to colonize fresh mudbanks."
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/29290592/pexels-photo-29290592.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Sundarbans green mangrove shoreline",
+          "caption": "Dense Sundarbans mangrove canopy shimmering along brackish estuarine creeks."
+        },
+        {
+          "url": "https://images.pexels.com/photos/36584776/pexels-photo-36584776.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Tangled mangrove root ecosystem in tidal mud",
+          "caption": "Interlocking aerial breathing roots anchoring shifting delta mudflats."
+        }
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Taxonomy & Botanical Classification",
+      "subtitle": "Malvaceae Sterculioideae mangrove lineage and IUCN Endangered status",
+      "summary": "Taxonomic placement within Malvaceae and conservation threat from 'top-dying' disease.",
+      "paragraphs": [
+        "Formerly classified in Sterculiaceae, Heritiera fomes sits firmly inside subfamily Sterculioideae of family Malvaceae (order Malvales)—making this salt-marsh giant a distant relative of Hibiscus and Cocoa. Francis Buchanan-Hamilton collected and named the species in 1800 honoring French magistrate-botanist Charles Louis L'Héritier de Brutelle.",
+        "Rated Endangered on the IUCN Red List, wild Heritiera fomes stands across the eastern Sundarbans face mounting stress from rising dry-season salinity (reduced upstream Ganges freshwater flows) and 'top-dying' canopy dieback."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/29290593/pexels-photo-29290593.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Mangrove forest lining calm waterway",
+          "caption": "Protected tidal creek corridors crucial for conserving endangered Heritiera fomes populations."
+        }
+      ]
+    },
+    {
+      "number": "03",
+      "title": "Natural Habitat & Global Distribution",
+      "subtitle": "Ganges-Brahmaputra-Meghna Sundarbans delta and coastal Myanmar swamps",
+      "summary": "Less-saline inner mangrove belt distribution dependent on seasonal freshwater monsoon flushing.",
+      "paragraphs": [
+        "Restricted narrowly to the Indo-Burmese estuarine coast—principally the Bangladesh and West Bengal Sundarbans alongside fragmented Irrawaddy and Rakhine deltas in Myanmar—Heritiera fomes occupies the slightly elevated, mildly brackish inner mangrove zone flushed heavily by freshwater monsoon floods.",
+        "Within Bangladesh's Khulna, Bagerhat, and Satkhira Sundarbans Reserve Forest, Sundari accounts for nearly two-thirds of the forest's high-canopy basal area where salinity remains moderate (5–15 ppt)."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/29290592/pexels-photo-29290592.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Tidal Sundarbans mangrove foliage",
+          "caption": "Low-to-moderate salinity tidal riverbanks fostering towering Sundari canopy stands."
+        }
+      ]
+    },
+    {
+      "number": "04",
+      "title": "Ecological Role & Pollinator Interactions",
+      "subtitle": "Cyclone storm-surge attenuation, Bengal tiger refuge, and Sundarbans honey",
+      "summary": "Keystone coastal bio-shield protecting millions while anchoring estuarine food webs.",
+      "paragraphs": [
+        "Sundari's interlocking trunks and dense pneumatophore mats absorb massive cyclone wind energy and storm-surge wave height—shielding coastal Khulna and Barishal villages during hurricanes such as Sidr, Aila, and Amphan. Fallen decaying leaves sustain detritus-feeding mud crabs, tiger prawns, and juvenile coastal fisheries.",
+        "Above the mud, dense Sundari-Gewa thickets shelter the endangered Royal Bengal Tiger, estuarine crocodiles, spotted deer, and migratory colonies of Apis dorsata honeybees harvested seasonally by traditional Sundarbans Mowalis."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/36584776/pexels-photo-36584776.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Intricate mangrove root nursery",
+          "caption": "Pneumatophores and tidal roots creating vital breeding nurseries for estuarine fish and crabs."
+        }
+      ]
+    },
+    {
+      "number": "05",
+      "title": "Economic, Culinary & Cultural Importance",
+      "subtitle": "Eponym of the Sundarbans, legendary salt-proof boat timber, and protected conservation heritage",
+      "summary": "Cultural namesake of the Sundarbans and historic boat-building wood now strictly protected.",
+      "paragraphs": [
+        "Linguists widely trace the name 'Sundarbans' directly to 'Sundari-ban' ('Forest of the Sundari tree'), anchoring Bangladesh's national environmental identity alongside the Sundarbans UNESCO World Heritage Site.",
+        "Historically prized above almost every regional wood for saltwater-proof sampan boats, house pilings, and electric poles due to ultra-dense red-brown heartwood, commercial felling of wild Sundari inside the Bangladesh Sundarbans is now strictly prohibited to let weakened forests recover."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/29290593/pexels-photo-29290593.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Serene mangrove channel",
+          "caption": "Protected UNESCO World Heritage waterways safeguarding historic Sundari stands."
+        }
+      ]
+    },
+    {
+      "number": "06",
+      "title": "Traditional & Scientific Medicinal Properties",
+      "subtitle": "Tannin polyphenols, proanthocyanidins, and mangrove antimicrobial chemistry",
+      "summary": "Ethnobotanical astringent bark tannins and emerging salt-stress polyphenol research.",
+      "paragraphs": [
+        "Coastal communities around the Sundarbans fringe historically prepared mild bark and twig decoctions for skin washes and digestive astringency, while modern phytochemical screening identifies condensed proanthocyanidins, quercetin, and triterpenoids synthesized to defend foliage against UV glare and brackish salt stress.",
+        "In vitro assays show Heritiera leaf and bark extracts exhibit significant free-radical scavenging and antibacterial potential, though conservation protection strictly limits destructive harvesting."
+      ],
+      "safetyNote": "Wild Sundari trees are an IUCN Endangered mangrove species under strict forest conservation law—never strip bark or collect wild specimens inside protected Sundarbans zones; high tannin levels also irritate the stomach if ingested without proper pharmaceutical preparation.",
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/29290592/pexels-photo-29290592.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Protected Sundari mangrove canopy",
+          "caption": "Silvery salt-adapted leaves rich in stress-protective polyphenolic antioxidants."
+        }
+      ]
+    },
+    {
+      "number": "07",
+      "title": "Comprehensive Cultivation & Care Guide",
+      "subtitle": "Fresh hydrochorous seed nurseries, freshwater-flushed mud, and coastal restoration",
+      "summary": "Raising Sundari seedlings for sanctioned estuarine mangrove rehabilitation programs.",
+      "paragraphs": [
+        "Unlike viviparous Rhizophora mangroves that drop long spear-like propagules, Sundari drops short-lived floating woody nuts during Borsha monsoon rains. Collect freshly fallen unbored nuts floating along clean estuarine edges and sow half-submerged horizontally in soft river-silt polybags watered alternately with fresh and mildly brackish water (salinity <10 ppt, pH 6.5–8.0).",
+        "Because Sundari grows poorly in hypersaline open seafront mud, restoration foresters plant nursery saplings behind pioneer Keora (Sonneratia apetala) shelterbelts on higher silty banks flushed regularly by freshwater monsoon tides."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/36584776/pexels-photo-36584776.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Regenerating mangrove swamp shoreline",
+          "caption": "Protected behind pioneer Keora bands, young Sundari seedlings anchor accreting estuarine silt."
+        }
+      ]
+    }
+  ],
+  "schemaOrg": {
+    "@type": "Taxon",
+    "name": "Heritiera fomes",
+    "alternateName": [
+      "Sundari Mangrove",
+      "Sundori (সুন্দরী)"
+    ],
+    "taxonRank": "Species",
+    "parentTaxon": {
+      "@type": "Taxon",
+      "name": "Heritiera",
+      "taxonRank": "Genus",
+      "parentTaxon": {
+        "@type": "Taxon",
+        "name": "Malvaceae",
+        "taxonRank": "Family"
+      }
+    }
+  }
+}

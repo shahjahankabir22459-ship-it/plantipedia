@@ -1,0 +1,75 @@
+{
+  "schemaVersion": "3.0.0",
+  "routes": [
+    {
+      "id": "home",
+      "path": "./",
+      "dataPage": "home",
+      "rootDepth": "./",
+      "datasets": ["page:home", "speciesIndex", "featured", "taxonomy", "trivia", "highlights"]
+    },
+    {
+      "id": "species",
+      "path": "./species/",
+      "dataPage": "species",
+      "rootDepth": "../",
+      "datasets": ["page:species", "speciesIndex"]
+    },
+    {
+      "id": "plant",
+      "path": "./plant/",
+      "dataPage": "plant",
+      "rootDepth": "../",
+      "datasets": ["page:plant", "speciesIndex", "glossary"]
+    },
+    {
+      "id": "plant-live",
+      "path": "./plant/live/",
+      "dataPage": "plant-live",
+      "rootDepth": "../../",
+      "datasets": ["page:plant", "speciesIndex", "glossary"]
+    },
+    {
+      "id": "taxonomy",
+      "path": "./taxonomy/",
+      "dataPage": "taxonomy",
+      "rootDepth": "../",
+      "datasets": ["page:taxonomy", "speciesIndex"]
+    },
+    {
+      "id": "seasons",
+      "path": "./seasons/",
+      "dataPage": "seasons",
+      "rootDepth": "../",
+      "datasets": ["page:seasons", "speciesIndex"]
+    },
+    {
+      "id": "compare",
+      "path": "./compare/",
+      "dataPage": "compare",
+      "rootDepth": "../",
+      "datasets": ["page:compare", "speciesIndex"]
+    },
+    {
+      "id": "compare-result",
+      "path": "./compare/result/",
+      "dataPage": "compare-result",
+      "rootDepth": "../../",
+      "datasets": ["page:compare", "speciesIndex"]
+    },
+    {
+      "id": "services",
+      "path": "./services/",
+      "dataPage": "services",
+      "rootDepth": "../",
+      "datasets": ["page:services", "speciesIndex", "page:seasons", "glossary"]
+    },
+    {
+      "id": "not-found",
+      "path": "./404.html",
+      "dataPage": "404",
+      "rootDepth": "./",
+      "datasets": ["speciesIndex"]
+    }
+  ]
+}

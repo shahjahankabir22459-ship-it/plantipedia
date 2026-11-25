@@ -1,0 +1,205 @@
+{
+  "schemaVersion": "1.1.0",
+  "slug": "bael",
+  "commonName": "Bael (Wood Apple)",
+  "scientificName": "Aegle marmelos",
+  "localName": "Bel (বেল)",
+  "category": "Fruit Trees",
+  "categories": [
+    "Fruit Trees",
+    "Medicinal",
+    "Trees & Palms"
+  ],
+  "taxonomicDomain": "Tropical Pomology & Fruit Trees",
+  "featuredRank": null,
+  "shortSummary": "Sacred spiny citrus-family tree bearing hard-shelled golden amphisarca fruits prized for cooling Bel-er Shorbot summer drinks and marmelosin gut-soothing pectin.",
+  "leadOverview": "Aegle marmelos—cherished across South Asia as Bael or Bel—is a hardy deciduous citrus-family tree renowned for its woody armor-plated fruit shell and sweet, fragrant butterscotch-apricot pulp. Revered in sacred groves for its characteristic trifoliate leaves, its summer-ripening pulp whips into Bengal's beloved cooling Bel-er Shorbot while unripe slices anchor Ayurvedic digestive pharmacology.",
+  "heroImage": {
+    "url": "https://images.pexels.com/photos/33249551/pexels-photo-33249551.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "alt": "Hard-shelled green orchard fruits hanging among leaves",
+    "caption": "Developing hard-rinded orchard fruits and glossy green foliage characteristic of Aegle marmelos groves."
+  },
+  "overview": {
+    "plantGroup": "Angiosperm (Eudicot)",
+    "family": "Rutaceae",
+    "genus": "Aegle",
+    "species": "A. marmelos",
+    "growthForm": "Spiny deciduous medium tree (10–15 m)",
+    "nativeOrigin": "Indian Subcontinent & Southeast Asia",
+    "commonUses": "Cooling summer Bel Shorbot juice, marmalade, digestive Ayurveda, wood-gum adhesive"
+  },
+  "cultivationTelemetry": {
+    "phMin": 5.5,
+    "phMax": 8.5,
+    "phOptimalLabel": "pH 5.5 – 8.5",
+    "sunlightLevel": 3,
+    "sunlightLabel": "Full Sun / Arid-Hardy",
+    "irrigationLevel": 1,
+    "irrigationLabel": "Low / Drought-Tolerant",
+    "soilDrainageLabel": "Well-Drained Upland Clay-Loam"
+  },
+  "sections": [
+    {
+      "number": "01",
+      "title": "Morphological Description",
+      "subtitle": "Trifoliate gland-dotted leaves, paired spines, and woody-shelled golden amphisarca",
+      "summary": "Anatomy of thorny branches, aromatic three-leaflet leaves, waxy blossoms, and hard-rinded fruits.",
+      "paragraphs": [
+        "Aegle marmelos grows as a slow-maturing, tough medium tree 10 to 15 metres tall bearing crooked spreading branches armed with sharp, straight axillary spines 2 to 3 centimetres long. Its alternate leaves are distinctly trifoliate—three ovate crenate leaflets where the terminal leaflet sits on a longer petiolule—richly speckled with translucent citrus-scented oil dots.",
+        "Honey-scented greenish-white four-to-five-petalled blossoms open in short axillary panicles during late spring, developing over 10 to 11 months into heavy spherical to pyriform woody-shelled fruits (8–20 cm wide). Inside the stone-hard greyish-green-to-yellow pericarp lies fibrous aromatic golden-orange pulp embedded with clear sticky mucilage and flattened woolly seeds."
+      ],
+      "subblocks": [
+        {
+          "heading": "Armored Spiny Twigs",
+          "text": "Pale grey flaking trunk and stout zig-zag branches armed with needle-sharp solitary or paired axillary spines."
+        },
+        {
+          "heading": "Trifoliate Oil-Dotted Leaves",
+          "text": "Three-leaflet compound blades emitting warm sweet-citrus aromatics when rubbed between fingers."
+        },
+        {
+          "heading": "Fragrant Spring Flowers",
+          "text": "Waxy greenish-white flowers packed with 30–50 golden stamens in short lateral racemes."
+        },
+        {
+          "heading": "Hard Woody Amphisarca",
+          "text": "Thick woody-shelled berry requiring firm cracking to expose silky saffron-amber pectinaceous pulp."
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/33249551/pexels-photo-33249551.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Smooth green orchard fruits on branch",
+          "caption": "Spherical hard-shelled developing fruits weighing down leafy fruiting twigs."
+        },
+        {
+          "url": "https://images.pexels.com/photos/36537544/pexels-photo-36537544.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Vibrant green compound foliage",
+          "caption": "Trifoliate aromatic foliage thriving under dry heat and high solar radiation."
+        }
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Taxonomy & Botanical Classification",
+      "subtitle": "Sapindales Rutaceae lineage as a hard-shelled citrus relative",
+      "summary": "Unique monotypic genus Aegle within the orange family Rutaceae.",
+      "paragraphs": [
+        "Placed in order Sapindales and family Rutaceae alongside oranges, pomelos, and curry leaf, Aegle marmelos is the sole widely accepted species in genus Aegle—named after one of the mythological Hesperides sisters who guarded golden apples. Correa da Serra formally established the combination in 1800.",
+        "Although popularly called 'Wood Apple' in English alongside Feronia limonia (Kodbel), true Bael (Bel) is botanically distinct: Aegle marmelos bears smooth three-leaflet leaves and golden sweet mucilaginous pulp, whereas Kodbel bears five-to-seven tiny leaflets and tangy brown granular pulp."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/31732206/pexels-photo-31732206.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Citrus-family orchard habitat",
+          "caption": "Upland sunny groves supporting long-lived Rutaceae fruit trees."
+        }
+      ]
+    },
+    {
+      "number": "03",
+      "title": "Natural Habitat & Global Distribution",
+      "subtitle": "Dry deciduous forests, Barind tracts, and temple courtyards",
+      "summary": "Extraordinary drought and alkaline-soil resilience across Bangladesh, India, and mainland Southeast Asia.",
+      "paragraphs": [
+        "Wild Bael ranges from the Himalayan dry foothills across India, Bangladesh, Nepal, Sri Lanka, and Myanmar into Thailand, thriving on rocky hillslopes, alkaline plains, and dry clay loams where annual rainfall fluctuates from 570 to 2,000 millimetres.",
+        "Across Bangladesh, hardy Bael trees flourish along homestead edges in drier Barind, Rajshahi, Pabna, and Cumilla uplands—tolerating extremes from 46°C pre-monsoon heat to 7°C winter cold without irrigation."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/12067501/pexels-photo-12067501.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Deciduous woodland canopy",
+          "caption": "Sunlit dry-deciduous woodlands and village groves home to Aegle marmelos."
+        }
+      ]
+    },
+    {
+      "number": "04",
+      "title": "Ecological Role & Pollinator Interactions",
+      "subtitle": "Wild honeybee nectar, hard-shell mammal dispersal, and drought-shelter",
+      "summary": "Intensely fragrant insect-attracting flowers and thick-rinded fruits dispersed by large mammals.",
+      "paragraphs": [
+        "Spring Bael blossoms exude rich nectar perfume drawing honeybees, carpenter bees, wasps, and flower-visiting beetles over several weeks. Because fruit shells harden like seasoned timber while hanging for nearly a year, small birds cannot pierce them.",
+        "Historically, large mammals—elephants, sloth bears, wild cattle, and monkeys—cracked ripe fallen fruits and dispersed intact mucilage-coated seeds across monsoon forest floors."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/36441123/pexels-photo-36441123.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Bees gathering floral nectar",
+          "caption": "Bees pollinating strongly scented Rutaceae blossoms during late spring heat."
+        }
+      ]
+    },
+    {
+      "number": "05",
+      "title": "Economic, Culinary & Cultural Importance",
+      "subtitle": "Chilled Bel-er Shorbot, sun-dried Bel-shunth, and sacred Bilva groves",
+      "summary": "Iconic Bengali heat-relief beverage, temple iconography, and pectin-rich preserves.",
+      "paragraphs": [
+        "During scorching Choitro and Boishakh afternoons, cracked ripe Bel pulp is mashed in cool water, strained free of fibers and seeds, and whisked with jaggery or a pinch of roasted cumin into velvety 'Bel-er Shorbot'—celebrated across Dhaka and Kolkata as the ultimate cooling summer elixir.",
+        "Clear translucent seed mucilage also doubles naturally as a waterproof lime-mortar binder in historic masonry and bookbinding paste, while sacred trifoliate Bilva twigs hold deep spiritual reverence across Hindu temple traditions."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/33249551/pexels-photo-33249551.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Harvest-ready orchard fruits",
+          "caption": "Thick-shelled fruits ripening over 10 months to peak fragrant sweetness in summer."
+        }
+      ]
+    },
+    {
+      "number": "06",
+      "title": "Traditional & Scientific Medicinal Properties",
+      "subtitle": "Marmelosin furanocoumarins, unripe-fruit tannins, and digestive regulation",
+      "summary": "Bimodal gut action—astringent unripe slices versus gentle laxative ripe pulp.",
+      "paragraphs": [
+        "Called 'Bilva' in Ayurveda and a key constituent of Dashamoola formulations, Bael exhibits fascinating ripeness-dependent pharmacology: unripe dried fruit slices ('Bel-shunth') are rich in condensed tannins and marmelosin (imperatorin), historically prescribed to calm chronic diarrhea and bacillary dysentery, whereas soft ripe pulp acts gently as a demulcent bulk laxative.",
+        "Modern phytochemical analyses identify aegeline alkaloids, coumarins (marmelosin, scoparone), and mucilaginous polysaccharides supporting mucosal gut barrier protection and antimicrobial defense."
+      ],
+      "safetyNote": "High-dose concentrated Bael leaf extracts may lower blood glucose or interfere with thyroid/glycemic medications; consume ripe fruit pulp in culinary moderation to prevent mild digestive heaviness.",
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/28511113/pexels-photo-28511113.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Dried Ayurvedic herbal botanicals",
+          "caption": "Sun-dried unripe fruit slices standardized for marmelosin and soothing tannins."
+        }
+      ]
+    },
+    {
+      "number": "07",
+      "title": "Comprehensive Cultivation & Care Guide",
+      "subtitle": "Patch budding elite thornless cultivars, wide pH tolerance, and zero waterlogging",
+      "summary": "Growing large low-seed grafted Bael varieties cleanly in upland sun.",
+      "paragraphs": [
+        "Freshly washed seeds germinate within 10 to 15 days without dormancy, though seedling trees take 7 to 8 years to fruit and vary widely in pulp quality. Commercial orchards patch-bud or veneer-graft superior large-fruited cultivars (such as 'Narendra Bael-5', 'Narendra Bael-9', or 'BARI Bel-1') onto hardy seedling rootstocks for fruiting in 3 to 4 years.",
+        "Plant in full sun on well-drained sandy to clay-loam upland sites (tolerable across wide pH 5.5–8.5) avoiding stagnant monsoon standing water, which quickly causes root asphyxiation."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/31732206/pexels-photo-31732206.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Sunlit upland fruit orchard",
+          "caption": "Well-drained upland terraces yield large thin-shelled sweet Bel fruits."
+        }
+      ]
+    }
+  ],
+  "schemaOrg": {
+    "@type": "Taxon",
+    "name": "Aegle marmelos",
+    "alternateName": [
+      "Bael (Wood Apple)",
+      "Bel (বেল)"
+    ],
+    "taxonRank": "Species",
+    "parentTaxon": {
+      "@type": "Taxon",
+      "name": "Aegle",
+      "taxonRank": "Genus",
+      "parentTaxon": {
+        "@type": "Taxon",
+        "name": "Rutaceae",
+        "taxonRank": "Family"
+      }
+    }
+  }
+}

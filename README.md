@@ -1,203 +1,85 @@
-<b style="font-size: 40px">🌺 Plantipedia</b>
+<div align="center">
 
-<p align="center">
-  <strong>Explore the green world, one species at a time.</strong>
-</p>
+# 🌿 Plantipedia — Digital Botanical Archive & Worldwide Flora Engine
 
-<p align="center">
-  <a href="https://shahjahankabir22459-ship-it.github.io/plantipedia/">
-    <strong>🌐 Visit Plantipedia</strong>
-  </a>
-</p>
+**A scholarly, bilingual (`EN / বাংলা`) botanical encyclopedia pairing 50 ultra-fast local monographs with a zero-key Worldwide Botanical Server Gateway across 390,000+ global flora taxa.**
 
-📖 <b>About the Project</b>
+![Version 3.0](https://img.shields.io/badge/Platform-Version%203.0-10b981?style=flat-square)
+![Curated Monographs](https://img.shields.io/badge/Local%20Monographs-50%20Species%20%C2%B7%2034%20Families-34d399?style=flat-square)
+![Worldwide Gateway](https://img.shields.io/badge/Global%20Server-390%2C000%2B%20Taxa-22d3ee?style=flat-square)
+![Bilingual Support](https://img.shields.io/badge/Bilingual-EN%20%2F%20%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-fbbf24?style=flat-square)
+![Zero-Build Static Web](https://img.shields.io/badge/Runtime-Zero--Build%20ES6%2B%20Static%20Web-2dd4bf?style=flat-square)
 
-Plantipedia is an online plant encyclopedia designed to help people explore and learn about the fascinating world of plants.
+</div>
 
-The website provides educational information about different plant species, including their descriptions, classifications, habitats, distributions, uses, importance, and cultivation.
+---
 
-Built using HTML, CSS, and JavaScript, Plantipedia aims to make botanical knowledge accessible through a simple, attractive, and user-friendly interface.
+## Architectural Evolution: Version 1.0 → 2.0 → 3.0
 
-📸 Website Preview
+Plantipedia has evolved through three deliberate engineering generations—transforming a handful of static plant sheets into an enterprise-layered botanical research platform:
 
-<p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2oouADI9qLEG6UDf8icpxqiwhLA8NKN3oGIURGyvdFg&s=10" width="85%">
-  <br>
-</p>
+| Generation | Milestone & Scope | Engineering Architecture |
+| :--- | :--- | :--- |
+| **Version 1.0** | **6 Foundational Plant Pages** | Early hand-authored HTML monographs establishing Plantipedia's emerald aesthetic, Linnaean classification tables, and Bengali vernacular pairing. |
+| **Version 2.0** | **30 Curated Species · JSON Engine** | Transitioned to a centralized JSON-driven rendering pipeline with bilingual `EN / বাংলা` instant search, A–Z directory filtering, and shared header/footer shell compilers. |
+| **Version 3.0** | **50 Local Monographs + Global Flora Platform** | Enterprise multi-layered ES6+ architecture uniting **50 ultra-fast local 8-chapter monographs** across **34 families**, a **Zero-Key Global Botanical Server Gateway** (390,000+ taxa), a **3-Stage Split Specimen Comparator**, a **10-Section Services Research Suite**, **GSAP ScrollTrigger telemetry**, **Schema.org `Taxon` JSON-LD**, and **A4 print-ready PDF field sheets**. |
 
-✨ <b>Features</b>
+---
 
-🔍 <b>Plant Search:</b> Search for different plant species.
+## Core Platform Capabilities
 
-💡 <b>Live Search Suggestions:</b> Displays matching plant names while typing.
+- **50 Curated 8-Chapter Monographs (`/plant/`):** Standardized scientific chapters (`00–07`) covering morphology, taxonomy, native habitat, ecology, medicinal value, cultivation telemetry, and cultural context—enriched with jewel-tone card tokens, GSAP-animated soil pH & thermal telemetry meters, APA/MLA/BibTeX citation exports, and interactive glossary tooltips.
+- **Zero-Key Global Botanical Server Gateway (`/plant/live/`):** Real-time worldwide flora query engine featuring expedition chips, automated taxonomic rank parsing, 5-second telemetry synthesis with abort control, retry recovery, and smart `404.html` diagnostics.
+- **Split Specimen Comparator (`/compare/` & `/compare/result/`):** Dual-pane comparison studio supporting local monographs and live Global Server fetches, enhanced with a **3-second, 3-stage Comparison Synthesis Labor Illusion** (`Taxonomy → Telemetry → Matrix Assembly`), interactive **Cancel** abort control, and a distraction-free, footer-free split matrix output.
+- **10-Section Digital Research Suite (`/services/`):** Floating **Map Matrix** full-screen navigation overlay with scroll-spy tracking, filterable platform capability matrix, interactive SVG taxonomy & 6-season charts, **4-Step Synthesis Pipeline** inspector, **Screen vs. Print Field-Sheet Studio** preview, and live citation/glossary sandboxes.
+- **Taxonomic Explorer & 6-Season *Shororitu* Calendar (`/taxonomy/` & `/seasons/`):** Filter across **34 botanical families** or track seasonal blooming, fruiting, and harvest cycles across Bangladesh's six ecological seasons (*গ্রীষ্ম, বর্ষা, শরৎ, হেমন্ত, শীত, বসন্ত*).
+- **Personal Herbarium & Offline PWA (`sw.js`):** Local browser bookmark drawer (`My Herbarium`), instant bilingual `EN / বাংলা / Latin` search, and network-first Service Worker offline caching.
 
-🌱 <b>Individual Plant Pages:</b> Each plant has its own dedicated information page.
+---
 
-📚 <b>Detailed Information:</b> Explore different botanical aspects of plants.
+## High-Level Module Architecture
 
-🧭 <b>Interactive Navigation:</b> Easily navigate through different sections.
+Plantipedia enforces strict separation of concerns across modular domain layers:
 
-🎨 <b>Nature-Inspired Design:</b> A green-themed interface with a natural background.
+- **`config/`** — Declarative environment manifests, route registries, jewel-tone botanical palette tokens, and navigation/footer shell schemas.
+- **`data/`** — Three-tier botanical data lake split into `data/index/` (master 50-species index, glossary, taxonomy & page configs), `data/monographs/` (50 individual 8-chapter species JSON files), and `data/phenology/` (6-season Bengali *Shororitu* dataset).
+- **`src/core/`** — Bootstrap lifecycle (`bootstrap/`), autonomous navbar/footer/404 compilers (`compilers/`), and GSAP ScrollTrigger telemetry engines (`telemetry/`).
+- **`src/engines/`** — Bilingual search & navigation (`search/`), validated dataset & Global Botanical Server gateway (`global-server/`), 3-stage comparison synthesis overlay (`comparator/`), and citation/glossary processors (`citation/`).
+- **`src/modules/`** — Dedicated controllers for every route (`pages/`) alongside SEO JSON-LD, herbarium storage, and template helpers (`utils/`).
+- **`styles/`** — Layered stylesheets organized into `base/`, `components/`, `pages/` (with dedicated `services.css`), `print/` (`field-sheets.css`), and `tailwind/`.
+- **`docs/`** — Technical system architecture (`ARCHITECTURE.md`) and JSON data contract reference (`SCHEMA-GUIDE.md`).
 
-✨ <b>Animations:</b> Smooth visual effects and transitions.
+---
 
-📱 <b>User-Friendly Interface:</b> Designed for convenient browsing.
+## Local Development & Verification
 
-🛠️ <b>Technologies Used</b>
+Plantipedia runs with zero bundler overhead:
 
-<table>
-  <thead>
-    <tr>
-      <th>Technology</th>
-      <th>Purpose</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>HTML5</td>
-      <td>Website structure and content</td>
-    </tr>
-    <tr>
-      <td>CSS3</td>
-      <td>Styling, layouts, backgrounds, and animations</td>
-    </tr>
-    <tr>
-      <td>JavaScript</td>
-      <td>Search functionality, suggestions, and interactive elements</td>
-    </tr>
-    <tr>
-      <td>GitHub Pages</td>
-      <td>Website hosting and deployment</td>
-    </tr>
-  </tbody>
-</table>
+```bash
+# Install static server dependency and launch on port 3000
+npm install && npm run dev
 
-🌿 <b>Plant Encyclopedia</b>
-<p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzNWfracQ_005tYp-dSbL8_YspYZ3UIhVPOH9kBs88fQ&s=10">
-  <br>
-</p>
+# Validate all ES modules, JSON configs, and botanical monographs
+npm run lint
 
-Plantipedia contains individual articles about different plant species.
+# Verify catalog integrity across all 50 monographs and regenerate sitemap.xml
+node tools/build-catalog.mjs
+```
 
-<table>
-  <thead>
-    <tr>
-      <th>Plant Name</th>
-      <th>Scientific Name</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Periwinkle</td>
-      <td><i>Catharanthus roseus</i></td>
-    </tr>
-    <tr>
-      <td>Rose</td>
-      <td><i>Rosa</i></td>
-    </tr>
-    <tr>
-      <td>Sunflower</td>
-      <td><i>Helianthus annuus</i></td>
-    </tr>
-    <tr>
-      <td>Mango</td>
-      <td><i>Mangifera indica</i></td>
-    </tr>
-    <tr>
-      <td>Marigold</td>
-      <td><i>Tagetes</i></td>
-    </tr>
-    <tr>
-      <td>Ixora</td>
-      <td><i>Ixora</i></td>
-    </tr>
-  </tbody>
-</table>
+---
 
-More plant species will be added as the project develops.
+## Credits & Educational Disclaimer
 
-🔎 <b>Search Functionality</b>
+- **Chief Patron & Authorization:** **Jalees Habib**
+- **Lead Architecture, UI & UX Collaboration:** **Rayaan Tasnim**
+- **Special Thanks:** **IDAI Universe**
+- **Powered by:** **Olympiad Edge**
 
-Plantipedia uses JavaScript to provide an interactive search experience.
+*Educational & Botanical Disclaimer: All monographs, taxonomic classifications, phytochemical summaries, Global Botanical Server records, and curated botanical photography on Plantipedia are provided strictly for non-commercial educational and botanical reference purposes and do not constitute clinical, agricultural, or medical advice.*
 
-Users enter a plant name in the search bar.
+<div align="center">
 
-JavaScript checks the entered text against the available plant database.
+🌺 **Plantipedia** — *Exploring the fascinating world of plants, one species at a time.*  
+**© 2026 Plantipedia. All rights reserved.**
 
-Matching plant names appear in a suggestion dropdown.
-
-Users can select a suggestion to visit the corresponding plant article.
-
-The plant database is maintained in JavaScript, making it easier to add new species.
-
-📂 <b>Project Structure</b>
-
-The project uses separate files for the homepage, styling, JavaScript functionality, and individual plant articles.
-
-plantipedia/
-│
-
-├── index.html
-
-├── style.css
-
-├── script.js
-
-├── README.md
-
-├─ plant files  (like, periwinkle.html, rose.html, mango.html etc.)
-
-🚀 Running Locally
-
-To explore or modify Plantipedia on your computer:
-
-Clone or download the repository.
-
-Open the project folder in Visual Studio Code.
-
-Open index.html in your browser.
-
-Alternatively, use the Live Server extension for local development.
-
-🌐 Deployment
-
-Plantipedia is hosted using GitHub Pages.
-
-<p align="center">
-  <a href="https://shahjahankabir22459-ship-it.github.io/plantipedia/">
-    <strong>Visit the Live Website 🌺</strong>
-  </a>
-</p>
-
-🔮 <b>Future Improvements</b>
-
-Add more plant species.
-
-Expand search functionality to include scientific names.
-
-Introduce plant categories and filtering.
-
-Improve mobile responsiveness.
-
-Add more botanical photographs and illustrations.
-
-Expand botanical information for each species.
-
-⚖️ <b>Disclaimer and Copyright</b>
-
-Plantipedia is an educational project.
-
-The original website design, layout, styling, and source code belong to the project creator.
-
-Botanical information and third-party photographs or materials may belong to their respective authors and owners. Plantipedia does not claim ownership of third-party materials.
-
-Please check the licensing terms of individual resources before reusing them.
-
-<p align="center">
-  <strong>🌺 Plantipedia</strong>
-  <br>
-  Discover. Explore. Learn.
-  <br><br>
-  © 2026 Plantipedia. All rights reserved.
-</p>
+</div>

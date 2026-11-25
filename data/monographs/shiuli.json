@@ -1,0 +1,205 @@
+{
+  "schemaVersion": "1.1.0",
+  "slug": "shiuli",
+  "commonName": "Night-Flowering Jasmine (Shiuli)",
+  "scientificName": "Nyctanthes arbor-tristis",
+  "localName": "Shiuli (শিউলি)",
+  "category": "Flowers",
+  "categories": [
+    "Flowers",
+    "Medicinal",
+    "Shrubs & Herbs"
+  ],
+  "taxonomicDomain": "Angiosperms & Ornamentals",
+  "featuredRank": null,
+  "shortSummary": "Beloved autumn night-bloomer bearing snow-white pinwheel petals anchored by bright coral-orange tubular throats that carpet lawns at dawn.",
+  "leadOverview": "Night-Flowering Jasmine (Nyctanthes arbor-tristis)—the poetic Shiuli or Shefali of Bengal—is a fragrant large shrub or small tree famous for opening its stars strictly after dusk and shedding them gently onto dewy grass before sunrise. Its botanical Latin name literally means 'Night Flower, Tree of Sadness', reflecting its nocturnal rhythm and bittersweet dawn carpet during Shorot autumn.",
+  "heroImage": {
+    "url": "https://images.pexels.com/photos/40463625/pexels-photo-40463625.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "alt": "White Nyctanthes arbor-tristis Shiuli blossom with bright orange-coral corolla tube against green leaves",
+    "caption": "Signature pinwheel white corolla lobes and vivid saffron-coral tube of Nyctanthes arbor-tristis."
+  },
+  "overview": {
+    "plantGroup": "Angiosperm (Eudicot)",
+    "family": "Oleaceae",
+    "genus": "Nyctanthes",
+    "species": "N. arbor-tristis",
+    "growthForm": "Large multi-stemmed shrub or small tree (4–10 m)",
+    "nativeOrigin": "South & Southeast Asia (Himalayan Foothills to Bengal & Thailand)",
+    "commonUses": "Shorot dawn garlands, natural saffron textile dye, Ayurvedic anti-fever foliage"
+  },
+  "cultivationTelemetry": {
+    "phMin": 5.8,
+    "phMax": 7.5,
+    "phOptimalLabel": "pH 5.8 – 7.5",
+    "sunlightLevel": 3,
+    "sunlightLabel": "Full Sun / Light Afternoon Shade",
+    "irrigationLevel": 2,
+    "irrigationLabel": "Moderate / Well-Drained",
+    "soilDrainageLabel": "Humus-Rich Fertile Loam"
+  },
+  "sections": [
+    {
+      "number": "01",
+      "title": "Morphological Description",
+      "subtitle": "Quadrangular rough twigs, sandpaper leaves, coral-tubed blossoms, and flat heart capsules",
+      "summary": "Anatomy of four-angled stems, rough scabrous foliage, nocturnal salverform flowers, and papery bilobed capsules.",
+      "paragraphs": [
+        "Nyctanthes arbor-tristis grows into a spreading shrub or small crooked tree 4 to 10 metres high with pale flaky bark and distinctive four-angled (quadrangular), stiffly hairy twigs. Opposite simple ovate leaves (6–12 cm long) feel noticeably rough like fine sandpaper on the upper surface due to silicified cystolith hairs, earning traditional folk utility for polishing fine wood.",
+        "From August through November, terminal trichotomous cymes open fragrant salverform flowers after sunset: 5 to 8 pure snow-white twisting pinwheel petals radiating from a striking cylindrical coral-orange corolla tube filled with nyctanthin carotenoid dye. At daybreak, petals cleanly detach intact, followed later by flat brown heart-shaped two-seeded capsules."
+      ],
+      "subblocks": [
+        {
+          "heading": "Quadrangular Stems",
+          "text": "Square young shoots and pale greyish peeling bark supporting an airy, multi-stemmed arching canopy up to 10 m."
+        },
+        {
+          "heading": "Sandpaper Scabrous Leaves",
+          "text": "Opposite dark-green ovate leaves covered in rigid silica-rich trichomes that impart a gritty tactile texture."
+        },
+        {
+          "heading": "Coral-Tubed Blossoms",
+          "text": "Nocturnal white 5–8-lobed pinwheel flowers anchored by vibrant orange-scarlet tubes brimming with nyctanthin pigment."
+        },
+        {
+          "heading": "Compressed Heart Capsules",
+          "text": "Flat obcordate leathery green-to-brown bilocular seed pods (2 cm wide) splitting neatly down the center seam in winter."
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/40463625/pexels-photo-40463625.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Shiuli flower showing white lobes and vivid orange stem tube",
+          "caption": "Distinctive white pinwheel lobes contrasted against the nyctanthin-pigmented coral tube."
+        },
+        {
+          "url": "https://images.pexels.com/photos/39665142/pexels-photo-39665142.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Pollinator visiting fragrant garden blossom",
+          "caption": "Fragrant floral throat rewarding nocturnal moths and early-morning bees."
+        }
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Taxonomy & Botanical Classification",
+      "subtitle": "Oleaceae olive-and-jasmine kinship despite square stems",
+      "summary": "Why Nyctanthes belongs to Oleaceae rather than Verbenaceae or nightshades.",
+      "paragraphs": [
+        "Despite having square stems reminiscent of Lamiaceae or Verbenaceae, molecular phylogenetics and floral anatomy (two stamens fused inside a regular corolla tube and superior two-chambered ovary) confirm Nyctanthes arbor-tristis firmly inside family Oleaceae, order Lamiales—making Shiuli a cousin of Beli jasmine (Jasminum sambac) and olives.",
+        "Only two species form genus Nyctanthes worldwide, with arbor-tristis serving as the sole widely cherished garden species across South Asia."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/40463625/pexels-photo-40463625.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Oleaceae Shiuli blossom morphology",
+          "caption": "Paired-stamen Oleaceae flower geometry shared distantly with Jasminum sambac."
+        }
+      ]
+    },
+    {
+      "number": "03",
+      "title": "Natural Habitat & Global Distribution",
+      "subtitle": "Sub-Himalayan rocky hillsides to Bengali Shorot courtyards",
+      "summary": "Native across northern India and Nepal; naturalized in every sunlit South Asian homestead.",
+      "paragraphs": [
+        "Wild Nyctanthes arbor-tristis inhabits dry rocky sub-Himalayan hills and moist deciduous forest edges from Kashmir, Nepal, and Assam southward into central India and Myanmar up to 1,500 metres elevation.",
+        "Across Bangladesh and West Bengal, Shiuli is an indispensable homestead guardian planted beside front gates and courtyard corners—awakening into snow-white autumn splendor beneath crisp blue Bhadro–Ashwin skies."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/40463625/pexels-photo-40463625.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Shiuli flower framed by lush green leaves",
+          "caption": "Sunlit garden specimen thriving in humid post-monsoon autumn air."
+        }
+      ]
+    },
+    {
+      "number": "04",
+      "title": "Ecological Role & Pollinator Interactions",
+      "subtitle": "Sphingid hawkmoth night pollination and morning ant-scavenger recycling",
+      "summary": "Crepuscular scent peak for moths and rapid dawn abscission ecology.",
+      "paragraphs": [
+        "At twilight, warm floral nectaries inside the narrow orange tube release sweet honey-musk volatiles (methyl anthranilate and phenylacetaldehyde) tailored to long-tongued nocturnal hawk moths (Sphingidae) and night-flying noctuid moths.",
+        "Once dawn sunlight rises, hormonal abscission cleanly drops spent corollas within hours—feeding ground ants and recycling moisture cleanly while conserving energy for the next evening's floral flush."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/39665142/pexels-photo-39665142.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Pollinator foraging on morning flower",
+          "caption": "Early dawn insects visiting freshly shed nectariferous Shiuli blossoms."
+        }
+      ]
+    },
+    {
+      "number": "05",
+      "title": "Economic, Culinary & Cultural Importance",
+      "subtitle": "Icon of Shorot Durga Puja, morning garlands, and Buddhist saffron robes",
+      "summary": "Sacred flower gathering, Tagore literature, and non-toxic coral-orange natural dye.",
+      "paragraphs": [
+        "Nothing captures Bengali autumn nostalgia like children barefoot at dawn gathering fragrant Shiuli blossoms from dewy grass in woven cane baskets ('Saji') for Durga Puja offerings, garlands, and Rabindra Sangeet poetry.",
+        "Crucially, dried coral-orange flower tubes yield 'nyctanthin'—an intense, water-soluble saffron carotenoid dye chemically identical to crocetin in true saffron—historically steeped to dye Buddhist monastic robes, fine silk saris, and natural culinary sweets."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/40463625/pexels-photo-40463625.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Freshly opened Nyctanthes flower with orange tube",
+          "caption": "Vibrant coral corolla tubes prized for natural nyctanthin saffron dyeing and garlands."
+        }
+      ]
+    },
+    {
+      "number": "06",
+      "title": "Traditional & Scientific Medicinal Properties",
+      "subtitle": "Arbortristoside iridoids, sciatica decoctions, and bitter leaf tonics",
+      "summary": "Ayurvedic 'Parijat' leaf infusions studied for antipyretic and anti-inflammatory activity.",
+      "paragraphs": [
+        "Revered in Ayurveda as 'Parijat' or 'Harsingar', bitter fresh Shiuli leaves steeped in warm water or boiled slowly with black pepper are widely used across rural households for seasonal mild fever relief, stubborn sciatica joint discomfort, and sluggish digestion.",
+        "Phytochemical investigations isolate iridoid glycosides (arbortristosides A, B, and C), beta-sitosterol, oleanolic acid, and nyctanthic acid demonstrating antipyretic, anti-inflammatory, and hepatoprotective activity in preclinical assays."
+      ],
+      "safetyNote": "Nyctanthes leaves taste intensely bitter and may cause mild nausea or gastric irritation if brewed overly strong on an empty stomach; reserve medicinal leaf decoctions for short-term guidance and avoid concentrated extracts during pregnancy.",
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/40463625/pexels-photo-40463625.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Medicinal foliage and flowers of Shiuli",
+          "caption": "Foliage and coral tubes housing arbortristoside iridoid glycosides and carotenoids."
+        }
+      ]
+    },
+    {
+      "number": "07",
+      "title": "Comprehensive Cultivation & Care Guide",
+      "subtitle": "Post-bloom winter pruning, seed or layering propagation, and full sun",
+      "summary": "Maintaining compact bushy flowering shrubs in pH 5.8–7.5 well-drained loam.",
+      "paragraphs": [
+        "Propagate easily by sowing flat brown winter seeds soaked overnight or via monsoon semi-hardwood stem cuttings and air-layering. Grow plants in well-drained fertile loam (pH 5.8–7.5) receiving at least 6 hours of bright sunlight; excessive deep shade leads to leggy canes and sparse flowers.",
+        "Because Shiuli blooms profusely on fresh current-season growth, prune back elongated old limbs by one-third immediately after fruiting in late winter (February–March)—resulting in a tidy, multi-branched shrub bursting with thousands of blossoms every autumn."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/40463625/pexels-photo-40463625.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Blooming Shiuli bush in sunlit garden",
+          "caption": "Late-winter pruning builds compact branching crowns filled with autumn flower cymes."
+        }
+      ]
+    }
+  ],
+  "schemaOrg": {
+    "@type": "Taxon",
+    "name": "Nyctanthes arbor-tristis",
+    "alternateName": [
+      "Night-Flowering Jasmine (Shiuli)",
+      "Shiuli (শিউলি)"
+    ],
+    "taxonRank": "Species",
+    "parentTaxon": {
+      "@type": "Taxon",
+      "name": "Nyctanthes",
+      "taxonRank": "Genus",
+      "parentTaxon": {
+        "@type": "Taxon",
+        "name": "Oleaceae",
+        "taxonRank": "Family"
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+@layer components {
+  .tw-monograph-container {
+    @apply mx-auto max-w-[1140px] px-4 pb-20 pt-8 md:px-9;
+  }
+
+  .tw-chapter-card {
+    @apply relative overflow-hidden rounded-[22px] border border-emerald-300/20 bg-white/[0.03] p-6 shadow-glass backdrop-blur-glass md:p-11;
+  }
+
+  .tw-section-map-pill {
+    @apply inline-flex h-10 items-center gap-2 rounded-full border border-emerald-300/40 bg-botanical-surface/90 px-4 text-sm font-semibold text-ink-primary shadow-glass backdrop-blur-glass transition-transform duration-200 hover:-translate-y-0.5 hover:border-mint-luminous;
+  }
+
+  .tw-section-map-modal {
+    @apply fixed inset-0 z-[2000] flex flex-col overflow-y-auto bg-botanical-dark/90 text-ink-primary backdrop-blur-heavy;
+  }
+
+  .tw-skeleton-surface {
+    @apply rounded-2xl border border-emerald-300/20 bg-white/[0.03] shadow-glass;
+  }
+}

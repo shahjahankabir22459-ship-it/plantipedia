@@ -1,0 +1,204 @@
+{
+  "schemaVersion": "1.1.0",
+  "slug": "ginger",
+  "commonName": "Ginger",
+  "scientificName": "Zingiber officinale",
+  "localName": "Ada (আদা)",
+  "category": "Medicinal",
+  "categories": [
+    "Medicinal",
+    "Shrubs & Herbs"
+  ],
+  "taxonomicDomain": "Ethnobotanical & Ayurvedic Herbs",
+  "featuredRank": null,
+  "shortSummary": "Pungent aromatic monocot perennial cultivated globally for fleshy gingerol-packed rhizomes that anchor South Asian cuisine and evidence-based anti-nausea pharmacology.",
+  "leadOverview": "Zingiber officinale—indispensable in South Asian kitchens and medicine cabinets as Ada—is a clonal sterile tropical herb of the Zingiberaceae family. Rising via reed-like pseudostems above branched, straw-gold subterranean rhizomes, its warming pungent gingerols and volatile zingiberene oils rank among humanity's oldest culinary spices and clinically validated digestive remedies.",
+  "heroImage": {
+    "url": "https://images.pexels.com/photos/41102959/pexels-photo-41102959.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "alt": "Freshly harvested branched Zingiber officinale ginger rhizomes",
+    "caption": "Fleshy palmate Zingiber officinale (Ada) rhizomes coated in thin buff periderm."
+  },
+  "overview": {
+    "plantGroup": "Angiosperm (Monocot)",
+    "family": "Zingiberaceae",
+    "genus": "Zingiber",
+    "species": "Z. officinale",
+    "growthForm": "Rhizomatous perennial herbaceous pseudostem (0.6–1.2 m)",
+    "nativeOrigin": "Maritime Southeast Asia (Domesticated Austronesian Cultigen)",
+    "commonUses": "Culinary spice paste, ginger chai & tonics, anti-nausea phytomedicine, essential oil"
+  },
+  "cultivationTelemetry": {
+    "phMin": 5.5,
+    "phMax": 6.5,
+    "phOptimalLabel": "pH 5.5 – 6.5",
+    "sunlightLevel": 2,
+    "sunlightLabel": "Filtered Shade / Partial Sun",
+    "irrigationLevel": 2,
+    "irrigationLabel": "Evenly Moist Friable Beds",
+    "soilDrainageLabel": "Humus-Rich Raised Sandy Loam"
+  },
+  "sections": [
+    {
+      "number": "01",
+      "title": "Morphological Description",
+      "subtitle": "Distichous grass-like pseudostems, pine-cone bracts, and palmate aromatic rhizomes",
+      "summary": "Anatomy of branched subterranean rhizomes, clasping leaf-sheath stems, and sterile cone spikes.",
+      "paragraphs": [
+        "Zingiber officinale grows from plump, horizontally creeping, palmately branched underground stems (rhizomes) clothed in pale papery scale leaves and filled with fibrous golden-cream flesh rich in lemony-hot oleoresin. True stems remain buried underground; what rises 60 to 120 centimetres into the air is an erect leafy pseudostem formed from tightly clasping tubular leaf sheaths.",
+        "Narrow lanceolate leaves (15–30 cm long) arrange cleanly in two opposite vertical ranks (distichous phyllotaxy) along the shoot. Rarely—and mainly in long humid tropical summers—a separate short leafless scape pops up beside the shoot crowned with a shingled green cone spike bearing fleeting pale-yellow-and-purple-marbled flowers that seldom set viable seed."
+      ],
+      "subblocks": [
+        {
+          "heading": "Fleshy Palmate Rhizomes",
+          "text": "Sympodially branching aromatic underground storage stems packed with starch grains and gingerol oil cells."
+        },
+        {
+          "heading": "Clasping Leaf Pseudostem",
+          "text": "Slender upright herbaceous stalk formed strictly by overlapping concentric leaf petiolar sheaths."
+        },
+        {
+          "heading": "Distichous Linear Blades",
+          "text": "Smooth narrow-lanceolate leaves emitting crisp zesty citrus aroma when brushed or torn."
+        },
+        {
+          "heading": "Bracted Cone Inflorescence",
+          "text": "Compact green cone of imbricate bracts protecting delicate three-lobed purple-lipped blooms."
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/41102959/pexels-photo-41102959.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Branched fresh ginger rhizomes",
+          "caption": "Sympodial subterranean rhizome 'hands' bursting with volatile zingiberene and gingerols."
+        },
+        {
+          "url": "https://images.pexels.com/photos/31591013/pexels-photo-31591013/free-photo-of-lush-monstera-leaves-in-colombian-jungle.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Shaded humid tropical understorey",
+          "caption": "Dappled shade and humid tropical leaf-litter mimicking ancestral ginger cultivation."
+        }
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Taxonomy & Botanical Classification",
+      "subtitle": "Zingiberales kinship with Turmeric and Cardamom as an ancient cultigen",
+      "summary": "Cultigen status with zero true wild populations, sharing Zingiberaceae traits with Curcuma longa.",
+      "paragraphs": [
+        "Placed in order Zingiberales and family Zingiberaceae alongside Turmeric (Curcuma longa) and Cardamom (Elettaria cardamomum), Zingiber officinale is a true biological 'cultigen': domesticated thousands of years ago by Austronesian seafarers in Maritime Southeast Asia, it exists today exclusively in human cultivation with no surviving ancestral wild form.",
+        "William Roscoe placed the plant in Zingiber in 1807, deriving the name via Greek 'zingiberis' from ancient Prakrit/Sanskrit 'shringavera' ('antler-shaped root') describing its branched rhizome fingers."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/41102959/pexels-photo-41102959.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Antler-branched ginger rhizomes",
+          "caption": "Classic branched rhizome morphology giving rise to Sanskrit 'shringavera'."
+        }
+      ]
+    },
+    {
+      "number": "03",
+      "title": "Natural Habitat & Global Distribution",
+      "subtitle": "Chattogram Hill Tracts slope farms, Nilphamari sack-farming, and global tropics",
+      "summary": "Clonal propagation worldwide and Bangladesh's innovative raised-bed & sack ginger cultivation.",
+      "paragraphs": [
+        "Dependent on human farmers dividing living rhizomes year after year, ginger now thrives across humid tropical and subtropical belts from India, China, Nigeria, and Thailand to Jamaica and Bangladesh.",
+        "In Bangladesh, red upland hills of Rangamati, Khagrachari, Bandarban, and Rangpur-Nilphamari supply prime aromatic Deshi Ada—increasingly supplemented across flood-prone plains by space-saving 'Bosta-poddhoti' (growing ginger cleanly in compost-filled woven sacks around homesteads free of monsoon waterlogging)."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/41102959/pexels-photo-41102959.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Clean harvested market ginger",
+          "caption": "Raised hillside terraces and aerated sack planters yield clean rot-free rhizome harvests."
+        }
+      ]
+    },
+    {
+      "number": "04",
+      "title": "Ecological Role & Pollinator Interactions",
+      "subtitle": "Clonal survival strategy, subterranean defense oils, and soil microbiome sensitivity",
+      "summary": "Volatile terpenes shielding rhizomes from nematodes and clonal multiplication dynamics.",
+      "paragraphs": [
+        "Because domesticated Zingiber officinale displays severe meiotic irregularities that prevent viable seed formation, its ecological persistence rests entirely on vigorous clonal budding and protective rhizome chemistry.",
+        "Concentrated sesquiterpenes (zingiberene, beta-bisabolene) and pungent arylalkanones repel burrowing insect larvae and grazing rodents, though damp anaerobic soils rapidly invite devastating bacterial wilt (Ralstonia) and Pythium soft rot unless drainage and crop rotation are strictly maintained."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/9542523/pexels-photo-9542523.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Fresh botanical leaves and culinary herbs",
+          "caption": "Aromatic essential oils protect subterranean storage tissues across humid monsoon seasons."
+        }
+      ]
+    },
+    {
+      "number": "05",
+      "title": "Economic, Culinary & Cultural Importance",
+      "subtitle": "Ada-cha street tea, curry aromatics, candied ginger, and spice trade history",
+      "summary": "Global culinary pillar from Bengali meat curries and spiced Adarak chai to ginger beer.",
+      "paragraphs": [
+        "From finely ground fresh Ada paste softening savory Bangladeshi curries, bhunas, and biryanis to steaming roadside cups of bruised ginger 'Ada-Cha' on cool rainy evenings, ginger anchors everyday culinary life across South Asia.",
+        "When dried or cooked, pungent [6]-gingerol dehydrates slightly into spicier [6]-shogaol—transforming flavor profiles across sun-dried 'Shunthi' powder, gingerbread, pickled sushi gari, and fermented ginger ale worldwide."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/41102959/pexels-photo-41102959.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Culinary ginger hands",
+          "caption": "Freshly dug tender rhizomes prized for bright lemony heat, distinct from fiery dried Shunthi."
+        }
+      ]
+    },
+    {
+      "number": "06",
+      "title": "Traditional & Scientific Medicinal Properties",
+      "subtitle": "Gingerols, 5-HT3 antiemetic action, and menstrual/osteoarthritic clinical trials",
+      "summary": "Evidence-backed anti-nausea and digestive prokinetic efficacy supported by clinical meta-analyses.",
+      "paragraphs": [
+        "Celebrated in Ayurveda as 'Vishwabhesaja' ('the universal medicine'), ginger is one of the rare traditional herbs with robust randomized clinical evidence: active [6]-gingerol, [8]-gingerol, and [6]-shogaol modulate serotonergic 5-HT3 receptors in the gut, accelerating gastric emptying and reliably easing motion sickness, morning sickness, and post-operative nausea.",
+        "Controlled human trials further report modest anti-inflammatory benefits for primary dysmenorrhea discomfort and mild knee osteoarthritis stiffness through COX/LOX pathway modulation."
+      ],
+      "safetyNote": "High supplemental doses (>4 g dry ginger daily) may cause mild heartburn or interact additively with prescription anticoagulants (warfarin, apixaban) and antiplatelets; consult an obstetrician before taking concentrated capsules during pregnancy.",
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/41102959/pexels-photo-41102959.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Bioactive Zingiber officinale rhizomes",
+          "caption": "Standardized gingerols and shogaols driving evidence-based digestive and antiemetic relief."
+        }
+      ]
+    },
+    {
+      "number": "07",
+      "title": "Comprehensive Cultivation & Care Guide",
+      "subtitle": "Trichoderma seed-rhizome dip, raised mulched beds, and 8-month winter harvest",
+      "summary": "Growing rot-free rhizomes in raised shaded sandy-loam beds or homestead sacks.",
+      "paragraphs": [
+        "Select disease-free plump rhizome pieces (25–35 g each) showing 2 to 3 healthy sprouting eyes. Treat seed pieces briefly in Trichoderma viride or mild wood-ash paste to prevent Pythium soft rot, then plant 5 centimetres deep in spring (Chaitra–Boishakh) inside raised friable sandy loam or perforated soil sacks (pH 5.5–6.5) under dappled 30% shade (such as beneath fruit trees).",
+        "Mulch beds heavily with dry straw or leaf mold to keep soil cool and weed-free, ridge loose soil around emerging shoots twice during monsoon, and lift golden-mature rhizomes 8 to 9 months later once pseudostems yellow and lodge cleanly in Sheet."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/41102959/pexels-photo-41102959.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Plump harvested ginger rhizomes",
+          "caption": "High-organic, well-drained mulched beds prevent soft rot and maximize rhizome branching."
+        }
+      ]
+    }
+  ],
+  "schemaOrg": {
+    "@type": "Taxon",
+    "name": "Zingiber officinale",
+    "alternateName": [
+      "Ginger",
+      "Ada (আদা)"
+    ],
+    "taxonRank": "Species",
+    "parentTaxon": {
+      "@type": "Taxon",
+      "name": "Zingiber",
+      "taxonRank": "Genus",
+      "parentTaxon": {
+        "@type": "Taxon",
+        "name": "Zingiberaceae",
+        "taxonRank": "Family"
+      }
+    }
+  }
+}

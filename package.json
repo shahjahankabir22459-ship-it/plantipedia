@@ -1,0 +1,16 @@
+{
+  "name": "plantipedia",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Plantipedia - Explore the World of Plants",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js",
+    "build": "node --check server.js && node --check tools/build-catalog.mjs && node --check styles/tailwind/load-tailwind-layers.js && node -e \"const fs=require('fs'),path=require('path'),cp=require('child_process');const walk=(d)=>fs.readdirSync(d,{withFileTypes:true}).flatMap((e)=>e.isDirectory()?walk(path.join(d,e.name)):path.join(d,e.name));for(const f of walk('src'))if(f.endsWith('.js'))cp.execFileSync('node',['--check',f],{stdio:'inherit'});for(const d of ['config','data'])for(const f of walk(d))if(f.endsWith('.json'))JSON.parse(fs.readFileSync(f,'utf8'));\"",
+    "lint": "node --check server.js && node --check tools/build-catalog.mjs && node --check styles/tailwind/load-tailwind-layers.js && node -e \"const fs=require('fs'),path=require('path'),cp=require('child_process');const walk=(d)=>fs.readdirSync(d,{withFileTypes:true}).flatMap((e)=>e.isDirectory()?walk(path.join(d,e.name)):path.join(d,e.name));for(const f of walk('src'))if(f.endsWith('.js'))cp.execFileSync('node',['--check',f],{stdio:'inherit'});for(const d of ['config','data'])for(const f of walk(d))if(f.endsWith('.json'))JSON.parse(fs.readFileSync(f,'utf8'));\""
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

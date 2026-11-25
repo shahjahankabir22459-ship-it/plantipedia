@@ -1,0 +1,194 @@
+{
+  "schemaVersion": "1.1.0",
+  "slug": "rose",
+  "commonName": "Rose",
+  "scientificName": "Rosa",
+  "localName": "Golap (গোলাপ)",
+  "category": "Flowers",
+  "categories": [
+    "Flowers",
+    "Shrubs & Herbs"
+  ],
+  "taxonomicDomain": "Angiosperms & Ornamentals",
+  "featuredRank": 2,
+  "shortSummary": "Perennial woody shrubs of the Rosaceae family celebrated worldwide for layered fragrant petals, curved prickles, and rosehip fruits.",
+  "leadOverview": "The rose (genus Rosa) encompasses more than 300 wild species and tens of thousands of garden cultivars prized across five millennia of horticulture. Distinguished by compound imparipinnate leaves, thorny stems, and spirally arranged petals, roses bridge ornamental floriculture, perfumery, and traditional pharmacopeias.",
+  "heroImage": {
+    "url": "https://images.pexels.com/photos/56866/garden-rose-red-pink-56866.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "alt": "Vibrant garden rose blossom in full bloom",
+    "caption": "Multi-petalled Rosa cultivar showing velvet-textured corolla whorls and recessed hypanthium."
+  },
+  "overview": {
+    "plantGroup": "Angiosperm (Eudicot)",
+    "family": "Rosaceae",
+    "genus": "Rosa",
+    "species": "Rosa spp. (e.g., R. chinensis, R. damascena)",
+    "growthForm": "Erect, climbing, or trailing woody shrub",
+    "nativeOrigin": "Northern Hemisphere (Asia, Europe, North America)",
+    "commonUses": "Floriculture, attar/perfumery, rosewater, herbal tea, rosehips"
+  },
+  "sections": [
+    {
+      "number": "01",
+      "title": "Morphological Description",
+      "subtitle": "Prickles, stipules, compound foliage, petals, and accessory rosehips",
+      "summary": "Anatomy of epidermal prickles, toothed leaflets, multi-stamen flowers, and rosehip fruits.",
+      "paragraphs": [
+        "Roses grow as deciduous or semi-evergreen woody shrubs and scrambling climbers ranging from 25-centimetre miniature bushes to 7-metre ramblers. Their stems bear sharp, hooked epidermal outgrowths properly termed prickles—unlike true botanical thorns derived from modified stems—which aid climbing shrubs in anchoring onto neighboring vegetation and deter browsing mammals.",
+        "Wild Rosa flowers exhibit five sepals, five showy petals, and numerous spirally arranged stamens surrounding a cup-shaped floral tube called a hypanthium. Selective breeding has transformed stamens into supernumerary petals in double-flowered hybrids. Fertilized carpels mature into hard achenes enclosed inside a fleshy, scarlet or orange accessory fruit known as a rosehip."
+      ],
+      "subblocks": [
+        {
+          "heading": "Stems & Prickles",
+          "text": "Green to reddish-brown woody canes armed with recurved epidermal prickles that detach cleanly without tearing vascular tissue."
+        },
+        {
+          "heading": "Compound Leaves",
+          "text": "Alternate imparipinnate foliage bearing 3 to 9 ovate, serrated leaflets accompanied by winged stipules fused to the petiole base."
+        },
+        {
+          "heading": "Floral Structure",
+          "text": "Perigynous flowers with concave hypanthium, five foliaceous sepals, and fragrant petals rich in volatile geraniol and citronellol."
+        },
+        {
+          "heading": "Rosehips & Roots",
+          "text": "Urn-shaped pseudo-fruits packed with hairy achenes; fibrous branching root system spreading horizontally in fertile topsoil."
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/38055799/pexels-photo-38055799/free-photo-of-vibrant-red-rose-in-full-bloom-close-up.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Close-up of vibrant crimson rose petals",
+          "caption": "Tightly imbricated crimson petals demonstrating stamen-to-petal conversion in cultivated Rosa."
+        },
+        {
+          "url": "https://images.pexels.com/photos/1233418/pexels-photo-1233418/free-photo-of-lush-pink-rose-bush-blooming-outdoors.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Lush pink rose shrub with compound leaves",
+          "caption": "Compound serrated foliage supporting clustered pink blooms on woody garden canes."
+        }
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Taxonomy & Botanical Classification",
+      "subtitle": "Genus Rosa sections and historical hybridization",
+      "summary": "Subgeneric classification and the role of Chinese repeat-blooming ancestors.",
+      "paragraphs": [
+        "Genus Rosa anchors the subfamily Rosoideae within family Rosaceae, sharing perigynous floral cups with strawberries and blackberries. Botanists divide Rosa into four subgenera—Hulthemia, Hesperhodos, Platyrhodon, and the vast subgenus Rosa containing over 95% of known species across ten sections.",
+        "Eighteenth-century introductions of repeat-flowering Rosa chinensis and Rosa odorata from East Asia into European breeding programs catalyzed modern Hybrid Tea, Floribunda, and Grandiflora classes, merging winter hardiness with continuous seasonal bloom."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/34507862/pexels-photo-34507862/free-photo-of-vibrant-rose-garden-in-full-bloom.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Diverse rose cultivars blooming in garden",
+          "caption": "Horticultural diversity arising from interspecific hybridization within subgenus Rosa."
+        }
+      ]
+    },
+    {
+      "number": "03",
+      "title": "Natural Habitat & Global Distribution",
+      "subtitle": "Temperate origins and South Asian winter cultivation",
+      "summary": "From Eurasian meadows and Himalayan foothills to Savar and Jashore rose belt.",
+      "paragraphs": [
+        "Wild rose species predominantly inhabit temperate woodlands, coastal dunes, and montane scrublands across Asia, Europe, and North America, with isolated species extending into subtropical highlands. Asia hosts the greatest wild species richness, particularly across western China and the Himalayan foothills.",
+        "In Bangladesh and South Asia, roses flourish from November through March during cool, sunny winter conditions. Major commercial flower belts in Savar (Sadullahpur) and Jashore (Godkhali) supply millions of cut stems, while Rosa damascena thrives in dry calcareous valleys for attar distillation."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/40493416/pexels-photo-40493416/free-photo-of-vibrant-rose-garden-in-full-bloom-outdoors.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Outdoor rose garden in sunlight",
+          "caption": "Sun-drenched open garden exposure ideal for healthy floral initiation and disease suppression."
+        }
+      ]
+    },
+    {
+      "number": "04",
+      "title": "Ecological Role & Pollinator Interactions",
+      "subtitle": "Pollen-rewarding flowers and winter wildlife forage",
+      "summary": "Bee buzz-foraging, beetle pollination, and avian dispersal of rosehips.",
+      "paragraphs": [
+        "Unlike nectar-rich tubular flowers, Rosa species produce little or no floral nectar, instead offering abundant protein-rich pollen that attracts bumblebees, honeybees, solitary carpenter bees, and flower-visiting beetles. Single-petalled wild roses remain vastly superior to dense double cultivars for supporting native pollinator nutrition.",
+        "During autumn and winter, persistent scarlet rosehips provide vital vitamin-rich sustenance for thrushes, waxwings, and small mammals, which scarify and disperse the achenes in nutrient-rich droppings."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/39665142/pexels-photo-39665142.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Bumblebee foraging for pollen on bloom",
+          "caption": "Bee foraging dynamics characteristic of pollen-rewarding temperate blossoms."
+        }
+      ]
+    },
+    {
+      "number": "05",
+      "title": "Economic, Culinary & Cultural Importance",
+      "subtitle": "Perfumery, rosewater, gulkand, and global symbolism",
+      "summary": "Essential rose otto extraction, culinary syrups, and enduring literary heritage.",
+      "paragraphs": [
+        "Steam distillation of Rosa damascena and Rosa centifolia petals yields precious rose otto and rosewater—cornerstones of classical perfumery, South Asian confectionery, biryanis, and festive hospitality. In the subcontinent, sun-cured damask petals blended with sugar form gulkand, a cooling culinary preserve.",
+        "Beyond commerce, roses constitute the world's highest-value cut-flower crop and carry universal symbolic resonance in Persian, Sufi, Bengali, and European poetry as emblems of devotion, transience, and beauty."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/56866/garden-rose-red-pink-56866.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Fragrant ornamental rose flower",
+          "caption": "Aromatic petals harvested at dawn when volatile monoterpene concentrations peak."
+        }
+      ]
+    },
+    {
+      "number": "06",
+      "title": "Traditional & Scientific Medicinal Properties",
+      "subtitle": "Vitamin C rosehips and soothing hydrosols",
+      "summary": "Ascorbic acid, galactolipids, and anti-inflammatory skin tonics.",
+      "paragraphs": [
+        "Rosehips rank among the richest botanical sources of ascorbic acid (vitamin C), alongside lycopene, beta-carotene, and galactolipids (GOPO) studied clinically for mild joint-mobility support in osteoarthritis. Rosewater hydrosol exhibits mild astringent and soothing dermal properties, traditionally used to calm ocular fatigue and irritated skin.",
+        "Petal infusions supply phenolic anthocyanins and quercetin derivatives with measurable free-radical scavenging capacity."
+      ],
+      "safetyNote": "Ensure culinary or herbal petals and rosehips come strictly from unsprayed organic plants, as ornamental floriculture roses frequently receive systemic fungicides and insecticides unsafe for ingestion.",
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/38055799/pexels-photo-38055799/free-photo-of-vibrant-red-rose-in-full-bloom-close-up.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Crimson rose petals rich in anthocyanins",
+          "caption": "Pigmented petals containing anthocyanins and aromatic monoterpene alcohols."
+        }
+      ]
+    },
+    {
+      "number": "07",
+      "title": "Comprehensive Cultivation & Care Guide",
+      "subtitle": "Winter pruning, black-spot prevention, and bud-union planting",
+      "summary": "Full-sun loamy beds, basal watering, deadheading, and aphid management.",
+      "paragraphs": [
+        "Roses thrive in at least 6 hours of direct morning sunlight and fertile, humus-rich loamy soil with a slightly acidic pH of 6.0 to 6.8 and brisk drainage. Water deeply at the root crown rather than overhead to prevent fungal black spot (Diplocarpon rosae) and powdery mildew.",
+        "Annual structural pruning—performed in late winter or early cool season—removes dead, crossing, and spindly wood to stimulate vigorous basal canes. Regular deadheading of spent blooms redirects energy into continuous floral flushes."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/1233418/pexels-photo-1233418/free-photo-of-lush-pink-rose-bush-blooming-outdoors.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Healthy pruned garden rose shrub",
+          "caption": "Well-ventilated shrub architecture achieved through selective cane pruning and mulching."
+        }
+      ]
+    }
+  ],
+  "schemaOrg": {
+    "@type": "Taxon",
+    "name": "Rosa",
+    "alternateName": [
+      "Rose",
+      "Golap (গোলাপ)"
+    ],
+    "taxonRank": "Species",
+    "parentTaxon": {
+      "@type": "Taxon",
+      "name": "Rosa",
+      "taxonRank": "Genus",
+      "parentTaxon": {
+        "@type": "Taxon",
+        "name": "Rosaceae",
+        "taxonRank": "Family"
+      }
+    }
+  }
+}

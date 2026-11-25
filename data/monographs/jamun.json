@@ -1,0 +1,205 @@
+{
+  "schemaVersion": "1.1.0",
+  "slug": "jamun",
+  "commonName": "Jamun (Black Plum)",
+  "scientificName": "Syzygium cumini",
+  "localName": "Kalojam (কালোজাম)",
+  "category": "Fruit Trees",
+  "categories": [
+    "Fruit Trees",
+    "Trees & Palms",
+    "Medicinal"
+  ],
+  "taxonomicDomain": "Tropical Pomology & Fruit Trees",
+  "featuredRank": null,
+  "shortSummary": "Evergreen South Asian monsoon fruit tree cherished for deep violet-black anthocyanin berries and jamboline-rich seeds valued in glycemic wellness.",
+  "leadOverview": "Syzygium cumini—beloved across Bengal as Kalojam and across South Asia as Jamun—is a long-lived evergreen canopy tree of the myrtle family Myrtaceae. Every Borsha monsoon, its dense branches sag under clusters of glossy indigo-black berries offering a signature sweet-tart astringency that stains tongues bright purple while its dried kernels rank among Ayurveda's classic metabolic botanicals.",
+  "heroImage": {
+    "url": "https://images.pexels.com/photos/8703806/pexels-photo-8703806.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "alt": "Glossy deep-purple Jamun black plum berries",
+    "caption": "Deep anthocyanin-rich purple-black berries emblematic of ripe Syzygium cumini (Kalojam) harvests."
+  },
+  "overview": {
+    "plantGroup": "Angiosperm (Eudicot)",
+    "family": "Myrtaceae",
+    "genus": "Syzygium",
+    "species": "S. cumini",
+    "growthForm": "Large evergreen fruit tree (15–30 m)",
+    "nativeOrigin": "South & Southeast Asia (Indian Subcontinent)",
+    "commonUses": "Fresh monsoon fruit, digestive vinegar (sirka), glycemic seed powder, durable boat timber"
+  },
+  "cultivationTelemetry": {
+    "phMin": 5.5,
+    "phMax": 7.5,
+    "phOptimalLabel": "pH 5.5 – 7.5",
+    "sunlightLevel": 3,
+    "sunlightLabel": "Full Sun / Orchard",
+    "irrigationLevel": 2,
+    "irrigationLabel": "Moderate / Monsoon-Hardy",
+    "soilDrainageLabel": "Deep Moist Alluvial Loam"
+  },
+  "sections": [
+    {
+      "number": "01",
+      "title": "Morphological Description",
+      "subtitle": "Intramarginal myrtle leaf veins, stamen-tufted blossoms, and violet berries",
+      "summary": "Anatomy of pale flaking trunks, aromatic veined foliage, cream floral puffs, and oblong purple drupes.",
+      "paragraphs": [
+        "Syzygium cumini forms a stout, crooked-to-straight trunk 15 to 30 metres high clothed in thick pale-grey bark that darkens and fissures near the base. Its opposite, leathery elliptic-oblong leaves (7–18 cm) emit a faint turpentine-clove scent when crushed and reveal closely spaced parallel secondary veins uniting neatly along a continuous intramarginal vein just inside the leaf edge.",
+        "During Boshonto, dense branched panicles emerge mostly along bare older twigs beneath the leaves, opening into fragrant cream-white powder-puff flowers bristling with dozens of stamens. By early Borsha (June–July), clusters of oblong ovoid berries (2–4 cm) ripen from green through rose-crimson to lustrous jet-violet enclosing pinkish-white juicy pulp around a single oblong green seed."
+      ],
+      "subblocks": [
+        {
+          "heading": "Aromatic Intramarginal Leaves",
+          "text": "Glossy leathery opposite blades studded with translucent oil dots and a clean marginal collecting vein."
+        },
+        {
+          "heading": "Ramiflorous Flower Panicles",
+          "text": "Branched cream-white clusters borne on leafless old twigs bearing abundant free stamens."
+        },
+        {
+          "heading": "Anthocyanin-Rich Berries",
+          "text": "Smooth oblong drupes bursting with sweet-astringent juice packed with delphinidin and petunidin pigments."
+        },
+        {
+          "heading": "Green Polyembryonic Kernel",
+          "text": "Single-or-multi-embryo starchy seed prized in dried powder form across traditional apothecaries."
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/8703806/pexels-photo-8703806.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Dark purple plums rich in anthocyanins",
+          "caption": "Violet-black berry pigmentation driven by concentrated delphinidin-3,5-diglucoside antioxidants."
+        },
+        {
+          "url": "https://images.pexels.com/photos/28884216/pexels-photo-28884216.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Glossy Myrtaceae leaves and fruits",
+          "caption": "Opposite veined foliage characteristic of family Myrtaceae fruit trees."
+        }
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Taxonomy & Botanical Classification",
+      "subtitle": "Myrtaceae kinship with Clove, Guava, and Water Apple (Jamrul)",
+      "summary": "Taxonomic links to clove (Syzygium aromaticum) and rose apple (Syzygium samarangense).",
+      "paragraphs": [
+        "Placed in order Myrtales and family Myrtaceae, Syzygium cumini shares aromatic terpenoid leaf glands and stamen-dominated blooms directly with Clove (S. aromaticum), Jamrul/Wax Apple (S. samarangense), and Guava (Psidium guajava). Linnaeus first catalogued it as Myrtus cumini in 1753 before Skeels assigned the modern Syzygium combination.",
+        "Historically celebrated in ancient Sanskrit geography as 'Jambudvipa' ('Island of the Jamun Tree'), cultivated types span small wild 'Kuttay Jam' and large fleshy 'Ra Jamun' cultivars."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/28884216/pexels-photo-28884216.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Myrtaceae branch and veined foliage",
+          "caption": "Diagnostic aromatic oil-gland foliage shared across Syzygium and Psidium."
+        }
+      ]
+    },
+    {
+      "number": "03",
+      "title": "Natural Habitat & Global Distribution",
+      "subtitle": "Monsoon riverbanks, Madhupur homesteads, and global subtropical gardens",
+      "summary": "Native across India, Bangladesh, and Southeast Asia with notable tolerance of flooded silt.",
+      "paragraphs": [
+        "Native across India, Bangladesh, Nepal, Sri Lanka, Myanmar, and the Indonesian archipelago, Syzygium cumini thrives in moist riverine gallery forests and mixed humid woodlands from sea level up to 1,800 metres. Once established, mature trees survive prolonged monsoon waterlogging along pond banks as well as dry winter spells.",
+        "Across Bangladesh, towering Kalojam shade trees stand beside rural pukur ponds, mosques, and homestead gardens in every district, welcoming monsoon rains with heavy violet fruit yields."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/31732206/pexels-photo-31732206.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Sunlit tropical orchard trees",
+          "caption": "Moist alluvial orchards and pond margins sustaining century-old fruiting trees."
+        }
+      ]
+    },
+    {
+      "number": "04",
+      "title": "Ecological Role & Pollinator Interactions",
+      "subtitle": "Nectar-rich spring honeybee forage and flying-fox fruit dispersal",
+      "summary": "Premium spring floral honey source and critical monsoon nutrition for frugivores.",
+      "paragraphs": [
+        "Jamun's spring bloom is a vital nectar and pollen bonanza for giant rock bees (Apis dorsata) and Apis cerana, yielding prized dark-amber unifloral Jamun honey renowned for non-crystallizing fluidity and subtle herbal aroma.",
+        "Ripe summer-monsoon berries attract green pigeons, rose-ringed parakeets, koels, monkeys, and nocturnal fruit bats that spit or pass intact green seeds widely across surrounding pastures."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/36441123/pexels-photo-36441123.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Honeybee foraging for spring nectar",
+          "caption": "Honeybees harvesting rich nectar from fragrant ramiflorous Syzygium cumini panicles."
+        }
+      ]
+    },
+    {
+      "number": "05",
+      "title": "Economic, Culinary & Cultural Importance",
+      "subtitle": "Salt-shaken Kalojam bowls, Jamun Sirka vinegar, and water-durable timber",
+      "summary": "Beloved monsoon street fruit, fermented digestive vinegar, and pond-pillar wood.",
+      "paragraphs": [
+        "Every Asharh monsoon, bamboo baskets brimming with chilled Kalojam berries appear across Bengal markets—traditionally shaken vigorously inside covered bowls with flaky salt and crushed green chili ('Jam Makhano') to soften astringency and unleash bright sweet-tart flavor.",
+        "Beyond fresh eating and purple sherbets, fermented Jamun juice produces traditional amber 'Jamun Sirka' vinegar, while its water-resistant reddish-brown timber crafts well-linings, boat oars, and bridge pilings."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/8703806/pexels-photo-8703806.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Freshly gathered deep violet berries",
+          "caption": "Glossy seasonal berries prized both fresh with salt and pressed into fermented vinegar."
+        }
+      ]
+    },
+    {
+      "number": "06",
+      "title": "Traditional & Scientific Medicinal Properties",
+      "subtitle": "Jamboline, ellagic acid, and postprandial glucose modulation",
+      "summary": "Anthocyanins in fruit and alpha-glucosidase inhibitory tannins in dried Jamun kernels.",
+      "paragraphs": [
+        "Both Ayurveda ('Jambu') and Unani medicine cherish dried powdered Jamun seeds ('Jamun Guthli') as an adjunct for managing excessive thirst and glycemic balance. Phytochemical analyses confirm ellagic acid, gallic acid, myricetin, quercetin, and the glycoside jamboline, alongside intense delphinidin anthocyanins in the dark skin.",
+        "Preclinical and preliminary human studies suggest seed and pulp polyphenols modestly inhibit intestinal alpha-glucosidase enzymes and reduce oxidative stress markers."
+      ],
+      "safetyNote": "People taking prescribed antidiabetic medications (metformin, sulfonylureas, or insulin) should monitor blood glucose closely and consult their physician before adding concentrated Jamun seed powder to avoid additive hypoglycemia.",
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/28511113/pexels-photo-28511113.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Herbal botanical powder and natural material",
+          "caption": "Dried seed kernels rich in ellagic acid and polyphenolic tannins."
+        }
+      ]
+    },
+    {
+      "number": "07",
+      "title": "Comprehensive Cultivation & Care Guide",
+      "subtitle": "Veneer grafting for compact trees, fresh seed sowing, and orchard pruning",
+      "summary": "Propagating early-bearing grafted Kalojam cultivars in deep moist orchard loam.",
+      "paragraphs": [
+        "Seed-grown Jamun trees require 8 to 10 years to fruit and grow excessively tall; modern orchards use veneer or softwood grafting onto 1-year seedling rootstocks so dwarf improved cultivars (such as 'Ra Jamun' or 'BARI Kalojam') bear within 3 to 4 years.",
+        "Plant in full sun on deep alluvial loam (pH 5.5–7.5) spaced 8 to 10 metres apart. Maintain moisture during fruit swell in Grishmo, then prune interior crossing branches after monsoon harvest to admit sunlight and ease hand-picking."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/31732206/pexels-photo-31732206.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Managed sunny tropical fruit grove",
+          "caption": "Well-spaced orchard trees yield plump, easily harvested berry clusters."
+        }
+      ]
+    }
+  ],
+  "schemaOrg": {
+    "@type": "Taxon",
+    "name": "Syzygium cumini",
+    "alternateName": [
+      "Jamun (Black Plum)",
+      "Kalojam (কালোজাম)"
+    ],
+    "taxonRank": "Species",
+    "parentTaxon": {
+      "@type": "Taxon",
+      "name": "Syzygium",
+      "taxonRank": "Genus",
+      "parentTaxon": {
+        "@type": "Taxon",
+        "name": "Myrtaceae",
+        "taxonRank": "Family"
+      }
+    }
+  }
+}

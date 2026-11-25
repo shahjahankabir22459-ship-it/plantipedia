@@ -1,0 +1,74 @@
+{
+  "schemaVersion": "3.0.0",
+  "coreCanvas": {
+    "canvasBg": "#04140c",
+    "canvasBand": "#071f13",
+    "surfaceEmerald": "#042417",
+    "surfaceEmeraldMid": "#083321",
+    "inkPrimary": "#f3f7f4",
+    "inkSecondary": "#b8ccc0",
+    "inkMuted": "#8aa596",
+    "accentMint": "#4ade80",
+    "accentEmerald": "#10b981",
+    "accentEmeraldBright": "#6ee7b7",
+    "accentGold": "#fbbf24"
+  },
+  "botanicalThemes": {
+    "emerald": {
+      "className": "botanical-theme--emerald",
+      "cardBg": "#071e16",
+      "accent": "#34d399",
+      "accentAlt": "#2dd4bf",
+      "subtext": "#6ee7b7"
+    },
+    "magenta": {
+      "className": "botanical-theme--magenta",
+      "cardBg": "#1f0d1b",
+      "accent": "#f472b6",
+      "accentAlt": "#fb7185",
+      "subtext": "#f9a8d4"
+    },
+    "amber": {
+      "className": "botanical-theme--amber",
+      "cardBg": "#1f1608",
+      "accent": "#fbbf24",
+      "accentAlt": "#fb923c",
+      "subtext": "#fde68a"
+    },
+    "violet": {
+      "className": "botanical-theme--violet",
+      "cardBg": "#140e24",
+      "accent": "#a78bfa",
+      "accentAlt": "#e879f9",
+      "subtext": "#ddd6fe"
+    },
+    "cyan": {
+      "className": "botanical-theme--cyan",
+      "cardBg": "#071a24",
+      "accent": "#38bdf8",
+      "accentAlt": "#22d3ee",
+      "subtext": "#bae6fd"
+    },
+    "crimson": {
+      "className": "botanical-theme--crimson",
+      "cardBg": "#210b10",
+      "accent": "#f87171",
+      "accentAlt": "#fda4af",
+      "subtext": "#fecaca"
+    },
+    "lime": {
+      "className": "botanical-theme--lime",
+      "cardBg": "#141d09",
+      "accent": "#a3e635",
+      "accentAlt": "#fde047",
+      "subtext": "#d9f99d"
+    },
+    "sapphire": {
+      "className": "botanical-theme--sapphire",
+      "cardBg": "#091526",
+      "accent": "#60a5fa",
+      "accentAlt": "#34d399",
+      "subtext": "#bfdbfe"
+    }
+  }
+}

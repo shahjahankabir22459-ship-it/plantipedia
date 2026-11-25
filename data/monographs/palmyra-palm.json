@@ -1,0 +1,204 @@
+{
+  "schemaVersion": "1.1.0",
+  "slug": "palmyra-palm",
+  "commonName": "Palmyra Palm (Taal)",
+  "scientificName": "Borassus flabellifer",
+  "localName": "Taal (তাল)",
+  "category": "Trees & Palms",
+  "categories": [
+    "Trees & Palms",
+    "Fruit Trees"
+  ],
+  "taxonomicDomain": "Tropical Pomology & Fruit Trees",
+  "featuredRank": null,
+  "shortSummary": "Majestic unbranched fan palm of South Asia prized for translucent cooling 'taal-shash' jelly seeds, fragrant golden fruit pulp, and lightning-resilient rural trunks.",
+  "leadOverview": "The Palmyra Palm (Borassus flabellifer)—revered across rural Bengal as Taal—is a towering dioecious fan palm that silhouettes rice paddies, earthen embankments, and village ponds. Providing sweet immature jelly endosperms in Grishmo heat, golden fibrous fruit pulp for Bhadro pitha cakes, palm jaggery (taal-er gur), and durable bridge timber, it sustains rural livelihoods for more than a century per tree.",
+  "heroImage": {
+    "url": "https://images.pexels.com/photos/37615014/pexels-photo-37615014.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "alt": "Tall Borassus flabellifer palm silhouettes rising against tropical golden sunset sky",
+    "caption": "Unbranched vertical trunks crowned with rigid costapalmate fan fronds of Borassus flabellifer."
+  },
+  "overview": {
+    "plantGroup": "Angiosperm (Monocot)",
+    "family": "Arecaceae",
+    "genus": "Borassus",
+    "species": "B. flabellifer",
+    "growthForm": "Solitary unbranched fan palm (15–30 m)",
+    "nativeOrigin": "South & Southeast Asia (Indian Subcontinent to Indochina)",
+    "commonUses": "Taal-shash fruit jelly, Bhadro cake pulp, palm jaggery, roof thatch, palm-leaf manuscripts"
+  },
+  "cultivationTelemetry": {
+    "phMin": 5.5,
+    "phMax": 8.0,
+    "phOptimalLabel": "pH 5.5 – 8.0",
+    "sunlightLevel": 3,
+    "sunlightLabel": "Full Tropical Sun",
+    "irrigationLevel": 1,
+    "irrigationLabel": "Low / Deep-Rooted Drought Hardy",
+    "soilDrainageLabel": "Alluvial Clay-Loam to Sandy Bunds"
+  },
+  "sections": [
+    {
+      "number": "01",
+      "title": "Morphological Description",
+      "subtitle": "Columnar ringed trunk, pleated fan fronds, and three-seeded black-purple drupes",
+      "summary": "Anatomy of solitary black stems, spiny costapalmate petioles, dioecious spadices, and triple-pyrene drupes.",
+      "paragraphs": [
+        "Borassus flabellifer sends up a ramrod-straight, solitary grey-black trunk reaching 15 to 30 metres in height, visibly swollen at the base and scarred by circular leaf-base rings; in youth, overlapping split petioles sheath the stem tightly before dropping cleanly with age. Above sits a crisp terminal crown of 25 to 40 stiff, pleated fan-shaped (costapalmate) fronds up to 3 metres wide armed along petiole margins with dark saw-like teeth.",
+        "Unlike monoecious coconut palms, Palmyra is strictly dioecious: male trees produce forked catkins shedding bright yellow pollen, whereas female trees bear massive pendulous panicles of rounded coconut-sized drupes (12–20 cm wide). Inside each glossy purple-black skin and fragrant orange-gold fibrous mesocarp nestle three flattened seeds filled initially with watery sweet jelly ('taal-shash')."
+      ],
+      "subblocks": [
+        {
+          "heading": "Columnar Ringed Trunk",
+          "text": "Unbranched monocot stem lacking true wood rings, hardened externally by dense lignified vascular bundles resistant to rot."
+        },
+        {
+          "heading": "Costapalmate Fan Fronds",
+          "text": "Rigid greyish-green pleated palmate blades divided into 60–80 stiff segments atop thick spiny-edged petioles."
+        },
+        {
+          "heading": "Dioecious Inflorescences",
+          "text": "Separate male pollen spikes ('tapped' in spring for sweet sap) and female fruit-bearing stalks."
+        },
+        {
+          "heading": "Triple-Seeded Drupes",
+          "text": "Dark purple-black rounded fruits containing aromatic golden fibre pulp and three stony kernels yielding gelatinous endosperm."
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/37615014/pexels-photo-37615014.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Tall solitary palm crowns silhouetted against warm horizon",
+          "caption": "Distinctive upright habit and radiating fan crowns typical of Borassus flabellifer stands."
+        },
+        {
+          "url": "https://images.pexels.com/photos/30601566/pexels-photo-30601566.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Group of towering palms at twilight",
+          "caption": "Elevated monocot stems anchoring agricultural bunds and skyline edges."
+        }
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Taxonomy & Botanical Classification",
+      "subtitle": "Arecaceae Coryphoideae fan-palm lineage and Borassus allies",
+      "summary": "Placement within tribe Borasseae of the palm family Arecaceae.",
+      "paragraphs": [
+        "Classified in monocot order Arecales and family Arecaceae (subfamily Coryphoideae, tribe Borasseae), Borassus flabellifer is closely related to the African Palmyra (Borassus aethiopum) and famously huge Coco de Mer (Lodoicea maldivica).",
+        "Its specific epithet flabellifer literally translates from Latin as 'fan-bearer'—referring to the rigid, radial folding of its gigantic palmate leaves used historically across Asia as hand fans and writing folios."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/36328462/pexels-photo-36328462.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Arecaceae palm fronds and fruiting canopy",
+          "caption": "Dense fibrous palm crown illustrating Coryphoideae frond geometry and vascular resilience."
+        }
+      ]
+    },
+    {
+      "number": "03",
+      "title": "Natural Habitat & Global Distribution",
+      "subtitle": "Gangetic delta embankments, dry southern plains, and coastal savannas",
+      "summary": "Thorough distribution from India and Bangladesh through Myanmar, Sri Lanka, and Cambodia.",
+      "paragraphs": [
+        "Native to the Indian subcontinent and Southeast Asia, Borassus flabellifer thrives across open sunny plains, sandy coastal belts, and elevated paddy bunds (আলি) from sea level up to 800 metres. Its deep fibrous root mat resists cyclonic gusts and soil erosion better than virtually any shallow-rooted timber tree.",
+        "Across Bangladesh, Palmyra palms are planted intentionally along village embankments, railway dikes, and roadside rice fields—both to stabilize earthen banks and serve as natural tall lightning arresters protecting rural homesteads."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/30601566/pexels-photo-30601566.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Tall palm trees lining rural horizon",
+          "caption": "Palmyra palms colonizing open agricultural horizons and elevated monsoon bunds."
+        }
+      ]
+    },
+    {
+      "number": "04",
+      "title": "Ecological Role & Pollinator Interactions",
+      "subtitle": "Baya Weaver bird nesting, flying-fox dispersal, and cyclone windbreaks",
+      "summary": "Essential nesting site for weaverbirds (Babui Pakhi) and dry-season refuge for fauna.",
+      "paragraphs": [
+        "In Bangladesh and eastern India, Palmyra palm fronds are inseparably linked with the Baya Weaverbird (Ploceus philippinus / বাবুই পাখি), which expertly strips tough leaf-blade fibres to weave intricately suspended flask-shaped nests swaying safely from high frond tips beyond predator reach.",
+        "Beetles, bees, and wind cross-pollinate dioecious palm inflorescences, while palm civets, jackals, and flying foxes scatter heavy fallen drupes after feeding on fragrant ripe orange mesocarp."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/37615014/pexels-photo-37615014.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "High palm canopy supporting bird nesting",
+          "caption": "Elevated spiny fronds offering unmatched safe nesting anchorage for Baya Weaverbirds."
+        }
+      ]
+    },
+    {
+      "number": "05",
+      "title": "Economic, Culinary & Cultural Importance",
+      "subtitle": "Taal-shash summer ice apples, Bhadro pitha feasts, jaggery, and Talpatra manuscripts",
+      "summary": "Every organ harvested for food, ancient manuscripts, woven baskets, and rural timber.",
+      "paragraphs": [
+        "Few palms rival Borassus flabellifer in rural utility: in scorching Grishmo (May–June), street vendors cleave unripe husks to extract translucent, delicately sweet jelly seeds ('Taal-shash' / ice apple). By Bhadro (August–September), golden ripe fruits yield intensely aromatic pulp folded into traditional Bengali Taal-er Bora fritters, Taal Pitha, and milk puddings.",
+        "Tapped inflorescence sap ('taal-er rosh') boils down into mineral-rich palm jaggery ('Taal-er Gur') and palm candy ('Taal Mishri'), germinated seedlings produce starchy roasted sprouts ('Taal-er Fopra'), split stems form durable canal footbridges, and cured young leaves ('Talpatra') preserved South Asia's earliest Buddhist and Sanskrit palm-leaf manuscripts."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/36328462/pexels-photo-36328462.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Arecaceae palm crown bearing seasonal bounty",
+          "caption": "Multipurpose palm resource yielding jelly endosperm, sweet inflorescence sap, and leaf thatch."
+        }
+      ]
+    },
+    {
+      "number": "06",
+      "title": "Traditional & Scientific Medicinal Properties",
+      "subtitle": "Electrolyte-rich fruit jelly, Taal Mishri soothing syrups, and spirostane saponins",
+      "summary": "Cooling hydration, pediatric throat lozenge traditions, and phytochemical antioxidant profiles.",
+      "paragraphs": [
+        "Folk and Unani practitioners prize immature 'taal-shash' jelly as a natural heat-stroke coolant rich in potassium, phosphorus, B-vitamins, and soothing mucilage. Crystallized palm sugar ('Taal Mishri') remains a cherished Bengali household demulcent dissolved in warm water or ginger tea to soothe dry winter coughs.",
+        "Laboratory analysis of Borassus flabellifer pulp and male flower extracts reports carotenoid pigments, phenolic acids, and spirostane-type steroidal saponins (borassosides) with antioxidant capacity."
+      ],
+      "safetyNote": "Freshly tapped unboiled palm sap ferments rapidly in tropical heat into alcoholic toddy and can harbor airborne wild microbes if stored unrefrigerated; consume only freshly harvested sap or hygienically boiled jaggery, and moderate high-sugar pulp intake in diabetes.",
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/30601566/pexels-photo-30601566.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Standing Borassus palms in warm light",
+          "caption": "Long-lived palms providing seasonal electrolytes and soothing traditional palm candy."
+        }
+      ]
+    },
+    {
+      "number": "07",
+      "title": "Comprehensive Cultivation & Care Guide",
+      "subtitle": "Direct in-situ seed planting, patient juvenile establishment, and zero-irrigation maturity",
+      "summary": "Planting ripe seeds directly along sunny embankments in pH 5.5–8.0 soils.",
+      "paragraphs": [
+        "Palmyra palms develop a massive descending cotyledonary sinker root immediately upon germination, making bare-root nursery transplanting difficult. Instead, plant mature ripe pyrenes directly 5 centimetres deep at the final sunny embankment or orchard site—germination pushes upward silently over 1 to 3 months after anchoring underground.",
+        "Thriving across sandy, clay-loam, and mildly saline coastal soils between pH 5.5 and 8.0, Borassus flabellifer grows slowly for its first 5 years before shooting skyward, bearing its first blossoms around 12 to 15 years and remaining productive beyond a century with virtually zero supplemental irrigation."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/37615014/pexels-photo-37615014.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Palmyra palms silhouetted along clear skyline",
+          "caption": "Direct-seeded embankment palms maturing into wind-firm centenarian giants."
+        }
+      ]
+    }
+  ],
+  "schemaOrg": {
+    "@type": "Taxon",
+    "name": "Borassus flabellifer",
+    "alternateName": [
+      "Palmyra Palm",
+      "Taal (তাল)"
+    ],
+    "taxonRank": "Species",
+    "parentTaxon": {
+      "@type": "Taxon",
+      "name": "Borassus",
+      "taxonRank": "Genus",
+      "parentTaxon": {
+        "@type": "Taxon",
+        "name": "Arecaceae",
+        "taxonRank": "Family"
+      }
+    }
+  }
+}

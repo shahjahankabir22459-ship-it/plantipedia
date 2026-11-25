@@ -1,0 +1,205 @@
+{
+  "schemaVersion": "1.1.0",
+  "slug": "brahmi",
+  "commonName": "Brahmi (Water Hyssop)",
+  "scientificName": "Bacopa monnieri",
+  "localName": "Brahmi Shak (ব্রাহ্মী শাক)",
+  "category": "Medicinal",
+  "categories": [
+    "Medicinal",
+    "Aquatic",
+    "Shrubs & Herbs"
+  ],
+  "taxonomicDomain": "Ethnobotanical & Ayurvedic Herbs",
+  "featuredRank": null,
+  "shortSummary": "Creeping succulent marshland herb celebrated in Ayurveda as 'Herb of Grace' for bacoside-A saponins studied extensively for memory consolidation and synaptic calm.",
+  "leadOverview": "Bacopa monnieri—cherished across Bangladesh's wetland edges and Ayurvedic pharmacopoeias as Brahmi—is a trailing, succulent perennial mat herb of the plantain family Plantaginaceae. Thriving across sunlit muddy ditches, pond margins, and flooded paddy borders, its fleshy paddle-like leaves pack unique bacoside triterpenoid saponins widely investigated in modern cognitive neuroscience.",
+  "heroImage": {
+    "url": "https://images.pexels.com/photos/9893128/pexels-photo-9893128.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "alt": "Lush vibrant green herbaceous leaves of marsh medicinal herb",
+    "caption": "Fleshy opposite green leaves adapted to moist wetland carpets and shallow pond margins."
+  },
+  "overview": {
+    "plantGroup": "Angiosperm (Eudicot)",
+    "family": "Plantaginaceae",
+    "genus": "Bacopa",
+    "species": "B. monnieri",
+    "growthForm": "Prostrate creeping succulent marsh herb (10–30 cm tall, 1 m spread)",
+    "nativeOrigin": "Wetlands of India, Bangladesh & Pan-Tropics",
+    "commonUses": "Ayurvedic memory tonics, brain-support extracts, wetland culinary shak, planted aquariums"
+  },
+  "cultivationTelemetry": {
+    "phMin": 5.8,
+    "phMax": 7.8,
+    "phOptimalLabel": "pH 5.8 – 7.8",
+    "sunlightLevel": 3,
+    "sunlightLabel": "Full Sun to Bright Part Shade",
+    "irrigationLevel": 3,
+    "irrigationLabel": "Wetland Mud / Semi-Aquatic",
+    "soilDrainageLabel": "Water-Retentive Bog Clay-Silt"
+  },
+  "sections": [
+    {
+      "number": "01",
+      "title": "Morphological Description",
+      "subtitle": "Nodal-rooting succulent runners, fleshy spatulate leaves, and pale lilac bells",
+      "summary": "Anatomy of prostrate bog stolons, opposite sessile leaves, five-lobed pale flowers, and tiny capsules.",
+      "paragraphs": [
+        "Bacopa monnieri forms dense, low-hugging evergreen carpets 10 to 30 centimetres high woven from spongy green creeping stems that send down white adventitious roots at nearly every node touching wet mud or submerged gravel. Leaves are opposite, sessile, fleshy spatulate-oblong (1–2.5 cm long) with blunt rounded tips, smooth margins, and subtle black resin glands underneath.",
+        "Solitary bell-shaped flowers emerge on slender stalks from upper leaf axils during warm months, opening five pale-violet-to-white rounded petals (8–12 mm wide) delicately streaked with lavender veins. Pollinated blooms ripen into tiny pointed ovoid capsules packed with dust-fine seeds, though creeping vegetative runners serve as the dominant spread strategy."
+      ],
+      "subblocks": [
+        {
+          "heading": "Adventitious Bog Stolons",
+          "text": "Spongy creeping green stems packed with air channels (aerenchyma) rooting rapidly into wet silt."
+        },
+        {
+          "heading": "Succulent Spatulate Blades",
+          "text": "Thick crisp opposite leaves storing high bacoside saponins and tolerating mild brackish coastal spray."
+        },
+        {
+          "heading": "Five-Lobed Lilac Bells",
+          "text": "Dainty white-to-pale-blue axillary flowers sporting four didynamous stamens."
+        },
+        {
+          "heading": "Ovoid Two-Valved Capsules",
+          "text": "Minute conical seed pods sheltered inside persistent five-parted leafy green sepals."
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/9893128/pexels-photo-9893128.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Lush green herbaceous medicinal shoots",
+          "caption": "Succulent aerial shoots and opposite leaves harvested cleanly for fresh Brahmi extracts."
+        },
+        {
+          "url": "https://images.pexels.com/photos/32437316/pexels-photo-32437316.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Wetland aquatic green plants in pond margin",
+          "caption": "Sunlit saturated mudflats and pond borders supporting vigorous marshland carpets."
+        }
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Taxonomy & Botanical Classification",
+      "subtitle": "Lamiales Plantaginaceae placement and clarity between Brahmi and Thankuni",
+      "summary": "Clarifying botanical identity between Bacopa monnieri (Brahmi) and Centella asiatica (Thankuni/Gotu Kola).",
+      "paragraphs": [
+        "Once classified in figwort family Scrophulariaceae, molecular systematics now anchors Bacopa monnieri within order Lamiales and family Plantaginaceae. Richard Wettstein formalized the modern combination in 1891, honoring French botanist Louis Guillaume Le Monnier.",
+        "Across North India and parts of Bengal, folk markets sometimes apply 'Brahmi' to both creeping kidney-leaved Centella asiatica (Thankuni, Apiaceae) and true Bacopa monnieri ('Jal-Brahmi'): botanists easily separate them because Centella has fan-shaped scalloped leaves on long petioles, whereas true Brahmi bears tiny fleshy opposite oblong leaves right on prostrate stems."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/9893128/pexels-photo-9893128.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Opposite green foliage detail",
+          "caption": "Opposite succulent leaf arrangement distinguishing true Bacopa monnieri from kidney-leaved Thankuni."
+        }
+      ]
+    },
+    {
+      "number": "03",
+      "title": "Natural Habitat & Global Distribution",
+      "subtitle": "Sundarbans edges, Bengal rice paddies, and cosmopolitan tropical marshes",
+      "summary": "Semi-aquatic resilience from freshwater ditches to mildly brackish delta mudflats.",
+      "paragraphs": [
+        "Spanning muddy wetlands across India, Bangladesh, Nepal, Sri Lanka, Vietnam, and warm Americas, Bacopa monnieri thrives equally along freshwater irrigation canals, drying monsoon haors, and brackish coastal estuary edges.",
+        "Across Bangladesh, thick wild carpets flourish beside rural tube-well runoff drains, sunny pukur ponds, and coastal Sundarbans fringes—remaining green year-round wherever roots stay damp."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/35027528/pexels-photo-35027528.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Paddy wetland water landscape",
+          "caption": "Sunlit shallow wetland margins and flooded rice bunds ideal for Brahmi colonization."
+        }
+      ]
+    },
+    {
+      "number": "04",
+      "title": "Ecological Role & Pollinator Interactions",
+      "subtitle": "Erosion-stabilizing mud mats, tiny marsh bees, and aquatic fry refuge",
+      "summary": "Bank silt binding, underwater aquarium oxygenator adaptation, and pollinator visits.",
+      "paragraphs": [
+        "Interlocking creeping mats protect muddy pond slopes from monsoon sheet erosion while filtering excess agricultural nitrates along paddy borders.",
+        "Remarkably amphibious, Bacopa shoots survive full underwater submersion for months—remodeling leaves slightly thinner while continuing photosynthesis—making it one of the freshwater aquarium hobby's cleanest oxygenating stem plants."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/32437316/pexels-photo-32437316.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Dense aquatic marsh flora",
+          "caption": "Amphibious stolons thriving effortlessly across fluctuating pond waterlines."
+        }
+      ]
+    },
+    {
+      "number": "05",
+      "title": "Economic, Culinary & Cultural Importance",
+      "subtitle": "Brahmi Ghrita tonics, Bengali herbal stir-fries, and global nootropic commerce",
+      "summary": "Culinary ghee-fried Brahmi leaves, standardized cognitive extracts, and ornamental water-garden trade.",
+      "paragraphs": [
+        "Across Bengal households, fresh tender Brahmi tips ('Brahmi Shak') are lightly sautéed in clarified ghee or mustard oil with green chilies and served alongside warm rice as a traditional student tonic ('smritishokti shak')—lipid fats naturally boost absorption of fat-soluble bacoside saponins.",
+        "Globally, standardized Bacopa extracts represent a premier evidence-backed botanical nootropic in wellness formulations ('CDRI 08' / 'BacoMind'), alongside steady demand in aquascaping and water gardens."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/9542523/pexels-photo-9542523.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Freshly picked culinary herbs",
+          "caption": "Crisp mild-bitter shoots prepared traditionally in ghee or standardized into extracts."
+        }
+      ]
+    },
+    {
+      "number": "06",
+      "title": "Traditional & Scientific Medicinal Properties",
+      "subtitle": "Bacoside A & B triterpenoid saponins and human memory consolidation trials",
+      "summary": "Randomized controlled studies on attention, delayed word recall, and antioxidant neuroprotection.",
+      "paragraphs": [
+        "Named after Brahma (symbolizing intellect and creativity), Brahmi ranks foremost among Ayurvedic 'Medhya Rasayana' neuro-tonics. Bioactive dammarane-type triterpenoid saponins—principally bacoside A3, bacopaside II, bacopasaponin C, and jujubogenin glycosides—cross the blood-brain barrier and promote antioxidant catalase/SOD enzyme activity alongside dendritic arborization in preclinical models.",
+        "Multiple double-blind, placebo-controlled clinical trials in healthy adults and older populations report modest improvements in delayed verbal memory recall, visual processing speed, and stress resilience after 8 to 12 weeks of consistent standardized intake."
+      ],
+      "safetyNote": "Because marshland Bacopa naturally bioaccumulates heavy metals (arsenic, cadmium, lead) from contaminated canal mud, NEVER harvest wild plants near industrial drains or polluted ditches. Therapeutic extracts may cause mild nausea on an empty stomach or interact with thyroid hormones, anticholinergics, or acetylcholinesterase medications.",
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/28511113/pexels-photo-28511113.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Standardized Ayurvedic medicinal botanicals",
+          "caption": "Clean-cultivated shoots standardized for bacoside saponin neuropharmacology."
+        }
+      ]
+    },
+    {
+      "number": "07",
+      "title": "Comprehensive Cultivation & Care Guide",
+      "subtitle": "Flooded clay tray propagation, clean tube-well water, and nodal stem cuttings",
+      "summary": "Cultivating ultra-clean edible Brahmi carpets on balconies in non-draining clay trays.",
+      "paragraphs": [
+        "Propagate effortlessly year-round by pressing 8-centimetre stem cuttings horizontally onto saturated mud or organic potting clay-loam (pH 5.8–7.8) inside wide shallow tubs lacking bottom drainage holes—keeping soil wet like a soggy sponge or flooded under 1 to 2 centimetres of clean water.",
+        "Place trays in full morning sun (4–6 hours daily) and replenish clean water weekly so no heavy metals enter leaves. Trim upper 10-centimetre green runners every 45 days; regular harvesting keeps mats dense, tender, and prolific."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/32437316/pexels-photo-32437316.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Thriving wetland tub cultivation",
+          "caption": "Clean water-retentive rooftop tubs yield pure edible Brahmi carpets year-round."
+        }
+      ]
+    }
+  ],
+  "schemaOrg": {
+    "@type": "Taxon",
+    "name": "Bacopa monnieri",
+    "alternateName": [
+      "Brahmi (Water Hyssop)",
+      "Brahmi Shak (ব্রাহ্মী শাক)"
+    ],
+    "taxonRank": "Species",
+    "parentTaxon": {
+      "@type": "Taxon",
+      "name": "Bacopa",
+      "taxonRank": "Genus",
+      "parentTaxon": {
+        "@type": "Taxon",
+        "name": "Plantaginaceae",
+        "taxonRank": "Family"
+      }
+    }
+  }
+}

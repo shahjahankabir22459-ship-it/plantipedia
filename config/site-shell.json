@@ -1,0 +1,144 @@
+{
+  "schemaVersion": "1.0.0",
+  "brand": {
+    "title": "Plantipedia",
+    "accentPrefix": "Plant",
+    "restTitle": "ipedia",
+    "subtitle": "Botanical Encyclopedia & Flora Archive",
+    "tagline": "Exploring the fascinating world of plants, one species at a time.",
+    "logo": "./assets/images/brand-flower.svg",
+    "logoAlt": "Plantipedia floral emblem",
+    "homeHref": "./"
+  },
+  "navbar": {
+    "ariaLabel": "Primary navigation",
+    "links": [
+      {
+        "id": "nav-home",
+        "label": "Home",
+        "href": "./",
+        "matchPaths": ["/", "/index.html"],
+        "sublabel": "Botanical Gateway"
+      },
+      {
+        "id": "nav-about",
+        "label": "About",
+        "href": "./#about-plantipedia",
+        "matchHash": "#about-plantipedia",
+        "sublabel": "Mission & Archive"
+      },
+      {
+        "id": "nav-explore",
+        "label": "Explore Flora",
+        "href": "./species/",
+        "matchPaths": ["/species/", "/species", "/plant/", "/plant", "/taxonomy/", "/taxonomy", "/seasons/", "/seasons"],
+        "sublabel": "Atlas, Taxonomy & 6-Season Calendar",
+        "dropdownSections": [
+          {
+            "title": "Archive Views",
+            "items": [
+              { "id": "nav-archive-species", "label": "All Species Atlas", "href": "./species/" },
+              { "id": "nav-archive-taxonomy", "label": "Taxonomic Lineage", "href": "./taxonomy/" },
+              { "id": "nav-archive-seasons", "label": "6-Season Calendar", "href": "./seasons/" }
+            ]
+          },
+          {
+            "title": "Quick Categories",
+            "items": [
+              { "id": "nav-species-flowers", "label": "Flowers & Ornamentals", "href": "./species/?category=Flowers" },
+              { "id": "nav-species-fruit", "label": "Fruit Trees & Palms", "href": "./species/?category=Fruit%20Trees" },
+              { "id": "nav-species-medicinal", "label": "Medicinal Herbs", "href": "./species/?category=Medicinal" },
+              { "id": "nav-species-shrubs", "label": "Shrubs & Herbs", "href": "./species/?category=Shrubs%20%26%20Herbs" },
+              { "id": "nav-species-aquatic", "label": "Aquatic & Wetland Flora", "href": "./species/?category=Aquatic" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "nav-compare",
+        "label": "Compare",
+        "href": "./compare/",
+        "matchPaths": ["/compare/", "/compare"],
+        "sublabel": "Side-by-Side Split View"
+      },
+      {
+        "id": "nav-ecology",
+        "label": "Ecology",
+        "href": "./#botanical-highlights",
+        "matchHash": "#botanical-highlights",
+        "sublabel": "Field Notes & Habitats"
+      }
+    ],
+    "search": {
+      "placeholder": "Search species (EN / বাংলা)...",
+      "ariaLabel": "Quick search plant species in English or Bengali",
+      "clearLabel": "Clear search"
+    },
+    "mobile": {
+      "openLabel": "Open navigation menu",
+      "closeLabel": "Close navigation menu",
+      "dialogLabel": "Mobile navigation and search",
+      "quickTryTitle": "Quick Try",
+      "quickTry": [
+        { "label": "Mango", "href": "./plant/?species=mango" },
+        { "label": "Rose", "href": "./plant/?species=rose" },
+        { "label": "Sacred Lotus", "href": "./plant/?species=lotus" },
+        { "label": "Tulsi", "href": "./plant/?species=tulsi" }
+      ],
+      "categoriesTitle": "Explore by Category",
+      "categories": [
+        {
+          "label": "Flowers",
+          "category": "Flowers",
+          "href": "./species/?category=Flowers"
+        },
+        {
+          "label": "Fruit Trees",
+          "category": "Fruit Trees",
+          "href": "./species/?category=Fruit%20Trees"
+        },
+        {
+          "label": "Medicinal",
+          "category": "Medicinal",
+          "href": "./species/?category=Medicinal"
+        },
+        {
+          "label": "Shrubs & Herbs",
+          "category": "Shrubs & Herbs",
+          "href": "./species/?category=Shrubs%20%26%20Herbs"
+        },
+        {
+          "label": "Trees & Palms",
+          "category": "Trees & Palms",
+          "href": "./species/?category=Trees%20%26%20Palms"
+        },
+        {
+          "label": "Aquatic",
+          "category": "Aquatic",
+          "href": "./species/?category=Aquatic"
+        }
+      ],
+      "signature": "Plantipedia Botanical Archive · Authorized by Jalees Habib & Rayaan Tasnim"
+    }
+  },
+  "footer": {
+    "summary": "Exploring the fascinating world of plants, one species at a time. Plantipedia is an educational botanical archive dedicated to documenting global flora with scientific accuracy. All original interface architecture, visual design systems, and source code are protected under copyright law, while botanical references and third-party imagery remain the property of their respective owners and are curated strictly for educational purposes.",
+    "compactTagline": "Exploring the fascinating world of plants, one species at a time.",
+    "credits": [
+      {
+        "role": "Chief Patron & Authorization",
+        "name": "JALEES HABIB"
+      },
+      {
+        "role": "Lead Design & UX Collaboration",
+        "name": "RAYAAN TASNIM"
+      }
+    ],
+    "partners": [
+      { "prefix": "Thanks to", "name": "IDAI Universe" },
+      { "prefix": "Powered by", "name": "Olympiad Edge" }
+    ],
+    "copyrightTemplate": "© {year} Plantipedia. All rights reserved.",
+    "legalNote": "Botanical monographs & photographic plates curated strictly for non-commercial educational study."
+  }
+}

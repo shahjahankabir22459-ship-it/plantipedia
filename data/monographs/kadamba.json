@@ -1,0 +1,205 @@
+{
+  "schemaVersion": "1.1.0",
+  "slug": "kadamba",
+  "commonName": "Kadamba",
+  "scientificName": "Neolamarckia cadamba",
+  "localName": "Kodom (কদম)",
+  "category": "Trees & Palms",
+  "categories": [
+    "Trees & Palms",
+    "Flowers",
+    "Medicinal"
+  ],
+  "taxonomicDomain": "Tropical Canopy & Ornamentals",
+  "featuredRank": null,
+  "shortSummary": "Iconic South Asian monsoon tree celebrated for golden-orange spherical pincushion flower heads, horizontal whorled tiers, and rapid timber growth.",
+  "leadOverview": "Kadamba (Neolamarckia cadamba)—immortalized as Kodom across Bengali monsoon poetry—is a fast-growing evergreen tropical tree admired for its tiered architectural branches and extraordinary globe-shaped blossoms. When Asharh rains arrive, thousands of creamy-white stigmas bristle from golden-orange flower balls, filling humid evenings with delicate honey perfume.",
+  "heroImage": {
+    "url": "https://images.pexels.com/photos/38093946/pexels-photo-38093946.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "alt": "Spherical golden-orange Neolamarckia cadamba Kodom blossoms amidst glossy green foliage",
+    "caption": "Signature pincushion flower heads of Neolamarckia cadamba bursting into monsoon bloom."
+  },
+  "overview": {
+    "plantGroup": "Angiosperm (Eudicot)",
+    "family": "Rubiaceae",
+    "genus": "Neolamarckia",
+    "species": "N. cadamba",
+    "growthForm": "Fast-growing evergreen tiered tree (20–45 m)",
+    "nativeOrigin": "South & Southeast Asia (Bengal, India, Myanmar, Malesia)",
+    "commonUses": "Monsoon ornamentation, agroforestry shade, plywood & pulpwood, Ayurvedic bark medicine"
+  },
+  "cultivationTelemetry": {
+    "phMin": 5.5,
+    "phMax": 7.5,
+    "phOptimalLabel": "pH 5.5 – 7.5",
+    "sunlightLevel": 3,
+    "sunlightLabel": "Full Sun / Light Shade",
+    "irrigationLevel": 3,
+    "irrigationLabel": "High / Monsoon-Loving",
+    "soilDrainageLabel": "Moist Deep Alluvial Loam"
+  },
+  "sections": [
+    {
+      "number": "01",
+      "title": "Morphological Description",
+      "subtitle": "Pagoda-like horizontal whorls, broad opposite leaves, and spherical capitula",
+      "summary": "Anatomy of straight columnar trunks, interpetiolar stipules, globose pincushion blooms, and fleshy syncarps.",
+      "paragraphs": [
+        "Neolamarckia cadamba forms a straight, cylindrical trunk up to 20 to 45 metres tall crowned by horizontal branches arranged in neat, pagoda-like tiers. Its glossy, dark green opposite leaves measure 15 to 30 centimetres long with deeply impressed parallel lateral veins and characteristic interpetiolar stipules that clasp new terminal shoots.",
+        "Each famous Kodom 'flower' is actually a dense spherical inflorescence (capitulum) 4 to 5 centimetres wide uniting hundreds of tiny tubular orange-gold florets onto a fleshy globe. When florets open at dusk, delicate white thread-like styles project outward evenly—resembling a golden pincushion dusted with frost—before ripening into fleshy edible yellow-orange fruit spheres packed with microscopic seeds."
+      ],
+      "subblocks": [
+        {
+          "heading": "Tiered Crown & Bark",
+          "text": "Straight self-pruning bole topped with whorled horizontal limbs; grey bark becoming fissured and scaly with age."
+        },
+        {
+          "heading": "Opposite Stipulate Leaves",
+          "text": "Large ovate-oblong glossy blades (15–30 cm) joined at nodes by early-shedding triangular interpetiolar stipules."
+        },
+        {
+          "heading": "Spherical Flower Heads",
+          "text": "Globose orange-yellow heads (4–5 cm diameter) bristling with exserted white stigmas that release gentle nocturnal fragrance."
+        },
+        {
+          "heading": "Multiple Fleshy Fruit",
+          "text": "Soft yellow-orange compound pseudocarp packed with thousands of minute angular seeds dispersed by bats and monsoon water."
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/38093946/pexels-photo-38093946.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Spherical Kodom flower cluster on leafy branch",
+          "caption": "Radial white styles emerging across a golden globose Neolamarckia cadamba inflorescence."
+        },
+        {
+          "url": "https://images.pexels.com/photos/9210074/pexels-photo-9210074.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Kadamba tree blossoms and lush tropical foliage",
+          "caption": "Lush opposite leaves framing monsoon Kodom flower clusters."
+        }
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Taxonomy & Botanical Classification",
+      "subtitle": "Rubiaceae coffee-family kinship and nomenclature revision",
+      "summary": "Placement in Rubiaceae alongside Ixora and Coffea, transitioning from Anthocephalus to Neolamarckia.",
+      "paragraphs": [
+        "Belonging to order Gentianales and family Rubiaceae—the coffee, quinine, and rangan family—Kadamba shares opposite stipulate leaves and inferior ovaries with garden Ixora and Coffea arabica. Historically published as Anthocephalus cadamba and Anthocephalus chinensis, detailed taxonomic typification later established Neolamarckia cadamba as the accepted binomial honoring French naturalist Jean-Baptiste Lamarck.",
+        "Only two species compose genus Neolamarckia across tropical Asia, distinguished by persistent calyx lobes and extraordinarily rapid juvenile vertical growth."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/9210074/pexels-photo-9210074.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Close-up of Rubiaceae Kadamba floral structure",
+          "caption": "Compact head of fused Rubiaceae florets forming the iconic monsoon sphere."
+        }
+      ]
+    },
+    {
+      "number": "03",
+      "title": "Natural Habitat & Global Distribution",
+      "subtitle": "Alluvial riverbanks, flooded lowlands, and South Asian sacred groves",
+      "summary": "Native across humid Indo-Malesian river valleys, wet evergreen margins, and Bengali villages.",
+      "paragraphs": [
+        "Wild Kadamba occurs naturally from Nepal, northeastern India, and Bangladesh across Myanmar, Thailand, and the Indonesian archipelago up to New Guinea. It favors deep, moist, well-aerated alluvial soils along riverbanks and seasonal floodplains below 1,000 metres elevation.",
+        "In Bangladesh, Kodom trees thrive effortlessly beside village ponds, river levees, and Sylhet valley edges—where early monsoon showers trigger sudden mass flowering."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/31591013/pexels-photo-31591013/free-photo-of-lush-monstera-leaves-in-colombian-jungle.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Lush humid tropical rainforest habitat",
+          "caption": "Humid alluvial tropical forest understory where Neolamarckia cadamba pioneers sunny gaps."
+        }
+      ]
+    },
+    {
+      "number": "04",
+      "title": "Ecological Role & Pollinator Interactions",
+      "subtitle": "Nocturnal moth pollination, frugivorous bat dispersal, and fast soil restoration",
+      "summary": "Critical monsoon pollinator resource, bat fruit dispersal, and pioneer reforestation utility.",
+      "paragraphs": [
+        "Because Kodom florets release peak honey-sweet scent after sunset, hawk moths, nocturnal bees, and crepuscular flies visit the spherical brushes heavily, transferring sticky pollen along their undersides. By day, honeybees and butterflies glean remaining nectar rewards.",
+        "When ripe fleshy fruits soften in late monsoon, flying foxes (Pteropus fruit bats), bulbuls, and monkeys consume the tangy pulp and scatter tiny seeds across open silt bars—making Kadamba a premier pioneer species for degraded riparian restoration."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/36441123/pexels-photo-36441123.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Bees gathering pollen on tropical blossoms",
+          "caption": "Daytime hymenopteran visitors complementing nocturnal moth pollination on globose flower heads."
+        }
+      ]
+    },
+    {
+      "number": "05",
+      "title": "Economic, Culinary & Cultural Importance",
+      "subtitle": "Bangladesh's monsoon cultural icon, matchwood timber, and agroforestry",
+      "summary": "Poetry, Rabindra Sangeet heritage, fast-rotation plywood, and tangy rural chutneys.",
+      "paragraphs": [
+        "In Bengali literature and folk life, Kodom is the undisputed botanical herald of Borsha (Monsoon)—immortalized in Rabindranath Tagore's verse ('Badol diner prothom kodom phul') and celebrated during rainy-season festivals. Tangy ripe fruit spheres are occasionally eaten fresh or pickled with salt and chili.",
+        "Commercially, Neolamarckia cadamba is valued across South Asia as 'miracle timber': trees reach harvestable girth in 8 to 10 years, supplying light cream wood for veneers, pencils, tea chests, matchsticks, and sustainable paper pulp."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/38093946/pexels-photo-38093946.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Kodom flowers celebrating Bengali monsoon",
+          "caption": "Kodom blossoms cherished across Bengal as the poetic emblem of Asharh monsoon rains."
+        }
+      ]
+    },
+    {
+      "number": "06",
+      "title": "Traditional & Scientific Medicinal Properties",
+      "subtitle": "Cadambine indole alkaloids, triterpenoid saponins, and astringent bark",
+      "summary": "Ayurvedic febrifuge bark decoctions and anti-inflammatory phytochemistry with dosage cautions.",
+      "paragraphs": [
+        "Classical Ayurvedic texts classify Kadamba bark as cooling, astringent, and febrifugal—prescribing standardized stem-bark decoctions for mild fever washes, mouth gargles, and topical wound cleansing. Fresh broad leaves are traditionally warmed and wrapped around swollen joints.",
+        "Phytochemical investigations identify characteristic monoterpenoid indole alkaloids (cadambine, 3α-dihydrocadambine), chlorogenic acid, and triterpenoid glycosides exhibiting antioxidant and hypoglycemic potential in preclinical research."
+      ],
+      "safetyNote": "Internal consumption of crude bark extracts can irritate sensitive digestive linings and should never substitute for clinical antimalarial, fever, or glycemic therapy; consult qualified healthcare practitioners before therapeutic use.",
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/9210074/pexels-photo-9210074.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Medicinal Kodom blossoms and bark foliage",
+          "caption": "Bioactive floral and foliar tissues containing cadambine alkaloids and polyphenols."
+        }
+      ]
+    },
+    {
+      "number": "07",
+      "title": "Comprehensive Cultivation & Care Guide",
+      "subtitle": "Fine-seed surface sowing, monsoon moisture, and deep loamy soils",
+      "summary": "Establishing rapid-growing specimen trees in pH 5.5–7.5 moisture-retentive soils.",
+      "paragraphs": [
+        "Extract seeds by soaking macerated ripe fruit spheres in water until clean microscopic seeds settle, then sow lightly onto fine moist nursery sand without burying deeply—light aids germination within 14 to 21 days. Transplant saplings once 25 centimetres tall into full sun.",
+        "Kadamba thrives in deep moist alluvial or clay-loam soils maintained at pH 5.5 to 7.5 and tolerates seasonal monsoon waterlogging far better than arid drought. Provide abundant watering during the first two dry winters to support rapid 2-to-3-metre annual sapling extension."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/38093946/pexels-photo-38093946.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Healthy flowering Kadamba branches in daylight",
+          "caption": "Vigorous flowering canopies thriving in humid monsoon climates and moist fertile loam."
+        }
+      ]
+    }
+  ],
+  "schemaOrg": {
+    "@type": "Taxon",
+    "name": "Neolamarckia cadamba",
+    "alternateName": [
+      "Kadamba",
+      "Kodom (কদম)"
+    ],
+    "taxonRank": "Species",
+    "parentTaxon": {
+      "@type": "Taxon",
+      "name": "Neolamarckia",
+      "taxonRank": "Genus",
+      "parentTaxon": {
+        "@type": "Taxon",
+        "name": "Rubiaceae",
+        "taxonRank": "Family"
+      }
+    }
+  }
+}

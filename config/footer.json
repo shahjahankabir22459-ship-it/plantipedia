@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "brand": {
+    "title": "Plantipedia",
+    "accentPrefix": "Plant",
+    "restTitle": "ipedia",
+    "tagline": "Exploring the fascinating world of plants, one species at a time.",
+    "logo": "./assets/images/brand-flower.svg",
+    "logoAlt": "Plantipedia floral emblem",
+    "homeHref": "./"
+  },
+  "tagline": "Exploring the fascinating world of plants, one species at a time.",
+  "summary": "Exploring the fascinating world of plants, one species at a time. Plantipedia is an educational botanical archive dedicated to documenting global flora with scientific accuracy.",
+  "credits": [
+    {
+      "role": "Chief Patron & Authorization",
+      "name": "JALEES HABIB"
+    },
+    {
+      "role": "Lead Architecture, UI & UX Collaboration",
+      "name": "RAYAAN TASNIM"
+    }
+  ],
+  "partners": [
+    { "prefix": "Special Thanks to", "name": "IDAI Universe" },
+    { "prefix": "Powered by", "name": "Olympiad Edge" }
+  ],
+  "disclaimer": "Educational & Botanical Disclaimer: Monographs, taxonomic notes, and Pexels photography are curated strictly for non-commercial academic reference and do not constitute clinical or medical advice.",
+  "copyright": {
+    "autoYear": true,
+    "owner": "Plantipedia",
+    "template": "© {year} Plantipedia. All rights reserved."
+  }
+}

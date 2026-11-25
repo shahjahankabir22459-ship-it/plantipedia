@@ -1,0 +1,204 @@
+{
+  "schemaVersion": "1.1.0",
+  "slug": "kamini",
+  "commonName": "Orange Jessamine (Kamini)",
+  "scientificName": "Murraya paniculata",
+  "localName": "Kamini (কামিনী)",
+  "category": "Flowers",
+  "categories": [
+    "Flowers",
+    "Shrubs & Herbs"
+  ],
+  "taxonomicDomain": "Angiosperms & Ornamentals",
+  "featuredRank": null,
+  "shortSummary": "Glossy evergreen citrus-family hedge shrub bursting after monsoon rains with honey-sweet snow-white star flowers and glossy red berries.",
+  "leadOverview": "Murraya paniculata—universally beloved across Bangladesh as Kamini—is a refined, dense-foliaged evergreen shrub or small tree of the citrus family Rutaceae. Prized equally for manicured courtyard hedges, bonsai training, and balcony pots, every summer and monsoon rainstorm triggers synchronous bursts of snowy five-petalled blossoms carrying an unforgettable honey-orange-blossom perfume.",
+  "heroImage": {
+    "url": "https://images.pexels.com/photos/38674155/pexels-photo-38674155.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "alt": "Snow-white Murraya paniculata Kamini blossoms with glossy pinnate leaflets",
+    "caption": "Scented snow-white five-petalled Murraya paniculata (Kamini) corymbs contrasted against glossy leaflets."
+  },
+  "overview": {
+    "plantGroup": "Angiosperm (Eudicot)",
+    "family": "Rutaceae",
+    "genus": "Murraya",
+    "species": "M. paniculata",
+    "growthForm": "Dense evergreen woody shrub or small tree (2–6 m)",
+    "nativeOrigin": "South Asia, Southern China & Tropical Australasia",
+    "commonUses": "Fragrant courtyard hedges, bonsai specimens, evening floral garlands, garden ornament"
+  },
+  "cultivationTelemetry": {
+    "phMin": 5.8,
+    "phMax": 7.5,
+    "phOptimalLabel": "pH 5.8 – 7.5",
+    "sunlightLevel": 3,
+    "sunlightLabel": "Full Sun to Bright Part Shade",
+    "irrigationLevel": 2,
+    "irrigationLabel": "Moderate / Rain-Triggered",
+    "soilDrainageLabel": "Well-Drained Fertile Loam"
+  },
+  "sections": [
+    {
+      "number": "01",
+      "title": "Morphological Description",
+      "subtitle": "Polished odd-pinnate leaflets, waxy white terminal corymbs, and crimson berries",
+      "summary": "Anatomy of smooth pale stems, glossy oil-dotted leaflets, nectar-sweet white flowers, and red berries.",
+      "paragraphs": [
+        "Murraya paniculata grows into a neatly rounded, multi-branched evergreen shrub or slender small tree 2 to 6 metres tall clad in smooth pale cream-ash bark that fissures lightly on ancient bonsai trunks. Its alternate odd-pinnate leaves hold 3 to 7 dark emerald, glossy elliptic leaflets dotted with tiny citrus-scented oil glands when held toward sunlight.",
+        "Following sudden showers from Boshonto through Shorot, terminal and upper-axillary corymbs burst open simultaneously into crisp ivory-white reflexed five-petalled blossoms (1.5–2 cm wide) displaying ten prominent yellow-tipped stamens. Pollinated blooms mature into pointed oblong berries (1–1.5 cm) ripening from lime-green to vivid glossy scarlet."
+      ],
+      "subblocks": [
+        {
+          "heading": "Compact Woody Framing",
+          "text": "Fine dense twiggy branching tolerant of sculptural topiary shearing and formal courtyard edging."
+        },
+        {
+          "heading": "Glossy Citrus-Dotted Leaflets",
+          "text": "Thornless polished dark-green compound foliage releasing crisp herbal-citrus aroma when bruised."
+        },
+        {
+          "heading": "Rain-Synchronized White Blooms",
+          "text": "Massed bell-shaped five-petalled flowers opening at dusk and early morning with sweet neroli scent."
+        },
+        {
+          "heading": "Glossy Scarlet Berries",
+          "text": "Fleshy oblong orange-red drupe-like berries cradling one or two woolly cotton-coated seeds."
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/38674155/pexels-photo-38674155.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Close-up of white Kamini Murraya paniculata flowers",
+          "caption": "Reflexed snow-white petals framing golden anthers amidst polished compound leaflets."
+        },
+        {
+          "url": "https://images.pexels.com/photos/36441123/pexels-photo-36441123.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Honeybees pollinating white blossoms",
+          "caption": "Honeybees and hawkmoths attracted by heavy sweet benzyl-benzoate and nerolidol scent."
+        }
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Taxonomy & Botanical Classification",
+      "subtitle": "Rutaceae citrus kinship with Curry Leaf (Murraya koenigii) and Dwarf Kamini",
+      "summary": "Taxonomic links to citrus trees and distinction from culinary curry leaf.",
+      "paragraphs": [
+        "Assigned to order Sapindales and family Rutaceae alongside oranges, pomelos, and Bael, Murraya paniculata honors Swedish botanist Johan Andreas Murray (a devoted student of Linnaeus). William Jack formally published the modern binomial in 1820.",
+        "Although closely related to culinary Curry Leaf (Bergera koenigii / Murraya koenigii), Kamini is easily distinguished by thicker, mirror-glossy, fewer leaflets (3–7 vs. 15–25 dull leaflets) and bright red berries instead of black ones. Miniature 'Dwarf Kamini' (often cultivar 'Min-a-Min' or 'Table Kamini') stays under 45 centimetres tall as a living tabletop bonsai."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/38674155/pexels-photo-38674155.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Murraya paniculata flower cluster",
+          "caption": "Five-petalled Rutaceae floral plan identical to wild citrus orange blossoms."
+        }
+      ]
+    },
+    {
+      "number": "03",
+      "title": "Natural Habitat & Global Distribution",
+      "subtitle": "Monsoon forest understories, Dhaka university avenues, and tropical hedges",
+      "summary": "Native from South Asia to northern Australia and cherished across urban courtyards.",
+      "paragraphs": [
+        "Wild Murraya paniculata inhabits monsoon woodland margins, limestone scrub, and sunny forest clearings from India and Bangladesh across southern China, Thailand, Malesia, and northern Australia.",
+        "In Bangladesh, Kamini ranks alongside Beli and Shefali as an essential courtyard tree—blooming reliably outside homes, campus lawns, and apartment balconies whenever warm showers break summer dryness."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/31732206/pexels-photo-31732206.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Sunlit tropical garden foliage",
+          "caption": "Adaptable evergreen foliage thriving from partial garden shade to bright courtyard sun."
+        }
+      ]
+    },
+    {
+      "number": "04",
+      "title": "Ecological Role & Pollinator Interactions",
+      "subtitle": "Rain-cue synchronous flowering, frugivore birds, and citrus psyllid vigilance",
+      "summary": "Synchronous mass blooming overwhelming nectar feeders, bird-dispersed red berries, and orchard pest ecology.",
+      "paragraphs": [
+        "Drops in barometric pressure and sudden cooling summer rainstorms trigger dormant Kamini buds across entire neighborhoods to open in unison—creating dense white nectar clouds visited by honeybees, swallowtail butterflies, and dusk hawkmoths.",
+        "Small red fruits sustain bulbuls and mynas that disperse seeds along garden fences; however, entomologists note Kamini can host the Asian citrus psyllid (Diaphorina citri), requiring routine organic monitoring near commercial lemon or orange orchards."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/36441123/pexels-photo-36441123.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Bee foraging on nectar-rich bloom",
+          "caption": "Massed white corymbs delivering crucial monsoon nectar across urban gardens."
+        }
+      ]
+    },
+    {
+      "number": "05",
+      "title": "Economic, Culinary & Cultural Importance",
+      "subtitle": "Dusk courtyard perfume, living privacy hedges, and miniature bonsai artistry",
+      "summary": "Beloved South Asian ornamental hedge, classic bridal-room scent, and prize nursery crop.",
+      "paragraphs": [
+        "In Bengali cultural life, evening breezes drifting past a rain-washed Kamini shrub symbolize tranquil monsoon nights ('Kamini-gandha'). Freshly picked clusters perfume homes naturally without artificial aerosols.",
+        "Horticulturally, fine-leaved Dwarf Kamini has become one of the bestselling balcony and bonsai plants across South Asian nurseries—prized for gnarled miniature roots, glossy evergreen foliage, and reliable seasonal snow-white blossoms."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/38674155/pexels-photo-38674155.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Ornamental Kamini blossoms",
+          "caption": "Neat dark foliage and snow-white blooms make Kamini premier for courtyard hedges and bonsai."
+        }
+      ]
+    },
+    {
+      "number": "06",
+      "title": "Traditional & Scientific Medicinal Properties",
+      "subtitle": "Yuehchukene alkaloids, polymethoxylated flavones, and topical analgesia",
+      "summary": "Traditional toothache and dermal poultices backed by coumarin and flavonoid chemistry.",
+      "paragraphs": [
+        "In Southeast Asian and South Asian ethnomedicine ('Jiu Li Xiang' in Chinese pharmacopoeia), dried Kamini twigs and crushed leaves are prepared externally as warming poultices for joint aches, bruises, and traditional toothache rinses.",
+        "Phytochemical profiling isolates polymethoxylated flavones (murrayone, paniculatin), coumarins (phebalosin), and indole alkaloids such as yuehchukene demonstrating anti-inflammatory and analgesic potential in preclinical models."
+      ],
+      "safetyNote": "Do not confuse ornamental Kamini (Murraya paniculata) with culinary Curry Leaf (Murraya koenigii) in cooking; Kamini leaves and red berries contain coumarins and yuehchukene alkaloids unsuitable for dietary ingestion or use during pregnancy.",
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/38674155/pexels-photo-38674155.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Murraya paniculata aromatic foliage",
+          "caption": "Glandular leaves rich in volatile terpenes and polymethoxylated coumarins."
+        }
+      ]
+    },
+    {
+      "number": "07",
+      "title": "Comprehensive Cultivation & Care Guide",
+      "subtitle": "Light pruning after bloom waves, fresh red-berry sowing, and iron-rich compost",
+      "summary": "Maintaining glossy evergreen foliage and rhythmic monsoon flower bursts.",
+      "paragraphs": [
+        "Propagate effortlessly from fresh seeds washed out of ripe scarlet berries (sown immediately before drying) or semi-hardwood monsoon stem cuttings dipped in rooting hormone. Plant in fertile, well-drained loam (pH 5.8–7.5) receiving 4 to 6 hours of bright sun—afternoon dappled shade keeps foliage extra deep emerald.",
+        "Shear lightly right after each flowering flush fades rather than during peak bud set, feed quarterly with vermicompost plus Epsom salt (magnesium) to keep leaves mirror-glossy, and allow topsoil to dry slightly between waterings."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/38674155/pexels-photo-38674155.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Healthy blooming Murraya paniculata hedge",
+          "caption": "Balanced pruning after bloom flushes stimulates dense branching and heavier floral corymbs."
+        }
+      ]
+    }
+  ],
+  "schemaOrg": {
+    "@type": "Taxon",
+    "name": "Murraya paniculata",
+    "alternateName": [
+      "Orange Jessamine (Kamini)",
+      "Kamini (কামিনী)"
+    ],
+    "taxonRank": "Species",
+    "parentTaxon": {
+      "@type": "Taxon",
+      "name": "Murraya",
+      "taxonRank": "Genus",
+      "parentTaxon": {
+        "@type": "Taxon",
+        "name": "Rutaceae",
+        "taxonRank": "Family"
+      }
+    }
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "schemaVersion": "1.1.0",
+  "slug": "pomegranate",
+  "commonName": "Pomegranate",
+  "scientificName": "Punica granatum",
+  "localName": "Dalim / Bedana (ডালিম / বেদানা)",
+  "category": "Fruit Trees",
+  "categories": [
+    "Fruit Trees",
+    "Shrubs & Herbs",
+    "Medicinal"
+  ],
+  "taxonomicDomain": "Tropical Pomology & Fruit Trees",
+  "featuredRank": null,
+  "shortSummary": "Ancient jewel-seeded shrub-tree celebrated for scarlet crumpled blossoms, leathery crowned fruits, ruby antioxidant arils, and punicalagin-rich peel.",
+  "leadOverview": "Punica granatum—cherished in Bengal as Dalim and sweet soft-seeded Bedana—is a drought-hardy multi-stemmed shrub or small tree cultivated since Bronze Age antiquity. Bearing blazing vermilion flowers and leathery red-gold globes packed with hundreds of shimmering ruby arils, it stands at the forefront of modern cardiovascular polyphenol research.",
+  "heroImage": {
+    "url": "https://images.pexels.com/photos/18523341/pexels-photo-18523341.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "alt": "Fresh ripe crimson Punica granatum pomegranates",
+    "caption": "Mature crimson-blushed Punica granatum (Dalim) fruits crowned by persistent toothed calyx lobes."
+  },
+  "overview": {
+    "plantGroup": "Angiosperm (Eudicot)",
+    "family": "Lythraceae",
+    "genus": "Punica",
+    "species": "P. granatum",
+    "growthForm": "Multi-stemmed deciduous-to-semi-evergreen shrub/tree (3–6 m)",
+    "nativeOrigin": "Iranian Plateau to Northern India",
+    "commonUses": "Fresh ruby arils, cold-pressed juice, dried anardana spice, rooftop gardening, tannin medicine"
+  },
+  "cultivationTelemetry": {
+    "phMin": 5.5,
+    "phMax": 7.5,
+    "phOptimalLabel": "pH 5.5 – 7.5",
+    "sunlightLevel": 3,
+    "sunlightLabel": "Full Unfiltered Sun",
+    "irrigationLevel": 2,
+    "irrigationLabel": "Even Moderate Moisture",
+    "soilDrainageLabel": "Well-Drained Fertile Loam"
+  },
+  "sections": [
+    {
+      "number": "01",
+      "title": "Morphological Description",
+      "subtitle": "Scarlet crape petals, persistent crown calyx, and chambered aril fruits",
+      "summary": "Anatomy of twiggy thorny shoots, glossy narrow foliage, vermilion flowers, and leathery balausta berries.",
+      "paragraphs": [
+        "Punica granatum naturally forms a dense, bushy multi-stemmed shrub or compact tree 3 to 6 metres high with slender angular branchlets often tipped with short protective spines. Leaves are opposite or clustered along short spurs, glossy narrow-oblong (3–8 cm) with smooth margins and coppery-red young tips.",
+        "Showy flame-orange-to-scarlet flowers feature a thick tubular red calyx and five to seven crinkled silky petals surrounding numerous stamens. Botanists term the resulting fruit (6–12 cm wide) a specialized berry called a 'balausta': a tough leathery rind partitioned inside by creamy papery membranes holding 400 to 800 translucent ruby-to-pink juicy aril seeds."
+      ],
+      "subblocks": [
+        {
+          "heading": "Multi-Stemmed Spine Twigs",
+          "text": "Gracefully arching grey-brown canes sprouting freely from basal suckers and pruning cuts."
+        },
+        {
+          "heading": "Glossy Spur Foliage",
+          "text": "Opposite narrow-lanceolate leaves flushing bronze-crimson in spring before turning polished emerald."
+        },
+        {
+          "heading": "Crumpled Vermilion Flowers",
+          "text": "Heterostylous vase-and-bell blossoms where thick long-styled hermaphrodite flowers successfully set fruit."
+        },
+        {
+          "heading": "Balausta Seed Chambers",
+          "text": "Crowned leathery rind enclosing distinct locular membranes packed with sweet crisp juice-sacs (arils)."
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/18523341/pexels-photo-18523341.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Crimson ripe pomegranate fruits",
+          "caption": "Leathery crowned fruits showing characteristic persistent calyx tube at the apex."
+        },
+        {
+          "url": "https://images.pexels.com/photos/36441123/pexels-photo-36441123.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Bees pollinating bright blossoms",
+          "caption": "Insect pollinators transferring pollen across showy Lythraceae floral tubes."
+        }
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Taxonomy & Botanical Classification",
+      "subtitle": "Myrtales Lythraceae placement and ancient 'apple with many seeds' etymology",
+      "summary": "Taxonomic evolution linking Punica to Crape Myrtle and Jarul within Lythraceae.",
+      "paragraphs": [
+        "Formerly isolated in its own family Punicaceae, modern molecular phylogenetics firmly nests Punica granatum inside family Lythraceae (order Myrtales), making it a close evolutionary cousin of ornamental Jarul (Lagerstroemia speciosa) and Henna (Lawsonia inermis). Linnaeus coined the binomial in 1753 from 'malum punicum' (Carthaginian apple) and 'granatum' (seeded).",
+        "Its only congener is the rare Socotra pomegranate (Punica protopunica), an island endemic on Socotra highlighting the genus's ancient Tethyan lineage."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/18523341/pexels-photo-18523341.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Pomegranate harvest texture",
+          "caption": "Unique multi-tiered carpel arrangement within the Lythraceae balausta fruit."
+        }
+      ]
+    },
+    {
+      "number": "03",
+      "title": "Natural Habitat & Global Distribution",
+      "subtitle": "Semi-arid Iranian origins and thriving urban rooftop cultivation in Bengal",
+      "summary": "Domestication across Mediterranean-Asian drylands and rooftop pot success in Bangladesh.",
+      "paragraphs": [
+        "Domesticated over 5,000 years ago between northern Iran, the Caucasus, and Afghanistan, wild Punica granatum thrives in rocky limestone foothills and sunny river valleys with hot dry summers and crisp winters.",
+        "Although prolonged monsoon saturation can crack ripening fruits in low-lying clay fields, improved tropical cultivars ('Bhagwa', 'Ganesh', 'Mridula', and soft-seeded Bedana) flourish extraordinarily well across elevated well-drained soils and sunny urban rooftop half-drums throughout Dhaka, Chattogram, and Bogura."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/31732206/pexels-photo-31732206.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Sunlit fruit orchard rows",
+          "caption": "Warm solar exposure driving vibrant crimson anthocyanin coloration in rinds and arils."
+        }
+      ]
+    },
+    {
+      "number": "04",
+      "title": "Ecological Role & Pollinator Interactions",
+      "subtitle": "Honeybee pollen rewards, sunbird nectar visits, and dry-season vigor",
+      "summary": "Dual-style floral pollination biology and drought-tolerant garden biodiversity.",
+      "paragraphs": [
+        "Pomegranate trees produce two functional flower morphs on the same branch: fertile vase-shaped flowers with tall receptive stigmas and short-styled bell flowers acting largely as pollen donors. Honeybees, sweat bees, and sunbirds forage eagerly inside bright orange calyx cups, ensuring rich cross-pollination.",
+        "Because leaves are small and waxy with low stomatal transpiration, established shrubs anchor dry slopes and urban heat-island rooftops while sustaining pollinating insects across warm months."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/36441123/pexels-photo-36441123.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Bee collecting floral pollen",
+          "caption": "Bee pollinators boosting fruit set across hermaphrodite vase-shaped blooms."
+        }
+      ]
+    },
+    {
+      "number": "05",
+      "title": "Economic, Culinary & Cultural Importance",
+      "subtitle": "Bedana jewel arils, tangy anardana spice, and traditional convalescent fruit",
+      "summary": "High-value commercial orchard crop, grenadine syrups, natural textile dye, and cultural symbol.",
+      "paragraphs": [
+        "Pomegranate arils brighten South Asian salads, raitas, biryanis, and chilled juices, while tart mountain cultivars are sun-dried into crushed 'Anardana' spice lending bright fruity acidity to savory curries and chutneys. Soft-seeded sweet Bedana ranks among the most cherished hospital-convalescence and celebratory gift fruits across Bangladesh.",
+        "Historically, dried tannin-dense fruit rinds ('nasphal') served artisan carpet weavers and cotton dyers as a fast natural golden-ochre dye and mordant."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/18523341/pexels-photo-18523341.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Market display of crimson pomegranates",
+          "caption": "High-antioxidant ruby arils powering global juice, culinary, and nutraceutical markets."
+        }
+      ]
+    },
+    {
+      "number": "06",
+      "title": "Traditional & Scientific Medicinal Properties",
+      "subtitle": "Punicalagin ellagitannins, urolithin A gut metabolites, and rind pharmacology",
+      "summary": "Vascular polyphenol science and astringent Unani-Ayurvedic peel applications.",
+      "paragraphs": [
+        "Modern nutritional biochemistry highlights pomegranate juice and white pith as extraordinarily rich sources of ellagitannins—especially punicalagin—and anthocyanins (delphinidin, cyanidin). Gut microbiota metabolize ellagitannins into urolithin A, an active compound extensively investigated for mitochondrial mitophagy, vascular nitric-oxide support, and antioxidant defense.",
+        "In Ayurveda ('Dadima') and Unani medicine ('Anar'), sun-dried rind powder ('Chhilka') provides high-tannin astringent relief for loose stools and oral mucosal inflammation."
+      ],
+      "safetyNote": "Never consume pomegranate root or stem bark casually without medical oversight—they contain toxic pelletierine alkaloids. Additionally, concentrated juice may interact with CYP2C9/CYP3A4-metabolized drugs (such as warfarin or certain antihypertensives) similarly to grapefruit.",
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/28511113/pexels-photo-28511113.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Dried herbal peel and natural specimens",
+          "caption": "Punicalagin-dense peel and jewel arils extensively studied in vascular nutrition."
+        }
+      ]
+    },
+    {
+      "number": "07",
+      "title": "Comprehensive Cultivation & Care Guide",
+      "subtitle": "Air layering soft-seeded cultivars, anti-cracking irrigation, and fruit bagging",
+      "summary": "Preventing fruit splitting and borer damage on beds or large rooftop drums.",
+      "paragraphs": [
+        "Propagate true-to-type soft-seeded Bedana cultivars via monsoon air-layering (Gooti) or semi-hardwood stem cuttings rather than seeds. Plant in full blazing sunlight (minimum 6 hours daily) in well-drained sandy-loam beds or 60-litre perforated drums (pH 5.5–7.5) fortified with compost and bone meal.",
+        "Maintain steady, even soil moisture during fruit development—sudden heavy irrigation after dry soil spells is the primary cause of rind splitting. Thin weak basal suckers to maintain 3 to 4 main trunks, and enclose young fruits in breathable paper bags to thwart pomegranate butterfly borers cleanly."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/18523341/pexels-photo-18523341.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Uncracked ripe crimson pomegranates",
+          "caption": "Consistent watering and boron micronutrients produce unblemished crack-free crimson fruits."
+        }
+      ]
+    }
+  ],
+  "schemaOrg": {
+    "@type": "Taxon",
+    "name": "Punica granatum",
+    "alternateName": [
+      "Pomegranate",
+      "Dalim / Bedana (ডালিম / বেদানা)"
+    ],
+    "taxonRank": "Species",
+    "parentTaxon": {
+      "@type": "Taxon",
+      "name": "Punica",
+      "taxonRank": "Genus",
+      "parentTaxon": {
+        "@type": "Taxon",
+        "name": "Lythraceae",
+        "taxonRank": "Family"
+      }
+    }
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "schemaVersion": "1.1.0",
+  "slug": "sal",
+  "commonName": "Sal Tree",
+  "scientificName": "Shorea robusta",
+  "localName": "Shal / Gojari (শাল / গজারী)",
+  "category": "Trees & Palms",
+  "categories": [
+    "Trees & Palms",
+    "Medicinal"
+  ],
+  "taxonomicDomain": "Tropical Canopy & Sacred Trees",
+  "featuredRank": null,
+  "shortSummary": "Majestic dipterocarp timber giant dominating Bangladesh's Madhupur and Bhawal Bhawal-Terrace deciduous forests with winged five-sepalled samaras and fragrant dammar resin.",
+  "leadOverview": "Shorea robusta, revered across South Asia as Sal and regionally in central Bangladesh as Gojari, is one of the most ecologically dominant broadleaf timber trees of the Indian subcontinent. Anchoring the red lateritic Pleistocene terraces of Madhupur and Bhawal, this towering semi-deciduous dipterocarp yields exceptionally durable heartwood, aromatic dammar resin, and winged shuttlecock-like fruits.",
+  "heroImage": {
+    "url": "https://images.pexels.com/photos/12067501/pexels-photo-12067501.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "alt": "Dense Shorea robusta Sal woodland canopy in sunlight",
+    "caption": "Towering broadleaf woodland canopy characteristic of Shorea robusta (Sal / Gojari) forests."
+  },
+  "overview": {
+    "plantGroup": "Angiosperm (Eudicot)",
+    "family": "Dipterocarpaceae",
+    "genus": "Shorea",
+    "species": "S. robusta",
+    "growthForm": "Tall semi-deciduous canopy tree (25–50 m)",
+    "nativeOrigin": "South Asia (Sub-Himalayan & Madhupur-Bhawal Belts)",
+    "commonUses": "Heavy construction timber, railway sleepers, sal dammar incense resin, biodegradable leaf plates"
+  },
+  "cultivationTelemetry": {
+    "phMin": 5.0,
+    "phMax": 6.5,
+    "phOptimalLabel": "pH 5.0 – 6.5",
+    "sunlightLevel": 3,
+    "sunlightLabel": "Full Sun / Emergent Canopy",
+    "irrigationLevel": 2,
+    "irrigationLabel": "Moderate Seasonal Monsoon",
+    "soilDrainageLabel": "Well-Drained Lateritic Red Loam"
+  },
+  "sections": [
+    {
+      "number": "01",
+      "title": "Morphological Description",
+      "subtitle": "Cylindrical fissured boles, glossy ovate leaves, cream panicles, and winged samaras",
+      "summary": "Canopy form, leathery deciduous-flush foliage, creamy yellow panicles, and winged Dipterocarpaceae fruits.",
+      "paragraphs": [
+        "Shorea robusta grows into a straight-boled forest giant reaching 25 to 50 metres in height with a clean cylindrical trunk clad in thick, dark greyish-brown longitudinally furrowed bark up to 5 centimetres deep—an adaptation shielding cambial tissue against dry-season ground fires. Under dense woodland shade, natural self-pruning produces long knot-free timber stems.",
+        "Leaves are simple, alternate, broadly ovate-oblong (10–25 cm long) with cordate bases, 12 to 15 pairs of prominent parallel lateral veins, and reddish young flushes in spring. In Boshonto, drooping panicles of creamy-yellow fragrant flowers give way within 10 to 12 weeks to nut-like ovoid fruits crowned by three enlarged and two shorter papery calyx wings."
+      ],
+      "subblocks": [
+        {
+          "heading": "Fire-Hardy Bark & Bole",
+          "text": "Deeply fissured charcoal-brown bark packed with resin canals yielding pale aromatic Sal dammar (dhuna)."
+        },
+        {
+          "heading": "Coriaceous Leaf Blades",
+          "text": "Tough, leathery ovate foliage shed briefly between Phalgun and Chaitra before flushing ruby-copper."
+        },
+        {
+          "heading": "Creamy Raceme Panicles",
+          "text": "Fragrant five-petalled cream blossoms densely clustered along defoliated spring twigs."
+        },
+        {
+          "heading": "Winged Dipterocarp Samaras",
+          "text": "Helicopter-like five-winged fruits spinning smoothly in pre-monsoon gusts for rapid immediate germination."
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/12067501/pexels-photo-12067501.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Broadleaf forest canopy of Sal woodland",
+          "caption": "Continuous green canopy formed by gregarious Shorea robusta stands."
+        },
+        {
+          "url": "https://images.pexels.com/photos/216668/pexels-photo-216668.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Deeply furrowed hardwood trunk bark",
+          "caption": "Thick longitudinally fissured bark protecting mature timber boles from seasonal dry fires."
+        }
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Taxonomy & Botanical Classification",
+      "subtitle": "Malvales dipterocarp lineage and recalcitrant-seed physiology",
+      "summary": "Taxonomic position within Dipterocarpaceae named for its characteristic winged calyx fruits.",
+      "paragraphs": [
+        "Placed in the order Malvales and family Dipterocarpaceae—named from Greek 'di-' (two) and 'pteron' (wing) after its winged fruiting calyx—Shorea robusta represents the westernmost gregarious dipterocarp species spanning the Indo-Gangetic piedmont. Karl Friedrich Gaertner published the binomial in 1805.",
+        "Unlike orthodox dryland seeds, Sal nuts are strictly recalcitrant: they contain high moisture at dispersal and lose germination viability within 10 to 14 days if dried, synchronizing fruit fall precisely with early monsoon cloudbursts."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/216668/pexels-photo-216668.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Textured hardwood bark of Shorea robusta relative",
+          "caption": "Dense interlocking grain and protective bark characteristic of Dipterocarpaceae."
+        }
+      ]
+    },
+    {
+      "number": "03",
+      "title": "Natural Habitat & Global Distribution",
+      "subtitle": "Madhupur Tract, Bhawal National Park, and Himalayan Terai foothills",
+      "summary": "Moist-deciduous red-clay terrace forests across Bangladesh, northern India, and Nepal.",
+      "paragraphs": [
+        "Shorea robusta forms pure gregarious stands across well-drained Pleistocene lateritic uplands and sub-Himalayan Terai belts from Himachal Pradesh and Nepal across Assam to central and northern Bangladesh. It thrives in annual rainfall regimes of 1,000 to 2,500 millimetres on acidic red clay-loam (pH 5.0–6.5), avoiding waterlogged floodplains.",
+        "In Bangladesh, remnant Sal (Gojari) forests define the Madhupur Tract (Tangail and Mymensingh), Bhawal National Park (Gazipur), and isolated northern patches in Dinajpur and Rangpur, sheltering Garo indigenous agroforestry communities and rare woodland wildlife."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/31591013/pexels-photo-31591013/free-photo-of-lush-monstera-leaves-in-colombian-jungle.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Humid forest understorey vegetation",
+          "caption": "Moist deciduous understorey microclimate sheltered beneath towering Sal crowns."
+        }
+      ]
+    },
+    {
+      "number": "04",
+      "title": "Ecological Role & Pollinator Interactions",
+      "subtitle": "Thrips pollination, ectomycorrhizal networks, and coppice regeneration",
+      "summary": "Wind-assisted thrips pollination, soil fungal symbiosis, and wildlife habitat value.",
+      "paragraphs": [
+        "Sal blossoms release a sweet musky scent attracting tiny thrips, honeybees, and solitary beetles that cross-pollinate neighboring trees amidst open spring winds. Beneath the forest floor, Sal roots form vital ectomycorrhizal symbioses with Russula and Amanita basidiomycete mushrooms that unlock scarce phosphorus from weathered red clay.",
+        "Historically renowned for extraordinary coppice vigor, felled stumps sprout multiple vigorous shoots from underground root collars, supporting capped langurs, woodpeckers, and wild junglefowl across Madhupur."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/36441123/pexels-photo-36441123.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Forest bee visiting spring flowers",
+          "caption": "Hymenopteran and thrips pollinators transferring pollen across spring Sal panicles."
+        }
+      ]
+    },
+    {
+      "number": "05",
+      "title": "Economic, Culinary & Cultural Importance",
+      "subtitle": "Termite-resistant timber, dhuna incense, and stitched eco-plates",
+      "summary": "Heavy structural hardwood, sacred resin incense, sal-butter seed fat, and sustainable leaf ware.",
+      "paragraphs": [
+        "Sal ranks among South Asia's premier structural hardwoods—exceptionally dense, resin-impregnated, and naturally resistant to termites and rot—traditionally milled into bridge pilings, railway sleepers, boat keels, and heavy door frames. Extracted oleoresin ('dhuna' or sal dammar) serves as aromatic ceremonial incense and boat-caulking pitch.",
+        "Across rural eastern India and Bangladesh, fallen tough Sal leaves are stitched with bamboo slivers into sturdy biodegradable bowls and platters ('sal pata thala'), while seed kernels yield pale green sal butter used in soapmaking and confectionery."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/12067501/pexels-photo-12067501.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Tall timber forest stands",
+          "caption": "Straight-grained forest stands valued across generations for structural engineering."
+        }
+      ]
+    },
+    {
+      "number": "06",
+      "title": "Traditional & Scientific Medicinal Properties",
+      "subtitle": "Resin triterpenoids, astringent bark tannins, and dermal balms",
+      "summary": "Antimicrobial sal dammar ointments and tannin-rich bark decoctions in folk pharmacology.",
+      "paragraphs": [
+        "In Ayurveda (known as 'Shala') and Unani practice, powdered white Sal resin (Ral) is warmed with sesame oil or ghee to formulate soothing topical balms for skin abrasions, cracked heels, and minor burns. Phytochemical assays identify ursolic acid, asiatic acid, and alpha-amyrin triterpenoids with documented antibacterial and wound-healing properties.",
+        "Stem bark extracts are rich in condensed tannins and bergenin, traditionally prepared as astringent gargles and gastrointestinal tonics."
+      ],
+      "safetyNote": "Crude Sal resin (dhuna) should only be used topically or as external fumigation incense unless formulated by a qualified practitioner; resinous smoke may irritate asthma-prone airways.",
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/216668/pexels-photo-216668.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Resinous bark of hardwood forest tree",
+          "caption": "Fissured bark exuding triterpenoid-rich dammar oleoresin."
+        }
+      ]
+    },
+    {
+      "number": "07",
+      "title": "Comprehensive Cultivation & Care Guide",
+      "subtitle": "Immediate fresh-seed sowing, ectomycorrhizal soil inoculation, and deep taproots",
+      "summary": "Raising Shorea robusta from short-lived winged seeds on acidic well-drained loam.",
+      "paragraphs": [
+        "Because Sal seeds lose viability rapidly after hitting the ground in late Grishmo (May–June), collect freshly fallen green-winged nuts and sow them immediately half-buried in deep nursery polybags filled with acidic red loam (pH 5.0–6.5) blended with topsoil from a healthy Sal woodland to transfer beneficial mycorrhizal fungi.",
+        "Avoid bare-root transplanting, as seedlings form a long sensitive taproot early; plant out ball-of-earth saplings at monsoon onset with 3-to-4-metre spacing, shielding young shoots from browsing livestock and dry-season grass fires during the first three years."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/12067501/pexels-photo-12067501.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Healthy regenerating forest canopy",
+          "caption": "Protected upland plantations sustain natural Sal coppice and seedling recruitment."
+        }
+      ]
+    }
+  ],
+  "schemaOrg": {
+    "@type": "Taxon",
+    "name": "Shorea robusta",
+    "alternateName": [
+      "Sal Tree",
+      "Shal (শাল)"
+    ],
+    "taxonRank": "Species",
+    "parentTaxon": {
+      "@type": "Taxon",
+      "name": "Shorea",
+      "taxonRank": "Genus",
+      "parentTaxon": {
+        "@type": "Taxon",
+        "name": "Dipterocarpaceae",
+        "taxonRank": "Family"
+      }
+    }
+  }
+}

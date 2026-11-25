@@ -1,0 +1,204 @@
+{
+  "schemaVersion": "1.1.0",
+  "slug": "kalmegh",
+  "commonName": "Kalmegh (King of Bitters)",
+  "scientificName": "Andrographis paniculata",
+  "localName": "Kalomegh / Chirata (কালমেঘ)",
+  "category": "Medicinal",
+  "categories": [
+    "Medicinal",
+    "Shrubs & Herbs"
+  ],
+  "taxonomicDomain": "Ethnobotanical & Ayurvedic Herbs",
+  "featuredRank": null,
+  "shortSummary": "Erect annual medicinal herb renowned as 'King of Bitters' for fiercely bitter andrographolide diterpenoids supporting hepatoprotective and upper-respiratory defense.",
+  "leadOverview": "Andrographis paniculata—celebrated across Bengal homesteads and Ayurvedic clinics as Kalomegh ('Dark Cloud')—is a slender, square-stemmed herbaceous herb of the acanthus family Acanthaceae. Known globally as the 'King of Bitters' (and regionally traded alongside Chirata), its lance-shaped dark leaves pack potent andrographolide lactones widely studied for immune resilience and liver protection.",
+  "heroImage": {
+    "url": "https://images.pexels.com/photos/27972426/pexels-photo-27972426.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "alt": "Deep green opposite lanceolate leaves of Andrographis paniculata medicinal herb",
+    "caption": "Dark emerald opposite leaves rich in bitterly active andrographolide diterpenoid lactones."
+  },
+  "overview": {
+    "plantGroup": "Angiosperm (Eudicot)",
+    "family": "Acanthaceae",
+    "genus": "Andrographis",
+    "species": "A. paniculata",
+    "growthForm": "Erect branched herbaceous annual (0.3–1.1 m)",
+    "nativeOrigin": "South Asia (India, Bangladesh & Sri Lanka)",
+    "commonUses": "Bitter hepatic infusions, respiratory herbal tablets, pediatric traditional liver tonics"
+  },
+  "cultivationTelemetry": {
+    "phMin": 5.8,
+    "phMax": 7.5,
+    "phOptimalLabel": "pH 5.8 – 7.5",
+    "sunlightLevel": 2,
+    "sunlightLabel": "Light Shade to Bright Sun",
+    "irrigationLevel": 2,
+    "irrigationLabel": "Moderate Monsoon / Drained",
+    "soilDrainageLabel": "Moist Sandy-Clay Garden Loam"
+  },
+  "sections": [
+    {
+      "number": "01",
+      "title": "Morphological Description",
+      "subtitle": "Jointed square green stems, lanceolate leaves, spotted white bilabiate blooms, and linear capsules",
+      "summary": "Anatomy of four-angled herbaceous shoots, opposite simple leaves, two-lipped white flowers, and spring-loaded pods.",
+      "paragraphs": [
+        "Andrographis paniculata grows as an upright, neatly branched herbaceous annual reaching 30 to 110 centimetres tall on smooth dark-green quadrangular stems noticeably swollen at every leaf-bearing node. Its opposite, short-stalked leaves are lance-shaped with tapered tips (5–10 cm long), deep glossy green above and paler beneath, tasting intensely bitter from just a pinpoint nibble.",
+        "From late Borsha through Hemonto, loose airy panicles rise from upper leaf axils bearing small dainty white two-lipped flowers (1–1.5 cm) prettily flecked with magenta-purple stripes inside the lower lip. Following pollination, slender cylindrical capsules (1.5–2 cm) ripen pale tan and snap open explosively to flick out 8 to 12 yellowish-brown warty seeds."
+      ],
+      "subblocks": [
+        {
+          "heading": "Swollen Quadrangular Nodes",
+          "text": "Four-angled emerald stems slightly winged along corners with characteristic Acanthaceae nodal joints."
+        },
+        {
+          "heading": "Lanceolate Bitter Foliage",
+          "text": "Opposite smooth glabrous blades storing up to 2–3% dry weight of andrographolide lactones."
+        },
+        {
+          "heading": "Purple-Spotted Bilabiate Flowers",
+          "text": "Tubular white corollas divided into an upper hood and spotted three-lobed lower landing lip."
+        },
+        {
+          "heading": "Ballochorous Seed Capsules",
+          "text": "Linear two-valved pods lined with curved hook-like retinacula that catapult dry seeds cleanly away."
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/27972426/pexels-photo-27972426.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Dark green medicinal foliage of Kalmegh",
+          "caption": "Opposite lanceolate leaves harvested cleanly just prior to full floral budding for peak potency."
+        },
+        {
+          "url": "https://images.pexels.com/photos/9542523/pexels-photo-9542523.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Fresh culinary and medicinal green herb leaves",
+          "caption": "Aqueous herbal leaf preparations anchoring traditional South Asian household remedies."
+        }
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Taxonomy & Botanical Classification",
+      "subtitle": "Lamiales Acanthaceae lineage and distinction from Himalayan Chirata",
+      "summary": "Taxonomic placement in Acanthaceae and widespread trade as 'Deshi Chirata' across Bengal.",
+      "paragraphs": [
+        "Classified in order Lamiales and family Acanthaceae—sharing swollen stem joints and two-lipped flowers with Vasaka/Basok (Justicia adhatoda) and Mangrove Acanthus—Andrographis paniculata was first described by Nicolaas Laurens Burman before Christian Gottfried Nees von Esenbeck assigned its modern genus in 1832.",
+        "In village herb markets across Bangladesh, Kalomegh is commonly sold as 'Deshi Chirata' or 'Chirota' as a lowland substitute for rare endangered Himalayan Swertia chirayita (Gentianaceae), though the two plants belong to entirely separate families."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/27972426/pexels-photo-27972426.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Close-up of Acanthaceae opposite leaves",
+          "caption": "Strict opposite decussate leaf arrangement typical of medicinal Acanthaceae herbs."
+        }
+      ]
+    },
+    {
+      "number": "03",
+      "title": "Natural Habitat & Global Distribution",
+      "subtitle": "Shaded village groves, forest clearings, and Natore medicinal herb farms",
+      "summary": "Native across India, Bangladesh, and Sri Lanka with vigorous commercial farming in northern Bengal.",
+      "paragraphs": [
+        "Native to shaded woodland edges, bamboo thickets, and fallow uplands across India, Bangladesh, and Sri Lanka, Kalmegh naturally germinates with early pre-monsoon rains and completes its reproductive cycle across autumn.",
+        "Today it is cultivated commercially across Natore's Kholabaria, Bogura, Tangail, and Madhupur agro-herb corridors as well as Thailand ('Fah Talai Jone') and Scandinavia (standardized into Kan Jang immune extracts)."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/31591013/pexels-photo-31591013/free-photo-of-lush-monstera-leaves-in-colombian-jungle.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Moist dappled shade woodland floor",
+          "caption": "Humid partial-shade orchard understories ideal for lush leafy Kalmegh growth."
+        }
+      ]
+    },
+    {
+      "number": "04",
+      "title": "Ecological Role & Pollinator Interactions",
+      "subtitle": "Herbivore deterrence via diterpene bitterness and explosive seed scatter",
+      "summary": "Chemical bitterness deterring grazing livestock and elastic capsule dispersal along shaded banks.",
+      "paragraphs": [
+        "Because intensely bitter andrographolides deter goats, cattle, and chewing caterpillars almost completely, Kalmegh survives unprotected along rural footpaths where tender grasses are cropped short.",
+        "Tiny sweat bees and hoverflies visit magenta-guided white blossoms in autumn before dry winter air triggers snapping seed pods to broadcast fresh seeds up to 2 metres around parent clumps."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/36441123/pexels-photo-36441123.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Insect pollinators on open flowers",
+          "caption": "Small native bees attracted to spotted lower floral petals."
+        }
+      ]
+    },
+    {
+      "number": "05",
+      "title": "Economic, Culinary & Cultural Importance",
+      "subtitle": "Morning Chirata water, Kalmegh Bori pills, and global botanical immune trade",
+      "summary": "Everyday rural Bengali bitter digestive routine alongside growing international herbal demand.",
+      "paragraphs": [
+        "Across rural and urban Bengal alike, steeping dried Kalomegh/Chirota twigs overnight in half a glass of cool water to sip first thing on an empty morning stomach remains a deeply rooted seasonal wellness habit believed to balance sluggish appetite and post-monsoon biliousness.",
+        "Traditional apothecaries roll pounded fresh Kalomegh juice with crushed black pepper or turmeric into tiny sun-dried 'Kalmegh Bori' pellets—masking the bracing bitterness for easier administration—while Thailand and Europe manufacture standardized capsules at industrial scale."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/9542523/pexels-photo-9542523.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Freshly gathered green medicinal herbs",
+          "caption": "Shade-dried aerial shoots retaining high green chlorophyll and active diterpenoid levels."
+        }
+      ]
+    },
+    {
+      "number": "06",
+      "title": "Traditional & Scientific Medicinal Properties",
+      "subtitle": "Andrographolide NF-kB modulation, upper-respiratory trials, and hepatic support",
+      "summary": "Randomized trials on acute viral upper-respiratory recovery alongside strict pregnancy & drug cautions.",
+      "paragraphs": [
+        "Known in Ayurveda as 'Bhunimba' ('Earth Neem') and 'Kalamegha', aerial shoots owe primary bioactivity to labdane diterpenoid lactones—especially andrographolide, neoandrographolide, and 14-deoxyandrographolide—that show hepatoprotective and NF-kappaB inflammatory-pathway modulation in preclinical studies.",
+        "Multiple systematic reviews and randomized human trials report modest, statistically significant reductions in symptom severity and duration of uncomplicated acute upper respiratory tract colds when standardized Andrographis extract is started early."
+      ],
+      "safetyNote": "Avoid Kalmegh strictly during pregnancy (may exert uterine/anti-implantation effects) and breastfeeding. Because andrographolide can stimulate immunity, lower blood pressure/glucose, and inhibit CYP450 enzymes, consult a physician if managing autoimmune disease or taking anticoagulants, antihypertensives, or immunosuppressants.",
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/28511113/pexels-photo-28511113.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Herbal medicinal extracts and leaves",
+          "caption": "Standardized aerial shoot extracts assayed for minimum andrographolide lactone content."
+        }
+      ]
+    },
+    {
+      "number": "07",
+      "title": "Comprehensive Cultivation & Care Guide",
+      "subtitle": "Intercropping under orchard shade, monsoon sowing, and pre-bloom harvest timing",
+      "summary": "Growing lush bitter shoots cleanly in partial-shade garden beds or 10-inch balcony pots.",
+      "paragraphs": [
+        "Sow tiny seeds thinly over damp composted nursery beds (pH 5.8–7.5) at monsoon onset without burying deeply—light aids germination within 7 to 10 days. Transplant seedlings at 20-by-20-centimetre spacing into backyard flower beds, balcony containers, or shaded mango/banana orchard intercrops.",
+        "Plants need zero chemical pesticides thanks to natural bitter deterrence. Harvest entire aerial shoots 10 centimetres above ground right as the first flower buds appear in late Shorot (90–110 days after planting)—when andrographolide concentration peaks—then dry promptly in clean shade."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/27972426/pexels-photo-27972426.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Healthy leafy Kalmegh garden stand",
+          "caption": "Harvesting at early floral budding captures peak leaf biomass and maximum diterpenoid yield."
+        }
+      ]
+    }
+  ],
+  "schemaOrg": {
+    "@type": "Taxon",
+    "name": "Andrographis paniculata",
+    "alternateName": [
+      "Kalmegh (King of Bitters)",
+      "Kalomegh (কালমেঘ)"
+    ],
+    "taxonRank": "Species",
+    "parentTaxon": {
+      "@type": "Taxon",
+      "name": "Andrographis",
+      "taxonRank": "Genus",
+      "parentTaxon": {
+        "@type": "Taxon",
+        "name": "Acanthaceae",
+        "taxonRank": "Family"
+      }
+    }
+  }
+}

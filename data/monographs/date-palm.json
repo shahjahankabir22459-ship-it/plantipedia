@@ -1,0 +1,204 @@
+{
+  "schemaVersion": "1.1.0",
+  "slug": "date-palm",
+  "commonName": "Silver Date Palm (Khejur)",
+  "scientificName": "Phoenix sylvestris",
+  "localName": "Khejur (খেজুর)",
+  "category": "Trees & Palms",
+  "categories": [
+    "Trees & Palms",
+    "Fruit Trees"
+  ],
+  "taxonomicDomain": "Tropical Pomology & Fruit Trees",
+  "featuredRank": null,
+  "shortSummary": "Iconic South Asian winter sap palm prized across Bengal's countryside for sweet Khejur Rosh juice, fragrant winter jaggery (Patali Gur), and feathery silver-green fronds.",
+  "leadOverview": "Phoenix sylvestris—known across Bangladesh and West Bengal as Deshi Khejur—is an elegant feather-crowned monocot palm deeply woven into winter rural culture. While its golden-orange dates nourish birds and village children, its true treasure flows during crisp Sheet nights when skilled tapsters (Gachhis) collect sweet amber Khejur Rosh sap boiled down into legendary Nolen Gur and Patali jaggery.",
+  "heroImage": {
+    "url": "https://images.pexels.com/photos/28445714/pexels-photo-28445714.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "alt": "Harvested golden-amber Phoenix date fruits",
+    "caption": "Mature amber drupes of Phoenix palms closely related to South Asian Silver Date Palm (Khejur)."
+  },
+  "overview": {
+    "plantGroup": "Angiosperm (Monocot)",
+    "family": "Arecaceae",
+    "genus": "Phoenix",
+    "species": "P. sylvestris",
+    "growthForm": "Solitary spiny-petioled feather palm (8–16 m)",
+    "nativeOrigin": "South Asia (Indian Subcontinent & Myanmar)",
+    "commonUses": "Winter Khejur Rosh sap, Nolen & Patali jaggery, fruit, woven mats (patis), brooms"
+  },
+  "cultivationTelemetry": {
+    "phMin": 5.5,
+    "phMax": 8.0,
+    "phOptimalLabel": "pH 5.5 – 8.0",
+    "sunlightLevel": 3,
+    "sunlightLabel": "Full Unobstructed Sun",
+    "irrigationLevel": 1,
+    "irrigationLabel": "Low / Drought-Hardy",
+    "soilDrainageLabel": "Alluvial Bunds & Sandy Loam"
+  },
+  "sections": [
+    {
+      "number": "01",
+      "title": "Morphological Description",
+      "subtitle": "Diamond-patterned trunk scars, spiny pinnate fronds, and amber oblong drupes",
+      "summary": "Anatomy of solitary patterned trunks, silvery feather leaves, dioecious spadices, and date drupes.",
+      "paragraphs": [
+        "Phoenix sylvestris rises on a slender solitary trunk 8 to 16 metres tall armored along its length by triangular diamond-shaped persistent leaf bases—and often scarred with neat V-shaped alternating notches along the upper crown from years of winter sap tapping. Crowning the apex is a graceful hemispherical rosette of 3-to-4-metre arching pinnate fronds.",
+        "Each frond carries rigid, pointed silvery-green leaflets arranged in multiple planes, with the lowest basal leaflets modified into needle-sharp protective spines. Trees are strictly dioecious: male palms bear waxy cream pollen panicles, while female palms produce sweeping orange stalks laden with hundreds of 2.5-centimetre sweet oblong amber-orange drupes in early Grishmo."
+      ],
+      "subblocks": [
+        {
+          "heading": "Armored Patterned Trunk",
+          "text": "Solitary woody monocot stem clad in overlapping leaf-base triangles and fibrous basal root-cone anchoring."
+        },
+        {
+          "heading": "Spiny Feather Fronds",
+          "text": "Glaucous grey-green pinnate blades armed near the rachis base with formidable 6–10 cm acanthophyll spines."
+        },
+        {
+          "heading": "Dioecious Spadices",
+          "text": "Separate male pollen and female fruiting trees blooming in late Sheet within boat-shaped woody spathes."
+        },
+        {
+          "heading": "Single-Grooved Seeds",
+          "text": "Ellipsoid orange-mahogany drupes enclosing a stony oblong seed marked with the signature Phoenix longitudinal furrow."
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/28445714/pexels-photo-28445714.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Ripe amber Phoenix date palm fruits",
+          "caption": "Sweet golden-amber drupes maturing in dense pendulous clusters."
+        },
+        {
+          "url": "https://images.pexels.com/photos/30230219/pexels-photo-30230219.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Arching tropical palm fronds in sunlight",
+          "caption": "Feather-like pinnate frond architecture maximizing light capture across open bunds."
+        }
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Taxonomy & Botanical Classification",
+      "subtitle": "Arecaceae coryphoid palm lineage and kinship with Arabian Date",
+      "summary": "Taxonomic placement alongside Phoenix dactylifera and native Bengal palms.",
+      "paragraphs": [
+        "Classified in order Arecales and family Arecaceae, Phoenix sylvestris is the wild-indigenous South Asian sister species to the Middle Eastern cultivated date palm (Phoenix dactylifera). William Roxburgh described it formally in 1814 based on Bengal specimens; its Latin epithet 'sylvestris' denotes growing wild in woodlands and countryside hedges.",
+        "Unlike suckering Phoenix dactylifera that forms multi-stemmed offshoots, Phoenix sylvestris almost always grows as a single solitary trunk adapted to humid monsoon-to-dry-winter plains rather than hyper-arid desert oases."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/30230219/pexels-photo-30230219.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Pinnate palm leaflets",
+          "caption": "Infolded V-shaped pinnate leaflets distinguishing Phoenix from outward-folded Cocos palms."
+        }
+      ]
+    },
+    {
+      "number": "03",
+      "title": "Natural Habitat & Global Distribution",
+      "subtitle": "Jessore, Faridpur, and Rajshahi winter sap belts across the Gangetic plain",
+      "summary": "Widespread distribution across agricultural bunds, riverbanks, and upland scrub from Pakistan to Myanmar.",
+      "paragraphs": [
+        "Indigenous from Pakistan's Indus basin across northern and eastern India, Bangladesh, and Myanmar, Silver Date Palm excels on raised agricultural field dykes ('aal'), village mounds, canal levees, and dry rocky plains up to 1,500 metres altitude.",
+        "In Bangladesh, Jessore, Jhenaidah, Faridpur, Rajshahi, and Natore form the historic heartland of Khejur cultivation, where cool dry December–January nights stimulate peak sucrose concentrations in freshly tapped phloem sap."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/37615014/pexels-photo-37615014.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Palms silhouetted against rural sky",
+          "caption": "Solitary palms anchoring sunlit rural field boundaries across delta landscapes."
+        }
+      ]
+    },
+    {
+      "number": "04",
+      "title": "Ecological Role & Pollinator Interactions",
+      "subtitle": "Anemophilous pollen clouds, fruit-bat dispersal, and weaverbird nesting",
+      "summary": "Wind-and-bee pollination dynamics, avian seed dispersal, and baya weaver habitat.",
+      "paragraphs": [
+        "During late winter bloom, male spathes split to release clouds of dry wind-borne pollen assisted by foraging honeybees visiting female inflorescences. By summer, abundant orange drupes sustain parakeets, bulbuls, palm civets, and flying foxes that drop cleaned seeds beneath roosting perches.",
+        "Spiny basal petioles discourage climbing predators, making high date-palm fronds a favorite nesting sanctuary for baya weavers and spotted owls."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/36441123/pexels-photo-36441123.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Honeybees foraging for pollen",
+          "caption": "Bees supplementing wind transport across dense cream palm flower spikes."
+        }
+      ]
+    },
+    {
+      "number": "05",
+      "title": "Economic, Culinary & Cultural Importance",
+      "subtitle": "Khejur Rosh, Nolen Gur, Patali jaggery, and winter Pitha heritage",
+      "summary": "Iconic seasonal sap harvest fueling Bangladesh's winter dessert culture and rural basketry.",
+      "paragraphs": [
+        "From Kartik through Phalgun, skilled tapsters ('Gachhis') ascend trunks at dusk to shave a shallow crescent cut beneath the crown leaf bases, suspending earthen clay pots ('bhars') overnight. Clear chilled Khejur Rosh collected before sunrise contains 10–14% natural sucrose, minerals, and amino acids—boiled slowly over wood fires into aromatic liquid Jhola/Nolen Gur and molded Patali Gur.",
+        "Without winter Patali jaggery, beloved winter rice-cakes—Bhapa Pitha, Chitoi, and Dudh Puli—would lack their signature smoky-caramel aroma. Woven dry leaflets further craft cooling sleeping mats ('madur/pati') and sturdy rural brooms."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/28445714/pexels-photo-28445714.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Golden-amber dates and harvest",
+          "caption": "Natural palm sugars powering both fresh fruit harvests and prized winter Patali Gur."
+        }
+      ]
+    },
+    {
+      "number": "06",
+      "title": "Traditional & Scientific Medicinal Properties",
+      "subtitle": "Mineral-rich winter sap, electrolyte hydration, and raw-sap hygiene safety",
+      "summary": "Nutritional micronutrients in fresh sap and fruits alongside mandatory Nipah-prevention boiling advice.",
+      "paragraphs": [
+        "Freshly collected date-palm sap provides quick-absorbing sucrose alongside potassium, magnesium, calcium, and B-complex vitamins, while dried fruits supply phenolic antioxidants and dietary fibre valued in traditional convalescent tonics.",
+        "In ethnomedicinal traditions, mildly astringent root decoctions and kernel pastes are used topically for toothache and minor skin soothing."
+      ],
+      "safetyNote": "CRITICAL PUBLIC HEALTH NOTICE: Never drink raw, unboiled Khejur Rosh collected from uncovered earthen pots—fruit bats (Pteropus medius) frequently lick sap streams at night and can transmit fatal Nipah virus. Always consume sap only after rolling-boiling or protected under tight bamboo-skirt pot covers ('bana').",
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/28445714/pexels-photo-28445714.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Clean harvested Phoenix dates",
+          "caption": "Boiled palm jaggery and clean ripened fruits offer safe mineral and polyphenol nutrition."
+        }
+      ]
+    },
+    {
+      "number": "07",
+      "title": "Comprehensive Cultivation & Care Guide",
+      "subtitle": "Seed propagation, boundary bund planting, and rest-year tapping rotations",
+      "summary": "Establishing resilient Khejur groves and sustainable Gachhi sap-tapping schedules.",
+      "paragraphs": [
+        "Soak fresh cleaned stones from sweet mature fruits for 48 hours and plant 3 centimetres deep in deep sandy-loam nursery bags (pH 5.5–8.0). Grow saplings for 18 months before transplanting into sunny field bunds spaced 4 to 5 metres apart.",
+        "Palms reach tapping maturity in 6 to 8 years. Responsible tapsters tap a palm strictly during cool winter months, alternate sides of the crown each season, and allow young trees regular rest winters so trunks stay vigorous for 50+ years."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/30230219/pexels-photo-30230219.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Healthy green feather palm fronds",
+          "caption": "Full sunlight and uncrowded field boundaries foster thick crowns and generous sap flow."
+        }
+      ]
+    }
+  ],
+  "schemaOrg": {
+    "@type": "Taxon",
+    "name": "Phoenix sylvestris",
+    "alternateName": [
+      "Silver Date Palm",
+      "Khejur (খেজুর)"
+    ],
+    "taxonRank": "Species",
+    "parentTaxon": {
+      "@type": "Taxon",
+      "name": "Phoenix",
+      "taxonRank": "Genus",
+      "parentTaxon": {
+        "@type": "Taxon",
+        "name": "Arecaceae",
+        "taxonRank": "Family"
+      }
+    }
+  }
+}

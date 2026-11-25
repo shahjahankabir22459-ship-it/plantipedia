@@ -1,0 +1,204 @@
+{
+  "schemaVersion": "1.1.0",
+  "slug": "lychee",
+  "commonName": "Lychee",
+  "scientificName": "Litchi chinensis",
+  "localName": "Lichu (লিচু)",
+  "category": "Fruit Trees",
+  "categories": [
+    "Fruit Trees",
+    "Trees & Palms"
+  ],
+  "taxonomicDomain": "Tropical Pomology & Fruit Trees",
+  "featuredRank": null,
+  "shortSummary": "Subtropical evergreen soapberry tree treasured for jewel-red tuberculate fruits filled with translucent rose-scented aril flesh.",
+  "leadOverview": "Lychee (Litchi chinensis)—called Lichu across Bengal—is an ornate broad-crowned subtropical fruit tree celebrated for hanging ruby-red fruit clusters harvested during Grishmo summer. Beneath its brittle pebbled crimson shell lies a glistening, pearl-white juicy aril perfumed with delicate floral monoterpenes and crisp sweet-acid balance.",
+  "heroImage": {
+    "url": "https://images.pexels.com/photos/38519277/pexels-photo-38519277.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "alt": "Vibrant crimson Litchi chinensis lychee fruits with textured pebbled skins",
+    "caption": "Fresh ruby-red Litchi chinensis drupe-like berries displaying diagnostic polygonal tubercles."
+  },
+  "overview": {
+    "plantGroup": "Angiosperm (Eudicot)",
+    "family": "Sapindaceae",
+    "genus": "Litchi",
+    "species": "L. chinensis",
+    "growthForm": "Dense rounded evergreen tree (10–20 m)",
+    "nativeOrigin": "Southern China, Northern Vietnam & Indo-Malayan Foothills",
+    "commonUses": "Fresh summer fruit, lychee honey, canned nectars, garden shade canopies"
+  },
+  "cultivationTelemetry": {
+    "phMin": 5.5,
+    "phMax": 6.8,
+    "phOptimalLabel": "pH 5.5 – 6.8",
+    "sunlightLevel": 3,
+    "sunlightLabel": "Full Unobstructed Sun",
+    "irrigationLevel": 2,
+    "irrigationLabel": "Moderate / Seasonal Dry Rest",
+    "soilDrainageLabel": "Deep Humus-Rich Acidic Loam"
+  },
+  "sections": [
+    {
+      "number": "01",
+      "title": "Morphological Description",
+      "subtitle": "Paripinnate glossy foliage, apetalous panicles, and crimson arillate fruits",
+      "summary": "Anatomy of dense domes, compound leaflets, apetalous flowers, tuberculate pericarps, and succulent white arils.",
+      "paragraphs": [
+        "Litchi chinensis forms a handsome, symmetrically rounded evergreen crown 10 to 20 metres high with a short, furrowed grey-black trunk and brittle drooping branches. Leaves are alternate and evenly pinnate (paripinnate), bearing 4 to 8 glossy, leathery oblong-lanceolate leaflets that flush coppery-salmon before maturing to deep emerald above and glaucous pale green beneath.",
+        "Early spring produces erect terminal panicles up to 30 centimetres long bearing hundreds of tiny, greenish-white flowers lacking true petals (apetalous) but equipped with prominent fleshy nectar discs. The resulting fruit is botanically a one-seeded berry-like drupe encased inside a brittle, crimson-pink pericarp studded with rough hexagonal tubercles; inside surrounds a crisp, juicy translucent white aril clinging loosely around a glossy mahogany seed."
+      ],
+      "subblocks": [
+        {
+          "heading": "Crown & Bark",
+          "text": "Dense dome-shaped evergreen crown cast on dark grey furrowed trunks; young twigs brittle under high storm winds."
+        },
+        {
+          "heading": "Paripinnate Leaflets",
+          "text": "2–4 pairs of smooth leathery leaflets emerging vibrant pinkish-bronze to deter herbivores while developing chlorophyll."
+        },
+        {
+          "heading": "Tuberculate Pericarp",
+          "text": "Leathery-brittle pink-to-scarlet rind etched with polygonal bumps that split cleanly at the longitudinal suture."
+        },
+        {
+          "heading": "Translucent Aril",
+          "text": "Fleshy edible outgrowth of the seed funiculus rich in sugars, vitamin C, and geraniol floral esters."
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/38519277/pexels-photo-38519277.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Fresh harvested red lychees showing pebbled skin",
+          "caption": "Mature crimson Lichu pericarps displaying diagnostic honeycomb tubercle embossing."
+        },
+        {
+          "url": "https://images.pexels.com/photos/17201892/pexels-photo-17201892.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Cluster of ripe red lychee fruits with green foliage",
+          "caption": "Hanging orchard clusters ripening simultaneously under warm Boishakh sunshine."
+        }
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Taxonomy & Botanical Classification",
+      "subtitle": "Sapindaceae soapberry lineage alongside rambutan and longan",
+      "summary": "Taxonomic placement within Sapindaceae sharing fleshy edible arils and panicle nectaries.",
+      "paragraphs": [
+        "Placed in order Sapindales and family Sapindaceae, Litchi chinensis is the sole widely cultivated species of genus Litchi—closely allied to longan (Dimocarpus longan, 'ashphal'), rambutan (Nephelium lappaceum), and soapnut (Sapindus).",
+        "Three botanical subspecies are recognized—most famously Litchi chinensis subsp. chinensis—selected over two millennia of Chinese and South Asian arboriculture into prized regional cultivars including Bombai, Bedana, China-3, Muzaffarpur, and Dinajpur's famed Madrajee."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/17201892/pexels-photo-17201892.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Sapindaceae fruit cluster in sunlight",
+          "caption": "Classic Sapindaceae terminal fruit panicle uniting dense clusters along woody pedicels."
+        }
+      ]
+    },
+    {
+      "number": "03",
+      "title": "Natural Habitat & Global Distribution",
+      "subtitle": "Subtropical Pearl River valleys to Dinajpur and Ishwardi orchards",
+      "summary": "Ecological niche requiring cool winter chill followed by hot humid fruiting summers.",
+      "paragraphs": [
+        "Indigenous to low-elevation humid forests of Guangdong and Fujian in southern China and northern Vietnam, lychee requires a very specific climatic rhythm: cool, dry winters (10–15°C) to induce flower panicles without frost damage, followed by warm humid summers during fruit enlargement.",
+        "In Bangladesh, this climatic sweet spot makes Dinajpur, Rajshahi, Pabna (Ishwardi), and Rangpur premier Lichu heartlands, where alluvial silt-loam terraces yield sweet harvests every Jyoishtho."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/38519277/pexels-photo-38519277.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Fresh crimson lychee harvest",
+          "caption": "Ripe subtropical harvest conditioned by cool dry winter induction and warm summer rains."
+        }
+      ]
+    },
+    {
+      "number": "04",
+      "title": "Ecological Role & Pollinator Interactions",
+      "subtitle": "Obligate mycorrhizal roots, bee honey flows, and frugivorous bat dispersal",
+      "summary": "Dependence on arbuscular mycorrhizae, premier apiary nectar yields, and winged dispersal.",
+      "paragraphs": [
+        "Lychee trees form obligate symbiotic partnerships with soil endomycorrhizal fungi—producing dense surface feeder roots coated with fungal hyphae that absorb phosphorus and zinc efficiently. Without these beneficial soil microbes, nursery air-layers struggle to establish.",
+        "During Boshonto bloom, exposed floral nectary discs attract immense swarms of Apis bees, producing pale amber monofloral 'Lichu honey' celebrated across northern Bangladesh. Later, fruit bats and civets disperse ripe red fruits."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/36441123/pexels-photo-36441123.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Honeybees pollinating orchard flowers",
+          "caption": "Heavy honeybee visitation fuels pollination and prized spring Lichu honey harvests."
+        }
+      ]
+    },
+    {
+      "number": "05",
+      "title": "Economic, Culinary & Cultural Importance",
+      "subtitle": "Two millennia of orchard heritage, Lichu honey, and refreshing summer beverages",
+      "summary": "High-value seasonal fruit economics alongside floral apiculture.",
+      "paragraphs": [
+        "Lychee boasts one of the longest unbroken written horticultural histories in the world—documented in Chinese imperial tributes dating back over 2,000 years. Today, fresh juicy Lichu defines the joyous short summer window across Bangladesh alongside mango and jackfruit.",
+        "Beyond fresh eating, chilled arils elevate fruit salads, sorbets, sparkling coolers, and floral patisserie creams, while pericarp anthocyanins and seed starches find uses in natural food dyeing."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/17201892/pexels-photo-17201892.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Clusters of fresh ripe lychees on branches",
+          "caption": "Iconic Jyoishtho orchard clusters prized for fragrant, crisp pearl-white arils."
+        }
+      ]
+    },
+    {
+      "number": "06",
+      "title": "Traditional & Scientific Medicinal Properties",
+      "subtitle": "Oligonol polyphenols, vitamin C, and unripe hypoglycin A caution",
+      "summary": "Antioxidant epicatechin compounds in ripe pulp alongside strict warnings against unripe consumption on empty stomachs.",
+      "paragraphs": [
+        "Ripe lychee arils deliver roughly 70 mg of vitamin C per 100 grams along with copper, potassium, and proanthocyanidin polyphenols (epicatechin and procyanidin A2)—studied for vascular antioxidant protection and post-exercise recovery.",
+        "In traditional Chinese herbalism, dried lychee seeds (Li Zhi He) and pericarps are used cautiously in regulated decoctions for mild digestive warming."
+      ],
+      "safetyNote": "Never consume unripe green lychees or eat large quantities of ripe fruit on an empty stomach, especially in malnourished children: unripe fruits contain elevated methylene cyclopropyl-glycine (MCPG) and hypoglycin A, which can block gluconeogenesis and trigger dangerous acute hypoglycemia.",
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/38519277/pexels-photo-38519277.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Ripe red lychees ready for safe consumption",
+          "caption": "Consume fully tree-ripened crimson lychees after balanced meals for safe vitamin C nutrition."
+        }
+      ]
+    },
+    {
+      "number": "07",
+      "title": "Comprehensive Cultivation & Care Guide",
+      "subtitle": "Air-layering over parent soil, windbreaks, and micronutrient zinc care",
+      "summary": "Sustaining fruitful orchards in acidic pH 5.5–6.8 loam inoculated with mycorrhizal topsoil.",
+      "paragraphs": [
+        "Because lychee seeds remain viable for only 4 to 5 days after removal from fruit and rarely grow true to cultivar, orchards propagate almost exclusively via monsoon air-layering (guti kolom). When planting saplings in pH 5.5 to 6.8 well-drained humus loam, mix two spadefuls of soil from beneath a healthy mature lychee tree into the planting hole to introduce essential mycorrhizae.",
+        "Protect brittle young canopies with windbreak trees, withhold water during November–December to discourage winter leaf flush and induce flower buds, and mist trees with water or provide zinc-boron foliar sprays during scorching spring winds to prevent developing fruit skin cracking."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/17201892/pexels-photo-17201892.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Healthy fruiting lychee branch",
+          "caption": "Even spring irrigation prevents pericarp sunburn and cracking during rapid aril swelling."
+        }
+      ]
+    }
+  ],
+  "schemaOrg": {
+    "@type": "Taxon",
+    "name": "Litchi chinensis",
+    "alternateName": [
+      "Lychee",
+      "Lichu (লিচু)"
+    ],
+    "taxonRank": "Species",
+    "parentTaxon": {
+      "@type": "Taxon",
+      "name": "Litchi",
+      "taxonRank": "Genus",
+      "parentTaxon": {
+        "@type": "Taxon",
+        "name": "Sapindaceae",
+        "taxonRank": "Family"
+      }
+    }
+  }
+}

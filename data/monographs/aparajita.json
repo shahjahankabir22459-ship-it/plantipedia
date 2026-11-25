@@ -1,0 +1,205 @@
+{
+  "schemaVersion": "1.1.0",
+  "slug": "aparajita",
+  "commonName": "Butterfly Pea (Aparajita)",
+  "scientificName": "Clitoria ternatea",
+  "localName": "Aparajita / Nilkantha (অপরাজিতা / নীলকণ্ঠ)",
+  "category": "Flowers",
+  "categories": [
+    "Flowers",
+    "Medicinal",
+    "Shrubs & Herbs"
+  ],
+  "taxonomicDomain": "Angiosperms & Ornamentals",
+  "featuredRank": null,
+  "shortSummary": "Vigorous cobalt-blue twining legume prized across gardens and herbal apothecaries for pH-sensitive ternatin anthocyanins, color-changing blue tea, and Ayurvedic Shankhapushpi memory support.",
+  "leadOverview": "Clitoria ternatea—beloved across Bengal gardens as Aparajita ('Unconquered')—is a graceful perennial twining legume draping fences and trellises in striking cobalt-indigo blossoms. Beyond ornamental charm, its petals release luminous pH-reactive anthocyanins that brew emerald-sapphire herbal tea turning violet-magenta with a squeeze of lemon, while its roots anchor Ayurvedic nootropic traditions.",
+  "heroImage": {
+    "url": "https://images.pexels.com/photos/34439027/pexels-photo-34439027.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "alt": "Vibrant cobalt-blue Clitoria ternatea butterfly pea blossoms and herbal tea",
+    "caption": "Luminous cobalt-blue Clitoria ternatea (Aparajita) blossoms alongside their signature sapphire floral infusion."
+  },
+  "overview": {
+    "plantGroup": "Angiosperm (Eudicot)",
+    "family": "Fabaceae",
+    "genus": "Clitoria",
+    "species": "C. ternatea",
+    "growthForm": "Perennial herbaceous twining climber (2–5 m)",
+    "nativeOrigin": "Tropical Equatorial Asia (Ternate & South/Southeast Asia)",
+    "commonUses": "Natural blue food dye, pH-shifting herbal tea, trellis ornamental, nitrogen-fixing cover crop"
+  },
+  "cultivationTelemetry": {
+    "phMin": 5.5,
+    "phMax": 7.8,
+    "phOptimalLabel": "pH 5.5 – 7.8",
+    "sunlightLevel": 3,
+    "sunlightLabel": "Full Sun to Light Shade",
+    "irrigationLevel": 2,
+    "irrigationLabel": "Moderate / Monsoon-Hardy",
+    "soilDrainageLabel": "Fertile Well-Drained Trellis Loam"
+  },
+  "sections": [
+    {
+      "number": "01",
+      "title": "Morphological Description",
+      "subtitle": "Resupinate cobalt banner petals, odd-pinnate leaves, and flat velvety pods",
+      "summary": "Anatomy of slender twining vines, compound foliage, inverted butterfly corollas, and legume pods.",
+      "paragraphs": [
+        "Clitoria ternatea climbs rapidly via slender, pubescent herbaceous stems 2 to 5 metres long that twine clockwise around trellises, balcony grilles, and courtyard hedges. Leaves are alternate and odd-pinnate with 5 to 7 soft, elliptic matte-green leaflets borne on short stipelled petioles.",
+        "Its solitary axillary flowers (4–5 cm wide) exhibit resupinate pea architecture—flipped 180 degrees upside down so the huge velvety banner petal arches downward as a glowing cobalt-blue landing pad splashed with a pale yellow-cream throat (white, lavender, and double-petalled cultivars also abound). Following pollination, flat linear pods (6–11 cm) ripen crisp tan and split cleanly to release 6 to 10 mottled black seeds."
+      ],
+      "subblocks": [
+        {
+          "heading": "Twining Nodulated Roots",
+          "text": "Slender green climbing stems anchored by deep roots colonized with Rhizobium nitrogen-fixing bacteria."
+        },
+        {
+          "heading": "Imparipinnate Foliage",
+          "text": "Soft papery 5–7 leaflet compound leaves sheltering garden birds and pollinators."
+        },
+        {
+          "heading": "Resupinate Banner Corolla",
+          "text": "Inverted papilionaceous flower featuring deep-indigo anthocyanins and a luminous cream-gold nectar guide."
+        },
+        {
+          "heading": "Dehiscent Linear Pods",
+          "text": "Flat ten-seeded legume pods curling twistingly as they dry under autumn sun to scatter seeds."
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/34439027/pexels-photo-34439027.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Deep blue Aparajita blossoms and tea glass",
+          "caption": "Polyphenolic ternatin pigments yielding vivid sapphire infusions from freshly plucked corollas."
+        },
+        {
+          "url": "https://images.pexels.com/photos/39665142/pexels-photo-39665142.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Bee foraging on vibrant garden flower",
+          "caption": "Large carpenter and honeybees squeezing beneath banner keel petals for floral pollen."
+        }
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Taxonomy & Botanical Classification",
+      "subtitle": "Fabaceae papilionoid legume lineage honoring Ternate Island",
+      "summary": "Taxonomic history linking Aparajita to peas and beans via inverted pea-flower morphology.",
+      "paragraphs": [
+        "Assigned to order Fabales and subfamily Faboideae of family Fabaceae, Clitoria ternatea shares nitrogen-fixing root nodules and five-petalled banner-wing-keel floral construction with garden peas, beans, and Krishnochura relatives. Linnaeus published the species in 1753, choosing 'ternatea' from Moluccan Ternate Island where early European naturalists collected specimens.",
+        "Both single-petalled ('Ek-pata') and opulent rosette-like double-petalled ('Thoka Aparajita') cultivars flourish across South Asian nurseries in royal indigo, sky blue, lilac, and pure ivory-white ('Shwet Aparajita')."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/34439027/pexels-photo-34439027.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Blue pea petals in daylight",
+          "caption": "Delphinidin-derived ternatins giving Clitoria petals one of botany's rarest true-blue hues."
+        }
+      ]
+    },
+    {
+      "number": "03",
+      "title": "Natural Habitat & Global Distribution",
+      "subtitle": "Monsoon fence-lines, equatorial Asia, and pantropical pasture naturalization",
+      "summary": "Thriving across humid South Asian home gardens, river thickets, and tropical forage pastures.",
+      "paragraphs": [
+        "Originating in tropical equatorial Asia, Clitoria ternatea naturalized widely across India, Bangladesh, tropical Africa, northern Australia, and the Americas—thriving equally as an ornamental gatehouse climber and a high-protein tropical forage legume ('butterfly pea').",
+        "Across Bangladesh, Aparajita blooms almost continuously from late Boshonto through early Sheet along bamboo fences, porch arches, and urban balconies."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/31591013/pexels-photo-31591013/free-photo-of-lush-monstera-leaves-in-colombian-jungle.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Warm humid tropical greenery",
+          "caption": "Humid sunlit woodland edges and monsoon trellises fostering rapid climber vigor."
+        }
+      ]
+    },
+    {
+      "number": "04",
+      "title": "Ecological Role & Pollinator Interactions",
+      "subtitle": "Biological nitrogen fixation, carpenter bee nectar, and clotide plant peptides",
+      "summary": "Soil-enriching root rhizobia and cyclotide pest-defense peptides alongside large bee pollination.",
+      "paragraphs": [
+        "Symbiotic Bradyrhizobium and Rhizobium bacteria inside root nodules convert atmospheric nitrogen gas into plant-usable ammonium, naturally enriching exhausted balcony pots and garden soils.",
+        "Remarkably, Aparajita tissues synthesize ultra-stable circular miniproteins called 'cyclotides' (clotides) that disrupt pest insect digestive membranes—making aqueous Clitoria extracts a promising eco-friendly biopesticide ('Sero-X') against cotton bollworms."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/39665142/pexels-photo-39665142.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Pollinator bee on bright bloom",
+          "caption": "Bees drawn by contrasting cream-gold throat guides against royal blue petals."
+        }
+      ]
+    },
+    {
+      "number": "05",
+      "title": "Economic, Culinary & Cultural Importance",
+      "subtitle": "pH-shifting Nilkantha tea, natural blue rice dye, and sacred Sharadiya blooms",
+      "summary": "Culinary colorimetry magic from Nasi Kerabu rice to artisanal cocktails and festive garlands.",
+      "paragraphs": [
+        "Famous across Thailand ('Nam Dok Anchan'), Malaysia ('Bunga Telang' coloring cerulean Nasi Kerabu rice), and modern cafés worldwide, dried Aparajita petals release polyacylated anthocyanins (ternatins) that brew neutral water luminous sapphire blue—instantly shifting to vibrant purple-magenta when acidified with lime juice.",
+        "Culturally across Bengal, fresh indigo and white Aparajita blooms hold cherished symbolism during autumn Sharadiya festivals as tokens of serenity and resilience."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/34439027/pexels-photo-34439027.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Color-rich butterfly pea floral infusion",
+          "caption": "Natural pH indicator pigments transforming culinary beverages without synthetic dyes."
+        }
+      ]
+    },
+    {
+      "number": "06",
+      "title": "Traditional & Scientific Medicinal Properties",
+      "subtitle": "Ayurvedic Medhya Rasayana nootropics, taraxerol, and ternatin antioxidants",
+      "summary": "Traditional cognitive support alongside safety caution against high-dose seeds or roots.",
+      "paragraphs": [
+        "Recognized in Ayurveda as 'Aparajita' (and regionally grouped among 'Shankhapushpi' cognitive herbs), white- and blue-flowered roots and leaf infusions were historically administered as 'Medhya' tonics for calm memory, eye clarity, and mild inflammatory relief.",
+        "Contemporary phytochemical studies isolate delphinidin ternatins, kaempferol glycosides, taraxerol triterpenoids, and circular cyclotides exhibiting strong antioxidant and mild acetylcholinesterase-modulating properties in preclinical models."
+      ],
+      "safetyNote": "While dried petal tea is widely consumed as a gentle culinary infusion, raw seeds and concentrated roots can act as strong purgatives/emetics—avoid seeds and therapeutic root extracts during pregnancy or alongside prescription sedatives.",
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/34439027/pexels-photo-34439027.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Fresh butterfly pea petals",
+          "caption": "Acylated ternatin anthocyanins offering high stability across culinary and botanical research."
+        }
+      ]
+    },
+    {
+      "number": "07",
+      "title": "Comprehensive Cultivation & Care Guide",
+      "subtitle": "Deadheading green pods, minimal nitrogen fertilizer, and sunny trellis pruning",
+      "summary": "Growing non-stop sapphire blooms on backyard arches or sunlit balcony pots.",
+      "paragraphs": [
+        "Soak mottled black seeds in lukewarm water overnight to soften coats, then sow 2 centimetres deep in well-drained potting soil (pH 5.5–7.8) alongside a bamboo trellis or balcony railing receiving 5 to 6+ hours of daily sun. Seedlings emerge in 5 to 7 days and begin blooming within 6 weeks.",
+        "Avoid heavy nitrogen fertilizers—because roots fix their own nitrogen, excess urea yields lush foliage with sparse blossoms. Pluck flowers regularly for tea and snip developing green seed pods so the vine channels energy into nonstop waves of fresh sapphire petals."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/34439027/pexels-photo-34439027.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Blooming Aparajita vines",
+          "caption": "Daily flower picking and full sunlight keep trellises carpeted in blue blooms."
+        }
+      ]
+    }
+  ],
+  "schemaOrg": {
+    "@type": "Taxon",
+    "name": "Clitoria ternatea",
+    "alternateName": [
+      "Butterfly Pea (Aparajita)",
+      "Aparajita (অপরাজিতা)"
+    ],
+    "taxonRank": "Species",
+    "parentTaxon": {
+      "@type": "Taxon",
+      "name": "Clitoria",
+      "taxonRank": "Genus",
+      "parentTaxon": {
+        "@type": "Taxon",
+        "name": "Fabaceae",
+        "taxonRank": "Family"
+      }
+    }
+  }
+}

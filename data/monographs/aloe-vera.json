@@ -1,0 +1,194 @@
+{
+  "schemaVersion": "1.1.0",
+  "slug": "aloe-vera",
+  "commonName": "Aloe Vera",
+  "scientificName": "Aloe vera",
+  "localName": "Ghritokumari (ঘৃতকুমারী)",
+  "category": "Medicinal",
+  "categories": [
+    "Medicinal",
+    "Shrubs & Herbs"
+  ],
+  "taxonomicDomain": "Ethnobotanical & Ayurvedic Herbs",
+  "featuredRank": null,
+  "shortSummary": "CAM-photosynthetic succulent rosette famous for hydrating acemannan inner leaf gel, yellow anthraquinone latex, and burn skincare.",
+  "leadOverview": "Aloe vera (synonym Aloe barbadensis)—known in South Asia as Ghritakumari—is a stemless succulent perennial in the family Asphodelaceae. Adapted to arid sun via Crassulacean Acid Metabolism (CAM) and water-storing parenchyma rosettes, its inner translucent gel ranks among the most widely cultivated botanical skincare and cosmetic ingredients worldwide.",
+  "heroImage": {
+    "url": "https://images.pexels.com/photos/19797887/pexels-photo-19797887.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "alt": "Fleshy green Aloe vera succulent rosette with marginal teeth",
+    "caption": "Compact basal rosette of Aloe vera showing thick water-storing leaves edged with pale cartilaginous teeth."
+  },
+  "overview": {
+    "plantGroup": "Angiosperm (Monocot)",
+    "family": "Asphodelaceae",
+    "genus": "Aloe",
+    "species": "A. vera",
+    "growthForm": "Succulent perennial rosette herb (40–90 cm)",
+    "nativeOrigin": "Arabian Peninsula",
+    "commonUses": "Burn/skin soothing gel, cosmetics, refreshing beverages, indoor succulent"
+  },
+  "sections": [
+    {
+      "number": "01",
+      "title": "Morphological Description",
+      "subtitle": "Three-layered succulent leaf anatomy, spiny margins, and tubular yellow racemes",
+      "summary": "Anatomy of cuticle rind, bitter aloin latex layer, acemannan gel parenchyma, and floral spikes.",
+      "paragraphs": [
+        "Aloe vera forms dense basal rosettes of lance-shaped, fleshy grey-green leaves growing 30 to 60 centimetres long, often spotted with pale flecks in young pups. A cross-section reveals three distinct histological zones: a tough waxy epidermis lined with marginal teeth, a yellow sap pericycle layer beneath the rind rich in bitter anthraquinones, and a clear mucilaginous central hydrenchyma storing 99% water and polysaccharides.",
+        "Mature sunlit plants send up unbranched or sparsely forked racemes up to 90 centimetres tall bearing pendulous, tubular yellow flowers pollinated by sunbirds and bees, anchored by shallow spreading fibrous roots and clonal basal offsets ('pups')."
+      ],
+      "subblocks": [
+        {
+          "heading": "Cuticle & Teeth",
+          "text": "Thick waxy outer epidermis minimizing daytime evaporation, rimmed with soft whitish marginal prickles."
+        },
+        {
+          "heading": "Aloin Sap Layer",
+          "text": "Vascular bundle sheath just inside the green rind secreting bitter yellow latex upon slicing."
+        },
+        {
+          "heading": "Inner Gel Parenchyma",
+          "text": "Translucent water-storage tissue rich in acemannan mucopolysaccharides, amino acids, and malic acid."
+        },
+        {
+          "heading": "Raceme & Pups",
+          "text": "Tall spikes of yellow tubular monocot blossoms; prolific rhizomatous basal offshoots forming clumps."
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/19659890/pexels-photo-19659890.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Close-up of thick spiny Aloe vera leaves",
+          "caption": "Waxy succulent blades engineered for prolonged arid moisture conservation."
+        },
+        {
+          "url": "https://images.pexels.com/photos/11751920/pexels-photo-11751920.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Potted Aloe vera rosettes in bright daylight",
+          "caption": "Basal clonal offsets emerging naturally around established mother rosettes."
+        }
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Taxonomy & Botanical Classification",
+      "subtitle": "Asparagales order and Asphodelaceae lineage",
+      "summary": "Clarifying Aloe vera taxonomy (formerly Liliaceae) and distinguishing lookalike agaves.",
+      "paragraphs": [
+        "Modern APG IV taxonomy places Aloe vera within order Asparagales and family Asphodelaceae (subfamily Asphodeloideae), grouping it with ornamental red-hot pokers (Kniphofia) and haworthias rather than true lilies. Notice that Aloe vera is the valid accepted binomial, whereas 'Aloe barbadensis Miller' is a widely seen synonym.",
+        "Though superficially resembling New World century plants (Agave), true aloes are Old World monocots with softer, mucilage-filled leaves lacking agave's rigid terminal spines and tough sisal fibres."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/19797887/pexels-photo-19797887.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Aloe vera botanical rosette structure",
+          "caption": "Soft toothed succulent leaves diagnostic of Old World Asphodelaceae."
+        }
+      ]
+    },
+    {
+      "number": "03",
+      "title": "Natural Habitat & Global Distribution",
+      "subtitle": "Arid Arabian rocky slopes to global dryland plantations and rooftops",
+      "summary": "Crassulacean Acid Metabolism adaptation and worldwide horticultural spread.",
+      "paragraphs": [
+        "Genetic and historical evidence points to the arid highlands of the northern Arabian Peninsula—especially Oman and Yemen—as Aloe vera's ancestral home, from where ancient maritime traders spread this drought-surviving plant across the Mediterranean, India, Africa, and the Caribbean.",
+        "Using nocturnal CAM photosynthesis, Aloe opens leaf stomata only in cool night air to fix carbon dioxide as malic acid, keeping pores sealed through blazing afternoons. Today it flourishes both in commercial dryland farms across Rajasthan and Mexico and on millions of urban Bangladeshi balconies."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/19659890/pexels-photo-19659890.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Sun-grown desert succulent Aloe vera",
+          "caption": "Arid-adapted CAM physiology flourishing in gritty mineral soils and intense warmth."
+        }
+      ]
+    },
+    {
+      "number": "04",
+      "title": "Ecological Role & Pollinator Interactions",
+      "subtitle": "Bird-and-bee nectar spikes and drought micro-shelters",
+      "summary": "Tubular yellow flowers nourishing sunbirds and solitary bees in dry landscapes.",
+      "paragraphs": [
+        "During cool winter-to-spring blooms, tall Aloe racemes open sequentially from base to tip, offering copious dilute nectar tailored to hovering sunbirds, hummingbirds (in introduced ranges), and carpenter bees.",
+        "In rocky arid habitats, dense spiny clumps trap wind-blown organic detritus and moisture, acting as micro-nurse sites where tiny desert lizards shelter and annual herbs germinate."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/36441123/pexels-photo-36441123.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Pollinating bees gathering nectar",
+          "caption": "Nectar-seeking bees supported by warm-climate flowering perennials."
+        }
+      ]
+    },
+    {
+      "number": "05",
+      "title": "Economic, Culinary & Cultural Importance",
+      "subtitle": "Multi-billion-dollar dermocosmetic market, beverages, and household first-aid plant",
+      "summary": "Global skincare industry, decolorized drinks, and traditional Ghritakumari sherbets.",
+      "paragraphs": [
+        "Aloe vera anchors a global multi-billion-dollar personal-care and nutraceutical sector supplying after-sun lotions, facial hydro-gels, shampoos, and pharmaceutical excipients. In South Asia and East Asia, carefully rinsed inner fillet cubes ('Ghritakumari') are diced into cooling lemon-basil seed summer sherbets, yogurts, and green smoothies.",
+        "Historically dubbed the 'plant of immortality' in ancient Egyptian papyri and hung over doorways in traditional folklore, it remains one of humanity's most recognizable household medicinal succulents."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/11751920/pexels-photo-11751920.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Healthy potted Aloe vera harvest plants",
+          "caption": "Cleanly cultivated outer leaves ready for filleting inner translucent gel."
+        }
+      ]
+    },
+    {
+      "number": "06",
+      "title": "Traditional & Scientific Medicinal Properties",
+      "subtitle": "Acemannan wound-healing polysaccharides vs. aloin anthraquinone cautions",
+      "summary": "Evidence-backed topical burn/moisture relief contrasted against internal whole-leaf latex risks.",
+      "paragraphs": [
+        "Clinical dermatology supports fresh or properly stabilized inner Aloe gel for cooling mild first-degree sunburns, thermal scalds, and skin dryness: its acetylated mannose polysaccharide acemannan and glycoproteins soothe inflammation and support keratinocyte hydration.",
+        "By contrast, the bitter yellow latex just beneath the green rind contains aloin (barbaloin) and aloe-emodin anthraquinones—potent stimulant laxatives whose chronic oral use carries serious clinical restrictions."
+      ],
+      "safetyNote": "Never ingest raw yellow aloin latex from the green rind: oral non-decolorized whole-leaf aloe latex causes abdominal cramping, electrolyte loss, and carries FDA/EFSA safety warnings regarding renal and carcinogenic risk in animal studies. Always trim away the outer rind and rinse clear inner gel thoroughly if preparing culinary juice, and avoid internal aloe during pregnancy or alongside laxatives/diuretics.",
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/19797887/pexels-photo-19797887.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Thick Aloe vera leaves for gel extraction",
+          "caption": "Mature outer leaves containing clear inner acemannan gel distinct from yellow rind latex."
+        }
+      ]
+    },
+    {
+      "number": "07",
+      "title": "Comprehensive Cultivation & Care Guide",
+      "subtitle": "Gritty cactus mix, terracotta drainage, deep infrequent watering, and pup division",
+      "summary": "Preventing root rot while growing plump, upright Aloe rosettes indoors or outdoors.",
+      "paragraphs": [
+        "Root rot from soggy soil is virtually the sole threat to cultivated Aloe vera. Always pot into breathable unglazed terracotta containers with generous drainage holes filled with fast-draining cactus mix (50% coarse perlite, pumice, or river sand blended with 50% porous compost, pH 6.5–8.0).",
+        "Position in bright indirect light to 4–5 hours of gentle morning sun (sudden harsh midday summer sun turns leaves bronze-brown until acclimated). Soak deeply only after the potting mix dries completely top-to-bottom, and separate rooted basal pups every spring to propagate new plants."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/11751920/pexels-photo-11751920.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Aloe vera growing cleanly in terracotta pots",
+          "caption": "Gritty aerated substrate and bright filtered light yielding firm, upright leaves."
+        }
+      ]
+    }
+  ],
+  "schemaOrg": {
+    "@type": "Taxon",
+    "name": "Aloe vera",
+    "alternateName": [
+      "Aloe Vera",
+      "Ghritokumari (ঘৃতকুমারী)"
+    ],
+    "taxonRank": "Species",
+    "parentTaxon": {
+      "@type": "Taxon",
+      "name": "Aloe",
+      "taxonRank": "Genus",
+      "parentTaxon": {
+        "@type": "Taxon",
+        "name": "Asphodelaceae",
+        "taxonRank": "Family"
+      }
+    }
+  }
+}

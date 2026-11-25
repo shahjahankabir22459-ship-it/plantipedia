@@ -1,0 +1,194 @@
+{
+  "schemaVersion": "1.1.0",
+  "slug": "bamboo",
+  "commonName": "Bamboo",
+  "scientificName": "Bambusa vulgaris",
+  "localName": "Baansh (বাঁশ)",
+  "category": "Shrubs & Herbs",
+  "categories": [
+    "Shrubs & Herbs",
+    "Trees & Palms"
+  ],
+  "taxonomicDomain": "Perennial Grasses & Agroforestry",
+  "featuredRank": null,
+  "shortSummary": "Giant woody monocot grass exhibiting the fastest terrestrial shoot elongation, silica-armoured hollow culms, and clumping rhizomes.",
+  "leadOverview": "Golden Bamboo (Bambusa vulgaris)—locally cherished across Bengal as Bash—is an evergreen clumping giant grass belonging to family Poaceae. Achieving full 20-metre height within a single monsoon growing season through pre-formed telescoped internodes, its silica-reinforced hollow culms power sustainable architecture, soil conservation, and traditional rural crafts.",
+  "heroImage": {
+    "url": "https://images.pexels.com/photos/20793642/pexels-photo-20793642.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "alt": "Towering green and golden bamboo culms in lush grove",
+    "caption": "Dense sympodial clump of Bambusa vulgaris culms displaying prominent nodal rings and slender foliage."
+  },
+  "overview": {
+    "plantGroup": "Angiosperm (Monocot)",
+    "family": "Poaceae (Bambusoideae)",
+    "genus": "Bambusa",
+    "species": "B. vulgaris",
+    "growthForm": "Giant clumping woody perennial grass (10–22 m)",
+    "nativeOrigin": "Tropical Asia (Indo-China & Yunnan)",
+    "commonUses": "Scaffolding, housing construction, paper pulp, wicker craft, edible shoots"
+  },
+  "sections": [
+    {
+      "number": "01",
+      "title": "Morphological Description",
+      "subtitle": "Hollow segmented culms, nodal diaphragms, culm sheaths, and pachymorph rhizomes",
+      "summary": "Structural engineering of silica-walled hollow canes, petiolate grass blades, and clumping rhizomes.",
+      "paragraphs": [
+        "Unlike dicotyledonous trees that thicken radially over decades via vascular cambium, Bambusa vulgaris emerges from its underground pachymorph rhizome at its full final diameter (8–12 cm) as a conical shoot clad in overlapping leathery culm sheaths. Rapid intercalary meristem expansion at every node telescopes the culm skyward by up to 40 centimetres per day during wet summer monsoons.",
+        "Mature culms consist of hollow internodes partitioned internally by solid transverse nodal diaphragms that impart extraordinary flexural strength against typhoons. Slender lateral branchlets bear linear-lanceolate grass blades attached via short false petioles (pseudopetioles) with parallel venation."
+      ],
+      "subblocks": [
+        {
+          "heading": "Segmented Culms",
+          "text": "Hollow cylindrical stems reinforced with vascular fibre bundles and biogenic opal silica along outer walls."
+        },
+        {
+          "heading": "Culm Sheaths",
+          "text": "Protective deciduous papery-brown sheaths studded with golden hairs shielding tender growing shoot nodes."
+        },
+        {
+          "heading": "Bamboo Leaves",
+          "text": "Linear-lanceolate parallel-veined blades (15–25 cm) borne on clustered fine upper branchlets."
+        },
+        {
+          "heading": "Pachymorph Rhizomes",
+          "text": "Short, thick, non-invasive clumping underground stems anchoring dense multi-culm groves."
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/8803722/pexels-photo-8803722.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Segmented bamboo stems and nodal rings close-up",
+          "caption": "Transverse nodal rings partitioning hollow internodes for peak buckling resistance."
+        },
+        {
+          "url": "https://images.pexels.com/photos/36165506/pexels-photo-36165506.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Lush green bamboo leaves canopy",
+          "caption": "Feathery Poaceae foliage filtering bright sunlight across dense culm crowns."
+        }
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Taxonomy & Botanical Classification",
+      "subtitle": "Poales order and subfamily Bambusoideae woody grasses",
+      "summary": "Taxonomic kinship with rice, maize, and sugarcane plus gregarious flowering mysteries.",
+      "paragraphs": [
+        "Although resembling slender palms or timber trees in stature, bamboo is phylogenetically a true grass in order Poales and family Poaceae (subfamily Bambusoideae), closely related to rice (Oryza sativa), wheat, and sugarcane. Bambusa vulgaris belongs to the tropical clumping tribe Bambuseae.",
+        "Unlike many bamboos that undergo synchronized gregarious flowering and die-off every 40 to 80 years, Bambusa vulgaris almost never sets viable seed when sporadic flowering occurs, relying entirely on vigorous clonal rhizome propagation."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/37331249/pexels-photo-37331249.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Dense bamboo woodland grove",
+          "caption": "Clonal Bambusa stand illustrating tight sympodial culm clustering."
+        }
+      ]
+    },
+    {
+      "number": "03",
+      "title": "Natural Habitat & Global Distribution",
+      "subtitle": "Monsoon riverbanks, village homestead groves, and steep watershed stabilization",
+      "summary": "Pan-tropical riverine colonization and central role across rural Bangladesh landscapes.",
+      "paragraphs": [
+        "Originating across humid Southeast Asia and southern China, Bambusa vulgaris is now the most widely pantropically cultivated bamboo on Earth, colonizing moist riverbanks, road embankments, and low hills from sea level up to 1,200 metres elevation.",
+        "Throughout rural Bangladesh—from Sylhet tea estates and Chattogram hill tracts to village homesteads along delta levees—bamboo clumps ('bash jhar') stabilize monsoon riverbanks against erosion and shield homes from cyclonic winds."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/20793642/pexels-photo-20793642.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Sunlit bamboo grove along slope",
+          "caption": "Riverbank and hillside bamboo stands locking topsoil beneath dense fibrous roots."
+        }
+      ]
+    },
+    {
+      "number": "04",
+      "title": "Ecological Role & Pollinator Interactions",
+      "subtitle": "Carbon sequestration powerhouse, watershed filtration, and canopy habitat",
+      "summary": "Rapid biomass carbon capture, nutrient-runoff uptake, and shelter for birds and amphibians.",
+      "paragraphs": [
+        "Because new culms shoot up within months while mature outer canes can be selectively harvested annually without killing the rhizome, managed bamboo groves sequester carbon rapidly and generate steady fallen leaf mulch that enriches depleted tropical topsoils with organic silica.",
+        "Hollow internodes and dense evergreen crowns provide roosting habitat for weaver birds, owls, tree frogs, and bats, while underground rhizome mats absorb excess agricultural nitrogen runoff along streams."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/37331249/pexels-photo-37331249.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Ecological bamboo forest interior",
+          "caption": "Cool, shaded microhabitat and deep leaf-litter horizon beneath mature bamboo groves."
+        }
+      ]
+    },
+    {
+      "number": "05",
+      "title": "Economic, Culinary & Cultural Importance",
+      "subtitle": "'Green Steel' architecture, paper pulp, handicrafts, and culinary bamboo shoots",
+      "summary": "Tensile strength rivalling mild steel alongside artisanal weaving and fermented/fresh shoots.",
+      "paragraphs": [
+        "Known globally as 'Green Steel', cured bamboo culms exhibit tensile strength rivalling mild structural steel per unit weight, powering cyclone-resilient housing, scaffolding, suspension bridges, engineered laminated bamboo flooring, and short-fibre paper pulp.",
+        "In rural South and Southeast Asian economies, split strips weave winnowing trays (kula), fishing traps, baskets, and musical flutes (bansuri), while tender young emerging shoots—sliced thinly and thoroughly boiled to remove natural taxiphyllin cyanogenic glycosides—serve as crisp seasonal delicacies in Chittagong Hill Tracts and East Asian cuisines."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/8803722/pexels-photo-8803722.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Harvestable structural bamboo culms",
+          "caption": "Mature three-to-five-year culms prized for tensile construction and craft weaving."
+        }
+      ]
+    },
+    {
+      "number": "06",
+      "title": "Traditional & Scientific Medicinal Properties",
+      "subtitle": "Silica-rich tabashir, antioxidant leaf flavones, and young shoot toxicity caution",
+      "summary": "Mineral silica extracts in traditional remedies and mandatory cooking of raw shoots.",
+      "paragraphs": [
+        "Ayurvedic and Unani traditions value tabashir (banslochan)—a translucent biogenic silica concretion deposited occasionally inside hollow culm internodes—alongside young leaf decoctions for mild cooling and connective-tissue mineral support. Bamboo leaves contain C-glycosyl flavones (orientin, isoorientin, vitexin) with documented antioxidant activity.",
+        "Cooked mature bamboo shoots provide low-calorie dietary fibre, potassium, and phytosterols."
+      ],
+      "safetyNote": "Never eat raw bamboo shoots: fresh shoots contain high levels of the cyanogenic glycoside taxiphyllin, which releases toxic hydrogen cyanide when crushed. Always slice thin and boil uncovered in plenty of water for 20–30 minutes (discarding the cooking water) before culinary use.",
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/36165506/pexels-photo-36165506.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Fresh bamboo shoots and leaves",
+          "caption": "Foliage rich in C-glycosyl flavones and silica-accumulating epidermal cells."
+        }
+      ]
+    },
+    {
+      "number": "07",
+      "title": "Comprehensive Cultivation & Care Guide",
+      "subtitle": "Culm-node offsets, selective 3-year harvesting, and mulch retention",
+      "summary": "Propagating clumping bamboo safely and maintaining vigorous multi-age groves.",
+      "paragraphs": [
+        "Propagate Bambusa vulgaris cleanly during the onset of monsoon rains using offset rhizome cuttings or two-node mid-culm branch cuttings buried horizontally in moist sandy loam. Choose Bambusa vulgaris for home landscapes when seeking non-invasive clumping stability rather than aggressive temperate running bamboos (Phyllostachys).",
+        "Leave fallen leaf litter undisturbed around the base to recycle plant-available silica, water regularly during dry months, and harvest only culms aged 3 to 5 years from the grove's centre—always keeping younger bright-green canes intact to power photosynthesis."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/20793642/pexels-photo-20793642.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Managed sustainable bamboo clump",
+          "caption": "Selective thinning removes mature woody canes while nurturing young monsoon shoots."
+        }
+      ]
+    }
+  ],
+  "schemaOrg": {
+    "@type": "Taxon",
+    "name": "Bambusa vulgaris",
+    "alternateName": [
+      "Bamboo",
+      "Baansh (বাঁশ)"
+    ],
+    "taxonRank": "Species",
+    "parentTaxon": {
+      "@type": "Taxon",
+      "name": "Bambusa",
+      "taxonRank": "Genus",
+      "parentTaxon": {
+        "@type": "Taxon",
+        "name": "Poaceae (Bambusoideae)",
+        "taxonRank": "Family"
+      }
+    }
+  }
+}

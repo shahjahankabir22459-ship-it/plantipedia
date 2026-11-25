@@ -1,0 +1,194 @@
+{
+  "schemaVersion": "1.1.0",
+  "slug": "coconut",
+  "commonName": "Coconut",
+  "scientificName": "Cocos nucifera",
+  "localName": "Narikel (নারিকেল)",
+  "category": "Fruit Trees",
+  "categories": [
+    "Fruit Trees",
+    "Trees & Palms"
+  ],
+  "taxonomicDomain": "Tropical Pomology & Fruit Trees",
+  "featuredRank": null,
+  "shortSummary": "Coastal monocot palm revered as the 'Tree of Life' for hydrating endosperm water, copra oil, coir fibre, and ocean-drifting seeds.",
+  "leadOverview": "The Coconut Palm (Cocos nucifera) is the quintessential coastal monocot of the tropical world. Rising up to 30 metres on flexible ringed trunks crowned with feather-like pinnate fronds, this single-species genus sustains island and delta economies with electrolyte-rich coconut water, culinary milk, coir cordage, and architectural timber.",
+  "heroImage": {
+    "url": "https://images.pexels.com/photos/28281017/pexels-photo-28281017.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "alt": "Tall coconut palms leaning over tropical coastline",
+    "caption": "Gracefully curved Cocos nucifera trunks and pinnate crowns flourishing along sandy coastal shores."
+  },
+  "overview": {
+    "plantGroup": "Angiosperm (Monocot)",
+    "family": "Arecaceae",
+    "genus": "Cocos",
+    "species": "C. nucifera",
+    "growthForm": "Solitary unbranched feather palm (15–30 m)",
+    "nativeOrigin": "Indo-Pacific & Maritime Southeast Asia",
+    "commonUses": "Coconut water, copra oil, culinary milk, coir fibre, roofing thatch"
+  },
+  "sections": [
+    {
+      "number": "01",
+      "title": "Morphological Description",
+      "subtitle": "Ringed monocot stem, pinnate fronds, spadix inflorescences, and fibrous drupe",
+      "summary": "Botanical anatomy of coconut palms—revealing why a 'coconut' is a true drupe, not a nut.",
+      "paragraphs": [
+        "As an arborescent monocotyledon, Cocos nucifera lacks true wood and secondary cambium bark; instead, an elastic cylindrical trunk marked with crescent leaf-scar rings bends smoothly under cyclone winds, anchored by thousands of tough cord-like adventitious roots radiating from a swollen bole.",
+        "A single apical growing point crowns the palm with 25 to 35 arching pinnate fronds measuring 4 to 6 metres long. Botanically, the fruit is a massive fibrous drupe—NOT a botanical nut—comprising a smooth waxy exocarp, thick airy coir mesocarp enabling seawater buoyancy, stony three-pored endocarp shell, solid white cellular endosperm meat, and refreshing liquid endosperm water."
+      ],
+      "subblocks": [
+        {
+          "heading": "Ringed Trunk",
+          "text": "Unbranched fibrous stem ringed by abscised petiole scars, flexing effortlessly during coastal gales."
+        },
+        {
+          "heading": "Pinnate Fronds",
+          "text": "Plume-like compound leaves up to 6 m long with 200+ linear-lanceolate pleated leaflets."
+        },
+        {
+          "heading": "Spadix & Flowers",
+          "text": "Branched axillary inflorescence shielded by a woody boat-shaped spathe bearing small female bases and myriad male tips."
+        },
+        {
+          "heading": "Fibrous Drupe",
+          "text": "Buoyant three-angled husk enclosing the three-eyed shell ('germination pores') and dual liquid/solid endosperm."
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/32970531/pexels-photo-32970531.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Cluster of young green coconuts hanging beneath palm fronds",
+          "caption": "Developing green drupes clustered in axillary crowns beneath arching pinnate fronds."
+        },
+        {
+          "url": "https://images.pexels.com/photos/32535057/pexels-photo-32535057.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Freshly opened coconut showing white endosperm and water",
+          "caption": "Stony endocarp lined with crisp white lipid-rich endosperm enclosing clear coconut water."
+        }
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Taxonomy & Botanical Classification",
+      "subtitle": "Arecales order and Tall vs. Dwarf ecotype groups",
+      "summary": "Monotypic genus Cocos and genetic divergence between Indo-Atlantic and Pacific lineages.",
+      "paragraphs": [
+        "Classified in order Arecales and family Arecaceae, Cocos nucifera is the sole living member of genus Cocos, sharing its subtribe Attaleinae with South American queen and jelly palms. Portuguese explorers coined 'coco' from a folklore grin evoked by the shell's three dark germination eyes.",
+        "Breeding programs group cultivars into hardy outcrossing 'Tall' palms living 80+ years and early-fruiting self-pollinating 'Dwarf' palms prized for sweet tender drinking water and lethal-yellowing resistance."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/16097003/pexels-photo-16097003.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Sunlit coconut palm fronds close-up",
+          "caption": "Pinnate Arecaceae frond geometry maximizing coastal sunlight capture while shedding gale winds."
+        }
+      ]
+    },
+    {
+      "number": "03",
+      "title": "Natural Habitat & Global Distribution",
+      "subtitle": "Hydrochorous ocean dispersal and tropical delta groves",
+      "summary": "Natural pantropical coastal dispersal and thriving groves across southern Bangladesh.",
+      "paragraphs": [
+        "Cocos nucifera represents a textbook case of hydrochory (water-borne seed dispersal): air-filled coir husks keep viable seeds afloat across open oceans for up to 110 days, germinating cleanly where tides deposit them on sandy coral atolls and river deltas throughout 90+ tropical nations.",
+        "Across coastal and deltaic Bangladesh—especially Barishal, Bhola, Patuakhali, Khulna, and St. Martin's Island (Narikel Jinjira, 'Coconut Island')—coconut palms anchor cyclone shelterbelts and rural homestead economies."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/36868557/pexels-photo-36868557.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Tropical sandy shoreline lined with coconut palms",
+          "caption": "Saline coastal beach habitat where ocean currents deposit buoyant seeds."
+        }
+      ]
+    },
+    {
+      "number": "04",
+      "title": "Ecological Role & Pollinator Interactions",
+      "subtitle": "Coastal erosion buffering and insect-and-wind pollination",
+      "summary": "Stabilizing vulnerable tropical shorelines while sustaining bees and palm wildlife.",
+      "paragraphs": [
+        "Because fibrous coconut roots weave dense underground mats tolerant of brackish spray, shoreline groves protect vulnerable deltas and atolls from storm surge erosion while shading understory crops.",
+        "Flowering year-round, sweet nectar glands on both male and female flowers attract honeybees, stingless bees, and wasps alongside steady sea breezes that transfer dusty pollen across neighbouring crowns."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/28281017/pexels-photo-28281017.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Coastal coconut grove anchoring shoreline",
+          "caption": "Interlocking fibrous root networks binding coastal sand dunes against tidal surges."
+        }
+      ]
+    },
+    {
+      "number": "05",
+      "title": "Economic, Culinary & Cultural Importance",
+      "subtitle": "Kalpavriksha 'Tree of Life': coconut water, copra oil, coir, and jaggery",
+      "summary": "Unrivalled multi-industry utility feeding kitchens, textiles, cosmetics, and building trades.",
+      "paragraphs": [
+        "Sanskrit literature calls coconut Kalpavriksha—'the tree that provides all necessities of life'. Young 6-to-7-month green drupes supply sterile, naturally isotonic electrolyte water (dab) prized during hot summers; mature white meat yields rich culinary coconut milk, grated desiccated flakes for Bengali pithas and curries, and cold-pressed virgin or copra oil rich in lauric acid.",
+        "Meanwhile, husk coir fibres weave resilient doormats, ropes, and peat-free horticultural potting coir; shells yield activated carbon; frond midribs form durable brooms; and tapped floral spathe sap produces aromatic palm jaggery."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/32535057/pexels-photo-32535057.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Fresh culinary coconut halves",
+          "caption": "Nutrient-dense white endosperm harvested globally for culinary milk, desiccated flakes, and virgin oil."
+        }
+      ]
+    },
+    {
+      "number": "06",
+      "title": "Traditional & Scientific Medicinal Properties",
+      "subtitle": "Oral rehydration electrolytes, lauric acid monolaurin, and skin emollients",
+      "summary": "Hydration benefits and topical barrier support balanced with saturated-fat dietary nuance.",
+      "paragraphs": [
+        "Fresh young coconut water contains potassium, magnesium, calcium, and natural sugars in an osmotic balance closely resembling oral rehydration solutions, making it invaluable during tropical heat exhaustion or mild dehydration. Traditional Ayurvedic care applies pure coconut oil externally to nourish infant skin, hair shafts, and dry eczema patches.",
+        "Medium-chain fatty acids—predominantly lauric acid—yield monolaurin in vitro with documented antimicrobial activity against lipid-enveloped microbes."
+      ],
+      "safetyNote": "Because coconut oil is roughly 82–90% saturated fat, major cardiology guidelines recommend moderating dietary coconut oil intake in favor of unsaturated vegetable oils if managing elevated LDL cholesterol; individuals with renal potassium restriction should also monitor coconut water consumption.",
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/32970531/pexels-photo-32970531.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Young green drinking coconuts on tree",
+          "caption": "Six-month tender green drupes prized for sterile potassium-rich isotonic water."
+        }
+      ]
+    },
+    {
+      "number": "07",
+      "title": "Comprehensive Cultivation & Care Guide",
+      "subtitle": "Horizontal husk sprouting, potassium-and-boron nutrition, and rhinoceros beetle control",
+      "summary": "Germinating whole seed nuts and nourishing productive coastal or inland palms.",
+      "paragraphs": [
+        "Propagate exclusively from fully mature, 12-month brown seed nuts that slosh audibly when shaken. Lay whole unhusked nuts horizontally halfway buried in moist sandy nursery beds—never strip the outer coir husk—and transplant seedlings into 1-metre-deep organic-enriched pits once 3 to 4 fronds unfold.",
+        "Coconuts demand full tropical sunlight, ample moisture, and high potassium plus trace boron and magnesium to prevent notched leaves and premature button-nut drop. Keep crown axils clean to deter rhinoceros beetles (Oryctes rhinoceros) and red palm weevils."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/16097003/pexels-photo-16097003.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Healthy coconut palm crown",
+          "caption": "Well-nourished crown carrying balanced whorls of emerald fronds and fruiting spadices."
+        }
+      ]
+    }
+  ],
+  "schemaOrg": {
+    "@type": "Taxon",
+    "name": "Cocos nucifera",
+    "alternateName": [
+      "Coconut",
+      "Narikel (নারিকেল)"
+    ],
+    "taxonRank": "Species",
+    "parentTaxon": {
+      "@type": "Taxon",
+      "name": "Cocos",
+      "taxonRank": "Genus",
+      "parentTaxon": {
+        "@type": "Taxon",
+        "name": "Arecaceae",
+        "taxonRank": "Family"
+      }
+    }
+  }
+}

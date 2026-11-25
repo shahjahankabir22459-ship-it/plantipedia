@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "3.0.0",
+  "application": {
+    "name": "Plantipedia",
+    "version": "3.0.0",
+    "tagline": "Exploring the fascinating world of plants, one species at a time.",
+    "datasetCacheBust": "v50",
+    "defaultLocale": "en",
+    "supportedLocales": ["en", "bn"]
+  },
+  "archive": {
+    "curatedMonographsCount": 50,
+    "documentedFamiliesCount": 34,
+    "monographChapters": 8,
+    "phenologicalSeasons": 6
+  },
+  "globalBotanicalServer": {
+    "enabled": true,
+    "zeroKeyClientSide": true,
+    "estimatedGlobalTaxa": "390,000+",
+    "timeoutMs": 12000,
+    "maxRetries": 2
+  },
+  "credits": {
+    "chiefPatron": "Jalees Habib",
+    "leadArchitecture": "Rayaan Tasnim",
+    "specialThanks": "IDAI Universe",
+    "poweredBy": "Olympiad Edge"
+  }
+}

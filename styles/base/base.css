@@ -1,0 +1,142 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 120px;
+  font-size: 16px;
+  background-color: var(--canvas-bg);
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--canvas-bg);
+  background-image:
+    radial-gradient(
+      ellipse 80% 50% at 15% 8%,
+      rgba(16, 185, 129, 0.11),
+      transparent 60%
+    ),
+    radial-gradient(
+      ellipse 70% 45% at 88% 35%,
+      rgba(74, 222, 128, 0.07),
+      transparent 60%
+    ),
+    radial-gradient(rgba(110, 231, 183, 0.065) 1px, transparent 1px);
+  background-size:
+    100% 100%,
+    100% 100%,
+    28px 28px;
+  background-attachment: fixed;
+  color: var(--ink-primary);
+  font-family: var(--font-sans);
+  line-height: 1.68;
+  letter-spacing: 0.008em;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+html.overlay-locked,
+body.overlay-locked {
+  overflow: hidden;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+}
+
+:focus-visible {
+  outline: 2px solid var(--accent-mint);
+  outline-offset: 3px;
+}
+
+/* ================= OFFLINE SCROLL-REVEAL FALLBACK ================= */
+.css-reveal-fallback .reveal-on-scroll {
+  opacity: 0;
+  transform: translateY(22px);
+  transition:
+    opacity 0.65s var(--ease-settle) var(--reveal-delay, 0ms),
+    transform 0.65s var(--ease-settle) var(--reveal-delay, 0ms);
+  will-change: opacity, transform;
+}
+
+.css-reveal-fallback .reveal-on-scroll.is-revealed {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* ================= SHARED TYPOGRAPHY & CONTAINER UTILITIES ================= */
+.section-container {
+  max-width: 1320px;
+  margin: 0 auto;
+  padding: 0 clamp(16px, 3vw, 40px);
+}
+
+.section-eyebrow {
+  display: inline-block;
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--accent-mint);
+  margin-bottom: 10px;
+}
+
+.section-heading {
+  margin: 0 0 18px;
+  font-family: var(--font-display);
+  font-size: clamp(2rem, 3.4vw, 2.8rem);
+  font-weight: 700;
+  line-height: 1.12;
+  color: var(--ink-primary);
+  text-wrap: balance;
+}
+
+.justified-prose {
+  margin: 0 0 1.15em;
+  font-size: 1rem;
+  line-height: 1.78;
+  color: var(--ink-secondary);
+  text-align: justify;
+  text-justify: inter-word;
+  overflow-wrap: break-word;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+}
+
+.justified-prose:last-child {
+  margin-bottom: 0;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+

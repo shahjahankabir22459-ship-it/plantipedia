@@ -1,0 +1,195 @@
+{
+  "schemaVersion": "1.1.0",
+  "slug": "periwinkle",
+  "commonName": "Madagascar Periwinkle",
+  "scientificName": "Catharanthus roseus",
+  "localName": "Nayantara (নয়নতারা)",
+  "category": "Medicinal",
+  "categories": [
+    "Medicinal",
+    "Flowers",
+    "Shrubs & Herbs"
+  ],
+  "taxonomicDomain": "Ethnobotanical & Ayurvedic Herbs",
+  "featuredRank": null,
+  "shortSummary": "Evergreen tropical subshrub famous for year-round five-petalled blooms and life-saving vinca alkaloid oncology compounds.",
+  "leadOverview": "Madagascar periwinkle (Catharanthus roseus), widely known across South Asia as Nayantara or Sadabahar ('always blooming'), is a resilient perennial subshrub in the dogbane family Apocynaceae. Celebrated in gardens for effortless continuous colour, it also transformed modern oncology through the discovery of vinblastine and vincristine.",
+  "heroImage": {
+    "url": "https://images.pexels.com/photos/5720961/pexels-photo-5720961.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "alt": "Pink Catharanthus roseus flowers blooming amidst glossy foliage",
+    "caption": "Five-lobed salverform corollas of Catharanthus roseus with contrasting central throat eye."
+  },
+  "overview": {
+    "plantGroup": "Angiosperm (Eudicot)",
+    "family": "Apocynaceae",
+    "genus": "Catharanthus",
+    "species": "C. roseus",
+    "growthForm": "Evergreen herbaceous subshrub (30–90 cm)",
+    "nativeOrigin": "Madagascar",
+    "commonUses": "Pharmaceutical alkaloid extraction, bedding ornamental, drought-hardy borders"
+  },
+  "sections": [
+    {
+      "number": "01",
+      "title": "Morphological Description",
+      "subtitle": "Opposite glossy leaves, twisted salverform petals, and twin follicle pods",
+      "summary": "Anatomy of milky-latex stems, pinwheel corollas, and paired follicular seeds.",
+      "paragraphs": [
+        "Catharanthus roseus forms a compact, bushy subshrub reaching 30 to 90 centimetres tall with woody basal stems and supple green or reddish upper shoots containing watery-milky latex. Opposite, oblong-elliptic leaves measure 3 to 8 centimetres long, displaying a glossy dark-green upper epidermis accented by a prominent pale creamy midrib.",
+        "Solitary or paired axillary flowers open in crisp pinwheel symmetry with five spreading petal lobes fused below into a slender 2.5-centimetre floral tube. Corolla shades span rose-pink, pure white, magenta, and peach, typically marked by a contrasting crimson or yellow eye. Fertilized ovaries mature into paired cylindrical follicles releasing small black ribbed seeds."
+      ],
+      "subblocks": [
+        {
+          "heading": "Stems & Latex",
+          "text": "Erect, branching herbaceous-to-woody stems containing alkaloid-rich milky sap inside laticifer vessels."
+        },
+        {
+          "heading": "Opposite Foliage",
+          "text": "Glabrous oval leaves arranged in decussate pairs with pale midveins and tiny interpetiolar glands."
+        },
+        {
+          "heading": "Salverform Flowers",
+          "text": "Five-petalled pinwheel blooms with narrow hairy throats enclosing five concealed stamens near the orifice."
+        },
+        {
+          "heading": "Follicle Fruits",
+          "text": "Twin narrow green dehiscent pods (2–4 cm) splitting longitudinally along one suture when dry."
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/33518507/pexels-photo-33518507.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "White Catharanthus roseus blossom macro",
+          "caption": "White-petalled cultivar displaying glossy midrib-marked leaves and pinwheel petal overlap."
+        },
+        {
+          "url": "https://images.pexels.com/photos/7049637/pexels-photo-7049637.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Periwinkle flower cluster in sunlit garden",
+          "caption": "Compact floriferous habit sustaining simultaneous open blooms and maturing flower buds."
+        }
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Taxonomy & Botanical Classification",
+      "subtitle": "Segregation from Vinca and Apocynaceae chemistry",
+      "summary": "Why Madagascar periwinkle was reclassified from Vinca rosea to Catharanthus.",
+      "paragraphs": [
+        "Historically named Vinca rosea by Linnaeus, Madagascar periwinkle was moved into genus Catharanthus ('pure flower') by George Don in 1837 based on distinct upright growth habit, narrower corolla throats, and seed-coat sculpturing that separate it from creeping European Vinca minor.",
+        "Within family Apocynaceae, Catharanthus sits alongside oleander and frangipani, sharing complex indole-alkaloid biosynthetic pathways prized by pharmacologists."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/5720961/pexels-photo-5720961.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Pink Catharanthus roseus botanical specimen",
+          "caption": "Diagnostic upright branching habit distinguishing Catharanthus from trailing Vinca species."
+        }
+      ]
+    },
+    {
+      "number": "03",
+      "title": "Natural Habitat & Global Distribution",
+      "subtitle": "Endemic Malagasy sands to South Asian courtyards",
+      "summary": "Coastal sand habitats in Madagascar and naturalization across tropical Asia.",
+      "paragraphs": [
+        "In its native Madagascar, Catharanthus roseus evolved on nutrient-poor coastal sands, rocky outcrops, and open sunny savannas—traits explaining its remarkable heat and drought resilience. Though wild endemic habitats in Madagascar face clearance pressure, cultivated lineages thrive across every tropical and warm-temperate continent.",
+        "Across Bangladesh, India, and Sri Lanka, Nayantara thrives effortlessly in home gardens, rooftop pots, roadside borders, and temple courtyards, blooming uninterruptedly through scorching summers and mild winters."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/7049637/pexels-photo-7049637.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Periwinkle naturalized in sunny bed",
+          "caption": "Thriving sun-loving habit adapted to warm sandy-loam beds and rooftop containers."
+        }
+      ]
+    },
+    {
+      "number": "04",
+      "title": "Ecological Role & Pollinator Interactions",
+      "subtitle": "Lepidopteran proboscis pollination and self-compatibility",
+      "summary": "Long-tongued butterflies, hawk moths, and reliable dry-season floral forage.",
+      "paragraphs": [
+        "The slender 2.5-centimetre floral tube restricts nectar access to long-tongued pollinators, primarily skippers, swallowtail butterflies, and crepuscular hawk moths whose slender proboscides brush pollen near the constricted throat. In addition, many cultivars retain high rates of autonomous self-pollination, ensuring prolific seed production even where specialized pollinators are scarce.",
+        "Its continuous 12-month flowering cycle provides dependable nectar bridges for urban butterflies during dry winter months."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/13012247/pexels-photo-13012247.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Butterfly and bee visiting pink wildflowers",
+          "caption": "Lepidopteran nectar-foraging dynamics mirroring butterfly visits to periwinkle corollas."
+        }
+      ]
+    },
+    {
+      "number": "05",
+      "title": "Economic, Culinary & Cultural Importance",
+      "subtitle": "Global pharmaceutical cultivation and landscape endurance",
+      "summary": "Biotech alkaloid farming and zero-maintenance urban ornamentation.",
+      "paragraphs": [
+        "Catharanthus roseus is cultivated on industrial scales in southern India, Madagascar, and China not as a food plant—it is wholly non-culinary—but as a vital pharmaceutical raw material harvested for dried leaves and roots. Simultaneously, global seed companies breed compact F1 hybrids prized for bedding displays in high-heat cities.",
+        "In Bengali and South Asian culture, its folk name 'Nayantara' ('star of the eyes') celebrates its bright, eye-centred blossoms seen year-round."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/33518507/pexels-photo-33518507.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Crisp white Nayantara blossoms",
+          "caption": "Uniform bedding cultivar prized for heat resilience and continuous landscape colour."
+        }
+      ]
+    },
+    {
+      "number": "06",
+      "title": "Traditional & Scientific Medicinal Properties",
+      "subtitle": "Vinblastine, vincristine, and ajmalicine pharmacology",
+      "summary": "Landmark antineoplastic microtubule inhibitors discovered from ethnobotanical leads.",
+      "paragraphs": [
+        "Few plants illustrate the bridge between folk medicine and modern pharmacology as dramatically as Catharanthus roseus. Investigating traditional Jamaican and Malagasy leaf teas used for blood sugar management in the 1950s, researchers at Eli Lilly and Western Ontario isolated over 130 terpenoid indole alkaloids—most notably vinblastine and vincristine.",
+        "Both dimeric alkaloids bind tubulin to arrest mitotic spindle assembly, revolutionizing clinical treatment of Hodgkin lymphoma, acute lymphoblastic leukemia, and testicular carcinomas. Root-derived ajmalicine is similarly used in vascular pharmacology."
+      ],
+      "safetyNote": "TOXICITY WARNING: Every part of Catharanthus roseus is toxic if ingested raw or brewed as homemade tea. Vinca alkaloids are potent cytotoxic agents capable of causing severe myelosuppression, neuropathy, and gastrointestinal injury outside precise hospital oncology dosing. Keep out of reach of children and pets.",
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/5720961/pexels-photo-5720961.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Periwinkle leaves and blossoms",
+          "caption": "Foliage containing trace terpene indole alkaloids harvested strictly for pharmaceutical extraction."
+        }
+      ]
+    },
+    {
+      "number": "07",
+      "title": "Comprehensive Cultivation & Care Guide",
+      "subtitle": "Fast drainage, root-rot avoidance, and pinching for bushiness",
+      "summary": "Sunny gritty substrates, restrained irrigation, and Phytophthora prevention.",
+      "paragraphs": [
+        "The single most common failure in periwinkle cultivation is overwatering in heavy clay soils, which invites lethal Phytophthora aerial blight and stem rot. Plant in sandy or gritty, fast-draining potting mixes (pH 5.8–6.8) positioned in full sun for at least 6 hours daily.",
+        "Allow the top 3 centimetres of substrate to dry between waterings, pinch young shoot tips at 10 centimetres height to double lateral branching, and propagate effortlessly via spring seeds or softwood stem cuttings."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/7049637/pexels-photo-7049637.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Healthy sunlit periwinkle bed",
+          "caption": "Compact, freely branching periwinkle plants thriving in well-aerated sunny beds."
+        }
+      ]
+    }
+  ],
+  "schemaOrg": {
+    "@type": "Taxon",
+    "name": "Catharanthus roseus",
+    "alternateName": [
+      "Madagascar Periwinkle",
+      "Nayantara (নয়নতারা)"
+    ],
+    "taxonRank": "Species",
+    "parentTaxon": {
+      "@type": "Taxon",
+      "name": "Catharanthus",
+      "taxonRank": "Genus",
+      "parentTaxon": {
+        "@type": "Taxon",
+        "name": "Apocynaceae",
+        "taxonRank": "Family"
+      }
+    }
+  }
+}

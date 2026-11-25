@@ -1,0 +1,194 @@
+{
+  "schemaVersion": "1.1.0",
+  "slug": "jackfruit",
+  "commonName": "Jackfruit",
+  "scientificName": "Artocarpus heterophyllus",
+  "localName": "Kathal (কাঁঠাল)",
+  "category": "Fruit Trees",
+  "categories": [
+    "Fruit Trees",
+    "Trees & Palms"
+  ],
+  "taxonomicDomain": "Tropical Pomology & Fruit Trees",
+  "featuredRank": null,
+  "shortSummary": "Cauliflorous tropical evergreen bearing the largest tree-borne syncarp fruit in the world—celebrated as Bangladesh's national fruit.",
+  "leadOverview": "Jackfruit (Artocarpus heterophyllus), known affectionately across Bengal as Kathal and honoured as the national fruit of Bangladesh, is a stout evergreen tree in the mulberry-fig family (Moraceae). Capable of yielding massive cauliflorous compound fruits weighing over 35 kilograms straight off sturdy trunks, it delivers both sweet golden arils and high-protein young vegetable flesh.",
+  "heroImage": {
+    "url": "https://images.pexels.com/photos/19229291/pexels-photo-19229291.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "alt": "Spiny green-gold jackfruits growing directly from tree trunk",
+    "caption": "Cauliflorous Artocarpus heterophyllus syncarp fruits suspended directly from thick woody branches."
+  },
+  "overview": {
+    "plantGroup": "Angiosperm (Eudicot)",
+    "family": "Moraceae",
+    "genus": "Artocarpus",
+    "species": "A. heterophyllus",
+    "growthForm": "Medium-to-large evergreen tree (10–25 m)",
+    "nativeOrigin": "South & Southeast Asia (Western Ghats & Indo-Bengal)",
+    "commonUses": "Ripe fruit, young meat-alternative curry, roasted seeds, golden timber"
+  },
+  "sections": [
+    {
+      "number": "01",
+      "title": "Morphological Description",
+      "subtitle": "Cauliflory, heterophyllous leaves, milky latex, and gigantic hexagonal syncarps",
+      "summary": "Anatomy of lobed-to-entire leaves, unisexual spikes, and massive multiple fruits.",
+      "paragraphs": [
+        "Artocarpus heterophyllus develops a dense conical-to-domed evergreen crown 10 to 25 metres tall, bearing thick, dark grey-brown bark and abundant sticky white latex throughout every tissue. Its specific epithet heterophyllus ('varied-leaf') describes the dramatic contrast between juvenile three-lobed shoots and mature, glossy, leathery dark-green elliptic leaves.",
+        "Monoecious trees produce separate male and female dense cylindrical flower spikes (inflorescences) emerging directly on the main trunk and stout interior limbs—a trait called cauliflory suited to heavy fruit loads. Pollinated female spikes swell into colossal multiple fruits (syncarps) covered in blunt hexagonal tubercles, enclosing dozens of fleshy golden perianth bulbs (arils) around starchy seeds."
+      ],
+      "subblocks": [
+        {
+          "heading": "Cauliflorous Trunk",
+          "text": "Thick woody trunks and scaffold boughs bearing short fruit stalks capable of supporting 15–40 kg syncarps."
+        },
+        {
+          "heading": "Heterophyllous Leaves",
+          "text": "Lobed saplings transitioning into glossy oblong-obovate mature blades (10–20 cm) with pale central midribs."
+        },
+        {
+          "heading": "Unisexual Spikes",
+          "text": "Drooping green male catkins (shedding clouds of pollen) paired with stout oblong female spikes."
+        },
+        {
+          "heading": "Syncarp Fruit & Roots",
+          "text": "World's largest tree fruit enclosing sweet golden bulbs and large starchy seeds; deep moisture-seeking taproot."
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/19229291/pexels-photo-19229291.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Jackfruits hanging directly on woody trunk",
+          "caption": "Cauliflorous fruiting habit anchoring massive syncarps directly onto structural scaffold trunks."
+        },
+        {
+          "url": "https://images.pexels.com/photos/37541294/pexels-photo-37541294.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Close-up of textured green jackfruit rind",
+          "caption": "Hexagonal papillose rind tubercles corresponding to individual fused fruitlets."
+        }
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Taxonomy & Botanical Classification",
+      "subtitle": "Rosales order and Moraceae breadfruit kinship",
+      "summary": "Relationship with breadfruit (Artocarpus altilis), cempedak, and figs in Moraceae.",
+      "paragraphs": [
+        "Assigned to order Rosales and family Moraceae, Artocarpus heterophyllus shares milky laticifers and aggregate syncarp fruits with Pacific breadfruit (Artocarpus altilis), marang, and Southeast Asian cempedak (Artocarpus integer).",
+        "Horticulturists classify jackfruit landraces into two primary texture types: firm-fleshed crisp types ('Khaja' or 'Varka') preferred for fresh dessert segments, and soft, aromatic, melting-pulp types ('Gala' or 'Koozha') ideal for nectars and preserves."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/13654840/pexels-photo-13654840.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Freshly cut golden jackfruit arils",
+          "caption": "Sweet golden fleshy perianth segments enveloping starchy jackfruit seeds."
+        }
+      ]
+    },
+    {
+      "number": "03",
+      "title": "Natural Habitat & Global Distribution",
+      "subtitle": "Humid monsoon foothills and Madhupur terrace orchards of Bangladesh",
+      "summary": "From ancient Western Ghats rainforests to homestead agroforestry across the tropics.",
+      "paragraphs": [
+        "Botanical consensus traces wild Artocarpus heterophyllus to the humid evergreen and semi-evergreen rainforests of southwestern India's Western Ghats, spreading millennia ago across eastern Bengal, Myanmar, and Maritime Southeast Asia. It thrives in deep, well-drained alluvial or red lateritic soils up to 1,200 metres elevation.",
+        "In Bangladesh—especially across the undulating red terrace uplands of Gazipur, Madhupur, and Tangail—jackfruit serves as a quintessential homestead tree tolerant of hot monsoon summers yet requiring drainage above seasonal flood levels."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/19229291/pexels-photo-19229291.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Homestead jackfruit tree laden with fruit",
+          "caption": "Well-drained monsoon upland habitat sustaining abundant summer syncarp harvests."
+        }
+      ]
+    },
+    {
+      "number": "04",
+      "title": "Ecological Role & Pollinator Interactions",
+      "subtitle": "Wind-plus-beetle pollination and megafaunal seed dispersal",
+      "summary": "Sap-feeding nitidulid beetles, wind pollen, and wildlife frugivore networks.",
+      "paragraphs": [
+        "Jackfruit combines anemophily (wind-borne pollen clouds from fragrant male spikes) with entomophily mediated by tiny gall midges and sap-feeding nitidulid beetles attracted to banana-scented volatiles emitted during receptive bloom.",
+        "In native forest ecosystems, aromatic fallen syncarps feed elephants, deer, monkeys, civets, and wild pigs that disperse intact starchy seeds across forest clearings, while dense canopies host nesting birds."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/13012247/pexels-photo-13012247.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Tropical forest canopy habitat",
+          "caption": "Multilayered tropical woodland ecosystem supported by nutritious tree crops."
+        }
+      ]
+    },
+    {
+      "number": "05",
+      "title": "Economic, Culinary & Cultural Importance",
+      "subtitle": "National fruit of Bangladesh, vegan shredded meat, and golden woodworking timber",
+      "summary": "Zero-waste utility spanning ripe fruit, unripe vegetable curries, roasted seeds, and durable timber.",
+      "paragraphs": [
+        "Honoured as Bangladesh's national fruit, jackfruit delivers astonishing zero-waste value: unripe green fruits (echor) possess fibrous neutral flesh prized globally as a plant-based pulled-meat substitute in biryanis, curries, and tacos; ripe honey-sweet bulbs flavour cakes and smoothies; and boiled or roasted seeds taste remarkably like chestnuts.",
+        "Beyond food, fallen leaves feed goats during dry winters, and golden-yellow heartwood (rich in morin pigment) is prized across South Asia for fine furniture, doors, and classical stringed musical instruments such as the veena and mridangam."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/13654840/pexels-photo-13654840.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Golden ripe jackfruit bulbs ready to eat",
+          "caption": "Ripe aromatic bulbs alongside edible starchy seeds and fiber-rich outer rags."
+        }
+      ]
+    },
+    {
+      "number": "06",
+      "title": "Traditional & Scientific Medicinal Properties",
+      "subtitle": "Artocarpin, jacalin lectin, carotenoids, and prebiotic seed starch",
+      "summary": "Rich potassium-and-phytonutrient profile alongside latex and birch-pollen allergy notes.",
+      "paragraphs": [
+        "Ripe jackfruit provides substantial vitamin C, potassium, dietary fibre, and beta-carotene, while seeds contain resistant prebiotic starches and jacalin—a galactose-binding lectin extensively utilized in immunology laboratories worldwide to purify human IgA antibodies.",
+        "Heartwood and root flavonoids including artocarpin and cyanomaclurin demonstrate notable antioxidant and antibacterial effects in preclinical research."
+      ],
+      "safetyNote": "Sticky latex inside unripe fruit can trigger skin sensitization or cross-reactive oral allergy syndrome in individuals allergic to natural rubber latex or birch pollen; oiling knives and hands before cutting prevents contact irritation, and people with chronic kidney disease should monitor high potassium intake.",
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/37541294/pexels-photo-37541294.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Jackfruit exterior rind and stalk",
+          "caption": "Outer syncarp rind rich in natural latex resins and protective phenolic compounds."
+        }
+      ]
+    },
+    {
+      "number": "07",
+      "title": "Comprehensive Cultivation & Care Guide",
+      "subtitle": "Flood intolerance, fresh seed sowing, bud-grafting, and fruit thinning",
+      "summary": "Establishing healthy grafted orchards with strong drainage and scaffold pruning.",
+      "paragraphs": [
+        "Unlike mango or coconut, jackfruit roots perish rapidly under prolonged waterlogging; always plant on raised terraces, gentle slopes, or deep well-drained sandy-loam hills (pH 6.0–7.5) in frost-free full sun. Sow fresh recalcitrant seeds immediately in deep bags, or plant cleft-grafted saplings for early 3-year fruiting.",
+        "Maintain clear interior scaffold branches so pollinators and sunlight reach trunk-borne flower spikes, thin excess clusters to 1 or 2 fruits per node for uniform size, and harvest once tapping the rind emits a hollow, dull thud."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/19229291/pexels-photo-19229291.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Productive jackfruit orchard trunk",
+          "caption": "Balanced trunk pruning and strict root drainage sustaining heavy summer fruit loads."
+        }
+      ]
+    }
+  ],
+  "schemaOrg": {
+    "@type": "Taxon",
+    "name": "Artocarpus heterophyllus",
+    "alternateName": [
+      "Jackfruit",
+      "Kathal (কাঁঠাল)"
+    ],
+    "taxonRank": "Species",
+    "parentTaxon": {
+      "@type": "Taxon",
+      "name": "Artocarpus",
+      "taxonRank": "Genus",
+      "parentTaxon": {
+        "@type": "Taxon",
+        "name": "Moraceae",
+        "taxonRank": "Family"
+      }
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": "1.1.0",
+  "section": {
+    "id": "featured-species",
+    "eyebrow": "02. Flagship Archive Selection",
+    "heading": "Top 3 Curated Featured Species",
+    "totalIndexedSpecies": 50,
+    "archiveCta": {
+      "label": "Explore All 50 Available Species",
+      "href": "./species/"
+    }
+  },
+  "items": [
+    {
+      "id": "mango",
+      "slug": "mango",
+      "commonName": "Mango",
+      "scientificName": "Mangifera indica",
+      "category": "Fruit Trees",
+      "family": "Anacardiaceae",
+      "shortSummary": "South Asia's iconic evergreen drupe tree prized for aromatic golden-orange fruit, panicle inflorescences, and centuries of cultivar selection.",
+      "ctaLabel": "Explore Monograph",
+      "href": "./plant/?species=mango",
+      "image": {
+        "imageUrl": "https://images.pexels.com/photos/30893226/pexels-photo-30893226.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "imageAlt": "Ripe golden mangoes harvested from Mangifera indica orchards with glossy skin",
+        "photographer": "Pexels Botanical Contributor",
+        "aspectRatio": "4 / 3",
+        "fallbackLabel": "Mango — Mangifera indica"
+      },
+      "metadata": {
+        "plantGroup": "Angiosperm (Eudicot)",
+        "featured": true
+      }
+    },
+    {
+      "id": "rose",
+      "slug": "rose",
+      "commonName": "Rose",
+      "scientificName": "Rosa",
+      "category": "Flowers",
+      "family": "Rosaceae",
+      "shortSummary": "Perennial woody shrubs of the Rosaceae family celebrated worldwide for layered fragrant petals, curved prickles, and rosehip fruits.",
+      "ctaLabel": "Explore Monograph",
+      "href": "./plant/?species=rose",
+      "image": {
+        "imageUrl": "https://images.pexels.com/photos/56866/garden-rose-red-pink-56866.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "imageAlt": "Vibrant crimson-pink Rosa garden rose blossom displaying spiraling imbricate petals",
+        "photographer": "Pexels Botanical Contributor",
+        "aspectRatio": "4 / 3",
+        "fallbackLabel": "Rose — Rosa"
+      },
+      "metadata": {
+        "plantGroup": "Angiosperm (Eudicot)",
+        "featured": true
+      }
+    },
+    {
+      "id": "sunflower",
+      "slug": "sunflower",
+      "commonName": "Sunflower",
+      "scientificName": "Helianthus annuus",
+      "category": "Flowers",
+      "family": "Asteraceae",
+      "shortSummary": "Heliotropic annual composite bearing golden ray florets, Fibonacci-spiralled disc seeds, and high-oleic culinary oil.",
+      "ctaLabel": "Explore Monograph",
+      "href": "./plant/?species=sunflower",
+      "image": {
+        "imageUrl": "https://images.pexels.com/photos/27024149/pexels-photo-27024149.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "imageAlt": "Golden Helianthus annuus sunflower capitulum with radial yellow ray florets and spiral disc",
+        "photographer": "Pexels Botanical Contributor",
+        "aspectRatio": "4 / 3",
+        "fallbackLabel": "Sunflower — Helianthus annuus"
+      },
+      "metadata": {
+        "plantGroup": "Angiosperm (Eudicot)",
+        "featured": true
+      }
+    }
+  ]
+}

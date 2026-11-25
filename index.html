@@ -1,99 +1,132 @@
-<!DOCTYPE html>
-<html lang="en">
+<!doctype html>
+<html lang="en" data-root="./">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Plantipedia — Digital Botanical Encyclopedia & Flora Archive</title>
+    <meta
+      name="description"
+      content="Explore Plantipedia, a scholarly digital botanical archive documenting 50 curated plant species alongside a Worldwide Botanical Server Gateway for live global flora monographs."
+    />
+    <meta
+      name="keywords"
+      content="plantipedia, botanical encyclopedia, 50 plant species, Worldwide Botanical Server, Global Flora Index, plant taxonomy, morphology, South Asian flora, medicinal herbs, horticulture"
+    />
+    <meta name="author" content="Jalees Habib, Rayaan Tasnim" />
+    <meta name="robots" content="index, follow" />
+    <meta name="theme-color" content="#04140c" />
+    <link rel="canonical" href="https://rayaantasnim.github.io/plantipedia/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Plantipedia" />
+    <meta property="og:title" content="Plantipedia — Digital Botanical Encyclopedia & Flora Archive" />
+    <meta
+      property="og:description"
+      content="Explore 50 curated botanical monographs and query live global species via Plantipedia's Worldwide Botanical Server Gateway."
+    />
+    <meta property="og:url" content="https://rayaantasnim.github.io/plantipedia/" />
+    <meta
+      property="og:image"
+      content="https://images.pexels.com/photos/31591013/pexels-photo-31591013/free-photo-of-lush-monstera-leaves-in-colombian-jungle.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    />
+    <meta property="og:image:alt" content="Lush tropical botanical foliage in Plantipedia Flora Archive" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Plantipedia — Digital Botanical Encyclopedia & Flora Archive" />
+    <meta
+      name="twitter:description"
+      content="Explore 50 curated botanical monographs and query live global species via Plantipedia's Worldwide Botanical Server Gateway."
+    />
+    <meta
+      name="twitter:image"
+      content="https://images.pexels.com/photos/31591013/pexels-photo-31591013/free-photo-of-lush-monstera-leaves-in-colombian-jungle.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    />
+    <meta name="twitter:image:alt" content="Plantipedia Flora Archive" />
+    <script type="application/ld+json" id="page-jsonld">
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "EducationalOrganization",
+            "@id": "https://rayaantasnim.github.io/plantipedia/#organization",
+            "name": "Plantipedia",
+            "url": "https://rayaantasnim.github.io/plantipedia/",
+            "description": "Educational digital botanical archive documenting 50 curated species with 8-chapter monographs and live Global Botanical Server exploration.",
+            "founder": [
+              { "@type": "Person", "name": "Jalees Habib" },
+              { "@type": "Person", "name": "Rayaan Tasnim" }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://rayaantasnim.github.io/plantipedia/#website",
+            "name": "Plantipedia",
+            "url": "https://rayaantasnim.github.io/plantipedia/",
+            "publisher": { "@id": "https://rayaantasnim.github.io/plantipedia/#organization" },
+            "potentialAction": {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://rayaantasnim.github.io/plantipedia/species/?q={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          }
+        ]
+      }
+    </script>
 
-    <head>
-        <title>Plantipedia - Explore the World of Plants</title>
+    <link
+      rel="icon"
+      type="image/svg+xml"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%23022c22'/%3E%3Cg transform='translate(32 34)'%3E%3Cpath d='M0 14 C-16 14 -24 2 -22 -8 C-12 -6 -4 2 0 14 Z' fill='%2310b981'/%3E%3Cpath d='M0 14 C16 14 24 2 22 -8 C12 -6 4 2 0 14 Z' fill='%23059669'/%3E%3Cpath d='M0 10 C-14 4 -18 -12 -8 -20 C-2 -14 0 -2 0 10 Z' fill='%23f43f5e'/%3E%3Cpath d='M0 10 C14 4 18 -12 8 -20 C2 -14 0 -2 0 10 Z' fill='%23fb7185'/%3E%3Cpath d='M0 10 C-9 -4 -7 -21 0 -25 C7 -21 9 -4 0 10 Z' fill='%23fda4af'/%3E%3Ccircle cx='0' cy='-5' r='3.5' fill='%23fde68a'/%3E%3Cpath d='M0 -5 L0 -15 M-3 -12 L0 -15 L3 -12' stroke='%23fde68a' stroke-width='1.8' stroke-linecap='round' fill='none'/%3E%3C/g%3E%3C/svg%3E"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600&family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,400;1,600&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="manifest" href="./manifest.json" />
+    <link rel="stylesheet" href="./styles/base/variables.css" />
+    <link rel="stylesheet" href="./styles/base/base.css" />
+    <link rel="stylesheet" href="./styles/base/layout.css" />
+    <link rel="stylesheet" href="./styles/components/sections.css" />
+    <link rel="stylesheet" href="./styles/components/components.css" />
+    <link rel="stylesheet" href="./styles/pages/pages-responsive.css" />
+    <link rel="stylesheet" href="./styles/print/field-sheets.css" />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="./styles/tailwind/tailwind.config.js"></script>
+    <script src="./styles/tailwind/load-tailwind-layers.js" defer></script>
+  </head>
+  <body data-page="home">
+    <div class="scroll-progress-track" aria-hidden="true">
+      <div class="scroll-progress-bar" id="scrollProgressBar"></div>
+    </div>
 
-        <meta name="description"
-            content="Explore Plantipedia, an online plant encyclopedia featuring detailed information about flowers, trees, herbs, plant classification, habitats, cultivation and more.">
-        <meta name="keywords"
-            content="plants, plant encyclopedia, flowers, trees, botanical information, plant classification, plant cultivation">
-        <meta name="author" content="Plantipedia">
-        <meta name="robots" content="index, follow">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="canonical"
-            href="https://shahjahankabir22459-ship-it.github.io/plantipedia/">
-        <meta property="og:title"
-            content="Plantipedia - Explore the World of Plants">
-        <meta property="og:description"
-            content="Discover the fascinating world of plants with Plantipedia.">
+    <header id="global-navbar" class="global-navbar"></header>
 
-        <meta property="og:url"
-            content="https://shahjahankabir22459-ship-it.github.io/plantipedia/">
-        <meta property="og:type" content="website">
-        <link rel="stylesheet" href="style.css">
-        <style>
-        body {
-            background: linear-gradient(rgba(5, 35, 20, 0.78), rgba(0, 116, 58, 0.85)), url("https://images.unsplash.com/photo-1441974231531-c6227db76b6e") center/cover;
-            text-align: center;
-            align-items: center;
-            margin: 0;
-            padding: 0;
+    <main id="app-main" class="page-main" data-page="home">
+      <section id="mount-hero" data-section="hero" data-mount="hero"></section>
+      <section id="mount-home-telemetry" data-section="home-telemetry" data-mount="home-telemetry"></section>
+      <section id="mount-about" data-section="about" data-mount="about"></section>
+      <section id="mount-featured" data-section="featured-species" data-mount="featured-species"></section>
+      <section id="mount-taxonomy" data-section="taxonomy" data-mount="taxonomy"></section>
+      <section id="mount-global-gateway" data-section="global-gateway" data-mount="global-gateway"></section>
+      <section id="mount-trivia" data-section="trivia" data-mount="trivia"></section>
+      <section id="mount-highlights" data-section="highlights" data-mount="highlights"></section>
+    </main>
 
-            font-family: Arial, sans-serif;
-            min-height: 100vh;
-        }
-    </style>
-    </head>
-    <body>
-        <nav>
-            <div class="logo"><span>plant</span>ipedia 🌺</div>
-        </nav>
-        <header class="hero fade-in">
-            <h1><b>Discover The Diversity of the Plants Around You.</b></h1>
-            <p>Explore the incredible diversity of the plant kingdom. Learn
-                about flowers, trees, herbs, habitats,</p>
-            <p>and the science behind the green world around us.</p>
-            <br>
-            <div class="search-container">
+    <footer id="global-footer" class="site-footer"></footer>
 
-                <form id="search-form">
-                    <input type="text" id="search-input"
-                        placeholder="Search plants..." autocomplete="off">
-
-                    <button type="submit">Search</button>
-                </form>
-
-                <div id="suggestions"></div>
-
-                <div id="search-message"></div>
-
-            </div>
-        </header>
-        <script src="script.js"></script>
-        <footer class="site-footer">
-
-            <div class="footer-content">
-
-                <h2>🌺 Plantipedia</h2>
-
-                <p class="footer-description">
-                    Exploring the fascinating world of plants, one species at a
-                    time.
-                </p>
-
-                <div class="footer-divider"></div>
-
-                <div class="disclaimer">
-                    <h3>Disclaimer</h3>
-
-                    <p>
-                        The copyright of this website applies to its original
-                        design, layout, styling and code. The information
-                        presented on this website is provided for educational
-                        and informational purposes only. Plantipedia does not
-                        claim ownership of third-party information or content.
-                        All rights to such materials belong to their respective
-                        authors and owners.
-                    </p>
-                </div>
-
-                <div class="copyright">
-                    &copy; 2026 Plantipedia. All rights reserved.
-                </div>
-
-            </div>
-
-        </footer>
-    </body>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"
+      defer
+    ></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"
+      defer
+    ></script>
+    <script type="module" src="./src/core/compilers/navbar-compiler.js"></script>
+    <script type="module" src="./src/core/compilers/footer-compiler.js"></script>
+    <script type="module" src="./src/core/bootstrap/app.js"></script>
+  </body>
 </html>

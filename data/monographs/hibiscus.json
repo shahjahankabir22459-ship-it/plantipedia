@@ -1,0 +1,194 @@
+{
+  "schemaVersion": "1.1.0",
+  "slug": "hibiscus",
+  "commonName": "Hibiscus",
+  "scientificName": "Hibiscus rosa-sinensis",
+  "localName": "Joba (জবা)",
+  "category": "Flowers",
+  "categories": [
+    "Flowers",
+    "Shrubs & Herbs"
+  ],
+  "taxonomicDomain": "Angiosperms & Ornamentals",
+  "featuredRank": null,
+  "shortSummary": "Tropical evergreen mallow shrub famed for large trumpet blossoms featuring an elongated staminal column and mucilaginous foliage.",
+  "leadOverview": "Hibiscus rosa-sinensis—cherished across South Asia as Joba—is an iconic evergreen flowering shrub of the mallow family (Malvaceae). Recognized instantly by its vivid five-petalled funnels and protruding stamen column tipped with five velvety stigma pads, this sun-loving species links tropical floriculture with hair-care ethnobotany.",
+  "heroImage": {
+    "url": "https://images.pexels.com/photos/33952257/pexels-photo-33952257.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "alt": "Crimson Hibiscus rosa-sinensis blossom with protruding staminal column",
+    "caption": "Classic scarlet Hibiscus rosa-sinensis blossom displaying five spreading petals and fused monadelphous stamen column."
+  },
+  "overview": {
+    "plantGroup": "Angiosperm (Eudicot)",
+    "family": "Malvaceae",
+    "genus": "Hibiscus",
+    "species": "H. rosa-sinensis",
+    "growthForm": "Evergreen woody ornamental shrub (1.5–4.5 m)",
+    "nativeOrigin": "Tropical East Asia & Pacific Islands",
+    "commonUses": "Ornamental gardens, hair conditioning oils, herbal infusions, natural pH indicator"
+  },
+  "sections": [
+    {
+      "number": "01",
+      "title": "Morphological Description",
+      "subtitle": "Monadelphous staminal tube, epicalyx bracts, glossy ovate leaves, and mucilage cells",
+      "summary": "Detailed Malvaceae flower anatomy, serrated glossy leaves, and fibrous bark.",
+      "paragraphs": [
+        "Hibiscus rosa-sinensis grows as a multi-stemmed, rounded evergreen shrub reaching 1.5 to 4.5 metres in height with smooth greyish bark and pliable green young shoots rich in mucilage canals. Leaves are alternate, glossy dark green, broadly ovate with wedge-shaped bases and coarsely serrated margins along the upper two-thirds.",
+        "Solitary axillary flowers measure 10 to 15 centimetres wide, subtended by a whorl of narrow green epicalyx bracteoles beneath the five-lobed calyx. Five overlapping velvety petals surround a dramatic central monadelphous staminal tube formed by dozens of fused filaments, crowned at the apex by five diverging stigma branches."
+      ],
+      "subblocks": [
+        {
+          "heading": "Stems & Mucilage",
+          "text": "Tough, fibrous bark containing mucilaginous parenchyma cells used traditionally for soothing emollient extracts."
+        },
+        {
+          "heading": "Serrated Leaves",
+          "text": "Glossy alternate ovate blades (6–12 cm) with palmate basal venation and paired linear stipules."
+        },
+        {
+          "heading": "Staminal Column",
+          "text": "Diagnostic fused filament cylinder projecting beyond the corolla throat, bearing reniform anthers and five stigma pads."
+        },
+        {
+          "heading": "Fruit & Roots",
+          "text": "Five-valved dry dehiscent capsules (rare in sterile garden cultivars); vigorous spreading fibrous root network."
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/39466670/pexels-photo-39466670.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Close-up of hibiscus staminal tube and golden pollen",
+          "caption": "Detailed view of the elongated monadelphous staminal column tipped by five velvety stigmas."
+        },
+        {
+          "url": "https://images.pexels.com/photos/37126311/pexels-photo-37126311.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Sunlit hibiscus shrub in bloom",
+          "caption": "Glossy serrated foliage supporting sequential day-blooming trumpet flowers."
+        }
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Taxonomy & Botanical Classification",
+      "subtitle": "Malvales order and Malvaceae cultivar diversity",
+      "summary": "Taxonomic placement alongside cotton and okra in the mallow family.",
+      "paragraphs": [
+        "Assigned to order Malvales and family Malvaceae, Hibiscus rosa-sinensis shares stellate hairs, mucilage ducts, and fused staminal columns with cotton (Gossypium), okra (Abelmoschus), and cocoa (Theobroma). Despite its Latin epithet meaning 'Rose of China', genetic evidence indicates ancient Polynesian and South-East Asian domestication.",
+        "Today, more than 5,000 named hybrids exist ranging from traditional single five-petalled scarlet Joba forms to ruffled Hawaiian cultivars spanning coral, saffron, peach, and lavender hues."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/33952257/pexels-photo-33952257.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Traditional five-petalled red hibiscus",
+          "caption": "Classic five-petalled single cultivar prized across South Asian gardens."
+        }
+      ]
+    },
+    {
+      "number": "03",
+      "title": "Natural Habitat & Global Distribution",
+      "subtitle": "Pan-tropical coastal gardens and South Asian homesteads",
+      "summary": "Frost-free tropical cultivation belt and coastal adaptability.",
+      "paragraphs": [
+        "No longer definitively documented in pure wild stands, Hibiscus rosa-sinensis has been propagated vegetatively for centuries across tropical Asia, the Pacific islands, East Africa, and the Americas. It flourishes wherever frost is absent and humidity remains moderate to high.",
+        "Throughout Bangladesh and eastern India, red Joba bushes are ubiquitous features of village gardens, schoolyards, and temple courtyards, blooming steadily from March through November."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/37126311/pexels-photo-37126311.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Tropical garden hibiscus stand",
+          "caption": "Humid tropical courtyard habitat providing abundant warmth and sun."
+        }
+      ]
+    },
+    {
+      "number": "04",
+      "title": "Ecological Role & Pollinator Interactions",
+      "subtitle": "Sunbird, hummingbird, and large butterfly pollination",
+      "summary": "Deep floral nectar wells serving hovering pollinators and diurnal butterflies.",
+      "paragraphs": [
+        "The wide trumpet throat and projecting stamen column of Hibiscus rosa-sinensis position pollen grains squarely against the foreheads or wings of hovering sunbirds in Asia, hummingbirds in the Americas, and large swallowtail butterflies reaching deep for basal nectar.",
+        "Individual blossoms typically open at dawn and senesce by dusk (especially on single varieties), recycling floral pigments quickly while fresh buds expand daily."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/38669618/pexels-photo-38669618.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Butterfly visiting tropical petals",
+          "caption": "Diurnal butterfly attracted to vibrant nectar-rich tropical corollas."
+        }
+      ]
+    },
+    {
+      "number": "05",
+      "title": "Economic, Culinary & Cultural Importance",
+      "subtitle": "National flower of Malaysia, Bengali rituals, and natural litmus pigment",
+      "summary": "Ceremonial garlands, botanical pH classroom demonstrations, and cosmetic oils.",
+      "paragraphs": [
+        "Hibiscus rosa-sinensis serves as the national flower of Malaysia (Bunga Raya) and holds deep ceremonial stature in Bengali and Hindu devotional traditions, where crisp crimson blossoms are offered daily. Crushed petals rubbed on filter paper provide an accessible classroom acid-base pH indicator, turning crimson in acid and deep emerald-green in alkali.",
+        "Across South Asia, macerated leaves and petals are simmered into coconut or sesame hair oils for traditional scalp conditioning, and selected cultivars color herbal beverages alongside culinary Hibiscus sabdariffa."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/39466670/pexels-photo-39466670.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Anthocyanin-rich hibiscus petals",
+          "caption": "Anthocyanin-dense petals yielding natural pH-reactive dyes and cosmetic infusions."
+        }
+      ]
+    },
+    {
+      "number": "06",
+      "title": "Traditional & Scientific Medicinal Properties",
+      "subtitle": "Mucilage polysaccharides, quercetin, and follicular hair-care studies",
+      "summary": "Soothing topical demulcents and antioxidant anthocyanins with sensible precautions.",
+      "paragraphs": [
+        "Ayurvedic literature (where it is termed Japa) records crushed leaf poultices and petal infusions as soothing demulcents for scalp dryness, minor skin irritation, and cooling summer tonics. Phytochemical assays identify delphinidin and cyanidin anthocyanins, mucilage polysaccharides, quercetin, and cyclopropenoid fatty acids.",
+        "Laboratory investigations indicate potential follicular proliferation support from leaf-extract preparations and modest lipid-oxidative protection from petal polyphenols."
+      ],
+      "safetyNote": "Hibiscus rosa-sinensis extracts have historically been linked to uterine-stimulating effects in animal studies; avoid internal medicinal doses during pregnancy, and verify species identity—most commercial 'hibiscus tea' is brewed from Roselle (Hibiscus sabdariffa) calyces rather than ornamental H. rosa-sinensis.",
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/33952257/pexels-photo-33952257.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Fresh Joba hibiscus blossom",
+          "caption": "Polyphenol-rich petals and mucilaginous tissues evaluated in cosmetic and botanical research."
+        }
+      ]
+    },
+    {
+      "number": "07",
+      "title": "Comprehensive Cultivation & Care Guide",
+      "subtitle": "High-potash nutrition, phosphorus caution, hard pruning, and aphid defense",
+      "summary": "Practical feeding, pruning, and propagation for continuous oversized blooms.",
+      "paragraphs": [
+        "Plant Hibiscus rosa-sinensis in full unobstructed sun (at least 6 hours daily) in rich, porous, slightly acidic loam (pH 6.0–6.8). Tropical hibiscus are heavy feeders favoring balanced potassium and nitrogen with strictly low phosphorus, because excess phosphorus gradually stunts root zinc and iron uptake.",
+        "Prune lightly in early spring to multiply flowering shoot tips—since blossoms always emerge on new current-season wood—watch young buds for sap-sucking mealybugs and aphids, and propagate effortlessly via semi-ripe 15-centimetre stem cuttings."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/37126311/pexels-photo-37126311.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Vigorous flowering hibiscus bush",
+          "caption": "Regular spring tipping stimulates dense lateral branching and profuse terminal blooms."
+        }
+      ]
+    }
+  ],
+  "schemaOrg": {
+    "@type": "Taxon",
+    "name": "Hibiscus rosa-sinensis",
+    "alternateName": [
+      "Hibiscus",
+      "Joba (জবা)"
+    ],
+    "taxonRank": "Species",
+    "parentTaxon": {
+      "@type": "Taxon",
+      "name": "Hibiscus",
+      "taxonRank": "Genus",
+      "parentTaxon": {
+        "@type": "Taxon",
+        "name": "Malvaceae",
+        "taxonRank": "Family"
+      }
+    }
+  }
+}

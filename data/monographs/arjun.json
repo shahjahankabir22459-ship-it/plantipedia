@@ -1,0 +1,204 @@
+{
+  "schemaVersion": "1.1.0",
+  "slug": "arjun",
+  "commonName": "Arjun Tree",
+  "scientificName": "Terminalia arjuna",
+  "localName": "Arjun (অর্জুন)",
+  "category": "Trees & Palms",
+  "categories": [
+    "Trees & Palms",
+    "Medicinal"
+  ],
+  "taxonomicDomain": "Ethnobotanical & Ayurvedic Herbs",
+  "featuredRank": null,
+  "shortSummary": "Riparian shade tree celebrated across South Asia for smooth pale flaking bark, five-winged woody fruits, and arjunolic-acid cardioprotective pharmacology.",
+  "leadOverview": "Terminalia arjuna—known across Bengal and India as Arjun—is an imposing evergreen-to-semi-deciduous riverside tree prized equally for ecological embankment stabilization and centuries-old Ayurvedic cardiology. Recognized immediately by its buttressed pale-grey trunk and flaky pinkish-buff bark, its inner stem bark ranks among the most researched botanical cardioprotectants in South Asian medicine.",
+  "heroImage": {
+    "url": "https://images.pexels.com/photos/216668/pexels-photo-216668.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "alt": "Buttressed pale trunk bark of mature Terminalia arjuna",
+    "caption": "Smooth pale-grey exfoliating trunk architecture characteristic of riverside Terminalia arjuna trees."
+  },
+  "overview": {
+    "plantGroup": "Angiosperm (Eudicot)",
+    "family": "Combretaceae",
+    "genus": "Terminalia",
+    "species": "T. arjuna",
+    "growthForm": "Large buttressed riparian tree (20–30 m)",
+    "nativeOrigin": "Indian Subcontinent (South Asia)",
+    "commonUses": "Cardiotonic bark medicine, roadside & riverbank shade, tussar silkworm host, timber"
+  },
+  "cultivationTelemetry": {
+    "phMin": 6.0,
+    "phMax": 7.8,
+    "phOptimalLabel": "pH 6.0 – 7.8",
+    "sunlightLevel": 3,
+    "sunlightLabel": "Full Tropical Sun",
+    "irrigationLevel": 2,
+    "irrigationLabel": "Moist Alluvial / Riparian",
+    "soilDrainageLabel": "Deep Moist Riverine Loam"
+  },
+  "sections": [
+    {
+      "number": "01",
+      "title": "Morphological Description",
+      "subtitle": "Flaking pinkish-grey bark, drooping crown, paired petiole glands, and five-winged drupes",
+      "summary": "Anatomical traits of smooth peeling trunks, oblong leaves with basal glands, and fibrous winged fruits.",
+      "paragraphs": [
+        "Terminalia arjuna develops a massive fluted and buttressed trunk up to 20 to 30 metres tall topped by a broad, spreading dome of gracefully drooping lateral limbs. Its unmistakable smooth pale-grey bark peels off naturally in thin, papery sheets to reveal creamy-pink inner cortex underneath.",
+        "Leaves are sub-opposite, leathery oblong-elliptic (10–25 cm long) with rounded bases bearing two small raised nectar glands near the petiole summit. Tiny pale-yellow apetalous flowers appear in slender axillary spikes during Grishmo, maturing over Hemonto–Sheet into hard woody ovoid fruits (3–5 cm) framed by five stiff, striated leathery wings."
+      ],
+      "subblocks": [
+        {
+          "heading": "Smooth Exfoliating Bark",
+          "text": "Buttressed silvery-grey outer bark flaking in flat plates over pinkish-tan tannin-dense inner cortex."
+        },
+        {
+          "heading": "Sub-Opposite Glandular Leaves",
+          "text": "Oblong-lanceolate dark green leaves displaying two distinctive extrafloral nectar glands at the blade base."
+        },
+        {
+          "heading": "Spicate Apetalous Blooms",
+          "text": "Creamy-yellow petal-less flowers with exserted golden stamens crowded on pendulous spring-summer spikes."
+        },
+        {
+          "heading": "Five-Winged Woody Drupe",
+          "text": "Fibrous brown stone fruit flanged by five hard curved wings adapted for floodwater flotation dispersal."
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/216668/pexels-photo-216668.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Smooth mature tree trunk bark",
+          "caption": "Mature trunk structure storing bioactive triterpenoid saponins and tannins in outer cortex."
+        },
+        {
+          "url": "https://images.pexels.com/photos/36537544/pexels-photo-36537544.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Lush green woodland leaves",
+          "caption": "Drooping evergreen foliage providing dense riparian canopy shade."
+        }
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Taxonomy & Botanical Classification",
+      "subtitle": "Myrtales Combretaceae kinship with Haritaki and Bahera",
+      "summary": "Taxonomic links to Triphala allies Terminalia chebula and Terminalia bellirica.",
+      "paragraphs": [
+        "Assigned to order Myrtales and family Combretaceae, Terminalia arjuna belongs to the same genus as Haritaki (T. chebula) and Bahera (T. bellirica)—two pillars of classical South Asian Triphala medicine. William Roxburgh and Robert Wight & George Arnott formally established its modern botanical placement.",
+        "The genus name Terminalia refers to the common clustering of leaves toward branch tips ('terminalis'), while the five-winged fruit geometry clearly distinguishes Arjun from wingless almond-like T. catappa (Katbadam) and ribbed T. chebula."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/12067501/pexels-photo-12067501.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Tall Combretaceae forest canopy",
+          "caption": "Broadleaf canopy form shared with South Asian Terminalia timber allies."
+        }
+      ]
+    },
+    {
+      "number": "03",
+      "title": "Natural Habitat & Global Distribution",
+      "subtitle": "Alluvial riverbanks, highway avenues, and Natore medicinal belts",
+      "summary": "Native distribution along seasonal streams across Bangladesh, India, and Sri Lanka.",
+      "paragraphs": [
+        "In wild ecosystems, Terminalia arjuna hugs perennial riverbanks, moist nalas, and marsh borders across the Indian subcontinent from the Himalayan foothills south to Sri Lanka, flourishing where roots tap subsurface moisture even through dry winter months.",
+        "Across Bangladesh, Arjun is widely planted along national highways, rural embankments, and commercial medicinal farms—most notably in Natore's Kholabaria herbal village—due to its windfirm buttressed roots and high tolerance of periodic monsoon inundation."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/31591013/pexels-photo-31591013/free-photo-of-lush-monstera-leaves-in-colombian-jungle.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Moist tropical riparian greenery",
+          "caption": "Humid alluvial stream margins ideal for Terminalia arjuna establishment."
+        }
+      ]
+    },
+    {
+      "number": "04",
+      "title": "Ecological Role & Pollinator Interactions",
+      "subtitle": "Hydrochorous seed wings, silkworm host, and bank erosion control",
+      "summary": "Water-floating winged fruits, tussar silkworm forage, and ant-guarded extrafloral glands.",
+      "paragraphs": [
+        "Mature five-winged drupes drop during late winter and spring winds, tumbling onto river margins where buoyant corky wings keep seeds afloat along monsoon currents (hydrochory) until deposited on fertile silt bars. Extrafloral nectary glands on leaf bases recruit protective ants that deter defoliating caterpillars.",
+        "In agroforestry belts across eastern India and northern Bengal, Arjun leaves additionally serve as a premier food plant for Antheraea mylitta, the wild tussar silk moth."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/36441123/pexels-photo-36441123.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Pollinator bees visiting small blooms",
+          "caption": "Honeybees and syrphid flies foraging on nectariferous Terminalia arjuna spikes."
+        }
+      ]
+    },
+    {
+      "number": "05",
+      "title": "Economic, Culinary & Cultural Importance",
+      "subtitle": "Cardiovascular herbal trade, sustainable bark stripping, and tanning extracts",
+      "summary": "Pharmaceutical bark harvesting, leather tanning tannins, and dense boat-building timber.",
+      "paragraphs": [
+        "Arjun bark constitutes a high-value medicinal commodity across South Asia, dried and powdered for 'Arjunarishta' fermented tonics, herbal tea infusions, and standardized capsules. Because sustainable foresters harvest only narrow vertical bark strips—allowing smooth cambium regeneration without girdling—healthy trees yield bark repeatedly over decades.",
+        "The dense, dark-brown heartwood crafts sturdy bullock carts, agricultural tools, and mine props, while fallen tannin-rich bark trimmings serve natural vegetable leather tanning."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/216668/pexels-photo-216668.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Harvestable pale Arjun bark",
+          "caption": "Sustainable bark panels harvested selectively without interrupting vascular cambium flow."
+        }
+      ]
+    },
+    {
+      "number": "06",
+      "title": "Traditional & Scientific Medicinal Properties",
+      "subtitle": "Arjunolic acid, arjunetin, and coronary endothelial pharmacology",
+      "summary": "Clinical and phytochemical investigation of cardiotonic triterpenoids and flavonoids.",
+      "paragraphs": [
+        "Since Vagbhata's classical Ayurvedic treatises over 1,400 years ago, 'Arjuna Chhaal' (bark boiled in milk as Kshirapaka) has served as South Asia's signature heart tonic ('Hridya'). Modern chemical profiling isolates unique triterpenoid saponins—arjunic acid, arjunolic acid, arjungenin, and arjunetin—alongside luteolin flavonoids, oligomeric proanthocyanidins, and coenzyme Q10.",
+        "Controlled clinical trials in India have examined standardized Terminalia arjuna bark extract as an adjunct therapy in stable angina and mild heart failure, noting supportive antioxidant, nitric-oxide endothelial, and left-ventricular contractile benefits."
+      ],
+      "safetyNote": "Never substitute Arjun bark preparations for prescribed cardiovascular drugs (beta-blockers, ACE inhibitors, anticoagulants, or nitrates); consult a cardiologist before concurrent use due to potential additive blood-pressure or clotting effects.",
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/28511113/pexels-photo-28511113.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Medicinal botanical bark and herbal preparation",
+          "caption": "Dried inner bark rich in arjunolic acid triterpenoids and cardioprotective polyphenols."
+        }
+      ]
+    },
+    {
+      "number": "07",
+      "title": "Comprehensive Cultivation & Care Guide",
+      "subtitle": "48-hour water soaking, alluvial planting pits, and wide crown spacing",
+      "summary": "Germinating hard-winged drupes and establishing durable embankment shade avenues.",
+      "paragraphs": [
+        "To germinate hard woody five-winged drupes, soak whole dry fruits in cool water for 48 to 72 hours (or gently clip two wings near the radicle tip) before sowing horizontally in raised sandy nursery beds during late spring. Germination typically takes 15 to 25 days under warm moisture.",
+        "Transplant saplings into full sunlight on deep moist loam (pH 6.0–7.8) spaced 8 to 10 metres apart along ponds, avenues, or farm boundaries. Water regularly during the first two dry winters until the deep moisture-seeking root system anchors independently."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/12067501/pexels-photo-12067501.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Thriving riverbank avenue tree",
+          "caption": "Full-sun riparian plantings rapidly establish windfirm shade crowns."
+        }
+      ]
+    }
+  ],
+  "schemaOrg": {
+    "@type": "Taxon",
+    "name": "Terminalia arjuna",
+    "alternateName": [
+      "Arjun Tree",
+      "Arjun (অর্জুন)"
+    ],
+    "taxonRank": "Species",
+    "parentTaxon": {
+      "@type": "Taxon",
+      "name": "Terminalia",
+      "taxonRank": "Genus",
+      "parentTaxon": {
+        "@type": "Taxon",
+        "name": "Combretaceae",
+        "taxonRank": "Family"
+      }
+    }
+  }
+}

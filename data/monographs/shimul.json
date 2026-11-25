@@ -1,0 +1,205 @@
+{
+  "schemaVersion": "1.1.0",
+  "slug": "shimul",
+  "commonName": "Silk Cotton Tree (Shimul)",
+  "scientificName": "Bombax ceiba",
+  "localName": "Shimul (শিমুল)",
+  "category": "Trees & Palms",
+  "categories": [
+    "Trees & Palms",
+    "Flowers",
+    "Medicinal"
+  ],
+  "taxonomicDomain": "Tropical Canopy & Ornamentals",
+  "featuredRank": null,
+  "shortSummary": "Towering winter-deciduous giant bearing conical-thorned trunks, blazing scarlet cup flowers on bare branches, and pillowy kapok seed floss.",
+  "leadOverview": "The Red Silk Cotton Tree (Bombax ceiba)—known universally across Bengal as Shimul—is an unforgettable deciduous titan of South and Southeast Asia. Dropping all its leaves in winter, its stout thorny branches erupt during Boshonto into chalice-sized crimson flowers brimming with nectar for mynas and drongos before releasing clouds of buoyant white kapok fibre.",
+  "heroImage": {
+    "url": "https://images.pexels.com/photos/36706294/pexels-photo-36706294.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "alt": "Blooming red Bombax ceiba Shimul tree covered in crimson flowers against spring sky",
+    "caption": "Leafless winter-spring limbs of Bombax ceiba illuminated by large waxy scarlet blossoms."
+  },
+  "overview": {
+    "plantGroup": "Angiosperm (Eudicot)",
+    "family": "Malvaceae",
+    "genus": "Bombax",
+    "species": "B. ceiba",
+    "growthForm": "Tall deciduous buttressed canopy tree (20–40 m)",
+    "nativeOrigin": "South & Southeast Asia (Indian Subcontinent to New Guinea)",
+    "commonUses": "Natural kapok pillow floss, matchwood & veneer timber, urban avenue tree, folk medicine"
+  },
+  "cultivationTelemetry": {
+    "phMin": 5.5,
+    "phMax": 7.5,
+    "phOptimalLabel": "pH 5.5 – 7.5",
+    "sunlightLevel": 3,
+    "sunlightLabel": "Full Unobstructed Sun",
+    "irrigationLevel": 2,
+    "irrigationLabel": "Moderate / Monsoon-Adapted",
+    "soilDrainageLabel": "Deep Sandy or Alluvial Loam"
+  },
+  "sections": [
+    {
+      "number": "01",
+      "title": "Morphological Description",
+      "subtitle": "Spiny conical trunks, digitate leaves, chalice-like red blooms, and kapok pods",
+      "summary": "Detailed breakdown of thorny bark, palmate 5–7 leaflet foliage, nectar chalices, and woody five-valved capsules.",
+      "paragraphs": [
+        "Bombax ceiba shoots upward cleanly to 20–40 metres (occasionally higher in undisturbed forests), supported at the base by wide plank buttresses. Juvenile trunks and lower limbs are studded with stout, woody conical prickles that deter climbing herbivores, gradually smoothing on ancient boles.",
+        "Leaves are palmately compound (digitate) with 5 to 7 elliptic-lanceolate leaflets radiating from a long petiole like splayed fingers. All foliage abscises cleanly during Sheet (Winter), exposing horizontal tiered boughs where fleshy, cup-shaped 10-to-12-centimetre scarlet or orange-red flowers bloom directly from leafless wood—each housing five thick recurved petals and dozens of bundled stamens around a five-lobed stigma."
+      ],
+      "subblocks": [
+        {
+          "heading": "Buttressed Thorny Trunk",
+          "text": "Pale ash-grey bark armed with conical woody spines on young trees and buttress flanges anchoring heavy vertical timber."
+        },
+        {
+          "heading": "Palmate Compound Leaves",
+          "text": "Deciduous long-petioled leaves radiating 5–7 acuminate leaflets; shed cleanly prior to late-winter flowering."
+        },
+        {
+          "heading": "Nectar Chalice Flowers",
+          "text": "Thick waxy scarlet petals cupping copious watery nectar and 60–80 crimson stamens arranged in phalanges."
+        },
+        {
+          "heading": "Kapok Silk Capsules",
+          "text": "Woody 15 cm five-angled capsules bursting in summer to release silky buoyant cellulose fibres cradling black seeds."
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/36706294/pexels-photo-36706294.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Red silk cotton blossoms along leafless spring branches",
+          "caption": "Mass winter-spring flowering of Bombax ceiba prior to fresh palmate leaf emergence."
+        },
+        {
+          "url": "https://images.pexels.com/photos/37289014/pexels-photo-37289014.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Close-up of vibrant crimson tropical blossom petals",
+          "caption": "Waxy scarlet petal architecture showcasing vibrant pigments that lure avian pollinators."
+        }
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Taxonomy & Botanical Classification",
+      "subtitle": "Malvaceae (Bombacoideae) kinship with hibiscus and baobabs",
+      "summary": "Phylogenetic placement merging classical Bombacaceae into expanded family Malvaceae.",
+      "paragraphs": [
+        "Formerly the namesake genus of family Bombacaceae, modern Angiosperm Phylogeny Group (APG) classifications unite Silk Cotton trees, baobabs (Adansonia), and durian within expanded family Malvaceae (subfamily Bombacoideae), order Malvales.",
+        "Key shared traits include palmate venation or digitate leaves, mucilage canals in bark and flowers, and bundled stamens—connecting Shimul evolutionarily to garden Hibiscus (জবা) while retaining massive timber stature."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/37289014/pexels-photo-37289014.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Scarlet Malvaceae blossom close-up",
+          "caption": "Malvaceae floral affinities linking Bombax ceiba to baobabs and ornamental hibiscus."
+        }
+      ]
+    },
+    {
+      "number": "03",
+      "title": "Natural Habitat & Global Distribution",
+      "subtitle": "Himalayan foothills, Gangetic river plains, and Sunamganj Shimul Bagan",
+      "summary": "Thorough distribution across riverine alluvium, open savannas, and Bangladesh's iconic Shimul orchards.",
+      "paragraphs": [
+        "Bombax ceiba spans from Pakistan, India, Nepal, and Bangladesh eastward across Myanmar, southern China, Taiwan, Indonesia, and northern Australia, flourishing below 1,500 metres elevation in open deciduous forests, dry river levees, and agricultural field edges.",
+        "In northeastern Bangladesh along the Jadukata River in Sunamganj (Tahirpur's famous Shimul Bagan), thousands of planted Silk Cotton trees ignite in synchronous crimson glory every February–March, attracting botanists and photographers nationwide."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/36706294/pexels-photo-36706294.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Bombax ceiba growing in open sunny parkland",
+          "caption": "Open alluvial plains and sunny river terraces foster full symmetrical flowering crowns."
+        }
+      ]
+    },
+    {
+      "number": "04",
+      "title": "Ecological Role & Pollinator Interactions",
+      "subtitle": "Ornithophilous bird pollination and wind-borne seed parachutes",
+      "summary": "Vital dry-season avian nectar banquet and wind-assisted floss dispersal.",
+      "paragraphs": [
+        "Bombax ceiba blooms at the height of the dry late winter when few alternative nectar sources exist, transforming each tree into a bustling avian cafeteria. Mynas, crows, starlings, drongos, lorikeets, and sunbirds drink from the stiff upward-facing floral cups, dusting their foreheads with pollen as they move across canopies.",
+        "Months later, as pre-monsoon winds rise, splitting woody pods launch thousands of water-repellent white silk tufts carrying light round seeds kilometers away across open floodplains."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/36441123/pexels-photo-36441123.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Pollinators visiting open spring blossoms",
+          "caption": "Daytime bees supplement primary avian pollination across nectar-filled Shimul flowers."
+        }
+      ]
+    },
+    {
+      "number": "05",
+      "title": "Economic, Culinary & Cultural Importance",
+      "subtitle": "Shimul Tula bedding floss, matchboxes, and edible flower buds",
+      "summary": "Traditional buoyant kapok upholstery, softwood industry, and Language Movement symbolism.",
+      "paragraphs": [
+        "Rural households and heritage craftsmen harvest mature Shimul capsules in Chaitra–Boishakh for 'Shimul Tula' (Indian kapok)—lightweight, hypoallergenic, buoyant, moisture-resistant silk fibre prized for luxury pillows, mattresses, quilts, and traditional life jackets.",
+        "Soft pale timber feeds matchstick, packing-case, and dugout-canoe trades, while fleshy unopened buds ('marathi moggu' / Shimul kuri) are cooked as winter vegetables in parts of South Asia. In Bangladesh, crimson Shimul blooms rising in Phalgun also echo Ekushey February's Language Movement remembrance."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/36706294/pexels-photo-36706294.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Crimson Bombax ceiba blossoms on high branches",
+          "caption": "Phalgun scarlet blooms treasured across Bangladesh for kapok fibre and spring heritage."
+        }
+      ]
+    },
+    {
+      "number": "06",
+      "title": "Traditional & Scientific Medicinal Properties",
+      "subtitle": "Mocharas gum resin, root-tuber tonics, and mangiferin-shamimin bioactives",
+      "summary": "Ayurvedic 'Shalmali' applications for bark, young taproots, and astringent gum.",
+      "paragraphs": [
+        "Known in Ayurveda as 'Shalmali', almost every part of Bombax ceiba carries documented ethnobotanical use: dried bark exudate gum ('Mocharas') provides cooling astringency for dysentery; young fleshy taproots of seedlings ('Semal Musli') serve as nutritive demulcent tonics; and crushed floral petal pastes soothe minor skin inflammation.",
+        "Modern phytochemical profiling highlights shamimin (a C-flavonol glucoside), mangiferin, lupeol, and beta-sitosterol with antioxidant, hepatoprotective, and mild hypotensive properties in experimental studies."
+      ],
+      "safetyNote": "Airborne kapok seed-floss dust during pod processing can irritate sensitive nasal airways; wear a dust mask when ginning cotton pods, and avoid unstandardized root or gum extracts during pregnancy.",
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/37289014/pexels-photo-37289014.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Red petal bioactives of Malvaceae flower",
+          "caption": "Pigmented petals and calyx tissues investigated for shamimin and flavonoid antioxidants."
+        }
+      ]
+    },
+    {
+      "number": "07",
+      "title": "Comprehensive Cultivation & Care Guide",
+      "subtitle": "Fresh seed sowing, deep root establishment, and full-sun spacing",
+      "summary": "Establishing healthy long-lived canopy specimens in pH 5.5–7.5 well-drained loam.",
+      "paragraphs": [
+        "Sow fresh seeds collected immediately after summer pod splitting into deep polybags filled with sandy loam—Bombax ceiba seeds lose viability rapidly after several months, whereas fresh seeds germinate readily within 10 to 15 days under warm sunlight.",
+        "Transplant at the onset of Borsha into deep, well-drained sandy or alluvial loam (pH 5.5–7.5) in full sun, allowing generous 12-to-15-metre spacing for future horizontal tiers. Established trees are remarkably drought-hardy and demand minimal maintenance beyond protection from grazing animals during year one."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/36706294/pexels-photo-36706294.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Mature Bombax ceiba tree standing tall in sunlight",
+          "caption": "Wide sunny spacing yields majestic buttressed boles and heavy spring blossom displays."
+        }
+      ]
+    }
+  ],
+  "schemaOrg": {
+    "@type": "Taxon",
+    "name": "Bombax ceiba",
+    "alternateName": [
+      "Silk Cotton Tree",
+      "Shimul (শিমুল)"
+    ],
+    "taxonRank": "Species",
+    "parentTaxon": {
+      "@type": "Taxon",
+      "name": "Bombax",
+      "taxonRank": "Genus",
+      "parentTaxon": {
+        "@type": "Taxon",
+        "name": "Malvaceae",
+        "taxonRank": "Family"
+      }
+    }
+  }
+}

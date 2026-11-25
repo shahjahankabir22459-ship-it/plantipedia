@@ -1,0 +1,204 @@
+{
+  "schemaVersion": "1.1.0",
+  "slug": "turmeric",
+  "commonName": "Turmeric",
+  "scientificName": "Curcuma longa",
+  "localName": "Holud (হলুদ)",
+  "category": "Medicinal",
+  "categories": [
+    "Medicinal",
+    "Shrubs & Herbs"
+  ],
+  "taxonomicDomain": "Ethnobotanical & Ayurvedic Herbs",
+  "featuredRank": null,
+  "shortSummary": "Aromatic monocot ginger-family perennial prized worldwide for saffron-gold curcuminoid rhizomes, pleated paddle leaves, and anti-inflammatory phytochemistry.",
+  "leadOverview": "Turmeric (Curcuma longa)—known as Holud across Bengal—is a stemless herbaceous perennial belonging to the ginger family Zingiberaceae. Celebrated across five millennia of South Asian cuisine, natural dyeing, wedding ceremonies ('Gaye Holud'), and Ayurvedic medicine, its bright orange underground rhizomes harbor potent polyphenolic curcuminoids.",
+  "heroImage": {
+    "url": "https://images.pexels.com/photos/209757/pexels-photo-209757.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "alt": "Vibrant golden Curcuma longa turmeric roots and freshly ground powder",
+    "caption": "Saffron-gold rhizomes and milled powder of Curcuma longa rich in bioactive curcumin."
+  },
+  "overview": {
+    "plantGroup": "Angiosperm (Monocot)",
+    "family": "Zingiberaceae",
+    "genus": "Curcuma",
+    "species": "C. longa",
+    "growthForm": "Rhizomatous herbaceous perennial (0.8–1.2 m)",
+    "nativeOrigin": "South Asia (Domesticated Indian Cultigen)",
+    "commonUses": "Culinary spice, curcumin dye, Gaye Holud ceremony, traditional topical & systemic medicine"
+  },
+  "cultivationTelemetry": {
+    "phMin": 5.5,
+    "phMax": 7.0,
+    "phOptimalLabel": "pH 5.5 – 7.0",
+    "sunlightLevel": 2,
+    "sunlightLabel": "Full Sun / Partial Shade",
+    "irrigationLevel": 2,
+    "irrigationLabel": "Moderate / Monsoon-Humid",
+    "soilDrainageLabel": "Friable Raised Sandy Loam"
+  },
+  "sections": [
+    {
+      "number": "01",
+      "title": "Morphological Description",
+      "subtitle": "Fleshy orange-cored rhizomes, clasping pseudostems, and bracted floral spikes",
+      "summary": "Detailed anatomy of mother bulbs, lateral fingers, pleated oblong leaves, and shingled cone inflorescences.",
+      "paragraphs": [
+        "Curcuma longa has no true aerial woody stem; instead, overlapping tubular leaf sheaths tightly wrap into a green upright pseudostem rising 80 to 120 centimetres tall. From this crown arch 6 to 10 broad, oblong-lanceolate pleated blades up to 50 centimetres long that release a crisp mango-and-ginger aroma when crushed.",
+        "Underground grows an intricate, aromatic rhizome network consisting of a central ovoid 'mother rhizome' surrounded by branched, cylindrical 'finger rhizomes' coated in thin brownish skin over intensely vivid saffron-orange flesh. In late monsoon, a dense cylindrical cone spike rises amidst pale-green shingled bracts tipped with white or pink, housing delicate pale-yellow asymmetrical blossoms."
+      ],
+      "subblocks": [
+        {
+          "heading": "Rhizome Network",
+          "text": "Fleshy horizontal subterranean stems divided into central mother corms and lateral fingers saturated with curcumin oil cells."
+        },
+        {
+          "heading": "Pseudostem & Sheaths",
+          "text": "Concentric clasping leaf bases forming an erect herbaceous stalk up to 1.2 m high that dies back cleanly each winter."
+        },
+        {
+          "heading": "Pleated Aromatic Leaves",
+          "text": "Broad bright-green elliptic blades with parallel pinnate lateral veins and subtle translucent oil-gland margins."
+        },
+        {
+          "heading": "Bracted Cone Spike",
+          "text": "Overlapping pocket-like green floral bracts bearing upper sterile creamy-pink coma bracts and small yellow three-lobed flowers."
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/209757/pexels-photo-209757.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Golden turmeric rhizomes and bright milled spice",
+          "caption": "Aromatic subterranean rhizomes rich in golden curcuminoids and turmerone essential oils."
+        },
+        {
+          "url": "https://images.pexels.com/photos/31591013/pexels-photo-31591013/free-photo-of-lush-monstera-leaves-in-colombian-jungle.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Humid tropical forest shade environment",
+          "caption": "Filtered warm tropical understory conditions ideal for lush Zingiberaceae leaf expansion."
+        }
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Taxonomy & Botanical Classification",
+      "subtitle": "Zingiberaceae cultigen origin and triploid sterility",
+      "summary": "Placement in order Zingiberales alongside ginger and cardamom; clonal domestication.",
+      "paragraphs": [
+        "Classified within monocot order Zingiberales and family Zingiberaceae, Curcuma longa shares aromatic rhizomes and single functional stamens with true ginger (Zingiber officinale) and cardamom (Elettaria cardamomum).",
+        "Notably, Curcuma longa is an ancient sterile triploid or polyploid cultigen unknown in the truly wild state—likely arising millennia ago in India through human selection and hybridization involving wild relatives such as Curcuma aromatica, propagated strictly by vegetative rhizome division ever since."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/209757/pexels-photo-209757.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Curcuma longa rhizome and powder specimen",
+          "caption": "Clonally selected rhizome cultivars preserved through centuries of South Asian horticulture."
+        }
+      ]
+    },
+    {
+      "number": "03",
+      "title": "Natural Habitat & Global Distribution",
+      "subtitle": "Chattogram Hill Tracts, Indian Erode belts, and intercropped agroforestry",
+      "summary": "Thorough tropical cultivation under orchard shade and humid monsoon hill slopes.",
+      "paragraphs": [
+        "Demanding warm temperatures (20–35°C) and abundant monsoon rainfall (1,500+ mm annually), turmeric thrives as a shade-tolerant understory crop across India, Bangladesh, Myanmar, Sri Lanka, and Southeast Asia—producing nearly 80% of global supply in India alone.",
+        "Across Bangladesh, rich highland crops flourish on well-drained terraces of Chattogram Hill Tracts (Bandarban, Khagrachari), Bogura, Pabna, and Rangpur, frequently intercropped seamlessly beneath young mango or jackfruit orchards."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/31591013/pexels-photo-31591013/free-photo-of-lush-monstera-leaves-in-colombian-jungle.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Moist dappled shade tropical grove",
+          "caption": "Dappled orchard and hill-slope humidity mimicking ancestral Zingiberaceae ecology."
+        }
+      ]
+    },
+    {
+      "number": "04",
+      "title": "Ecological Role & Pollinator Interactions",
+      "subtitle": "Clonal vegetative persistence, bee foraging, and soil microbial partners",
+      "summary": "Insect visitation to labellum blooms and natural antimicrobial rhizosphere chemistry.",
+      "paragraphs": [
+        "Because domesticated Curcuma longa rarely sets viable seed, its ecology centers on vegetative rhizome dormancy through cool dry winters followed by rapid clonal sprouting upon pre-monsoon rains. When inflorescences do emerge, native carpenter bees and solitary bees forage for nectar tucked within lower green bracts.",
+        "Subterranean rhizomes secrete aromatic sesquiterpenes (ar-turmerone, zingiberene) that actively suppress fungal soil pathogens and chewing soil larvae around developing clumps."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/36441123/pexels-photo-36441123.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Bee visiting nectar flower",
+          "caption": "Pollinators drawn to tropical floral nectar rewards during humid growing seasons."
+        }
+      ]
+    },
+    {
+      "number": "05",
+      "title": "Economic, Culinary & Cultural Importance",
+      "subtitle": "Gaye Holud wedding blessing, curry backbone, and natural saffron dye",
+      "summary": "Indispensable Bengali culinary spice, ceremonial beauty paste, and golden textile dye.",
+      "paragraphs": [
+        "In Bengali life, Holud is simultaneously everyday nourishment and sacred celebration: raw rhizome paste or cured ground powder anchors fish curries, dal, and pickles while providing a natural golden hue and delicate earthy warmth. Prior to weddings across Bangladesh and West Bengal, the joyous 'Gaye Holud' ceremony anoints bride and groom with fragrant turmeric paste for radiance and auspicious blessing.",
+        "Beyond the kitchen, curcumin serves globally as an approved natural golden food colorant (E100), traditional silk-and-cotton dye, and pH-indicator paper that flashes crimson-red in alkaline solutions."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/209757/pexels-photo-209757.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Ground golden turmeric spice and roots",
+          "caption": "Boiled, sun-dried, and polished rhizomes milled into vibrant culinary and ceremonial Holud."
+        }
+      ]
+    },
+    {
+      "number": "06",
+      "title": "Traditional & Scientific Medicinal Properties",
+      "subtitle": "Curcuminoids, piperine synergy, and NF-kB anti-inflammatory modulation",
+      "summary": "Evidence-backed anti-inflammatory, joint, and antioxidant bioactivity alongside anticoagulant warnings.",
+      "paragraphs": [
+        "Ayurvedic, Siddha, and Bengali folk traditions apply fresh crushed 'Kacha Holud' paste to minor cuts, sprains, and acne, while simmering turmeric in warm milk ('Golden Milk' / Holud Dudh) for seasonal respiratory soreness. Modern biomedical research isolates three principal curcuminoids—curcumin, demethoxycurcumin, and bisdemethoxycurcumin—alongside volatile turmerones.",
+        "Clinical trials demonstrate that standardized curcuminoids modulate inflammatory pathways (NF-κB, COX-2) to ease mild osteoarthritis discomfort, especially when paired with black pepper's piperine or dietary lipids that boost otherwise low intestinal absorption."
+      ],
+      "safetyNote": "Concentrated high-dose curcumin supplements can increase bleeding risk alongside blood-thinning medications (warfarin, aspirin), trigger gallbladder contractions in people with gallstones, and should be avoided in therapeutic doses during pregnancy.",
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/209757/pexels-photo-209757.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Bioactive golden curcumin turmeric",
+          "caption": "Curcuminoid-dense rhizomes supporting joint mobility and oxidative defense research."
+        }
+      ]
+    },
+    {
+      "number": "07",
+      "title": "Comprehensive Cultivation & Care Guide",
+      "subtitle": "Pre-monsoon raised-bed rhizome planting, mulching, and winter cure",
+      "summary": "Growing lush 8–9 month rhizome harvests in pH 5.5–7.0 friable raised loam.",
+      "paragraphs": [
+        "Plant plump 'seed' rhizome segments bearing 2 to 3 healthy sprouting eyes 5 to 7 centimetres deep into loose, humus-rich raised beds (pH 5.5–7.0) during late spring (Boishakh), spacing plants 25 centimetres apart. Thick organic straw or dry-leaf mulching conserves moisture and keeps sprouting tubers cool before monsoon rains arrive.",
+        "Turmeric appreciates bright morning sun or 25% dappled tree shade; never allow heavy clay waterlogging, which rapidly rots rhizomes. After 8 to 9 months, when leaves turn golden-yellow and wither during Sheet (December–January), dig clumps carefully, wash roots, and boil briefly before sun-drying for 10 days to lock in vibrant colour and aroma."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/209757/pexels-photo-209757.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Harvested golden turmeric rhizomes",
+          "caption": "Mature winter rhizome harvest lifted once aerial pseudostems senesce cleanly."
+        }
+      ]
+    }
+  ],
+  "schemaOrg": {
+    "@type": "Taxon",
+    "name": "Curcuma longa",
+    "alternateName": [
+      "Turmeric",
+      "Holud (হলুদ)"
+    ],
+    "taxonRank": "Species",
+    "parentTaxon": {
+      "@type": "Taxon",
+      "name": "Curcuma",
+      "taxonRank": "Genus",
+      "parentTaxon": {
+        "@type": "Taxon",
+        "name": "Zingiberaceae",
+        "taxonRank": "Family"
+      }
+    }
+  }
+}

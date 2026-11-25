@@ -1,0 +1,199 @@
+{
+  "schemaVersion": "1.1.0",
+  "slug": "mango",
+  "commonName": "Mango",
+  "scientificName": "Mangifera indica",
+  "localName": "Aam (আম)",
+  "category": "Fruit Trees",
+  "categories": [
+    "Fruit Trees",
+    "Trees & Palms"
+  ],
+  "taxonomicDomain": "Tropical Pomology & Fruit Trees",
+  "featuredRank": 1,
+  "shortSummary": "South Asia's iconic evergreen drupe tree prized for aromatic golden-orange fruit, panicle inflorescences, and centuries of cultivar selection.",
+  "leadOverview": "Mango (Mangifera indica) is one of the most culturally revered and economically vital tropical fruit trees in the world. Native to the Indo-Burma region, this long-lived evergreen canopy species produces fragrant terminal panicles and fleshy, nutrient-dense drupes cultivated across more than one hundred tropical and subtropical nations.",
+  "heroImage": {
+    "url": "https://images.pexels.com/photos/30893226/pexels-photo-30893226.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "alt": "Ripe golden mangoes harvested from Mangifera indica orchards",
+    "caption": "Mature golden-amber Mangifera indica drupes showcasing thin aromatic exocarp and plump mesocarp."
+  },
+  "overview": {
+    "plantGroup": "Angiosperm (Eudicot)",
+    "family": "Anacardiaceae",
+    "genus": "Mangifera",
+    "species": "M. indica",
+    "growthForm": "Large evergreen canopy tree (15–40 m)",
+    "nativeOrigin": "South & Southeast Asia (Indo-Burma)",
+    "commonUses": "Fresh fruit, pickles, timber, shade, traditional medicine"
+  },
+  "sections": [
+    {
+      "number": "01",
+      "title": "Morphological Description",
+      "subtitle": "Canopy architecture, foliage, panicles, drupe fruit, and deep taproot",
+      "summary": "Detailed breakdown of stems, leathery flush foliage, panicle flowers, drupe fruit, and taproot.",
+      "paragraphs": [
+        "Mangifera indica develops into a massive, broad-crowned evergreen tree reaching 15 to 40 metres in height, anchored by a stout, furrowed grey-brown trunk that exudes an aromatic resinous sap when wounded. Young vegetative flushes emerge simultaneously in coppery-red or bronze hues—an adaptation that reduces herbivory and UV damage before chlorophyll synthesis deepens the lamina into glossy dark green.",
+        "The flowers are borne in dense, branched terminal panicles measuring 15 to 40 centimetres long, each bearing thousands of minute pentamerous blossoms that are either staminate or hermaphroditic. Following entomophilous pollination, only a small fraction of bisexual flowers set fruit, maturing over 100 to 150 days into large fleshy drupes enclosed around a compressed fibrous endocarp."
+      ],
+      "subblocks": [
+        {
+          "heading": "Stems & Bark",
+          "text": "Thick, longitudinally fissured greyish-brown bark containing resin canals rich in phenolic mangiferin and turpentine-scented oleoresins."
+        },
+        {
+          "heading": "Leaves & Venation",
+          "text": "Simple, alternate, lanceolate-oblong leathery blades (15–35 cm) with undulating margins and prominent pinnate secondary veins."
+        },
+        {
+          "heading": "Flowers & Panicles",
+          "text": "Polygamomonoecious terminal panicles carrying pale cream to pinkish-yellow flowers with a prominent five-lobed nectary disc."
+        },
+        {
+          "heading": "Fruit & Root System",
+          "text": "Fleshy oblong to reniform drupe with fibrous stone; deep anchoring taproot descending up to 6 metres alongside dense surface feeder roots."
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/33108114/pexels-photo-33108114/free-photo-of-mango-tree-in-lush-green-orchard.png?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Evergreen mango tree canopy in green orchard",
+          "caption": "Spreading evergreen canopy and dense branching architecture of Mangifera indica in an orchard."
+        },
+        {
+          "url": "https://images.pexels.com/photos/19087708/pexels-photo-19087708.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Developing green mangoes hanging on tree branches",
+          "caption": "Immature green drupes suspended on elongated pedicels amid leathery lanceolate foliage."
+        }
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Taxonomy & Botanical Classification",
+      "subtitle": "Sapindales lineage and Anacardiaceae relatives",
+      "summary": "Taxonomic placement within family Anacardiaceae alongside cashew and pistachio.",
+      "paragraphs": [
+        "Botanically classified within the order Sapindales and family Anacardiaceae, Mangifera indica shares resin-canal anatomy and allergenic alkylresorcinol chemistry with cashew (Anacardium occidentale) and pistachio (Pistacia vera). Carl Linnaeus formally described the species in 1753 in Species Plantarum based on South Asian specimens.",
+        "Modern horticultural taxonomy divides cultivated mangoes into two primary ecogeographic races: monoembryonic Indian types—producing a single zygotic embryo per seed and prized for intense sweetness—and polyembryonic Southeast Asian types capable of cloning the maternal genotype through nucellar embryony."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/9219974/pexels-photo-9219974.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Close-up of mango cultivar harvest",
+          "caption": "Phenotypic fruit variation across cultivated Mangifera indica selections."
+        }
+      ]
+    },
+    {
+      "number": "03",
+      "title": "Natural Habitat & Global Distribution",
+      "subtitle": "Indo-Burma origin and South Asian monsoon heartland",
+      "summary": "From wild Assam forests to iconic orchards across Bangladesh and India.",
+      "paragraphs": [
+        "Wild populations of Mangifera indica originated in the humid monsoon forests of northeastern India, Bangladesh, and Myanmar, thriving along riverine alluvium and foothills below 1,200 metres elevation. From this primary centre of diversity, Buddhist monks and maritime traders carried seeds across Southeast Asia, East Africa, and eventually the tropical Americas.",
+        "In Bangladesh and eastern India, mango forms the defining orchard landscape of Rajshahi, Chapainawabganj, and Malda, where deep calcareous Gangetic soils and a pronounced dry winter induce synchronous floral bud break prior to the pre-monsoon rains."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/31732206/pexels-photo-31732206.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Mango orchard trees in tropical sunlight",
+          "caption": "Subtropical alluvial orchard habitat supporting mature fruit-bearing mango stands."
+        },
+        {
+          "url": "https://images.pexels.com/photos/31591013/pexels-photo-31591013/free-photo-of-lush-monstera-leaves-in-colombian-jungle.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Humid tropical forest habitat",
+          "caption": "Humid tropical forest understorey conditions resembling ancestral Indo-Burmese habitats."
+        }
+      ]
+    },
+    {
+      "number": "04",
+      "title": "Ecological Role & Pollinator Interactions",
+      "subtitle": "Dipteran pollination, frugivore dispersal, and microclimate shelter",
+      "summary": "Interactions with hoverflies, stingless bees, fruit bats, and epiphytes.",
+      "paragraphs": [
+        "Unlike many showy tropical trees dependent on specialized long-tongued bees, mango panicles possess shallow exposed nectaries adapted primarily to short-tongued dipterans—especially blowflies, syrphid hoverflies—alongside stingless bees and honeybees. Growers frequently maintain flowering cover crops nearby to sustain dipteran guilds during the brief winter bloom.",
+        "Mature canopies serve as multi-layered ecological islands supporting nesting birds, epiphytic orchids, and nocturnal pteropodid fruit bats that disperse fibrous seeds far from parent trees."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/36441123/pexels-photo-36441123.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Honey bees pollinating small spring blossoms",
+          "caption": "Hymenopteran pollinators foraging on shallow floral nectaries analogous to mango panicles."
+        }
+      ]
+    },
+    {
+      "number": "05",
+      "title": "Economic, Culinary & Cultural Importance",
+      "subtitle": "National fruit heritage, cultivars, and timber craft",
+      "summary": "World-leading tropical fruit commerce, South Asian festivals, and culinary versatility.",
+      "paragraphs": [
+        "Across South Asia, mango holds unmatched cultural stature: the mango tree is the national tree of Bangladesh, while celebrated cultivars such as Fazli, Langra, Himsagar, Amrapali, and Alphonso anchor seasonal agricultural economies. Unripe green drupes provide sharp tartness to chutneys, amchur powder, and sun-cured achars.",
+        "Ripe pulp supplies beta-carotene, vitamin C, and soluble dietary fibre to fresh markets, juice processors, and traditional desserts. Dense heartwood from senescent trees is further prized in carpentry and agricultural joinery."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/30893226/pexels-photo-30893226.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Freshly harvested mangoes at market",
+          "caption": "Seasonal market harvest displaying ripe mangoes graded for culinary and commercial distribution."
+        }
+      ]
+    },
+    {
+      "number": "06",
+      "title": "Traditional & Scientific Medicinal Properties",
+      "subtitle": "Mangiferin phytochemistry and ethnobotanical applications",
+      "summary": "Antioxidant xanthones in leaves and bark with contact-dermatitis precautions.",
+      "paragraphs": [
+        "Ethnobotanical traditions across Ayurveda and Unani medicine utilize young mango leaves, dried flower powder, and stem bark decoctions for digestive toning, oral hygiene, and mild astringent washes. Modern phytochemical assays identify mangiferin—a C-glucosyl xanthone—alongside quercetin, kaempferol, and gallic acid derivatives with demonstrated antioxidant and anti-inflammatory bioactivity in vitro.",
+        "Ripe fruit pulp delivers significant provitamin A carotenoids and polyphenols, supporting immune function and cellular protection against oxidative stress."
+      ],
+      "safetyNote": "The milky sap in mango stems, peel, and unripe pedicels contains urushiol-related alkylresorcinols that can trigger allergic contact dermatitis ('mango mouth') in sensitive individuals. Traditional leaf or bark preparations should not replace clinical treatment for diabetes or chronic disorders.",
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/19087708/pexels-photo-19087708.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Green unripe mangoes and glossy leaves",
+          "caption": "Developing fruit and foliage rich in mangiferin and polyphenolic antioxidants."
+        }
+      ]
+    },
+    {
+      "number": "07",
+      "title": "Comprehensive Cultivation & Care Guide",
+      "subtitle": "Grafting, pH management, dry-season induction, and hopper control",
+      "summary": "Practical orchard protocol covering soil, irrigation, canopy pruning, and pest defense.",
+      "paragraphs": [
+        "Commercial orchards rely on veneer or cleft grafting onto hardy polyembryonic rootstocks to ensure true-to-type fruit quality and earlier bearing within 3 to 4 years. Trees demand full unobstructed sunlight, frost-free winters, and deep, well-drained sandy-loam or alluvial soils maintained between pH 5.5 and 7.5.",
+        "Withholding irrigation for 6 to 8 weeks during cool autumn months slows vegetative growth and promotes strong floral panicle emergence. Once fruit sets, regular deep watering prevents premature fruit drop, while post-harvest structural pruning opens the inner canopy to airflow and curbs anthracnose fungus and mango hoppers."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/33108114/pexels-photo-33108114/free-photo-of-mango-tree-in-lush-green-orchard.png?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Managed mango orchard trees",
+          "caption": "Spaced orchard planting allowing optimal solar interception and airflow through the crown."
+        }
+      ]
+    }
+  ],
+  "schemaOrg": {
+    "@type": "Taxon",
+    "name": "Mangifera indica",
+    "alternateName": [
+      "Mango",
+      "Aam (আম)"
+    ],
+    "taxonRank": "Species",
+    "parentTaxon": {
+      "@type": "Taxon",
+      "name": "Mangifera",
+      "taxonRank": "Genus",
+      "parentTaxon": {
+        "@type": "Taxon",
+        "name": "Anacardiaceae",
+        "taxonRank": "Family"
+      }
+    }
+  }
+}

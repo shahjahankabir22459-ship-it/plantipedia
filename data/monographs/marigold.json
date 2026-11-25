@@ -1,0 +1,194 @@
+{
+  "schemaVersion": "1.1.0",
+  "slug": "marigold",
+  "commonName": "Marigold",
+  "scientificName": "Tagetes erecta",
+  "localName": "Gada (গাঁদা)",
+  "category": "Flowers",
+  "categories": [
+    "Flowers",
+    "Medicinal"
+  ],
+  "taxonomicDomain": "Angiosperms & Ornamentals",
+  "featuredRank": null,
+  "shortSummary": "Aromatic golden-orange Asteraceae annual prized for festive garlands, lutein carotenoids, and nematode-suppressing roots.",
+  "leadOverview": "African or Aztec marigold (Tagetes erecta) is a vigorous, sun-loving annual renowned for dense pompom flower heads glowing in shades of saffron, amber, and lemon yellow. Native to Mexico and Central America, marigold has become deeply woven into South Asian festivals, companion gardening, and natural carotenoid production.",
+  "heroImage": {
+    "url": "https://images.pexels.com/photos/14304140/pexels-photo-14304140.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "alt": "Bright orange Tagetes erecta marigold blossoms",
+    "caption": "Ruffled golden-orange capitula of Tagetes erecta rich in esterified lutein pigments."
+  },
+  "overview": {
+    "plantGroup": "Angiosperm (Eudicot)",
+    "family": "Asteraceae",
+    "genus": "Tagetes",
+    "species": "T. erecta",
+    "growthForm": "Upright branching annual herb (30–110 cm)",
+    "nativeOrigin": "Mexico & Central America",
+    "commonUses": "Garlands, companion planting, poultry feed pigment, lutein extraction"
+  },
+  "sections": [
+    {
+      "number": "01",
+      "title": "Morphological Description",
+      "subtitle": "Pinnately divided aromatic leaves, oil glands, and globular capitula",
+      "summary": "Anatomy of deeply lobed foliage, fluted hollow peduncles, and dense ray-floret heads.",
+      "paragraphs": [
+        "Tagetes erecta grows as an upright, ribbed herbaceous annual reaching 30 to 110 centimetres high with sturdy hollow-stemmed branches. Its pinnately compound leaves consist of 11 to 17 narrow, sharply toothed lanceolate leaflets dotted with translucent marginal oil glands that release a pungent, herbaceous-citrus scent when bruised.",
+        "Each terminal flower head sits atop a swollen, fluted peduncle and is enclosed by a fused cylindrical cup of green involucral bracts. Cultivated forms exhibit dozens of overlapping ruffled ray florets creating globular blooms 6 to 12 centimetres wide, maturing into slender black linear achenes topped with bristly pappus scales."
+      ],
+      "subblocks": [
+        {
+          "heading": "Ribbed Stems",
+          "text": "Erect angular green stems branching freely from middle nodes and swelling beneath each terminal flower bud."
+        },
+        {
+          "heading": "Pinnate Foliage",
+          "text": "Dark green fern-like leaves bearing embedded pellucid oil glands secreting defensive thiophenes and tagetone."
+        },
+        {
+          "heading": "Globular Capitula",
+          "text": "Dense double-rayed composite heads ranging from pale cream-gold to deep burnt tangerine."
+        },
+        {
+          "heading": "Fibrous Roots",
+          "text": "Dense shallow fibrous root mat exuding allelopathic alpha-terthienyl into surrounding rhizosphere soil."
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/39152868/pexels-photo-39152868.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Bright yellow Tagetes marigold flowers in bloom",
+          "caption": "Lemon-yellow Tagetes erecta inflorescences showing layered, ruffled ray florets."
+        },
+        {
+          "url": "https://images.pexels.com/photos/14304140/pexels-photo-14304140.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Saffron orange marigold blossoms in garden",
+          "caption": "Deep saffron marigold cultivars grown widely for festive floral garlands."
+        }
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Taxonomy & Botanical Classification",
+      "subtitle": "Tagetes vs Calendula clarification",
+      "summary": "Distinguishing New World Tagetes (Asteraceae) from Old World pot marigold (Calendula).",
+      "paragraphs": [
+        "Tagetes erecta belongs to tribe Tageteae within family Asteraceae—a New World lineage characterized by aromatic oil glands on leaves and fused single-row involucral bracts. Despite its misleading common name 'African marigold', the species originated entirely in Mesoamerica before Spanish galleons dispersed it globally in the sixteenth century.",
+        "Botanists carefully distinguish Tagetes from Mediterranean pot marigold (Calendula officinalis), which belongs to a separate tribe and lacks pungent thiophene glands."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/39152868/pexels-photo-39152868.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Close-up of Tagetes flower bracts and florets",
+          "caption": "Diagnostic fused cylindrical involucre and serrated pinnate leaf segments of Tagetes."
+        }
+      ]
+    },
+    {
+      "number": "03",
+      "title": "Natural Habitat & Global Distribution",
+      "subtitle": "Mexican highlands to South Asian winter floriculture",
+      "summary": "Warm open slopes and commercial production across Jashore and Gazipur.",
+      "paragraphs": [
+        "Wild ancestors of Tagetes erecta inhabit sunny disturbed slopes, open pine-oak clearings, and agricultural margins across Mexico and Guatemala between 800 and 2,300 metres altitude. Rapid maturation (55–70 days from seed to flower) allowed effortless naturalization across tropical and temperate continents.",
+        "In Bangladesh and India, marigold ('Genda') ranks among the highest-volume winter and spring flowers, extensively farmed in Jashore, Savar, and West Bengal for civic celebrations, weddings, and religious offerings."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/14304140/pexels-photo-14304140.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Cultivated marigold bed in bright sun",
+          "caption": "Dense field-grown marigolds thriving under cool sunny winter conditions."
+        }
+      ]
+    },
+    {
+      "number": "04",
+      "title": "Ecological Role & Pollinator Interactions",
+      "subtitle": "Soil nematode suppression and hoverfly attraction",
+      "summary": "Allelopathic alpha-terthienyl against root-knot nematodes and beneficial insect recruitment.",
+      "paragraphs": [
+        "Marigolds play a celebrated agroecological role in integrated pest management. Their roots synthesize and release alpha-terthienyl—a potent sulfur-containing compound activated by peroxidase enzymes—which disrupts cell membranes of destructive root-knot nematodes (Meloidogyne spp.) when intercropped with tomatoes, brinjal, or chillies.",
+        "Above ground, open single and semi-double flowers supply pollen and nectar to hoverflies (Syrphidae), ladybird beetles, and parasitic wasps that prey on aphids, while strong leaf volatiles partially mask host-plant scents from whiteflies."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/38669618/pexels-photo-38669618.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Pollinating bee visiting bright flower",
+          "caption": "Insect pollinators and beneficial hoverflies recruited into companion vegetable plots."
+        }
+      ]
+    },
+    {
+      "number": "05",
+      "title": "Economic, Culinary & Cultural Importance",
+      "subtitle": "Cempasúchil, South Asian garlands, and natural lutein dye",
+      "summary": "Ceremonial flower chains, textile dyeing, and macular carotenoid industry.",
+      "paragraphs": [
+        "Known as Cempasúchil in Mexico, Tagetes erecta illuminates Día de los Muertos altars with golden petal paths, while across Bangladesh and India it forms thick, resilient garlands for Ekushey February, Pohela Boishakh, Durga Puja, and weddings.",
+        "Industrially, dried marigold petals represent the premier botanical source of natural lutein and zeaxanthin—extracted worldwide for food colouring, textile dyeing, and poultry feed to deepen egg-yolk pigmentation."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/39152868/pexels-photo-39152868.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Golden marigold blooms harvested for pigment",
+          "caption": "Carotenoid-dense petals harvested commercially for natural food and lutein extraction."
+        }
+      ]
+    },
+    {
+      "number": "06",
+      "title": "Traditional & Scientific Medicinal Properties",
+      "subtitle": "Ocular lutein bioavailability and traditional topical pastes",
+      "summary": "Macular pigment protection and folk antimicrobial leaf poultices.",
+      "paragraphs": [
+        "Modern nutritional science prizes purified Tagetes erecta petal extracts for standardized lutein and zeaxanthin—carotenoids that selectively accumulate in the human retinal macula, filtering high-energy blue light and supporting long-term visual acuity in age-related macular research.",
+        "In South Asian folk practice, fresh crushed marigold leaves are applied externally as an antiseptic poultice on minor cuts to staunch bleeding, while mild petal infusions have been studied for antioxidant phenolic activity."
+      ],
+      "safetyNote": "Do not confuse culinary Calendula officinalis with Tagetes erecta for heavy internal herbal teas; Tagetes essential oils contain potent ketones (tagetone) and phototoxic thiophenes that may cause contact dermatitis or uterine stimulation if taken in concentrated doses.",
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/14304140/pexels-photo-14304140.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Lutein-rich orange marigold florets",
+          "caption": "Dense saffron florets containing concentrated esterified xanthophyll carotenoids."
+        }
+      ]
+    },
+    {
+      "number": "07",
+      "title": "Comprehensive Cultivation & Care Guide",
+      "subtitle": "Pinching, well-drained beds, and spider-mite vigilance",
+      "summary": "Full-sun planting, moderate watering at soil level, and deadheading.",
+      "paragraphs": [
+        "Sow marigold seeds shallowly in warm, friable soil (pH 6.0–7.0) receiving at least 6 to 8 hours of direct sunlight; germination occurs rapidly within 5 to 7 days. Avoid excessive nitrogen fertilizer, which stimulates lush leafy stems at the expense of flower bud density.",
+        "Pinch terminal shoots when seedlings reach 15 centimetres to encourage compact, multi-stemmed crowns, and water at the root zone in the morning so dense double flower heads do not trap moisture and develop Botrytis grey mould. Monitor hot, dry foliage undersides for spider mites."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/39152868/pexels-photo-39152868.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Healthy bushy marigold plants in garden",
+          "caption": "Compact multi-branched plants maintained through early apical pinching and deadheading."
+        }
+      ]
+    }
+  ],
+  "schemaOrg": {
+    "@type": "Taxon",
+    "name": "Tagetes erecta",
+    "alternateName": [
+      "Marigold",
+      "Gada (গাঁদা)"
+    ],
+    "taxonRank": "Species",
+    "parentTaxon": {
+      "@type": "Taxon",
+      "name": "Tagetes",
+      "taxonRank": "Genus",
+      "parentTaxon": {
+        "@type": "Taxon",
+        "name": "Asteraceae",
+        "taxonRank": "Family"
+      }
+    }
+  }
+}

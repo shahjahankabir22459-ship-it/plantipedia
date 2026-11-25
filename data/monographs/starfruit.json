@@ -1,0 +1,204 @@
+{
+  "schemaVersion": "1.1.0",
+  "slug": "starfruit",
+  "commonName": "Starfruit (Carambola)",
+  "scientificName": "Averrhoa carambola",
+  "localName": "Kamranga (কামরাঙ্গা)",
+  "category": "Fruit Trees",
+  "categories": [
+    "Fruit Trees",
+    "Trees & Palms"
+  ],
+  "taxonomicDomain": "Tropical Pomology & Fruit Trees",
+  "featuredRank": null,
+  "shortSummary": "Evergreen backyard fruit tree prized for crisp, juicy five-ribbed translucent berries slicing into natural five-pointed stars and sleep-folding compound leaves.",
+  "leadOverview": "Averrhoa carambola—known across Bangladesh as Kamranga and globally as Starfruit or Carambola—is a compact, prolific tropical fruit tree of the wood-sorrel family Oxalidaceae. Instantly recognizable for crisp waxy golden berries ribbed into five prominent longitudinal ridges, its delicate pink-violet panicles flower repeatedly across warm months.",
+  "heroImage": {
+    "url": "https://images.pexels.com/photos/35035983/pexels-photo-35035983.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "alt": "Crisp five-ribbed Averrhoa carambola starfruit hanging on tree branch",
+    "caption": "Waxy green-to-gold five-winged Averrhoa carambola (Kamranga) berry maturing amidst compound leaflets."
+  },
+  "overview": {
+    "plantGroup": "Angiosperm (Eudicot)",
+    "family": "Oxalidaceae",
+    "genus": "Averrhoa",
+    "species": "A. carambola",
+    "growthForm": "Compact drooping evergreen fruit tree (5–10 m)",
+    "nativeOrigin": "Tropical Southeast Asia & Maritime Indonesia",
+    "commonUses": "Fresh star-sliced fruit, spicy-tart pickles, sour chutneys, rooftop container orchards"
+  },
+  "cultivationTelemetry": {
+    "phMin": 5.5,
+    "phMax": 6.8,
+    "phOptimalLabel": "pH 5.5 – 6.8",
+    "sunlightLevel": 3,
+    "sunlightLabel": "Full Sun to Light Afternoon Shade",
+    "irrigationLevel": 2,
+    "irrigationLabel": "Consistent Moist Drainage",
+    "soilDrainageLabel": "Humus-Rich Acidic Loam"
+  },
+  "sections": [
+    {
+      "number": "01",
+      "title": "Morphological Description",
+      "subtitle": "Nyctinastic compound leaves, pink-striped bell flowers, and five-winged star berries",
+      "summary": "Anatomy of drooping branches, sleep-folding leaflets, heterostylous blossoms, and star-sectioned berries.",
+      "paragraphs": [
+        "Averrhoa carambola develops a low-branched, rounded evergreen crown 5 to 10 metres tall with slender drooping twigs well suited to village yards and rooftop tubs. Its alternate odd-pinnate leaves (15–25 cm long) bear 5 to 11 soft ovate leaflets that exhibit striking nyctinasty—folding neatly downward together at dusk or under sudden physical shock.",
+        "Pretty lavender-pink-to-purple five-petalled flowers streaked with pale margins sprout in compact clusters directly from young shoots and thick older branches (ramiflory). They mature rapidly within 60 to 75 days into translucent waxy yellow-amber oblong berries (7–13 cm) sculpted with five sharp longitudinal ridges that form clean five-pointed stars when sliced crosswise."
+      ],
+      "subblocks": [
+        {
+          "heading": "Compact Drooping Crown",
+          "text": "Short trunk dividing early into flexible, fruit-laden spreading branches easy to hand-harvest."
+        },
+        {
+          "heading": "Nyctinastic Leaflets",
+          "text": "Light-sensitive compound leaves folding downward at nightfall to reduce radiative heat and dew loss."
+        },
+        {
+          "heading": "Heterostylous Pink Panicles",
+          "text": "Lilac-striped tiny bell flowers occurring in pin (long-style) and thrum (short-style) morphs for outcrossing."
+        },
+        {
+          "heading": "Five-Winged Waxy Berry",
+          "text": "Thin edible waxy skin enclosing crisp, watery translucent pulp with minimal fibrous core and flat brown seeds."
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/35035983/pexels-photo-35035983.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Starfruit growing naturally on leafy twig",
+          "caption": "Five-ribbed Averrhoa carambola fruit hanging cleanly on slender drooping branchlets."
+        },
+        {
+          "url": "https://images.pexels.com/photos/36441123/pexels-photo-36441123.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Insect pollinators gathering nectar",
+          "caption": "Honeybees cross-pollinating long- and short-styled lavender starfruit blossoms."
+        }
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Taxonomy & Botanical Classification",
+      "subtitle": "Oxalidales wood-sorrel lineage and Bilimbi kinship",
+      "summary": "Taxonomic placement in Oxalidaceae alongside tangy green Bilimbi and garden Oxalis.",
+      "paragraphs": [
+        "Placed in order Oxalidales and family Oxalidaceae, Averrhoa carambola is one of just two woody fruit-tree species within a family otherwise dominated by low herbaceous wood-sorrels (Oxalis / Amrul Shak). Its sole congener is the ultra-sour pickle fruit Bilimbi (Averrhoa bilimbi). Linnaeus named the genus honoring 12th-century Andalusian polymath Ibn Rushd (Averroes).",
+        "Horticulturally, cultivars split into tart culinary types (high oxalic acid, bright green-yellow skin) and sweet dessert types (such as 'Maha', 'Arkin', and 'BARI Kamranga-1 & 2') prized fresh."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/35035983/pexels-photo-35035983.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Close-up of Averrhoa carambola ridges",
+          "caption": "Signature five-carpel star geometry linking Averrhoa with five-parted Oxalis capsules."
+        }
+      ]
+    },
+    {
+      "number": "03",
+      "title": "Natural Habitat & Global Distribution",
+      "subtitle": "Humid Malesian rainforest origins and prolific Bangladesh homesteads",
+      "summary": "From Maritime Southeast Asia into backyard orchards and urban rooftops across humid tropics.",
+      "paragraphs": [
+        "Originating in humid lowland rainforests of Malaysia, Indonesia, and southern China, Averrhoa carambola traveled ancient maritime spice routes across India, Bangladesh, Sri Lanka, and later tropical Americas and Florida.",
+        "Across Bangladesh, Kamranga ranks among the most faithful backyard homestead trees—bearing dual heavy crops during late Borsha–Shorot and again across Sheet–Boshonto in warm frost-free lowlands."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/31732206/pexels-photo-31732206.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Subtropical fruit grove",
+          "caption": "Humid frost-free home gardens supporting continuous flowering and heavy fruiting."
+        }
+      ]
+    },
+    {
+      "number": "04",
+      "title": "Ecological Role & Pollinator Interactions",
+      "subtitle": "Heterostylous bee foraging and canopy frugivore appeal",
+      "summary": "Insect-driven pin-thrum cross-pollination and seed dispersal by orchard birds and bats.",
+      "paragraphs": [
+        "Because individual cultivars are typically fixed in either long-styled or short-styled flower morphology, Apis honeybees, stingless bees, and syrphid flies dramatically raise fruit set when mixed sweet and tart trees grow nearby.",
+        "Bright golden-ripe fruits soften on outer twigs, attracting bulbuls, fruit bats, and squirrels that scatter smooth flat brown seeds along shaded fence lines."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/36441123/pexels-photo-36441123.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Pollinating bee on blossom",
+          "caption": "Bees transferring pollen efficiently between complementary floral morphs."
+        }
+      ]
+    },
+    {
+      "number": "05",
+      "title": "Economic, Culinary & Cultural Importance",
+      "subtitle": "Chili-salt Kamranga stars, tangy dal garnish, and brass-polishing acid",
+      "summary": "Beloved winter street snack, savory chutney fruit, and culinary garnish.",
+      "paragraphs": [
+        "Sliced crosswise into crisp five-pointed golden stars and dusted with sea salt, roasted chili flakes, and kasundi mustard, fresh Kamranga is an iconic winter afternoon snack outside schools and markets across Bangladesh.",
+        "Tart unripe slices simmer into fragrant sour lentils ('Tok Dal'), spiced pickles, and fish curries, while sweet ripe berries blend into refreshing vitamin-C-rich juices and vibrant fruit-platter garnishes. Historically, acidic juice also polished tarnished brassware cleanly."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/35035983/pexels-photo-35035983.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Ripe starfruit ready for harvest",
+          "caption": "Crisp golden starfruits harvested in winter for fresh snacks and sour culinary dishes."
+        }
+      ]
+    },
+    {
+      "number": "06",
+      "title": "Traditional & Scientific Medicinal Properties",
+      "subtitle": "Vitamin C, flavonoids, and critical renal caramboxin/oxalate precautions",
+      "summary": "Antioxidant vitamin richness balanced by strict contraindication for chronic kidney disease.",
+      "paragraphs": [
+        "Low in calories yet generous in vitamin C (ascorbic acid), epicatechin, proanthocyanidins, and potassium, culinary starfruit has long featured in Southeast Asian folk tonics for mild heat relief and appetite stimulation.",
+        "Laboratory assays identify quercetin and gallic acid derivatives concentrated along the waxy skin ribs, providing notable free-radical scavenging capacity in healthy individuals."
+      ],
+      "safetyNote": "CRITICAL MEDICAL WARNING: Starfruit contains high soluble oxalic acid AND a potent neurotoxin called caramboxin. Healthy kidneys excrete caramboxin effortlessly, but anyone with chronic kidney disease (CKD), reduced renal function, or dialysis MUST strictly avoid starfruit—ingestion can trigger intractable hiccups, confusion, seizures, or fatal neurotoxicity.",
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/35035983/pexels-photo-35035983.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Averrhoa carambola ribbed fruit",
+          "caption": "Vitamin-C-rich fruit requiring intact renal clearance due to natural caramboxin and oxalates."
+        }
+      ]
+    },
+    {
+      "number": "07",
+      "title": "Comprehensive Cultivation & Care Guide",
+      "subtitle": "Grafting sweet cultivars, wind-sheltered beds, and iron-chelate yellowing fixes",
+      "summary": "Propagating compact sweet starfruit trees for gardens or 60-litre rooftop drums.",
+      "paragraphs": [
+        "Graft or air-layer sweet dessert cultivars ('BARI Kamranga-2' or 'Maha') onto hardy seedling rootstocks; grafted trees stay compact (3–4 m pruned) and fruit heavily within 2 years. Grow in mildly acidic humus-rich loam (pH 5.5–6.8) sheltered from harsh drying winds, which scorch soft pinnate leaflets.",
+        "If young leaves yellow between green veins (iron chlorosis) in alkaline soils or containers, top-dress with acidic leaf-mold compost and chelated iron. Water evenly during bloom and fruit swell to keep berries crisp and juicy."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/31732206/pexels-photo-31732206.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Sheltered orchard trees in sunlight",
+          "caption": "Wind-sheltered, well-drained acidic beds sustain heavy biannual starfruit harvests."
+        }
+      ]
+    }
+  ],
+  "schemaOrg": {
+    "@type": "Taxon",
+    "name": "Averrhoa carambola",
+    "alternateName": [
+      "Starfruit (Carambola)",
+      "Kamranga (কামরাঙ্গা)"
+    ],
+    "taxonRank": "Species",
+    "parentTaxon": {
+      "@type": "Taxon",
+      "name": "Averrhoa",
+      "taxonRank": "Genus",
+      "parentTaxon": {
+        "@type": "Taxon",
+        "name": "Oxalidaceae",
+        "taxonRank": "Family"
+      }
+    }
+  }
+}

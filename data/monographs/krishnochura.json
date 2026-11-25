@@ -1,0 +1,204 @@
+{
+  "schemaVersion": "1.1.0",
+  "slug": "krishnochura",
+  "commonName": "Royal Poinciana (Krishnochura)",
+  "scientificName": "Delonix regia",
+  "localName": "Krishnochura (কৃষ্ণচূড়া)",
+  "category": "Trees & Palms",
+  "categories": [
+    "Trees & Palms",
+    "Flowers"
+  ],
+  "taxonomicDomain": "Tropical Canopy & Ornamentals",
+  "featuredRank": null,
+  "shortSummary": "Umbrella-crowned tropical legume tree celebrated across South Asian avenues for fiery scarlet-vermilion blossoms and feathery bipinnate foliage.",
+  "leadOverview": "Royal Poinciana (Delonix regia), affectionately called Krishnochura across Bengal, is one of the world's most dramatic ornamental canopy trees. Originating in Madagascar's dry deciduous forests, this fast-growing legume unfurls sweeping parasol crowns draped in fern-like bipinnate leaves and blazing vermilion-red summer racemes accented by a single white-and-crimson speckled banner petal.",
+  "heroImage": {
+    "url": "https://images.pexels.com/photos/41095533/pexels-photo-41095533.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "alt": "Delonix regia Krishnochura tree canopy ablaze with scarlet-orange summer blossoms",
+    "caption": "Flaming crimson-vermilion racemes of Delonix regia illuminating a spreading umbrella canopy."
+  },
+  "overview": {
+    "plantGroup": "Angiosperm (Eudicot)",
+    "family": "Fabaceae",
+    "genus": "Delonix",
+    "species": "D. regia",
+    "growthForm": "Semi-deciduous umbrella canopy tree (10–18 m)",
+    "nativeOrigin": "Dry deciduous forests of Madagascar",
+    "commonUses": "Avenue shade, urban ornamentation, agroforestry shelter, traditional carpentry"
+  },
+  "cultivationTelemetry": {
+    "phMin": 6.0,
+    "phMax": 7.8,
+    "phOptimalLabel": "pH 6.0 – 7.8",
+    "sunlightLevel": 3,
+    "sunlightLabel": "Full Unobstructed Sun",
+    "irrigationLevel": 1,
+    "irrigationLabel": "Low / Drought-Resilient",
+    "soilDrainageLabel": "Well-Drained Sandy-Loam"
+  },
+  "sections": [
+    {
+      "number": "01",
+      "title": "Morphological Description",
+      "subtitle": "Parasol crown, doubly pinnate fern foliage, speckled banner petal, and woody pods",
+      "summary": "Anatomy of buttressed trunks, bipinnate leaflets, asymmetric five-petalled flowers, and sabre pods.",
+      "paragraphs": [
+        "Delonix regia grows swiftly to 10–18 metres tall with an unusually broad, flat-topped parasol crown whose lateral boughs often exceed the tree's height in horizontal span. Mature trunks develop pale greyish-brown bark and shallow basal buttress roots suited to anchoring wide tropical canopies against pre-monsoon squalls.",
+        "Each compound leaf measures 30 to 50 centimetres long and is doubly pinnate (bipinnate), carrying 10 to 25 pairs of pinnae subdivided into hundreds of tiny oblong leaflets that fold together lightly at dusk. From late spring through early monsoon, terminal corymbose racemes erupt into 10-centimetre blossoms bearing four spreading scarlet petals and a fifth upright standard petal marbled in white, gold, and crimson nectar guides, followed by flattened dark woody pods up to 60 centimetres long."
+      ],
+      "subblocks": [
+        {
+          "heading": "Trunk & Canopy Span",
+          "text": "Smooth pale grey-brown bark with shallow root buttresses supporting a broad, airy parasol crown up to 18 m wide."
+        },
+        {
+          "heading": "Bipinnate Foliage",
+          "text": "Feathery bright-green doubly compound leaves bearing 20–40 tiny leaflets per pinna, casting filtered dappled shade."
+        },
+        {
+          "heading": "Flame Flowers",
+          "text": "Five clawed petals (four solid scarlet-orange plus one white-yellow patterned banner petal) with 10 long red stamens."
+        },
+        {
+          "heading": "Woody Legume Pods",
+          "text": "Strap-shaped compressed brown seed pods (40–60 cm) hardening over winter and splitting slowly to release mottled hard seeds."
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/41095533/pexels-photo-41095533.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Royal Poinciana blossoms covering spreading branches",
+          "caption": "Dense terminal clusters of scarlet Delonix regia blossoms emerging across bare and newly flushed twigs."
+        },
+        {
+          "url": "https://images.pexels.com/photos/37027746/pexels-photo-37027746.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Delonix regia red flowers and feathery green foliage against blue sky",
+          "caption": "Fiery petals contrasted against delicate bipinnate leaflets and clear pre-monsoon skies."
+        }
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Taxonomy & Botanical Classification",
+      "subtitle": "Fabaceae (Caesalpinioideae) heritage and Malagasy conservation paradox",
+      "summary": "Taxonomic placement within the pea family Fabaceae and wild rarity in Madagascar.",
+      "paragraphs": [
+        "Placed within family Fabaceae (subfamily Caesalpinioideae) and order Fabales, Delonix regia was initially described as Poinciana regia by Wenceslas Bojer in 1829 before Constantin Samuel Rafinesque moved it to genus Delonix. Unlike papilionoid beans with fused keel petals, Caesalpinioid legumes display open star-like floral symmetry with prominent exserted stamens.",
+        "Strikingly, while Krishnochura lines millions of city boulevards worldwide, natural wild populations in western Madagascar's dry deciduous limestone forests are classified as Endangered on the IUCN Red List due to habitat fragmentation—making cultivated urban avenues a vital genetic reservoir."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/37027746/pexels-photo-37027746.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Detailed Delonix regia floral cluster",
+          "caption": "Open caesalpinioid floral morphology with arched stamens and ornate standard petal."
+        }
+      ]
+    },
+    {
+      "number": "03",
+      "title": "Natural Habitat & Global Distribution",
+      "subtitle": "From Madagascar limestone karst to iconic Dhaka and Kolkata boulevards",
+      "summary": "Ecological distribution across tropical cities, coastal plains, and Bengali summer landscapes.",
+      "paragraphs": [
+        "Native strictly to seasonally dry forests of northern and western Madagascar, Delonix regia flourishes where intense summer warmth alternates with distinct dry winters. Over the nineteenth and twentieth centuries, botanical gardens introduced the species throughout South Asia, the Caribbean, Hawaii, and equatorial Africa.",
+        "Across Bangladesh—especially along Dhaka University campus, Ramna Park, and rural highway embankments—Krishnochura is synonymous with Boishakh and Jyoishtho summers, coloring urban horizons in vivid vermilion canopies right before the southwest monsoon breaks."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/41095533/pexels-photo-41095533.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Blooming flame tree in sunny tropical avenue",
+          "caption": "Thriving in open sunny avenues where seasonal dry spells induce synchronized flowering."
+        }
+      ]
+    },
+    {
+      "number": "04",
+      "title": "Ecological Role & Pollinator Interactions",
+      "subtitle": "Sunbird, carpenter bee, and swallowtail butterfly attraction",
+      "summary": "Canopy microclimate cooling, nectar foraging by sunbirds, and avian roosting shelter.",
+      "paragraphs": [
+        "Bright orange-scarlet reflectance paired with the high-contrast white-and-gold banner petal acts as an unmistakable visual beacon for diurnal pollinators—especially carpenter bees (Xylocopa), large swallowtail butterflies, and nectar-sipping sunbirds.",
+        "Unlike many temperate legumes, Delonix regia rarely forms root nodules with nitrogen-fixing Rhizobium bacteria, yet its massive, fine-textured leaf drop builds porous humus beneath urban pavements and cools ambient street temperatures by several degrees Celsius."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/36441123/pexels-photo-36441123.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Bees pollinating open tree blossoms",
+          "caption": "Hymenopteran pollinators visiting open nectariferous flowers during warm spring mornings."
+        }
+      ]
+    },
+    {
+      "number": "05",
+      "title": "Economic, Culinary & Cultural Importance",
+      "subtitle": "Poetic emblem of Bengali summer, music, and Pohela Boishakh",
+      "summary": "Cultural resonance in South Asian literature alongside timber and gum applications.",
+      "paragraphs": [
+        "Few ornamental trees inspire such deep cultural affection in Bengal as Krishnochura. Celebrated in Tagore songs, modern poetry, and Pohela Boishakh artwork, its fiery petals carpeted across damp summer asphalt herald both festivity and monsoon anticipation.",
+        "Economically, trees yield water-soluble seed endosperm gum useful as a natural textile binder, lightweight softwood suited for crates and rustic turnery, and rapid high-canopy shade across public parks and botanical promenades."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/37027746/pexels-photo-37027746.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Vibrant Krishnochura blossoms symbolizing Bengali summer",
+          "caption": "Signature scarlet-orange blooms inspiring South Asian music, poetry, and urban forestry."
+        }
+      ]
+    },
+    {
+      "number": "06",
+      "title": "Traditional & Scientific Medicinal Properties",
+      "subtitle": "Flavonoid glycosides, lupeol triterpenoids, and bark-leaf folk remedies",
+      "summary": "Phytochemical antioxidants in flowers and bark with seed ingestion precautions.",
+      "paragraphs": [
+        "Although cultivated primarily for shade and spectacle, Delonix regia leaves, bark, and dried petals appear in folk remedies across Madagascar and India for mild fever washes, joint compresses, and inflammation soothing. Phytochemical screening isolates anthocyanins, beta-sitosterol, quercetin glycosides, and lupeol.",
+        "Leaf and flower extracts exhibit measurable antimicrobial and free-radical scavenging capacity in laboratory assays, though clinical standardization remains limited."
+      ],
+      "safetyNote": "Raw Delonix regia seeds contain protease inhibitors and non-protein amino acids (such as azetidine-2-carboxylic acid) that are mildly toxic if chewed or ingested raw. Keep woody pods away from curious young children and livestock.",
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/41095533/pexels-photo-41095533.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Anthocyanin-rich scarlet Delonix regia petals",
+          "caption": "Anthocyanin and carotenoid pigments responsible for the vivid vermilion floral hue."
+        }
+      ]
+    },
+    {
+      "number": "07",
+      "title": "Comprehensive Cultivation & Care Guide",
+      "subtitle": "Seed scarification, wide spatial clearance, and structural storm pruning",
+      "summary": "Growing strong wind-firm canopies in pH 6.0–7.8 soils with ample sunlight.",
+      "paragraphs": [
+        "Because mature seeds possess a rock-hard waterproof testa, gently nick the rounded edge with a nail file and soak in warm water for 24 hours before sowing—germination typically follows within 7 to 14 days. Plant saplings in full unobstructed sunlight inside well-drained sandy or loamy soils between pH 6.0 and 7.8.",
+        "Space trees at least 10 metres away from building foundations and buried utility pipes, as vigorous surface buttress roots lift narrow sidewalks. Lightly thin weak interior forks during winter dormancy to reduce wind-sail drag during spring Kalboishakhi storms."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/37027746/pexels-photo-37027746.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Sunlit Krishnochura canopy thriving outdoors",
+          "caption": "Spacious full-sun planting encourages broad balanced crowns and profuse annual flowering."
+        }
+      ]
+    }
+  ],
+  "schemaOrg": {
+    "@type": "Taxon",
+    "name": "Delonix regia",
+    "alternateName": [
+      "Royal Poinciana",
+      "Krishnochura (কৃষ্ণচূড়া)"
+    ],
+    "taxonRank": "Species",
+    "parentTaxon": {
+      "@type": "Taxon",
+      "name": "Delonix",
+      "taxonRank": "Genus",
+      "parentTaxon": {
+        "@type": "Taxon",
+        "name": "Fabaceae",
+        "taxonRank": "Family"
+      }
+    }
+  }
+}

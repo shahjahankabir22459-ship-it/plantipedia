@@ -1,0 +1,195 @@
+{
+  "schemaVersion": "1.1.0",
+  "slug": "lotus",
+  "commonName": "Sacred Lotus",
+  "scientificName": "Nelumbo nucifera",
+  "localName": "Poddo (পদ্ম)",
+  "category": "Flowers",
+  "categories": [
+    "Flowers",
+    "Medicinal",
+    "Aquatic"
+  ],
+  "taxonomicDomain": "Hydrophytes & Wetland Flora",
+  "featuredRank": null,
+  "shortSummary": "Emergent aquatic eudicot famed for superhydrophobic self-cleaning peltate leaves, thermogenic blossoms, and millennia-viable seeds.",
+  "leadOverview": "The Sacred Lotus (Nelumbo nucifera)—known across South Asia as Padma—is a remarkable aquatic perennial whose leaves and flowers rise cleanly above wetland waters on stout spiny petioles. Renowned for the nano-textured 'lotus effect', thermogenic flower warming, and 1,300-year seed longevity, it unites evolutionary marvels with ancient culinary and spiritual heritage.",
+  "heroImage": {
+    "url": "https://images.pexels.com/photos/33059564/pexels-photo-33059564.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "alt": "Pink Sacred Lotus Nelumbo nucifera flower rising above pond leaves",
+    "caption": "Emergent pink Nelumbo nucifera bloom showcasing conical golden seed receptacle and peltate foliage."
+  },
+  "overview": {
+    "plantGroup": "Basal Eudicot (Proteales)",
+    "family": "Nelumbonaceae",
+    "genus": "Nelumbo",
+    "species": "N. nucifera",
+    "growthForm": "Perennial emergent aquatic rhizomatous herb",
+    "nativeOrigin": "Tropical & Subtropical Asia to Northern Australia",
+    "commonUses": "Edible rhizomes and seeds, wetland ornament, silk textiles, spiritual emblem"
+  },
+  "sections": [
+    {
+      "number": "01",
+      "title": "Morphological Description",
+      "subtitle": "Peltate nano-waxy leaves, pepper-pot seed receptacle, and chambered rhizomes",
+      "summary": "Anatomy of hollow rhizomes, emergent umbrella pads, thermogenic petals, and shower-head torus.",
+      "paragraphs": [
+        "Nelumbo nucifera anchors in pond mud via thick, jointed white-to-buff rhizomes perforated internally by symmetrical longitudinal air tunnels that transport oxygen throughout submerged organs. From these nodes rise tall, prickly petioles supporting circular, centrally attached (peltate) umbrella-shaped leaves measuring up to 80 centimetres across.",
+        "The upper leaf epidermis is carpeted with microscopic epicuticular wax crystals creating superhydrophobicity ('the lotus effect'): rainwater beads into rolling spheres that carry away dust and fungal spores. Solitary pink or creamy-white flowers tower above the foliage around a distinctive inverted conical flat-topped receptacle pitted with chambers that ripen into hard ovoid nutlets."
+      ],
+      "subblocks": [
+        {
+          "heading": "Chambered Rhizomes",
+          "text": "Edible sausage-like underwater tubers traversed by symmetrical air-duct channels (aerenchyma)."
+        },
+        {
+          "heading": "Peltate Pads",
+          "text": "Centrally stalked emergent leaves coated with hydrophobic nano-crystals enabling self-cleaning water beading."
+        },
+        {
+          "heading": "Floral Receptacle",
+          "text": "Spongy flat-topped golden torus embedding 15–30 carpels surrounded by spiraled stamens and tepals."
+        },
+        {
+          "heading": "Pericarp Seeds",
+          "text": "Olive-sized seeds encased in an impervious woody coat capable of remaining viable for over a millennium."
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/33059564/pexels-photo-33059564.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Lotus blossom showing central yellow receptacle",
+          "caption": "Inverted conical receptacle and golden stamen ring framed by rosy-pink tepals."
+        },
+        {
+          "url": "https://images.pexels.com/photos/27451428/pexels-photo-27451428.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Umbrella-shaped emergent lotus leaves",
+          "caption": "Emergent peltate lotus leaves rising cleanly above water on stout central petioles."
+        }
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Taxonomy & Botanical Classification",
+      "subtitle": "Proteales placement and evolutionary convergence with water lilies",
+      "summary": "Why Nelumbo belongs to Proteales alongside plane trees rather than true water lilies.",
+      "paragraphs": [
+        "One of modern botany's most surprising molecular discoveries revealed that Nelumbo is NOT closely related to Nymphaea water lilies. Instead, DNA phylogenetics places family Nelumbonaceae within order Proteales—making the sacred lotus a sister lineage to sycamores/plane trees (Platanus) and Australian proteas!",
+        "Their aquatic resemblance reflects stunning convergent evolution over 100 million years. Only two extant species exist worldwide: Asian pink/white Nelumbo nucifera and North American yellow Nelumbo lutea."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/27451428/pexels-photo-27451428.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Nelumbo nucifera emergent habit",
+          "caption": "Emergent peltate posture and woody torus cleanly separating Nelumbo from floating Nymphaea."
+        }
+      ]
+    },
+    {
+      "number": "03",
+      "title": "Natural Habitat & Global Distribution",
+      "subtitle": "Floodplain wetlands from the Caspian delta to Bengal beels",
+      "summary": "Thriving in seasonal shallow lakes, temple ponds, and wetland marshes across Asia.",
+      "paragraphs": [
+        "Naturally distributed from the Volga River delta and Iran through India, Bangladesh, China, Korea, and northern Australia, Nelumbo nucifera thrives in fertile muddy bottoms of lakes, marshes, and slow river backwaters up to 2.5 metres deep.",
+        "Across Bangladesh's wetland depressions (such as Gopalganj's Bilashpur and Cumilla's historic Padma Dighi lakes), natural lotus beds burst into crimson and white bloom during late monsoon, while agricultural lotus farms cover tens of thousands of hectares across eastern China."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/26545863/pexels-photo-26545863.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Quiet sunlit wetland lake",
+          "caption": "Nutrient-rich alluvial wetland lake supporting dense seasonal lotus stands."
+        }
+      ]
+    },
+    {
+      "number": "04",
+      "title": "Ecological Role & Pollinator Interactions",
+      "subtitle": "Endothermic flower warming and beetle-bee pollination",
+      "summary": "Physiological thermogenesis maintaining 30–35°C floral bowls for ectothermic pollinators.",
+      "paragraphs": [
+        "Nelumbo nucifera is one of a select group of thermogenic plants capable of generating metabolic heat inside floral tissues via the cyanide-resistant alternative oxidase pathway. During bloom, the conical receptacle regulates its temperature between 30°C and 35°C even when dawn air plunges to 10°C!",
+        "This cozy floral incubator volatilizes sweet anise-like scent compounds and offers an energetic haven for cold-numbed beetles and solitary bees, which actively forage and transfer pollen before noon."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/39665142/pexels-photo-39665142.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Pollinating bee inside open flower",
+          "caption": "Bees drawn to warm, pollen-abundant aquatic blossoms during morning opening."
+        }
+      ]
+    },
+    {
+      "number": "05",
+      "title": "Economic, Culinary & Cultural Importance",
+      "subtitle": "Root-to-seed Asian cuisine, lotus silk weaving, and universal iconography",
+      "summary": "High-value rhizome farming, luxury stem-fibre textiles, and revered cultural symbolism.",
+      "paragraphs": [
+        "Every part of Nelumbo nucifera is edible and commercially prized across Asia: crisp sliced rhizomes (renkon / kamal kakdi) are braised, pickled, or fried in Chinese, Japanese, and Indian cuisines; sweet green seeds from young cones are eaten raw like fresh nuts; mature dried seeds are candied or milled into lotus-seed paste for mooncakes; and wide leaves wrap steamed sticky rice.",
+        "In Myanmar and Cambodia, artisans painstakingly draw ultra-fine cellulose threads from freshly snapped lotus petioles to weave rare breathable lotus silk. Spiritually, emerging immaculate from muddy waters, the lotus symbolizes purity and enlightenment across Hinduism, Buddhism, and Bengali poetry."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/33059564/pexels-photo-33059564.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Sacred lotus flower in full bloom",
+          "caption": "Revered across Asian civilizations for cuisine, luxury textiles, and timeless symbolism."
+        }
+      ]
+    },
+    {
+      "number": "06",
+      "title": "Traditional & Scientific Medicinal Properties",
+      "subtitle": "Nuciferine alkaloids, nelumboside, and antioxidant leaf infusions",
+      "summary": "Cardiovascular, lipid-modulating, and calming properties studied across leaves, seeds, and embryos.",
+      "paragraphs": [
+        "Traditional Chinese Medicine and Ayurveda utilize virtually every lotus organ: dried lotus leaves (He Ye) are brewed for summer heat and lipid support; bitter green seed embryos (Lian Zi Xin) calm restlessness; and astringent stamens soothe digestive upset. Bioactives include aporphine alkaloids (nuciferine, liensinine) and flavonoids (quercetin, kaempferol).",
+        "Contemporary pharmacological studies report vasodilatory, lipid-lowering, and mild sedative bioactivity alongside remarkable DNA-repair enzymes protecting lotus seeds over centuries."
+      ],
+      "safetyNote": "Ensure culinary rhizomes and medicinal leaf extracts originate from clean agricultural water bodies free of industrial heavy metals; concentrated alkaloid extracts from green seed embryos should be used cautiously alongside blood-pressure or sedative medications.",
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/27451428/pexels-photo-27451428.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Lotus leaves and floral buds",
+          "caption": "Foliage and floral tissues containing nuciferine alkaloids and antioxidant flavonols."
+        }
+      ]
+    },
+    {
+      "number": "07",
+      "title": "Comprehensive Cultivation & Care Guide",
+      "subtitle": "Round non-draining tubs, delicate rhizome handling, and scarified seeds",
+      "summary": "Cultivating bowl lotuses on rooftops or full-size cultivars in earthen ponds.",
+      "paragraphs": [
+        "To grow lotus in patio water tubs, select a wide, smooth-walled round container (at least 50 cm wide) without drainage holes so the growing tip never bruises against sharp corners. Anchor dormant rhizomes gently in 15 centimetres of heavy clay-loam soil beneath 15 to 30 centimetres of calm sunlit water.",
+        "Wait until 3 to 4 floating pads appear before pushing slow-release aquatic fertilizer tablets into the mud; never snap the fragile apical growing tip of a dormant tuber. Seeds can also be grown by carefully filing the blunt end of the hard dark coat until cream endosperm peeks through before soaking in warm water."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/33059564/pexels-photo-33059564.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Thriving sunlit lotus cultivation",
+          "caption": "Full-sun still-water culture yielding elevated aerial leaves and abundant blossoms."
+        }
+      ]
+    }
+  ],
+  "schemaOrg": {
+    "@type": "Taxon",
+    "name": "Nelumbo nucifera",
+    "alternateName": [
+      "Sacred Lotus",
+      "Poddo (পদ্ম)"
+    ],
+    "taxonRank": "Species",
+    "parentTaxon": {
+      "@type": "Taxon",
+      "name": "Nelumbo",
+      "taxonRank": "Genus",
+      "parentTaxon": {
+        "@type": "Taxon",
+        "name": "Nelumbonaceae",
+        "taxonRank": "Family"
+      }
+    }
+  }
+}

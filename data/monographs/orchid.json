@@ -1,0 +1,193 @@
+{
+  "schemaVersion": "1.1.0",
+  "slug": "orchid",
+  "commonName": "Orchid",
+  "scientificName": "Phalaenopsis & Orchidaceae",
+  "localName": "Orchid / Rasna (অর্কিড)",
+  "category": "Flowers",
+  "categories": [
+    "Flowers"
+  ],
+  "taxonomicDomain": "Angiosperms & Ornamentals",
+  "featuredRank": null,
+  "shortSummary": "Hyper-diverse epiphytic monocot family featuring bilateral zygomorphic blooms, specialized labellum petals, and spongy velamen roots.",
+  "leadOverview": "Orchids (family Orchidaceae, exemplified in horticulture by the Moth Orchid Phalaenopsis and native Vanda/Dendrobium species) represent one of the two largest flowering plant families on Earth with over 28,000 species. Distinguished by symmetrical three-petalled blooms bearing a modified landing-platform lip (labellum) and fused reproductive column, epiphytic orchids thrive suspended on monsoon tree bark.",
+  "heroImage": {
+    "url": "https://images.pexels.com/photos/30313199/pexels-photo-30313199.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "alt": "Delicate orchid blossoms showing symmetrical petals and central labellum lip",
+    "caption": "Zygomorphic orchid blossoms displaying sculpted central labellum and waxy enduring tepals."
+  },
+  "overview": {
+    "plantGroup": "Angiosperm (Monocot)",
+    "family": "Orchidaceae",
+    "genus": "Phalaenopsis (representative)",
+    "species": "Orchidaceae spp.",
+    "growthForm": "Epiphytic or terrestrial perennial herb",
+    "nativeOrigin": "Pan-tropical & Temperate Global (SE Asia, Himalayas, Americas)",
+    "commonUses": "Cut/potted floriculture, Vanilla spice pod, botanical conservation"
+  },
+  "sections": [
+    {
+      "number": "01",
+      "title": "Morphological Description",
+      "subtitle": "Resupinate zygomorphic flowers, labellum lip, fused gynostemium column, and velamen roots",
+      "summary": "Extraordinary floral symmetry, pollen packets (pollinia), and silvery water-sponge aerial roots.",
+      "paragraphs": [
+        "Every orchid flower shares a bilaterally symmetrical (zygomorphic) monocot plan: three outer sepals and three inner petals where the median petal differentiates dramatically into an ornate, often nectar-spurred lip called the labellum. In most species, the flower stalk twists 180 degrees during bud development (resupination) so the labellum faces downward as an insect landing platform.",
+        "Stamens and pistil fuse into a single central structure called the column (gynostemium), packaging pollen grains into waxy coherent masses called pollinia. Epiphytic genera such as Phalaenopsis and Vanda anchor onto tree bark using thick silvery-white aerial roots wrapped in spongy dead-cell velamen that absorbs rainwater and morning mist within seconds."
+      ],
+      "subblocks": [
+        {
+          "heading": "Velamen Roots",
+          "text": "Chlorophyll-bearing aerial roots coated in silvery porous velamen epidermis that turns bright emerald when wet."
+        },
+        {
+          "heading": "Leaves & Pseudobulbs",
+          "text": "Succulent distichous leaves (monopodial Phalaenopsis) or swollen stem water-reservoirs (sympodial Dendrobium)."
+        },
+        {
+          "heading": "Labellum & Column",
+          "text": "Modified lower petal lip guiding pollinators directly beneath the fused stamen-pistil column."
+        },
+        {
+          "heading": "Dust-Like Seeds",
+          "text": "Minute dehiscent capsules releasing hundreds of thousands of microscopic endosperm-free seeds."
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/8503261/pexels-photo-8503261.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Close-up of pink Phalaenopsis orchid flower structure",
+          "caption": "Zygomorphic Phalaenopsis corolla featuring lateral wings, dorsal sepal, and three-lobed lip."
+        },
+        {
+          "url": "https://images.pexels.com/photos/4136888/pexels-photo-4136888.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Graceful cascading arching orchid spray",
+          "caption": "Arching raceme inflorescence sustaining long-lived waxy blossoms for up to three months."
+        }
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Taxonomy & Botanical Classification",
+      "subtitle": "Asparagales order and hyper-speciose Orchidaceae subfamilies",
+      "summary": "Over 28,000 wild species spanning epiphytic tropical canopies and temperate meadows.",
+      "paragraphs": [
+        "Classified within order Asparagales, family Orchidaceae rivals Asteraceae as Earth's largest flowering plant family, encompassing more than 760 genera and 28,000+ accepted wild species alongside over 100,000 registered horticultural hybrids.",
+        "Botanists group cultivated tropical orchids by growth habit: monopodial types like Moth Orchids (Phalaenopsis) and strap-leaved Vanda grow upward from one crown, whereas sympodial types like Dendrobium, Cattleya, and Oncidium advance horizontally via linked pseudobulbs."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/30313199/pexels-photo-30313199.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Vibrant blooming orchids",
+          "caption": "Representative tropical orchid morphology showcasing diverse petal pigmentation."
+        }
+      ]
+    },
+    {
+      "number": "03",
+      "title": "Natural Habitat & Global Distribution",
+      "subtitle": "Cloud-forest tree canopies, Sundarbans mangroves, and Sylhet hills",
+      "summary": "Epiphytic forest niches across Bangladesh's eastern hills and global biodiversity hotspots.",
+      "paragraphs": [
+        "Orchids inhabit every continent except Antarctica, reaching peak diversity in humid tropical cloud forests and monsoon woodlands where roughly 70% of species grow non-parasitically as epiphytes high in mossy tree crotches to reach filtered canopy light.",
+        "In Bangladesh, over 170 wild native orchid species—including celebrated Foxtail orchids (Rhynchostylis retusa, locally Kopou Phul), Dendrobium aphyllum, and Vanda tessellata—flourish naturally atop old mango and sal trees in Sylhet, Lawachara, the Chattogram Hill Tracts, and Sundarbans mangrove canopies."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/31591013/pexels-photo-31591013/free-photo-of-lush-monstera-leaves-in-colombian-jungle.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Humid tropical forest canopy",
+          "caption": "Misty forest canopy habitat providing bright dappled light and buoyant air circulation."
+        }
+      ]
+    },
+    {
+      "number": "04",
+      "title": "Ecological Role & Pollinator Interactions",
+      "subtitle": "Mycorrhizal seed germination and intricate pollinia coevolution",
+      "summary": "Obligate fungal symbiosis for seedling survival and razor-sharp pollinator specificity.",
+      "paragraphs": [
+        "Because orchid seeds are microscopic specks lacking endosperm food reserves, wild germination is impossible without infection by compatible basidiomycete mycorrhizal fungi (such as Rhizoctonia relatives) that feed sugars and minerals to the swelling protocorm embryo.",
+        "At bloom, flowers demonstrate Darwin's famous evolutionary precision: moths, orchid bees, and hoverflies brushing past the column receive sticky twin pollinia glued cleanly onto their heads or backs for cross-pollination on the next blossom."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/39665142/pexels-photo-39665142.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Bee foraging on delicate flower",
+          "caption": "Specialized insect pollination transferring coherent waxy pollinia between flowers."
+        }
+      ]
+    },
+    {
+      "number": "05",
+      "title": "Economic, Culinary & Cultural Importance",
+      "subtitle": "Global potted floriculture, natural Vanilla pods, and Kopou Phul heritage",
+      "summary": "Commercial tissue-culture industry, Vanilla planifolia spice, and CITES habitat protection.",
+      "paragraphs": [
+        "Orchids form the crown jewel of the global potted houseplant trade—led by meristem tissue-cultured Phalaenopsis—while the climbing orchid Vanilla planifolia yields authentic natural vanilla pods cured for pastries and perfumery worldwide. In Bangladesh and Assam, pendant lilac sprays of wild Kopou Phul symbolize spring festivities.",
+        "Due to poaching threats against wild mountain species, ALL members of family Orchidaceae are protected under international CITES conservation treaties; ethical enthusiasts purchase exclusively nursery-propagated flask or mericlone plants."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/4136888/pexels-photo-4136888.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Cultivated decorative orchid stem",
+          "caption": "Long-lasting tissue-cultured orchid sprays sustaining modern ethical floriculture."
+        }
+      ]
+    },
+    {
+      "number": "06",
+      "title": "Traditional & Scientific Medicinal Properties",
+      "subtitle": "Dendrobine alkaloids, gastrodin, and wild-harvest conservation alerts",
+      "summary": "Ethnobotanical compounds in cultivated Dendrobium and Gastrodia paired with CITES ethics.",
+      "paragraphs": [
+        "In East Asian and Ayurvedic traditions, cultivated stems of Dendrobium nobile ('Shi Hu') and tubers of Gastrodia elata are valued for soothing dry throat irritation and supporting cellular hydration, containing alkaloids such as dendrobine and phenolic bibenzyls.",
+        "Modern pharmacology also investigates orchid-derived polysaccharides for mucosal protection, while strictly emphasizing cultivation over wild collection."
+      ],
+      "safetyNote": "Never wild-harvest terrestrial or epiphytic orchids for salep starch or herbal remedies—overcollection has driven numerous native Asian and Mediterranean orchids toward extinction, and wild-dug roots violate CITES conservation laws. Only use documented, nursery-grown food-grade Vanilla or certified cultivated herbs.",
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/8503261/pexels-photo-8503261.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Detailed Phalaenopsis orchid flower",
+          "caption": "Conservation-protected Orchidaceae treasured for biodiversity and ethical propagation."
+        }
+      ]
+    },
+    {
+      "number": "07",
+      "title": "Comprehensive Cultivation & Care Guide",
+      "subtitle": "Chunky pine bark media, airy slatted pots, crown-rot prevention, and night temperature drops",
+      "summary": "Mastering epiphytic root aeration so orchids rebloom reliably year after year.",
+      "paragraphs": [
+        "Never pot epiphytic orchids (Phalaenopsis, Cattleya, Dendrobium) in ordinary garden soil—dense dirt suffocates airy velamen roots within weeks! Use coarse fir bark chips blended with charcoal and perlite inside clear slotted pots, or mount Vandas barefoot in wooden slatted baskets.",
+        "Water thoroughly only when silvery roots look pale and bark feels nearly dry, ensuring water never pools inside the central leaf crown where rot begins. Provide bright east-window filtered light, weekly weak 'quarter-strength' balanced orchid fertilizer, and a gentle 5°C cooler autumn night dip to trigger fresh flower spikes."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/30313199/pexels-photo-30313199.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Well-tended blooming indoor orchids",
+          "caption": "Bright filtered window light and airy bark aeration encouraging annual spike rebloom."
+        }
+      ]
+    }
+  ],
+  "schemaOrg": {
+    "@type": "Taxon",
+    "name": "Phalaenopsis & Orchidaceae",
+    "alternateName": [
+      "Orchid",
+      "Orchid / Rasna (অর্কিড)"
+    ],
+    "taxonRank": "Species",
+    "parentTaxon": {
+      "@type": "Taxon",
+      "name": "Phalaenopsis (representative)",
+      "taxonRank": "Genus",
+      "parentTaxon": {
+        "@type": "Taxon",
+        "name": "Orchidaceae",
+        "taxonRank": "Family"
+      }
+    }
+  }
+}

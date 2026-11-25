@@ -1,0 +1,204 @@
+{
+  "schemaVersion": "1.1.0",
+  "slug": "mahogany",
+  "commonName": "West Indian Mahogany",
+  "scientificName": "Swietenia mahagoni",
+  "localName": "Mehgoni (মেহগনি)",
+  "category": "Trees & Palms",
+  "categories": [
+    "Trees & Palms",
+    "Medicinal"
+  ],
+  "taxonomicDomain": "Tropical Canopy & Ornamentals",
+  "featuredRank": null,
+  "shortSummary": "Prized tropical timber giant widely grown across South Asian homesteads for lustrous reddish-brown heartwood, woody five-valved capsules, and winged seeds.",
+  "leadOverview": "Swietenia mahagoni—universally recognized across Bangladesh's villages and roadsides as Mehgoni—is a stately semi-evergreen canopy tree of the Meliaceae family. Celebrated worldwide for fine reddish-brown furniture heartwood, its tall symmetrical crowns also shelter rural homesteads while splitting woody pear-shaped fruits scatter dozens of papery winged seeds across spring winds.",
+  "heroImage": {
+    "url": "https://images.pexels.com/photos/30316269/pexels-photo-30316269.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "alt": "Towering mahogany canopy tree in sunlit tropical woodland",
+    "caption": "Symmetrical spreading crown and compound foliage of Swietenia mahagoni."
+  },
+  "overview": {
+    "plantGroup": "Angiosperm (Eudicot)",
+    "family": "Meliaceae",
+    "genus": "Swietenia",
+    "species": "S. mahagoni",
+    "growthForm": "Tall semi-evergreen timber tree (20–35 m)",
+    "nativeOrigin": "Caribbean & Southern Florida (Naturalized in South Asia)",
+    "commonUses": "Fine cabinetry timber, roadside agroforestry shade, oil-seed insecticidal extracts"
+  },
+  "cultivationTelemetry": {
+    "phMin": 5.8,
+    "phMax": 7.5,
+    "phOptimalLabel": "pH 5.8 – 7.5",
+    "sunlightLevel": 3,
+    "sunlightLabel": "Full Sun / Emergent",
+    "irrigationLevel": 2,
+    "irrigationLabel": "Moderate Seasonal",
+    "soilDrainageLabel": "Deep Well-Drained Loam"
+  },
+  "sections": [
+    {
+      "number": "01",
+      "title": "Morphological Description",
+      "subtitle": "Evenly pinnate glossy leaflets, woody pear capsules, and helicopter samara seeds",
+      "summary": "Anatomy of straight timber trunks, compound foliage, five-parted capsules, and winged seeds.",
+      "paragraphs": [
+        "Swietenia mahagoni develops a tall, straight, buttressed trunk rising 20 to 35 metres beneath a dense rounded dome of glossy deep-green foliage. Young smooth grey bark gradually matures into dark scaly ridges flaking in irregular plates. Leaves are alternate and evenly pinnate (12–25 cm long), bearing 4 to 8 pairs of asymmetrical curved ovate leaflets.",
+        "In spring, tiny fragrant greenish-yellow panicles give rise to thick woody, inverted-pear capsules (6–10 cm long) resembling heavy brown eggs suspended upright on sturdy stalks. Upon winter ripening, the five thick woody valves split apart from the base upward, freeing 40 to 50 flat mahogany-brown winged seeds packed tightly around a persistent five-angled woody core."
+      ],
+      "subblocks": [
+        {
+          "heading": "Straight Red-Heartwood Bole",
+          "text": "Dense interlocking timber core oxidizing from warm salmon-pink when freshly sawn to deep wine-mahogany brown."
+        },
+        {
+          "heading": "Paripinnate Leaflets",
+          "text": "Glossy leathery compound leaves flushing bronzed coral briefly after brief dry-winter leaf drop."
+        },
+        {
+          "heading": "Woody 5-Valved Capsules",
+          "text": "Heavy erect russet pods splitting upward into five woody petals along a central pentagonal column."
+        },
+        {
+          "heading": "Papery Winged Seeds",
+          "text": "Light chestnut-brown samaras (4–5 cm) spiraling downward cleanly in dry winter breezes."
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/30316269/pexels-photo-30316269.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Tall tropical hardwood canopy",
+          "caption": "Dense evergreen-to-semi-deciduous canopy providing cooling roadside shade."
+        },
+        {
+          "url": "https://images.pexels.com/photos/216668/pexels-photo-216668.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Scaly dark hardwood trunk bark",
+          "caption": "Mature scaly ridge bark typical of cultivated Swietenia timber stands."
+        }
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Taxonomy & Botanical Classification",
+      "subtitle": "Sapindales Meliaceae lineage alongside Neem and Big-Leaf Mahogany",
+      "summary": "Relationship to Swietenia macrophylla and Neem within the mahogany family Meliaceae.",
+      "paragraphs": [
+        "Belonging to order Sapindales and family Meliaceae (the true mahogany family), Swietenia mahagoni shares its fused staminal-tube floral structure and bitter limonoid triterpenoid chemistry directly with Neem (Azadirachta indica). Nikolaus Joseph von Jacquin named the genus honoring 18th-century physician Gerard van Swieten.",
+        "Across Bangladesh, growers cultivate both compact-leaved West Indian Mahogany (S. mahagoni) and its faster-growing Amazonian cousin Big-Leaf Mahogany (S. macrophylla, often called 'Boro Mehgoni'), along with fertile natural hybrids combining rapid growth with fine grain."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/12067501/pexels-photo-12067501.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Leafy tropical canopy trees",
+          "caption": "Compound pinnate canopy shared across Meliaceae timber lineages."
+        }
+      ]
+    },
+    {
+      "number": "03",
+      "title": "Natural Habitat & Global Distribution",
+      "subtitle": "From West Indies coral hammocks to Bangladesh's foremost agroforestry crop",
+      "summary": "Caribbean origin and immense popularity along Bengal village borders and Jessore timber belts.",
+      "paragraphs": [
+        "Native to southern Florida, the Bahamas, Cuba, Jamaica, and Hispaniola, Swietenia mahagoni historically anchored coastal hardwood hammocks before heavy 18th-century colonial logging made natural wild stands scarce (now listed as Endangered in its native Caribbean range).",
+        "Introduced to South Asia via the Calcutta Botanic Garden in 1795, mahogany adapted remarkably to the Gangetic delta. Today, millions of planted trees line homestead boundaries, rice-field bunds, and rural avenues across Jessore, Barishal, Cumilla, and Tangail—making Bangladesh one of the world's largest cultivated mahogany reservoirs."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/31591013/pexels-photo-31591013/free-photo-of-lush-monstera-leaves-in-colombian-jungle.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Lush humid tropical greenery",
+          "caption": "Humid alluvial lowlands supporting vigorous Swietenia agroforestry belts."
+        }
+      ]
+    },
+    {
+      "number": "04",
+      "title": "Ecological Role & Pollinator Interactions",
+      "subtitle": "Wind-gyrating samaras, hoverfly blooms, and storm-buffer homestead shelterbelts",
+      "summary": "Anemochorous winged seed dispersal, stingless bee pollination, and cyclone windbreaks.",
+      "paragraphs": [
+        "Small pale-green flowers rely on stingless bees, flies, and tiny nocturnal moths for cross-pollination in late spring. Months later, dry northwest breezes liberate hundreds of autorotating winged seeds that helicopter 30 to 60 metres away from shading parent crowns.",
+        "Deep anchoring roots and stout woody limbs enable mature homestead mahogany shelterbelts to slow severe Kalboishakhi nor'wester and coastal cyclone gusts, though entomologists recommend mixing mahogany with native species to deter mahogany shoot-borer moths (Hypsipyla robusta)."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/36441123/pexels-photo-36441123.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Pollinating insects on blossoms",
+          "caption": "Small generalist pollinators visiting open greenish-cream Meliaceae flower clusters."
+        }
+      ]
+    },
+    {
+      "number": "05",
+      "title": "Economic, Culinary & Cultural Importance",
+      "subtitle": "Heirloom furniture joinery, acoustic instruments, and rural savings trees",
+      "summary": "Cornerstone of South Asian woodworking economy and smallholder household timber wealth.",
+      "paragraphs": [
+        "True mahogany wood possesses legendary workability—straight-grained, warp-resistant, resonant enough for guitar bodies and pianos, and polishing to a satin reddish-amber sheen prized in heirloom beds, wardrobes, and architectural paneling.",
+        "Across rural Bangladesh, planting a row of Mehgoni saplings functions literally as a living savings account ('gachher bank') helping farming families fund higher education, home construction, or agricultural equipment over a 15-to-25-year rotation."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/216668/pexels-photo-216668.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Mature timber tree trunk",
+          "caption": "Straight knot-free boles prized by traditional furniture makers and cabinetmakers."
+        }
+      ]
+    },
+    {
+      "number": "06",
+      "title": "Traditional & Scientific Medicinal Properties",
+      "subtitle": "Swietenine limonoids, bitter seed chemistry, and strict toxicity cautions",
+      "summary": "Bioactive tetranortriterpenoids in bitter mahogany seeds alongside hepatotoxicity warnings.",
+      "paragraphs": [
+        "Mahogany seeds ('Sky Fruit' / 'Mehgoni Beej') contain intensely bitter limonoid tetranortriterpenoids—including swietenine, swietenolide, and mahoganin—which demonstrate anti-inflammatory, antioxidant, and insect-antifeedant activity in laboratory studies.",
+        "In rural agro-ecology, crushed mahogany seed oil is increasingly formulated as an eco-friendly botanical spray to deter rice and vegetable pests alongside neem extracts."
+      ],
+      "safetyNote": "Do NOT ingest raw mahogany seeds or unregulated 'Sky Fruit' capsules casually: clinical case reports link concentrated Swietenia seed extracts to acute liver injury (hepatotoxicity) and hypoglycemia.",
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/28511113/pexels-photo-28511113.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Natural botanical extracts",
+          "caption": "Seed limonoids studied primarily for natural biopesticide and laboratory pharmacology."
+        }
+      ]
+    },
+    {
+      "number": "07",
+      "title": "Comprehensive Cultivation & Care Guide",
+      "subtitle": "Flat-wing seed sowing, shoot-borer prevention, and mixed canopy spacing",
+      "summary": "Propagating fresh winged seeds and raising straight timber trunks free of shoot borers.",
+      "paragraphs": [
+        "Collect freshly split winged seeds in late Sheet–early Boshonto (February–March), trim off excess papery wing tips if needed, and insert seeds wing-upward at a 45-degree angle in loose sandy nursery beds or polybags (pH 5.8–7.5). Keep moist under 30% shade until seedlings emerge in 14 to 21 days.",
+        "Plant out saplings at 3-by-3-metre spacing mixed alongside neem, jackfruit, or legumes rather than dense monocultures—this biodiversity masks young apical buds from Hypsipyla shoot-borer moths and ensures straight vertical trunk growth."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/30316269/pexels-photo-30316269.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Thriving mixed tropical woodland",
+          "caption": "Mixed agroforestry spacing yields straight boles while minimizing shoot-borer damage."
+        }
+      ]
+    }
+  ],
+  "schemaOrg": {
+    "@type": "Taxon",
+    "name": "Swietenia mahagoni",
+    "alternateName": [
+      "West Indian Mahogany",
+      "Mehgoni (মেহগনি)"
+    ],
+    "taxonRank": "Species",
+    "parentTaxon": {
+      "@type": "Taxon",
+      "name": "Swietenia",
+      "taxonRank": "Genus",
+      "parentTaxon": {
+        "@type": "Taxon",
+        "name": "Meliaceae",
+        "taxonRank": "Family"
+      }
+    }
+  }
+}

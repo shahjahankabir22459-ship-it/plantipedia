@@ -1,0 +1,204 @@
+{
+  "schemaVersion": "1.1.0",
+  "slug": "water-chestnut",
+  "commonName": "Water Chestnut (Paniphal)",
+  "scientificName": "Trapa natans",
+  "localName": "Paniphal / Shingra (পানিফল / শিঙ্গাড়া)",
+  "category": "Aquatic",
+  "categories": [
+    "Aquatic",
+    "Fruit Trees"
+  ],
+  "taxonomicDomain": "Hydrophytes & Wetland Flora",
+  "featuredRank": null,
+  "shortSummary": "Floating freshwater wetland herb famed across Bengal's autumn beels for mosaic diamond-leaf rosettes, buoyant spongy petioles, and sweet starchy horned nuts.",
+  "leadOverview": "Trapa natans (including tropical two-horned Trapa natans var. bispinosa)—cherished across Bangladesh as Paniphal or Shingra—is a captivating annual floating aquatic herb of family Lythraceae. Drifting atop calm monsoon wetlands via geometric mosaic rosettes of inflated spongy petioles, its submerged nodes ripen into crisp, refreshing ivory-white nuts shaped like miniature bull horns.",
+  "heroImage": {
+    "url": "https://images.pexels.com/photos/32437316/pexels-photo-32437316.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "alt": "Lush green floating aquatic plants carpeting sunlit pond water",
+    "caption": "Geometric floating green aquatic foliage thriving across calm sunlit freshwater wetlands."
+  },
+  "overview": {
+    "plantGroup": "Angiosperm (Eudicot)",
+    "family": "Lythraceae",
+    "genus": "Trapa",
+    "species": "T. natans",
+    "growthForm": "Annual floating-rosette aquatic macrophyte (0.5–3 m stems)",
+    "nativeOrigin": "Old World Temperate & Tropical Wetlands (Asia & Europe)",
+    "commonUses": "Fresh crunchy autumn fruit, gluten-free Singhara flour, rural beel aquaculture"
+  },
+  "cultivationTelemetry": {
+    "phMin": 6.0,
+    "phMax": 7.6,
+    "phOptimalLabel": "pH 6.0 – 7.6",
+    "sunlightLevel": 3,
+    "sunlightLabel": "Full Open Pond Sun",
+    "irrigationLevel": 3,
+    "irrigationLabel": "Submerged / Calm Pond Basin",
+    "soilDrainageLabel": "Nutrient-Rich Freshwater Silt"
+  },
+  "sections": [
+    {
+      "number": "01",
+      "title": "Morphological Description",
+      "subtitle": "Inflated air-bladder petioles, mosaic diamond rosettes, feathery water-roots, and horned drupes",
+      "summary": "Anatomy of dimorphic aquatic leaves, spongy float stalks, submerged photosynthetic roots, and horned nuts.",
+      "paragraphs": [
+        "Trapa natans anchors loosely in muddy pond beds via long, rope-like flexible submerged stems rising up to 3 metres to expand crisp, symmetrical floating rosettes (20–40 cm wide) at the surface. Each serrated, diamond-rhomboid floating leaf sits atop a petiole swollen at its midpoint into a spongy, air-filled elliptical bladder keeping the geometric mosaic afloat.",
+        "Beneath the water surface, submerged nodes produce astonishing green feathery root-like organs that absorb dissolved nutrients and perform underwater photosynthesis! Tiny four-petalled white flowers open briefly above water in late Borsha before bending downward underwater to mature into 3-to-5-centimetre dark-crimson-to-black woody horned nuts harboring crisp, sweet ivory-white starchy cotyledons."
+      ],
+      "subblocks": [
+        {
+          "heading": "Mosaic Diamond Rosettes",
+          "text": "Toothed triangular-rhomboid leaves arranged spirally in flat sunlight-maximizing floating stars."
+        },
+        {
+          "heading": "Spongy Bladder Petioles",
+          "text": "Swollen aerenchyma leaf stalks acting as natural life-vests for maturing underwater fruits."
+        },
+        {
+          "heading": "Photosynthetic Water Roots",
+          "text": "Green feathery submerged nodal appendages combining mineral absorption with aquatic gas exchange."
+        },
+        {
+          "heading": "Horned Woody Nut",
+          "text": "Two- or four-spined triangular drupe shell protecting crisp white hydrating starchy flesh."
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/32437316/pexels-photo-32437316.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Floating green wetland plant canopy",
+          "caption": "Dense floating green rosettes capturing solar energy above calm pond waters."
+        },
+        {
+          "url": "https://images.pexels.com/photos/35027528/pexels-photo-35027528.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Calm shallow freshwater wetland basin",
+          "caption": "Slow-moving sunlit ditches and monsoon floodplains ideal for annual Trapa cultivation."
+        }
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Taxonomy & Botanical Classification",
+      "subtitle": "Lythraceae aquatic lineage and contrast with Cyperaceae Water Chestnut",
+      "summary": "Phylogenetic placement in Lythraceae and distinction from Chinese sedge Eleocharis dulcis.",
+      "paragraphs": [
+        "Once assigned its own family Trapaceae, DNA systematics places Trapa natans cleanly within family Lythraceae (order Myrtales) alongside Pomegranate and Jarul—sharing crumpled four-parted petals and specialized aquatic adaptations. Linnaeus published the species in 1753 from 'calcitrappa' (military four-spiked caltrop).",
+        "Importantly, South Asian horned Paniphal (Trapa natans / T. bispinosa) is unrelated to round, crisp 'Chinese Water Chestnut' used in stir-fries—which is actually the underground corm of an aquatic sedge (Eleocharis dulcis, Cyperaceae)."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/32437316/pexels-photo-32437316.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Aquatic macrophyte rosette cluster",
+          "caption": "Specialized floating morphology within the remarkably diverse myrtle-order family Lythraceae."
+        }
+      ]
+    },
+    {
+      "number": "03",
+      "title": "Natural Habitat & Global Distribution",
+      "subtitle": "Monsoon borrow-pits, Satkhira-Jessore beels, and Eurasian wetlands",
+      "summary": "Cultivated seasonal wetlands across Bangladesh and India alongside Eurasian freshwater ranges.",
+      "paragraphs": [
+        "Native across warm temperate and tropical Eurasia and Africa, Trapa natans thrives in still nutrient-rich ponds, oxbow lakes, and shallow flooded depressions 0.5 to 2.5 metres deep—where annual seeds sink safely into winter mud and sprout once warm spring waters return.",
+        "Across Bangladesh, farmers in Satkhira, Naogaon, Natore, and Bogura profitably cultivate high-yielding red- and green-husked Paniphal across seasonal roadside ditches ('khals/beels') from Asharh through Agrahayan."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/35027528/pexels-photo-35027528.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Sunlit rural wetland pond",
+          "caption": "Monsoon-filled roadside wetlands converted into productive autumn Paniphal farms."
+        }
+      ]
+    },
+    {
+      "number": "04",
+      "title": "Ecological Role & Pollinator Interactions",
+      "subtitle": "Submerged oxygen exchange, fish shade nurseries, and barbule-anchored seeds",
+      "summary": "Autogamous pollination, cooling surface canopy, and ecosystem invasiveness awareness.",
+      "paragraphs": [
+        "Tiny morning flowers are largely self-pollinated alongside minor insect visits before curling securely beneath water to shield ripening nuts from waterfowl. Heavy ripe nuts drop straight into bottom silt, where sharp backward-pointing spines anchor seedlings firmly against gentle flood currents.",
+        "While cultivated Bengal Paniphal creates cool shaded nurseries for small indigenous fish and prawns, dense unmanaged stands outside its native range (such as North American rivers) can shade submerged seagrasses excessively."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/32437316/pexels-photo-32437316.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Dense aquatic leaves shading water surface",
+          "caption": "Floating mats moderating pond surface temperatures and providing small fish refuge."
+        }
+      ]
+    },
+    {
+      "number": "05",
+      "title": "Economic, Culinary & Cultural Importance",
+      "subtitle": "Autumn Paniphal street carts, roasted Shingra kernels, and gluten-free Singhara flour",
+      "summary": "Beloved crisp Bengal autumn snack and nutrient-rich gluten-free flour crop.",
+      "paragraphs": [
+        "Every Hemonto and early Sheet across Dhaka and district towns, pushcarts piled with shiny crimson-and-black horned Paniphal beckon passersby—peeled effortlessly with thumb pressure to reveal snow-white, hydrating, mildly sweet-chestnut-flavored crisp kernels.",
+        "Boiled in salted water, roasted lightly, or dried and milled into fine snow-white gluten-free 'Singhara Atta', water chestnuts supply low-fat carbohydrate, potassium, and manganese across South Asian festive fasting breads, halwas, and rural beel farmer incomes."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/35027528/pexels-photo-35027528.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Harvest wetland fields",
+          "caption": "Seasonal wetland harvests turning monsoon-flooded ditches into high-value seasonal income."
+        }
+      ]
+    },
+    {
+      "number": "06",
+      "title": "Traditional & Scientific Medicinal Properties",
+      "subtitle": "Hydrating electrolytes, resistant starch, and wetland water-borne hygiene advisory",
+      "summary": "Cooling Ayurveda 'Shringataka' nutrition paired with essential parasite-safe washing/cooking hygiene.",
+      "paragraphs": [
+        "Honored in Ayurveda as 'Shringataka' (for its horned triangle form), fresh water chestnut pulp delivers high water content (~70%), potassium, vitamin B6, vitamin C, and slowly digested starch—traditionally prescribed as a cooling nourishing tonic during fever convalescence and summer fatigue.",
+        "Peel extracts display noteworthy phenolic antioxidant and antimicrobial properties in laboratory assays."
+      ],
+      "safetyNote": "IMPORTANT PARASITE PRECAUTION: Because Trapa grows in still freshwater ponds that may harbor snail-borne Fasciolopsis buski (giant intestinal fluke) cysts or waterborne microbes on outer skins, NEVER bite or peel raw Paniphal husks with your teeth—always wash thoroughly in clean water, peel by hand/knife, or boil before eating.",
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/32437316/pexels-photo-32437316.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Fresh aquatic pond foliage",
+          "caption": "Hygienic peeling or boiling preserves clean mineral nutrition while eliminating pond-surface cysts."
+        }
+      ]
+    },
+    {
+      "number": "07",
+      "title": "Comprehensive Cultivation & Care Guide",
+      "subtitle": "Mud-stored seed nuts, Borsha seedling anchoring, and biweekly underwater picking",
+      "summary": "Raising prolific Paniphal harvests in quiet sunlit farm ponds or wide water tanks.",
+      "paragraphs": [
+        "Never dry Trapa seed nuts out—store ripe winter nuts submerged inside cool jars of clean water or damp mud until spring, when white plumules sprout naturally. Gently drop sprouted seedlings into quiet, sunny muddy ponds (0.6–1.5 m deep, pH 6.0–7.6) at monsoon onset spaced 1.5 metres apart.",
+        "Keep waters free of aggressive grass-carp fish during early establishment and thin overly crowded mats slightly in Bhadro. Harvest ripe nuts gently from beneath floating rosettes every 10 to 14 days through Kartik–Poush without snapping main stems."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/35027528/pexels-photo-35027528.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Open sunlit calm wetland pond",
+          "caption": "Still open-sun basins yield continuous harvests across late autumn and early winter."
+        }
+      ]
+    }
+  ],
+  "schemaOrg": {
+    "@type": "Taxon",
+    "name": "Trapa natans",
+    "alternateName": [
+      "Water Chestnut (Paniphal)",
+      "Paniphal (পানিফল)"
+    ],
+    "taxonRank": "Species",
+    "parentTaxon": {
+      "@type": "Taxon",
+      "name": "Trapa",
+      "taxonRank": "Genus",
+      "parentTaxon": {
+        "@type": "Taxon",
+        "name": "Lythraceae",
+        "taxonRank": "Family"
+      }
+    }
+  }
+}

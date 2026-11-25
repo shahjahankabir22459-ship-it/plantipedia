@@ -1,0 +1,204 @@
+{
+  "schemaVersion": "1.1.0",
+  "slug": "frangipani",
+  "commonName": "Frangipani (Kathgolap)",
+  "scientificName": "Plumeria rubra",
+  "localName": "Kathgolap (কাঠগোলাপ)",
+  "category": "Flowers",
+  "categories": [
+    "Flowers",
+    "Trees & Palms"
+  ],
+  "taxonomicDomain": "Angiosperms & Ornamentals",
+  "featuredRank": null,
+  "shortSummary": "Sculptural succulent-branched ornamental tree prized across gardens and avenues for intoxicating white-gold and rose pinwheel blossoms and drought-hardy milky stems.",
+  "leadOverview": "Plumeria rubra—adored across Bangladesh as Kathgolap ('Wood Rose')—is a sculptural, milky-sapped small deciduous tree native to Mesoamerica that has captured South Asian hearts from university campuses to Dhaka rooftop terraces. Its thick succulent fork-branched limbs burst across Grishmo and Borsha with velvety pinwheel blossoms perfumed with warm jasmine-citrus notes.",
+  "heroImage": {
+    "url": "https://images.pexels.com/photos/34190490/pexels-photo-34190490.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "alt": "Luminous white and golden-centered Plumeria frangipani blossoms against sky",
+    "caption": "Velvety overlapping Plumeria pinwheel petals radiating from golden nectarless throats."
+  },
+  "overview": {
+    "plantGroup": "Angiosperm (Eudicot)",
+    "family": "Apocynaceae",
+    "genus": "Plumeria",
+    "species": "P. rubra",
+    "growthForm": "Succulent-stemmed deciduous small tree (4–8 m)",
+    "nativeOrigin": "Mesoamerica (Mexico to Venezuela)",
+    "commonUses": "Ornamental avenues, rooftop bonsai/specimens, fragrant leis & floral decor, perfumery"
+  },
+  "cultivationTelemetry": {
+    "phMin": 6.0,
+    "phMax": 7.5,
+    "phOptimalLabel": "pH 6.0 – 7.5",
+    "sunlightLevel": 3,
+    "sunlightLabel": "Full Scorching Sun",
+    "irrigationLevel": 1,
+    "irrigationLabel": "Low / Drought-Tolerant",
+    "soilDrainageLabel": "Fast-Draining Sandy Pumice Loam"
+  },
+  "sections": [
+    {
+      "number": "01",
+      "title": "Morphological Description",
+      "subtitle": "Dichotomous sausage-thick limbs, spiralled strap leaves, and deceptive pinwheel blooms",
+      "summary": "Anatomy of water-storing latex branches, terminal rosettes, contorted five-lobed corollas, and twin follicles.",
+      "paragraphs": [
+        "Plumeria rubra forms a striking, broad-crowned umbrella tree 4 to 8 metres tall built from thick, fleshy grey-green cylindrical limbs that branch cleanly in rhythmic two- and three-pronged forks ('trichotomous/dichotomous branching') and bleed abundant white latex when nicked. Spiralled at each twig tip sit glossy oblong-obovate leaves (20–35 cm) traced by crisp parallel lateral veins uniting along a neat marginal loop.",
+        "From late Boshonto through Shorot, stout terminal stalks unfurl tight corymbose bouquets of waxy, five-petalled pinwheel flowers (5–9 cm across) ranging from ivory-white with golden egg-yolk centers to fiery coral-rose and magenta. When fertile, flowers mature infrequently into twin divergent dark leathery boat-like follicle pods packed with flat papery winged seeds."
+      ],
+      "subblocks": [
+        {
+          "heading": "Succulent Forked Branches",
+          "text": "Thick water-storing corky stems dotted with crescent leaf scars enabling weeks-long survival out of soil."
+        },
+        {
+          "heading": "Parallel-Veined Rosettes",
+          "text": "Dark leathery oblanceolate blades shedding neatly during cool Sheet to conserve winter water."
+        },
+        {
+          "heading": "Pinwheel Contorted Corolla",
+          "text": "Five velvety imbricate petals twisting smoothly out of spiralled buds to emit citrus-floral fragrance."
+        },
+        {
+          "heading": "Twin Winged Follicles",
+          "text": "Horn-like paired seed pods splitting lengthwise to free flat papery wind-gliding seeds."
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/34190490/pexels-photo-34190490.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Fresh white-and-gold Plumeria blossoms",
+          "caption": "Signature overlapping pinwheel petals glowing with golden-yellow throat pigmentation."
+        },
+        {
+          "url": "https://images.pexels.com/photos/39665142/pexels-photo-39665142.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Pollinator approaching ornamental blossom",
+          "caption": "Floral silhouette enticing hawkmoths and curious pollinators by visual and aromatic cues."
+        }
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Taxonomy & Botanical Classification",
+      "subtitle": "Gentianales Apocynaceae kinship with Nayantara and Karabi",
+      "summary": "Taxonomic links to Periwinkle and Oleander via milky latex, contorted petals, and twin follicles.",
+      "paragraphs": [
+        "Classified in order Gentianales and the dogbane family Apocynaceae, Plumeria rubra is a close woody relative of Madagascar Periwinkle (Catharanthus roseus) and Oleander (Nerium oleander). Tournefort named the genus honoring French botanist Charles Plumier, while Italian perfumer Marquis Muzio Frangipani lent his name after crafting an almond-scented glove perfume reminiscent of the blossoms.",
+        "Horticulturally, the classic white-with-gold garden tree often called Plumeria acuminata or P. obtusa hybrids sits alongside scarlet-pink P. rubra selections in vibrant Thai and Bangladeshi collector gardens."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/34190490/pexels-photo-34190490.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Close-up of five-petalled Plumeria flower",
+          "caption": "Diagnostic contorted aestivation of Apocynaceae blossoms shared with Nayantara."
+        }
+      ]
+    },
+    {
+      "number": "03",
+      "title": "Natural Habitat & Global Distribution",
+      "subtitle": "Rocky Mesoamerican dry forests and South Asian urban rooftop boom",
+      "summary": "Adapted to seasonally dry rocky slopes and effortlessly naturalized across tropical avenues worldwide.",
+      "paragraphs": [
+        "Native to rocky hillsides, volcanic dry forests, and coastal scrub from central Mexico through Central America to Venezuela, Plumeria rubra evolved thick succulent branches specifically to endure months of rainless dry winters.",
+        "Across Bangladesh, Kathgolap has experienced a renaissance over the past two decades—adorning Curzon Hall lawns, lakefront parks, resorts, and thousands of urban rooftop planters where reflected summer concrete heat only intensifies blooming."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/31732206/pexels-photo-31732206.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Sunlit tropical courtyard trees",
+          "caption": "Full sunlight and heat-retentive urban gardens mirror Mesoamerican dry scrub conditions."
+        }
+      ]
+    },
+    {
+      "number": "04",
+      "title": "Ecological Role & Pollinator Interactions",
+      "subtitle": "Pollination by deceit (nectarless hawkmoth trap) and drought shelter",
+      "summary": "Remarkable nectarless moth deception explaining low fruit set alongside strong nocturnal fragrance.",
+      "paragraphs": [
+        "Astonishingly, Plumeria rubra flowers produce zero floral nectar! Instead, they practice 'pollination by deceit': intensifying sweet fruity scent at dusk to lure nocturnal hawkmoths (Sphingidae), which probe empty golden throats searching for reward and inadvertently glue sticky pollinia onto their proboscides.",
+        "Because frustrated moths quickly leave without lingering, natural pod set remains famously rare—making every wild twin-pod discovery a prized event among ornamental hybridizers."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/34190490/pexels-photo-34190490.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Fragrant white and yellow Plumeria flower cluster",
+          "caption": "Luminous yellow center acts as a false nectar beacon guiding visiting sphinx moths."
+        }
+      ]
+    },
+    {
+      "number": "05",
+      "title": "Economic, Culinary & Cultural Importance",
+      "subtitle": "Ceremonial garlands, contemporary South Asian poetry, and perfumery",
+      "summary": "Iconic floral jewelry, cultural romance across Bengal, and high-value collector grafting.",
+      "paragraphs": [
+        "Durable even hours after falling intact onto damp morning lawns, Kathgolap blossoms stay fresh longer than almost any tropical flower—widely woven into ceremonial leis across Polynesia and Southeast Asia, and celebrated in contemporary Bengali poetry, photography, and bridal floral hairpins.",
+        "Botanical nurseries actively trade dozens of named multi-color hybrids ('Rainbow', 'Singapore White', 'Thai Red', 'Bali Whirl') prized for rooftop container landscaping."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/34190490/pexels-photo-34190490.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Freshly opened Kathgolap petals",
+          "caption": "Long-lasting velvety flowers retaining intoxicating scent hours after detachment."
+        }
+      ]
+    },
+    {
+      "number": "06",
+      "title": "Traditional & Scientific Medicinal Properties",
+      "subtitle": "Fulvoplumierin iridoids, antimicrobial bark, and milky latex irritation caution",
+      "summary": "Ethnobotanical antimicrobial compounds balanced by caustic sap warnings.",
+      "paragraphs": [
+        "In traditional Caribbean and Asian folk remedies, diluted flower infusions and steam distillates are valued for soothing aromatic baths, while leaf and bark extracts yield bioactive iridoids—including plumieride and fulvoplumierin—studied in vitro for antifungal and antimicrobial activity.",
+        "Volatile floral terpenes (geraniol, citronellol, linalool, and farnesol) are distilled sparingly for luxury natural aromatherapy and floral absolutes."
+      ],
+      "safetyNote": "All parts of Plumeria rubra—especially pruned stems and leaf stalks—exude toxic milky Apocynaceae latex containing iridoid glycosides that severely irritate skin, mucous membranes, and eyes, and cause vomiting/diarrhea if ingested. Wash hands immediately after pruning and keep pets away from sap.",
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/34190490/pexels-photo-34190490.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Plumeria ornamental stem and flowers",
+          "caption": "Aromatic blossoms prized externally in perfumery; milky stem sap requires glove protection."
+        }
+      ]
+    },
+    {
+      "number": "07",
+      "title": "Comprehensive Cultivation & Care Guide",
+      "subtitle": "Callousing stem cuttings, fast sandy drainage, and bone-dry winter dormancy",
+      "summary": "Rooting Kathgolap cuttings rot-free and triggering heavy rooftop bloom waves.",
+      "paragraphs": [
+        "Propagate effortlessly from 30-centimetre woody stem cuttings taken in late spring: strip lower leaves and air-dry the cut base in shade for 5 to 7 days until a firm dry corky callus seals the sap wound—planting fresh wet cuttings straight into wet soil invites black stem rot. Insert calloused cuttings 8 centimetres deep into gritty porous soil (50% coarse sand/perlite/coco-chips + 50% loam, pH 6.0–7.5).",
+        "Give mature plants 6 to 8 hours of full unobstructed sun and phosphorus-rich bloom feed during monsoon warmth, then withhold almost all water when leaves drop in winter so dormant trunks stay crisp until spring."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/34190490/pexels-photo-34190490.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Sun-drenched blooming Kathgolap crown",
+          "caption": "Porous gritty potting soil and full rooftop sun reward growers with nonstop summer bouquets."
+        }
+      ]
+    }
+  ],
+  "schemaOrg": {
+    "@type": "Taxon",
+    "name": "Plumeria rubra",
+    "alternateName": [
+      "Frangipani (Kathgolap)",
+      "Kathgolap (কাঠগোলাপ)"
+    ],
+    "taxonRank": "Species",
+    "parentTaxon": {
+      "@type": "Taxon",
+      "name": "Plumeria",
+      "taxonRank": "Genus",
+      "parentTaxon": {
+        "@type": "Taxon",
+        "name": "Apocynaceae",
+        "taxonRank": "Family"
+      }
+    }
+  }
+}

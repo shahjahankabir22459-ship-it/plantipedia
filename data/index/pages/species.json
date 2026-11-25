@@ -1,0 +1,82 @@
+{
+  "schemaVersion": "1.0.0",
+  "page": "species",
+  "seo": {
+    "title": "Available Species Directory — 50 Curated Flora Monographs | Plantipedia",
+    "description": "Browse the complete Plantipedia species directory of 50 curated botanical monographs featuring A-Z alphabetical indexing, taxonomic category filters, and instant search.",
+    "keywords": "plant directory, 50 plant species, A-Z plant list, botanical atlas, Plantipedia species, taxonomy search, medicinal flora, fruit trees, ornamental flowers",
+    "author": "Jalees Habib, Rayaan Tasnim",
+    "canonicalFile": "species/",
+    "ogType": "website",
+    "ogTitle": "Available Species Directory — 50 Curated Flora Monographs | Plantipedia",
+    "ogDescription": "Search and filter all 50 documented botanical species across Flowers, Fruit Trees, Medicinal Plants, Shrubs & Herbs, Trees & Palms, and Aquatic Flora.",
+    "ogImage": "https://images.pexels.com/photos/31591013/pexels-photo-31591013/free-photo-of-lush-monstera-leaves-in-colombian-jungle.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "ogImageAlt": "Plantipedia Botanical Species Directory",
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@type": "CollectionPage",
+      "name": "Plantipedia Available Species Directory",
+      "description": "Searchable and filterable atlas of 50 curated botanical species monographs on Plantipedia.",
+      "url": "https://rayaantasnim.github.io/plantipedia/species/",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Plantipedia",
+        "url": "https://rayaantasnim.github.io/plantipedia/"
+      },
+      "author": [
+        { "@type": "Person", "name": "Jalees Habib" },
+        { "@type": "Person", "name": "Rayaan Tasnim" }
+      ]
+    }
+  },
+  "banner": {
+    "breadcrumbs": [
+      { "label": "Home", "href": "./" },
+      { "label": "Available Species", "current": true }
+    ],
+    "eyebrow": "Complete Botanical Index",
+    "headline": "Available Species Atlas",
+    "subcopy": "Browse all 50 curated species in the Plantipedia herbarium archive with instant A–Z alphabetical indexing, taxonomic category filtering, family sorting, and zero-lag rendering.",
+    "stats": {
+      "totalLabel": "Documented Species",
+      "filteredLabel": "Matching Filters"
+    }
+  },
+  "explorer": {
+    "pageSize": 10,
+    "batchSize": 10,
+    "searchPlaceholder": "Search species (EN / বাংলা / Latin / Family)...",
+    "searchAriaLabel": "Filter available plant species in English or Bengali",
+    "clearLabel": "Clear",
+    "savedOnlyLabel": "Saved Only",
+    "sortLabel": "Sort",
+    "sortAriaLabel": "Sort species",
+    "sortOptions": [
+      { "value": "az", "label": "Name (A–Z)" },
+      { "value": "za", "label": "Name (Z–A)" },
+      { "value": "family", "label": "Plant Family" }
+    ],
+    "categoriesAriaLabel": "Filter species by botanical category",
+    "categories": [
+      "All",
+      "Flowers",
+      "Fruit Trees",
+      "Medicinal",
+      "Shrubs & Herbs",
+      "Trees & Palms",
+      "Aquatic"
+    ],
+    "azLabel": "A–Z Index",
+    "azAriaLabel": "Alphabetical quick jump",
+    "azGroupAriaLabel": "Filter by starting letter",
+    "loadingLabel": "Loading botanical species directory...",
+    "resetButtonLabel": "Reset All Filters",
+    "loadMoreBaseLabel": "Load More Species",
+    "cardCtaLabel": "Explore Monograph",
+    "emptyState": {
+      "heading": "No matching botanical species found",
+      "message": "Try clearing the letter filter, selecting a broader taxonomic category, or searching another plant name.",
+      "resetLabel": "Reset All Filters"
+    }
+  }
+}

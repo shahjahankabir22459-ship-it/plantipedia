@@ -1,0 +1,205 @@
+{
+  "schemaVersion": "1.1.0",
+  "slug": "amla",
+  "commonName": "Indian Gooseberry (Amla)",
+  "scientificName": "Phyllanthus emblica",
+  "localName": "Amloki (আমলকী)",
+  "category": "Medicinal",
+  "categories": [
+    "Medicinal",
+    "Fruit Trees",
+    "Trees & Palms"
+  ],
+  "taxonomicDomain": "Ethnobotanical & Ayurvedic Herbs",
+  "featuredRank": null,
+  "shortSummary": "Feathery-foliaged deciduous medicinal tree revered as the cornerstone of Ayurvedic Triphala and Chyawanprash for ultra-stable vitamin C and ellagitannin berries.",
+  "leadOverview": "Phyllanthus emblica—universally treasured across South Asia as Amla or Bengali Amloki—is a graceful medium deciduous tree distinguished by lacy feathery branchlets and translucent pale-green six-ribbed berries. Packing extraordinary concentrations of tannin-stabilized ascorbic acid and emblicanin polyphenols, it anchors both traditional Rasayana rejuvenation and modern antioxidant nutrition.",
+  "heroImage": {
+    "url": "https://images.pexels.com/photos/8971015/pexels-photo-8971015.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "alt": "Translucent green six-ribbed gooseberries hanging along feathery branches",
+    "caption": "Translucent green ribbed fruits nestled along slender phyllanthoid foliage characteristic of Phyllanthus emblica."
+  },
+  "overview": {
+    "plantGroup": "Angiosperm (Eudicot)",
+    "family": "Phyllanthaceae",
+    "genus": "Phyllanthus",
+    "species": "P. emblica",
+    "growthForm": "Feathery deciduous medium tree (8–18 m)",
+    "nativeOrigin": "Tropical & Subtropical South & Southeast Asia",
+    "commonUses": "Triphala & Chyawanprash medicine, vitamin-C pickles & morobba, herbal hair oils, tannin dye"
+  },
+  "cultivationTelemetry": {
+    "phMin": 6.0,
+    "phMax": 8.0,
+    "phOptimalLabel": "pH 6.0 – 8.0",
+    "sunlightLevel": 3,
+    "sunlightLabel": "Full Sun / Hardy",
+    "irrigationLevel": 1,
+    "irrigationLabel": "Low / Drought-Resilient",
+    "soilDrainageLabel": "Well-Drained Sandy-Loam Upland"
+  },
+  "sections": [
+    {
+      "number": "01",
+      "title": "Morphological Description",
+      "subtitle": "Phyllanthoid feathery twiglets, tiny greenish flowers, and six-ridged berries",
+      "summary": "Anatomy of peeling mottled trunks, deceptive compound-like branchlets, unisexual blooms, and hard-stoned drupes.",
+      "paragraphs": [
+        "Phyllanthus emblica grows into a light-crowned deciduous tree 8 to 18 metres tall with spreading crooked limbs and smooth greenish-grey bark that peels naturally in thin flakes. At first glance its foliage appears pinnately compound, yet botanically each 15-to-30-centimetre feathery spray is actually a specialized slender twig ('phyllanthoid branchlet') bearing two neat rows of tiny oblong-linear simple leaflets (1–2 cm long) that shed cleanly along with the twiglet in late winter.",
+        "Minute greenish-yellow petal-less male and female flowers cluster tightly along leafless spring branchlets. Fertilized female blossoms remain quiescent through peak Grishmo heat before swelling rapidly during Borsha into smooth, glossy spherical pale-green drupes (2.5–4.5 cm wide) faintly grooved into six neat longitudinal segments cradling a hard six-ridged stony endocarp."
+      ],
+      "subblocks": [
+        {
+          "heading": "Flaking Mottled Bark",
+          "text": "Smooth ash-grey trunk peeling in irregular patches, rich in condensed gallotannins."
+        },
+        {
+          "heading": "Phyllanthoid Leaf Sprays",
+          "text": "Deciduous feathery twiglets carrying 80–120 tiny linear leaves that fold subtly toward dusk."
+        },
+        {
+          "heading": "Delayed Fruit Swell",
+          "text": "Fertilized ovaries rest dormant through hot spring winds before rapidly expanding during monsoon rains."
+        },
+        {
+          "heading": "Six-Ribbed Acidic Drupe",
+          "text": "Crisp translucent green-gold flesh exploding with sour, astringent, and lingering sweet-aftertaste tannins."
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/8971015/pexels-photo-8971015.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Green gooseberry berries on leafy twig",
+          "caption": "Crisp pale-green berries loaded with vitamin C and antioxidant emblicanins."
+        },
+        {
+          "url": "https://images.pexels.com/photos/36441123/pexels-photo-36441123.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Pollinator bees visiting small blossoms",
+          "caption": "Honeybees and wind currents transferring pollen across dense spring flower clusters."
+        }
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Taxonomy & Botanical Classification",
+      "subtitle": "Malpighiales Phyllanthaceae lineage and separation from Euphorbiaceae",
+      "summary": "Taxonomic placement in Phyllanthaceae alongside Star Gooseberry (Orboroi) and Bhui-Amla.",
+      "paragraphs": [
+        "Formerly grouped inside spurge family Euphorbiaceae, molecular systematics now places Phyllanthus emblica in family Phyllanthaceae (order Malpighiales)—alongside edible sour Star Gooseberry / Orboroi (Phyllanthus acidus) and medicinal herbaceous Bhui-Amla (Phyllanthus niruri). Unlike true spurges, Phyllanthus lacks toxic milky latex.",
+        "Linnaeus named the species in 1753; improved large-fruited Indian orchard cultivars such as 'NA-7', 'Chakaiya', 'Kanchan', and 'BARI Amloki-1' yield nearly three times the berry weight of wild forest trees."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/8971015/pexels-photo-8971015.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Ribbed Phyllanthus fruit detail",
+          "caption": "Distinctive 6-lobed carpel architecture visible across ripe green-yellow fruits."
+        }
+      ]
+    },
+    {
+      "number": "03",
+      "title": "Natural Habitat & Global Distribution",
+      "subtitle": "Dry deciduous forests, Chittagong & Madhupur hills, and alkaline plains",
+      "summary": "Wide adaptation from sub-Himalayan ridges to homestead gardens across Bangladesh and India.",
+      "paragraphs": [
+        "Native across India, Bangladesh, Nepal, Sri Lanka, Myanmar, southern China, and Malaysia, wild Amla thrives in mixed dry-to-moist deciduous hill forests up to 1,500 metres altitude.",
+        "Across Bangladesh, Amloki grows abundantly across the Madhupur Tract, Sylhet hillocks, Chattogram Hill Tracts, and Barind homesteads—prized by agroforesters because it tolerates drought, mild salinity, and mildly alkaline clay loams (pH 6.0–8.0) where few delicate fruit trees survive."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/12067501/pexels-photo-12067501.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Mixed broadleaf hill woodland",
+          "caption": "Sunlit upland forests supporting hardy deciduous Amloki stands."
+        }
+      ]
+    },
+    {
+      "number": "04",
+      "title": "Ecological Role & Pollinator Interactions",
+      "subtitle": "Honeybee spring forage, explosive seed dehiscence, and woodland bird food",
+      "summary": "Pollination biology, sun-cracked ballochorous seed dispersal, and winter wildlife forage.",
+      "paragraphs": [
+        "Tiny greenish spring blossoms attract honeybees, stingless bees, and flies while wind carries fine dry pollen freely through leafless crowns. Because female flowers sit sheltered under feathery shoots, mild spring showers enhance fruit set.",
+        "In late winter, sun-dried wooden stones split open audibly with an elastic snap (autochory) flinging smooth dark-brown triangular seeds metres away, while chital deer and woodland birds chew fallen acidic fruits."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/36441123/pexels-photo-36441123.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Bees foraging for pollen",
+          "caption": "Pollinators visiting spring twigs rich in pollen and subtle floral nectar."
+        }
+      ]
+    },
+    {
+      "number": "05",
+      "title": "Economic, Culinary & Cultural Importance",
+      "subtitle": "Triphala, Chyawanprash, Amla Morobba, and herbal scalp care",
+      "summary": "Multi-million-dollar Ayurvedic nutraceutical anchor and beloved winter pickle fruit.",
+      "paragraphs": [
+        "Amloki is arguably South Asia's most versatile medicinal-culinary fruit: fresh winter berries are shredded with black salt into sun-cured mouth-fresheners ('Amloki Shupari'), candied in spiced syrup as translucent 'Morobba', boiled into savory dal, or blended into tangy winter chutneys.",
+        "Across global wellness industries, dried Amla constitutes one-third of classical Triphala alongside Haritaki and Bahera, forms the primary base of immunity jam Chyawanprash, and infuses coconut and sesame oils as traditional scalp tonics."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/8971015/pexels-photo-8971015.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Freshly harvested green Amla berries",
+          "caption": "Winter harvests supplying fresh vitamin C foods, Morobba preserves, and Triphala powders."
+        }
+      ]
+    },
+    {
+      "number": "06",
+      "title": "Traditional & Scientific Medicinal Properties",
+      "subtitle": "Tannin-protected ascorbic acid, emblicanin A & B, and lipid-antioxidant trials",
+      "summary": "Heat-stable polyphenol-protected vitamin C and clinical cardiometabolic research.",
+      "paragraphs": [
+        "Unique among fruits, Amla contains 400–700 mg of vitamin C per 100 g bound closely to hydrolyzable ellagitannins—emblicanin A, emblicanin B, punigluconin, and pedunculagin—which act as natural shields preventing ascorbic acid oxidation even during cooking or shade drying.",
+        "Contemporary clinical trials indicate standardized Amla extracts may support healthy postprandial lipid profiles, endothelial antioxidant status, and gentle gastrointestinal motility as part of Triphala."
+      ],
+      "safetyNote": "Due to mild antiplatelet and glucose-lowering tendencies observed with concentrated extracts, individuals on anticoagulant drugs (warfarin/aspirin), insulin, or scheduled for surgery should consult a clinician before taking high-dose Amla supplements.",
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/28511113/pexels-photo-28511113.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Dried Ayurvedic Triphala and Amla botanicals",
+          "caption": "Heat-stable ellagitannins preserve remarkable antioxidant potency across dried berries."
+        }
+      ]
+    },
+    {
+      "number": "07",
+      "title": "Comprehensive Cultivation & Care Guide",
+      "subtitle": "Patch budding high-yield clones, boron-zinc sprays, and minimal pruning",
+      "summary": "Establishing grafted early-bearing Amloki orchards in sunny well-drained loam.",
+      "paragraphs": [
+        "Extract fresh triangular seeds from sun-split winter stones and soak overnight before sowing; then shield-bud or patch-bud elite large-fruited clones ('BARI Amloki-1', 'NA-7') onto 9-month seedling stems in early monsoon for heavy fruiting within 3 to 4 years.",
+        "Space trees 7 to 8 metres apart in full sunlight (pH 6.0–8.0). Apply compost and trace zinc/boron foliar sprays prior to monsoon fruit swell to prevent internal fruit necrosis, and enjoy decades of low-maintenance winter harvests."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/31732206/pexels-photo-31732206.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Hardy sunny orchard rows",
+          "caption": "Full sunlight and well-drained soils encourage heavy clusters of large glossy winter berries."
+        }
+      ]
+    }
+  ],
+  "schemaOrg": {
+    "@type": "Taxon",
+    "name": "Phyllanthus emblica",
+    "alternateName": [
+      "Indian Gooseberry (Amla)",
+      "Amloki (আমলকী)"
+    ],
+    "taxonRank": "Species",
+    "parentTaxon": {
+      "@type": "Taxon",
+      "name": "Phyllanthus",
+      "taxonRank": "Genus",
+      "parentTaxon": {
+        "@type": "Taxon",
+        "name": "Phyllanthaceae",
+        "taxonRank": "Family"
+      }
+    }
+  }
+}

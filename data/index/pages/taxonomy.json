@@ -1,0 +1,410 @@
+{
+  "schemaVersion": "1.0.0",
+  "page": "taxonomy",
+  "seo": {
+    "title": "Taxonomic Lineage Explorer — Botanical Families | Plantipedia",
+    "description": "Browse Plantipedia's documented botanical families—from Anacardiaceae and Meliaceae to Nymphaeaceae and Orchidaceae—with diagnostic family traits and live species filtering.",
+    "keywords": "plant taxonomy, botanical families, Anacardiaceae, Meliaceae, Malvaceae, Moraceae, Lamiaceae, Asteraceae, Plantipedia",
+    "author": "Plantipedia Botanical Archive",
+    "canonicalFile": "taxonomy/",
+    "ogType": "website",
+    "ogTitle": "Taxonomic Lineage Explorer — Botanical Families | Plantipedia",
+    "ogDescription": "Explore evolutionary plant families, Linnaean orders, diagnostic floral morphology, and member species monographs.",
+    "ogImage": "https://images.pexels.com/photos/31591013/pexels-photo-31591013/free-photo-of-lush-monstera-leaves-in-colombian-jungle.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "ogImageAlt": "Plantipedia Taxonomic Lineage Explorer"
+  },
+  "banner": {
+    "breadcrumbs": [
+      { "label": "Home", "href": "./" },
+      { "label": "Available Species", "href": "./species/" },
+      { "label": "Taxonomic Lineage", "current": true }
+    ],
+    "eyebrow": "Phylogenetic Archive · Family Registry",
+    "headline": "Taxonomic Lineage Explorer",
+    "subcopy": "Select any botanical family below to inspect diagnostic anatomical traits, evolutionary clade placement, and all documented species monographs belonging to that lineage."
+  },
+  "ui": {
+    "goBackLabel": "← Go Back",
+    "viewFamilyCta": "Inspect Lineage →",
+    "speciesCountSingular": "1 Documented Species",
+    "speciesCountPlural": "{count} Documented Species",
+    "traitsHeading": "Diagnostic Family Traits",
+    "membersHeading": "Documented Species in {family}"
+  },
+  "families": {
+    "Anacardiaceae": {
+      "order": "Sapindales",
+      "clade": "Eudicot (Rosids)",
+      "familyBn": "অ্যানাকার্ডিয়েসি (আম গোত্র)",
+      "description": "Resin-bearing tropical trees and shrubs known for compound or simple leathery foliage, panicle inflorescences, and aromatic drupes.",
+      "traits": [
+        "Resin canals in bark yielding turpentine-scented oleoresins and phenolic mangiferin",
+        "Dense branched terminal panicles with tiny pentamerous nectary discs",
+        "Fleshy stone fruits (drupes) adapted for vertebrate dispersal"
+      ]
+    },
+    "Rosaceae": {
+      "order": "Rosales",
+      "clade": "Eudicot (Fabids)",
+      "familyBn": "রোজেসি (গোলাপ গোত্র)",
+      "description": "Iconic flowering shrubs and temperate-to-subtropical ornamentals characterized by stipulate compound leaves, showy five-parted corollas, and numerous stamens.",
+      "traits": [
+        "Perigynous hypanthium cup bearing spiralled or pentamerous petals",
+        "Alternate stipulate leaves often armed with epidermal prickles",
+        "High aromatic terpene ester synthesis in floral petals"
+      ]
+    },
+    "Asteraceae": {
+      "order": "Asterales",
+      "clade": "Eudicot (Asterids)",
+      "familyBn": "অ্যাস্টেরেসি (সূর্যমুখী গোত্র)",
+      "description": "Earth's largest flowering plant family, distinguished by composite flower heads (capitula) uniting sterile ray florets and fertile central disc florets.",
+      "traits": [
+        "Capitulum inflorescence mimicking a single giant blossom",
+        "Single-seeded achene fruits frequently topped with calyx pappus",
+        "Rich carotenoid pigments and heliotropic or aromatic terpenes"
+      ]
+    },
+    "Apocynaceae": {
+      "order": "Gentianales",
+      "clade": "Eudicot (Asterids)",
+      "familyBn": "অ্যাপোসাইনাসি (করবী গোত্র)",
+      "description": "Milky-latex herbs, climbers, and tropical shrubs renowned for contorted five-lobed pinwheel corollas and pharmacologically active indole alkaloids.",
+      "traits": [
+        "Opposite glossy simple leaves and milky or clear laticifer sap",
+        "Salverform tubular corollas twisting in bud (contorted aestivation)",
+        "Paired elongated follicle seed pods and vinca alkaloid chemistry"
+      ]
+    },
+    "Rubiaceae": {
+      "order": "Gentianales",
+      "clade": "Eudicot (Asterids)",
+      "familyBn": "রুবিয়াসি (কদম গোত্র)",
+      "description": "Tropical shrubs and trees marked by opposite simple leaves linked by interpetiolar stipules and dense corymb clusters of four-lobed tubular flowers.",
+      "traits": [
+        "Strictly opposite leaves connected by triangular interpetiolar stipules",
+        "Hemispherical corymb inflorescences attracting butterflies & sunbirds",
+        "Fleshy berry-like drupes maturing from scarlet-orange blooms"
+      ]
+    },
+    "Nymphaeaceae": {
+      "order": "Nymphaeales",
+      "clade": "Basal Angiosperm",
+      "familyBn": "নিমফিয়াসি (শাপলা গোত্র)",
+      "description": "Ancient aquatic rhizomatous herbs bridging early flowering plant evolution, anchored in wetland silt with floating peltate leaves and buoyant aerenchyma.",
+      "traits": [
+        "Spongy gas-filled aerenchyma channels inside long flexible petioles",
+        "Floating orbicular pads with waxy water-shedding upper cuticles",
+        "Spiral transition between outer petals and inner pollen stamens"
+      ]
+    },
+    "Moraceae": {
+      "order": "Rosales",
+      "clade": "Eudicot (Fabids)",
+      "familyBn": "মোরাসি (ডুমুর-কাঁঠাল গোত্র)",
+      "description": "Laticiferous tropical canopy giants producing milky latex and remarkable multiple fruits—ranging from inverted fig syconia to cauliflorous jackfruit syncarps.",
+      "traits": [
+        "Abundant white milky latex across bark, petioles, and fruit",
+        "Conical sheathing stipules leaving circular scars on twigs",
+        "Compound multiple fruits (syconia or trunk-borne syncarps)"
+      ]
+    },
+    "Meliaceae": {
+      "order": "Sapindales",
+      "clade": "Eudicot (Malvids)",
+      "familyBn": "মেলিয়াসি (মেহগনি-নিম গোত্র)",
+      "description": "Drought-resilient timber and medicinal trees of the mahogany order featuring pinnately compound foliage and bitter insect-repellent limonoid triterpenoids.",
+      "traits": [
+        "Imparipinnate drooping foliage with asymmetrical falcate leaflets",
+        "Staminal tube uniting filaments into a central floral column",
+        "Rich azadirachtin and limonoid phytochemistry in seeds and bark"
+      ]
+    },
+    "Lamiaceae": {
+      "order": "Lamiales",
+      "clade": "Eudicot (Lamiids)",
+      "familyBn": "ল্যামিয়াসি (তুলসী গোত্র)",
+      "description": "Aromatic mint-family herbs and subshrubs distinguished by square cross-section stems, opposite decussate leaves, and glandular trichomes.",
+      "traits": [
+        "Quadrangular (four-angled) stems and decussate aromatic leaves",
+        "Verticillaster whorled flower spikes attracting native bees",
+        "Essential oil glands rich in eugenol, camphor, and rosmarinic acid"
+      ]
+    },
+    "Malvaceae": {
+      "order": "Malvales",
+      "clade": "Eudicot (Malvids)",
+      "familyBn": "ম্যালভেসি (জবা গোত্র)",
+      "description": "Mucilaginous mallow shrubs and trees famed for showy funnel blossoms bearing a prominent monadelphous staminal column fused around the style.",
+      "traits": [
+        "Monadelphous stamens fused into an exserted crimson column",
+        "Epicalyx bracteoles beneath a five-lobed valvate calyx",
+        "Polysaccharide mucilage cells in petals, bark, and leaves"
+      ]
+    },
+    "Oleaceae": {
+      "order": "Lamiales",
+      "clade": "Eudicot (Lamiids)",
+      "familyBn": "ওলিয়াসি (বেলি-জলপাই গোত্র)",
+      "description": "Olive and jasmine woody climbers and trees recognized by opposite leaves and intensely fragrant, star-like white corollas rich in benzyl acetate.",
+      "traits": [
+        "Opposite simple or trifoliate leaves without stipules",
+        "Nocturnal fragrance release timed for crepuscular moth pollination",
+        "Paired stamens attached inside slender tubular floral throats"
+      ]
+    },
+    "Nelumbonaceae": {
+      "order": "Proteales",
+      "clade": "Basal Eudicot",
+      "familyBn": "নেলুম্বোনাসি (পদ্ম গোত্র)",
+      "description": "Sacred emergent wetland lineage distinct from water lilies, possessing superhydrophobic aerial peltate leaves and flat-topped obconical seed receptacles.",
+      "traits": [
+        "Self-cleaning micro-papillose wax leaf surfaces ('Lotus Effect')",
+        "Thermogenic blossoms regulating internal temperature for pollinators",
+        "Long-lived stony nutlets embedded in a spongy shower-head torus"
+      ]
+    },
+    "Arecaceae": {
+      "order": "Arecales",
+      "clade": "Monocot (Commelinids)",
+      "familyBn": "অ্যারেকাসি (তাল-নারিকেল গোত্র)",
+      "description": "Unbranched woody monocot palms crowned with rosettes of giant pinnate fronds, ringed cylindrical trunks, and fibrous coastal drupes.",
+      "traits": [
+        "Solitary cylindrical trunk lacking secondary cambial wood rings",
+        "Giant pinnate crown fronds protected by woven fibrous leaf bases",
+        "Liquid-to-solid endosperm nutrition inside buoyant husk drupes"
+      ]
+    },
+    "Poaceae (Bambusoideae)": {
+      "order": "Poales",
+      "clade": "Monocot (Commelinids)",
+      "familyBn": "পোয়াসি (ঘাস-বাঁশ গোত্র)",
+      "description": "Woody bamboo subfamily of the true grasses exhibiting hollow internodes separated by solid diaphragms, silica-armoured culms, and rapid elongation.",
+      "traits": [
+        "Segmented hollow culms reinforced with biogenic silica and nodal rings",
+        "Interlocking pachymorph underground rhizomes stabilizing riverbanks",
+        "Fastest recorded daily shoot extension in terrestrial flora"
+      ]
+    },
+    "Asphodelaceae": {
+      "order": "Asparagales",
+      "clade": "Monocot",
+      "familyBn": "অ্যাসফোডেলাসি (ঘৃতকুমারী গোত্র)",
+      "description": "Arid-adapted succulent monocots storing mucilaginous acemannan water gel in thick basal leaf rosettes and utilizing nocturnal CAM photosynthesis.",
+      "traits": [
+        "Basal rosettes of spiralled fleshy leaves with cartilaginous marginal teeth",
+        "Dual-layer leaf anatomy: clear inner gel parenchymal + bitter anthraquinone rind",
+        "Crassulacean Acid Metabolism (CAM) conserving desert moisture"
+      ]
+    },
+    "Orchidaceae": {
+      "order": "Asparagales",
+      "clade": "Monocot",
+      "familyBn": "অর্কিডাসি (অর্কিড গোত্র)",
+      "description": "Hyper-diverse epiphytic and terrestrial monocots featuring zygomorphic blossoms with a modified landing-platform petal (labellum) and spongy velamen roots.",
+      "traits": [
+        "Bilateral symmetry with fused stamen-pistil column and labellum lip",
+        "Silvery spongy velamen root epidermis absorbing atmospheric mist",
+        "Symbiotic mycorrhizal dependence for microscopic dust-seed germination"
+      ]
+    },
+    "Nyctaginaceae": {
+      "order": "Caryophyllales",
+      "clade": "Eudicot",
+      "familyBn": "নিক্টাজিনাসি (সন্ধ্যামালতী গোত্র)",
+      "description": "Four-o'clock family climbers and thorny shrubs whose inconspicuous tubular flowers are framed by vivid papery petaloid bracts colored with betalains.",
+      "traits": [
+        "Showy papery involucral bracts replacing petals in pollinator attraction",
+        "Betalain pigments (magenta, gold, coral) instead of anthocyanins",
+        "Curved woody stem spines enabling scrambling canopy ascent"
+      ]
+    },
+    "Theaceae": {
+      "order": "Ericales",
+      "clade": "Eudicot (Asterids)",
+      "familyBn": "থিয়েসি (চা গোত্র)",
+      "description": "Acidophilic evergreen montane shrubs and trees with finely serrated glossy foliage rich in caffeine alkaloids, L-theanine, and catechin polyphenols.",
+      "traits": [
+        "Alternate leathery serrated leaves with translucent oil glands",
+        "Waxy five-petalled white blossoms filled with golden stamen clusters",
+        "Strong affinity for aluminum-rich, strongly acidic upland soils (pH 4.5–5.5)"
+      ]
+    },
+    "Fabaceae": {
+      "order": "Fabales",
+      "clade": "Eudicot (Fabids)",
+      "familyBn": "ফ্যাবাসি (শিম-কৃষ্ণচূড়া গোত্র)",
+      "description": "Cosmopolitan legume family ranging from herbaceous pulses to flamboyant umbrella canopy trees bearing compound pinnate leaves and elongated two-valved pods.",
+      "traits": [
+        "Compound pinnate or doubly pinnate (bipinnate) feathery leaves with pulvinus joints",
+        "Distinctive five-petalled flowers featuring an ornate upper banner petal",
+        "Elongated dehiscent or woody seed pods (legumes) housing hard-coated seeds"
+      ]
+    },
+    "Myrtaceae": {
+      "order": "Myrtales",
+      "clade": "Eudicot (Malvids)",
+      "familyBn": "মিরটাসি (জাম-পেয়ারা গোত্র)",
+      "description": "Aromatic myrtle trees and shrubs distinguished by peeling mottled bark, opposite oil-gland foliage, and powder-puff blossoms bristling with hundreds of stamens.",
+      "traits": [
+        "Exfoliating smooth copper-brown bark flaking in papery patches",
+        "Opposite leathery leaves dotted with fragrant terpenoid oil glands",
+        "Showy stamen-tufted blossoms yielding aromatic crowned berries and drupes"
+      ]
+    },
+    "Sapindaceae": {
+      "order": "Sapindales",
+      "clade": "Eudicot (Malvids)",
+      "familyBn": "স্যাপিন্ডাসি (লিচু গোত্র)",
+      "description": "Subtropical soapberry trees producing pinnately compound foliage, terminal nectariferous panicles, and tuberculate fruits cradling juicy translucent edible arils.",
+      "traits": [
+        "Evenly pinnate glossy foliage flushing coppery-salmon when young",
+        "Dense apetalous floral panicles featuring prominent honeybee nectary discs",
+        "Brittle pebbled pericarps enclosing a fleshy sweet aril around glossy seeds"
+      ]
+    },
+    "Zingiberaceae": {
+      "order": "Zingiberales",
+      "clade": "Monocot (Commelinids)",
+      "familyBn": "জিঞ্জিবেরাসি (আদা-হলুদ গোত্র)",
+      "description": "Aromatic tropical monocot herbs growing from fleshy horizontal rhizomes via clasping leafy pseudostems and shingled cone flower bracts rich in curcuminoids and volatile oils.",
+      "traits": [
+        "Fleshy subterranean rhizomes concentrated with polyphenolic curcuminoids",
+        "Tubular overlapping leaf sheaths forming herbaceous upright pseudostems",
+        "Asymmetrical flowers tucked within colorful shingled cone-spike bracts"
+      ]
+    },
+    "Solanaceae": {
+      "order": "Solanales",
+      "clade": "Eudicot (Lamiids)",
+      "familyBn": "সোলানাসি (বেগুন-অশ্বগন্ধা গোত্র)",
+      "description": "Alkaloid- and steroidal-lactone-rich nightshades spanning culinary vegetables and dryland Ayurvedic subshrubs marked by bell-shaped corollas and fleshy berries.",
+      "traits": [
+        "Radially symmetrical five-lobed bell or star corollas with connivent anthers",
+        "Accrescent papery bladder calyces enclosing orange berries in Physalis/Withania",
+        "Rich secondary metabolite synthesis (withanolides and alkaloids)"
+      ]
+    },
+    "Pontederiaceae": {
+      "order": "Commelinales",
+      "clade": "Monocot (Commelinids)",
+      "familyBn": "পন্টেডেরিয়াসি (কচুরিপানা গোত্র)",
+      "description": "Aquatic freshwater monocots equipped with spongy air-filled aerenchyma floats, feathery nutrient-scavenging roots, and tristylous lavender flower spikes.",
+      "traits": [
+        "Inflated bulbous petioles packed with gas-filled honeycomb aerenchyma",
+        "Dense trailing violet root curtains absorbing aquatic nitrates rapidly",
+        "Orchid-like six-tepalled spikes bearing golden peacock-eye nectar guides"
+      ]
+    },
+    "Dipterocarpaceae": {
+      "order": "Malvales",
+      "clade": "Eudicot (Malvids)",
+      "familyBn": "ডিপ্টেরোকার্পাসি (শাল-গর্জন গোত্র)",
+      "description": "Resin-bearing tropical hardwood giants anchoring South and Southeast Asian broadleaf forests, instantly recognizable by shuttlecock-like winged fruiting calyces.",
+      "traits": [
+        "Woody ovoid nuts crowned with two to five persistent papery calyx wings",
+        "Deeply fissured fire-hardy bark containing aromatic dammar oleoresins",
+        "Ectomycorrhizal root symbiosis supporting gregarious terrace stands"
+      ]
+    },
+    "Combretaceae": {
+      "order": "Myrtales",
+      "clade": "Eudicot (Malvids)",
+      "familyBn": "কমব্রেটাসি (অর্জুন-হরীতকী গোত্র)",
+      "description": "Riparian and dry-forest trees and lianas marked by sub-opposite leaves with basal petiole glands, apetalous stamen-rich spikes, and ribbed or five-winged woody drupes.",
+      "traits": [
+        "Pair of extrafloral nectar glands at the petiole-blade junction",
+        "Dense tannin- and triterpenoid-rich flaking inner bark",
+        "Fibrous multi-winged or angled drupes adapted for floodwater dispersal"
+      ]
+    },
+    "Rutaceae": {
+      "order": "Sapindales",
+      "clade": "Eudicot (Malvids)",
+      "familyBn": "রুটাসি (লেবু-বেল-কামিনী গোত্র)",
+      "description": "Aromatic citrus and wood-apple family distinguished by leaves speckled with translucent essential-oil glands, winged petioles, and intensely fragrant white blossoms.",
+      "traits": [
+        "Pellucid terpenoid oil dots visible when leaves are held against sunlight",
+        "Stout axillary spines or glossy pinnate leaflets with citrus scent",
+        "Hesperidium or hard-shelled amphisarca fruits rich in aromatic pectin"
+      ]
+    },
+    "Lythraceae": {
+      "order": "Myrtales",
+      "clade": "Eudicot (Malvids)",
+      "familyBn": "লাইথ্রাসি (ডালিম-জারুল-পানিফল গোত্র)",
+      "description": "Diverse family spanning ornamental crape-myrtles, jewel-seeded pomegranates, and floating wetland water chestnuts marked by crumpled petals and tubular hypanthia.",
+      "traits": [
+        "Campanulate leathery floral hypanthium cradling crumpled petals",
+        "Opposite simple leaves and tannin-rich rinds or aquatic floating rosettes",
+        "Fleshy arillate seeds (pomegranate) or horned woody aquatic nuts"
+      ]
+    },
+    "Oxalidaceae": {
+      "order": "Oxalidales",
+      "clade": "Eudicot (Rosids)",
+      "familyBn": "অক্সালিডাসি (কামরাঙ্গা গোত্র)",
+      "description": "Woody fruit trees and clover-like herbs noted for oxalic-acid-rich sap, nyctinastic sleep-folding compound leaflets, and deeply five-ribbed star-shaped berries.",
+      "traits": [
+        "Odd-pinnate compound leaves folding downward neatly at dusk",
+        "Cauliflorous and axillary clusters of pink-lavender pentamerous blooms",
+        "Succulent five-winged berries slicing cleanly into five-pointed stars"
+      ]
+    },
+    "Magnoliaceae": {
+      "order": "Magnoliales",
+      "clade": "Magnoliid (Early Angiosperm)",
+      "familyBn": "ম্যাগনোলিয়াসি (চম্পা গোত্র)",
+      "description": "Ancient evolutionary lineage of fragrant forest trees featuring spirally arranged waxy tepals, ringed stipule scars on twigs, and beetle-pollinated cone-like fruits.",
+      "traits": [
+        "Elongated floral receptacle packed with spiral tepals and stamens",
+        "Conical stipular hoods leaving circular nodal rings along smooth twigs",
+        "Fleshy scarlet-seeded follicular aggregates splitting along wooden axes"
+      ]
+    },
+    "Phyllanthaceae": {
+      "order": "Malpighiales",
+      "clade": "Eudicot (Rosids)",
+      "familyBn": "ফাইল্যান্থাসি (আমলকী গোত্র)",
+      "description": "Tropical trees and herbs distinguished by feathery twiglets ('phyllanthoid branching') mimicking pinnate leaves and crisp vitamin-C-packed ribbed drupes.",
+      "traits": [
+        "Deciduous slender branchlets bearing neat rows of tiny oblong leaflets",
+        "Minute monoecious blossoms tucked in axillary clusters along twigs",
+        "Six-ribbed translucent green-gold fruits rich in ascorbic acid & tannins"
+      ]
+    },
+    "Acanthaceae": {
+      "order": "Lamiales",
+      "clade": "Eudicot (Lamiids)",
+      "familyBn": "অ্যাকান্থাসি (কালমেঘ-বাসক গোত্র)",
+      "description": "Medicinal herbs and coastal shrubs recognized by swollen stem nodes above opposite leaves, two-lipped flowers, and explosively dehiscent seed capsules.",
+      "traits": [
+        "Distinctively swollen jointed nodes along quadrangular herbaceous stems",
+        "Bilabiate spotted corollas often framed by conspicuous floral bracts",
+        "Linear two-valved capsules hurling seeds via curved hook-like retinacula"
+      ]
+    },
+    "Plantaginaceae": {
+      "order": "Lamiales",
+      "clade": "Eudicot (Lamiids)",
+      "familyBn": "প্ল্যান্টাজিনাসি (ব্রাহ্মী গোত্র)",
+      "description": "Cosmopolitan medicinal herbs spanning dryland plantains and creeping wetland neuro-botanical mats like Brahmi with succulent opposite leaves and five-lobed bells.",
+      "traits": [
+        "Creeping stoloniferous stems rooting effortlessly at flooded nodes",
+        "Fleshy opposite sessile blades retaining moisture in marsh margins",
+        "Triterpenoid bacoside saponins concentrated in succulent aerial shoots"
+      ]
+    },
+    "Typhaceae": {
+      "order": "Poales",
+      "clade": "Monocot (Commelinids)",
+      "familyBn": "টাইফাসি (হোগলা গোত্র)",
+      "description": "Rhizomatous marshland monocot reeds rising in sword-like vertical blades crowned by dense velvety brown cylindrical cattail flower spikes.",
+      "traits": [
+        "Spongy aerenchyma-filled sword leaves withstanding brackish tides",
+        "Distinctive two-part unisexual cattail spike (male apex over female cylinder)",
+        "Millions of wind-drifted plumed achenes stabilizing delta mudflats"
+      ]
+    }
+  }
+}

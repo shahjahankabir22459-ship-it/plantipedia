@@ -1,0 +1,83 @@
+{
+  "schemaVersion": "1.0.0",
+  "page": "plant",
+  "seo": {
+    "title": "Botanical Species Monograph — 50 Curated Flora Entries | Plantipedia",
+    "description": "Explore detailed 8-chapter botanical monographs from Plantipedia's 50-species archive covering classification, morphology, natural habitat, ecology, medicinal properties, and cultivation.",
+    "keywords": "botanical monograph, 50 curated plant species, plant classification, plant morphology, taxonomy, cultivation guide, medicinal plants, Plantipedia",
+    "author": "Jalees Habib, Rayaan Tasnim",
+    "canonicalFile": "plant/",
+    "ogType": "article",
+    "ogTitle": "Botanical Species Monograph — 50 Curated Flora Entries | Plantipedia",
+    "ogDescription": "Explore detailed 8-chapter botanical monographs from Plantipedia's 50-species archive covering classification, morphology, natural habitat, ecology, medicinal properties, and cultivation.",
+    "ogImage": "https://images.pexels.com/photos/31591013/pexels-photo-31591013/free-photo-of-lush-monstera-leaves-in-colombian-jungle.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "ogImageAlt": "Botanical species monograph plate from Plantipedia"
+  },
+  "sectionMap": {
+    "pillLabel": "Section Map",
+    "defaultSpeciesLabel": "Botanical Monograph",
+    "heading": "JUMP TO SECTION",
+    "closeLabel": "Close section map",
+    "overviewTitle": "Hero & Botanical Classification",
+    "descriptions": {
+      "00": "Botanical overview card, hero plate, and structured classification table",
+      "01": "Detailed anatomy of stems, leaves, inflorescences, fruits, and root systems",
+      "02": "Linnaean hierarchy, phylogenetic lineage, and diagnostic family traits",
+      "03": "Native biomes, global cultivation belts, and South Asian distribution",
+      "04": "Pollinator guilds, nectar rewards, seed dispersal, and trophic relationships",
+      "05": "Agricultural trade, culinary traditions, handicrafts, and cultural symbolism",
+      "06": "Bioactive phytochemicals, ethnomedicine, and clinical safety guidance",
+      "07": "Sunlight, soil pH, propagation, irrigation, pruning, pests, and containers"
+    }
+  },
+  "monograph": {
+    "homeLabel": "Home",
+    "homeHref": "./",
+    "directoryLabel": "Available Species",
+    "directoryHref": "./species/",
+    "profileLabel": "SECTION 00 · BOTANICAL PROFILE",
+    "platePrefix": "Plate 00",
+    "tableCaption": "Botanical Classification & Taxonomic Summary",
+    "tableLabels": {
+      "scientificName": "Scientific Name",
+      "plantGroup": "Plant Group",
+      "family": "Plant Family",
+      "genus": "Genus",
+      "species": "Species",
+      "growthForm": "Growth Form",
+      "nativeOrigin": "Native Origin",
+      "commonUses": "Common Uses"
+    },
+    "safetyTitle": "Botanical & Clinical Safety Advisory",
+    "printButtonLabel": "Export Field Sheet (PDF)",
+    "specimenPlate": {
+      "collectionLabel": "PLANTIPEDIA DIGITAL HERBARIUM",
+      "rankLabel": "Taxonomic Rank",
+      "originLabel": "Biogeographic Origin",
+      "attributionPrefix": "Photographic Plate"
+    },
+    "telemetry": {
+      "heading": "Ecological & Cultivation Telemetry",
+      "phLabel": "Optimal Soil pH Spectrum (4.0 – 9.0)",
+      "sunlightLabel": "Sunlight Intensity",
+      "irrigationLabel": "Irrigation Frequency"
+    },
+    "citation": {
+      "eyebrow": "Academic Reference",
+      "heading": "Cite This Monograph",
+      "institution": "Plantipedia Botanical Archive",
+      "year": 2026,
+      "copyLabel": "Copy Citation",
+      "copiedLabel": "Copied ✓"
+    },
+    "previousLabel": "← Previous Monograph",
+    "nextLabel": "Next Monograph →",
+    "notFound": {
+      "seoTitle": "Species Not Found | Plantipedia",
+      "heading": "Species Monograph Not Found",
+      "message": "No plant entry matched the requested species identifier. Browse all documented monographs in the directory.",
+      "ctaLabel": "Browse Available Species",
+      "ctaHref": "./species/"
+    }
+  }
+}

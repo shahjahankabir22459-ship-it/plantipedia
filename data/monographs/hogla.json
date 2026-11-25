@@ -1,0 +1,204 @@
+{
+  "schemaVersion": "1.1.0",
+  "slug": "hogla",
+  "commonName": "Southern Cattail (Hogla)",
+  "scientificName": "Typha elephantina",
+  "localName": "Hogla (হোগলা)",
+  "category": "Aquatic",
+  "categories": [
+    "Aquatic",
+    "Shrubs & Herbs"
+  ],
+  "taxonomicDomain": "Hydrophytes & Wetland Flora",
+  "featuredRank": null,
+  "shortSummary": "Giant brackish-tolerant marsh reed dominating southern Bengal's coastal wetlands with spongy sword blades, velvety cylindrical spikes, and eco-friendly Hogla Pata woven handicrafts.",
+  "leadOverview": "Typha elephantina—universally known across coastal Bangladesh as Hogla—is a towering emergent monocot marsh reed of the cattail family Typhaceae. Anchoring freshwater and brackish delta mudflats up to 3.5 metres tall, its spongy ribbon-like blades filter polluted runoff naturally while sustaining Barishal and Noakhali's celebrated eco-friendly Hogla Pata mat and basket weaving industry.",
+  "heroImage": {
+    "url": "https://images.pexels.com/photos/32750231/pexels-photo-32750231.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "alt": "Towering Typha cattail reeds standing along serene reflective wetland marsh",
+    "caption": "Vertical velvety brown Typha cattail flower spikes and sword-like blades lining still marshwaters."
+  },
+  "overview": {
+    "plantGroup": "Angiosperm (Monocot)",
+    "family": "Typhaceae",
+    "genus": "Typha",
+    "species": "T. elephantina",
+    "growthForm": "Giant rhizomatous emergent wetland reed (2–4 m)",
+    "nativeOrigin": "South & Southeast Asian Wetlands & Coastal Deltas",
+    "commonUses": "Woven Hogla mats (hogla-pata), eco-baskets, biodegradable craft exports, wetland phytoremediation"
+  },
+  "cultivationTelemetry": {
+    "phMin": 5.5,
+    "phMax": 8.2,
+    "phOptimalLabel": "pH 5.5 – 8.2",
+    "sunlightLevel": 3,
+    "sunlightLabel": "Full Open Marsh Sun",
+    "irrigationLevel": 3,
+    "irrigationLabel": "Shallow Flooded / Brackish Marsh",
+    "soilDrainageLabel": "Saturated Alluvial & Brackish Clay"
+  },
+  "sections": [
+    {
+      "number": "01",
+      "title": "Morphological Description",
+      "subtitle": "Spongy trigonal-keeled sword blades, two-tier velvety spikes, and plumed wind-seeds",
+      "summary": "Anatomy of creeping wetland rhizomes, giant aerated blades, unisexual brown spikes, and downy seeds.",
+      "paragraphs": [
+        "Typha elephantina rises vigorously in dense emerald clumps 2 to 4 metres tall from stout, creeping starchy white rhizomes buried deep inside anaerobic delta silt. Its upright two-ranked linear sword-shaped leaves (2–3.5 cm wide) are remarkably thick and trigonal-keeled toward the base, honeycombed internally with lightweight hexagonal air-chambers (aerenchyma) that give dried reeds natural cushion and float.",
+        "Stiff round unbranched stalks elevate two distinct velvety cylindrical flower spikes stacked vertically along a single axis: an upper golden-tan male pollen tassel separated by a short bare gap (or touching cleanly) above a dense dark-chocolate-brown female cigar-like cylinder containing hundreds of thousands of microscopic flowers that burst at autumn maturity into billowing white wind-drifted fluff."
+      ],
+      "subblocks": [
+        {
+          "heading": "Starchy Creeping Rhizomes",
+          "text": "Horizontal underwater stems piping atmospheric oxygen downward while stabilizing soft mudbanks."
+        },
+        {
+          "heading": "Aerenchyma Sword Blades",
+          "text": "Spongy triangular-section ribbons compressing flat cleanly when sun-dried for soft elastic weaving."
+        },
+        {
+          "heading": "Two-Tiered Cattail Spike",
+          "text": "Upper pollen-shedding staminate spike poised directly over a dense chocolate-brown pistillate cylinder."
+        },
+        {
+          "heading": "Plumed Anemochorous Fluff",
+          "text": "Microscopic single-seeded achenes equipped with silky parachute hairs drifting miles across winter winds."
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/32750231/pexels-photo-32750231.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Cattail reeds reflected in calm marshland",
+          "caption": "Signature cylindrical seed heads towering cleanly above upright sword-like leaves."
+        },
+        {
+          "url": "https://images.pexels.com/photos/35027528/pexels-photo-35027528.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Coastal delta flooded marsh basin",
+          "caption": "Shallow flooded coastal flats supporting vigorous Hogla reed meadows."
+        }
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Taxonomy & Botanical Classification",
+      "subtitle": "Poales Typhaceae monocot lineage and distinction from Lesser Cattail",
+      "summary": "Taxonomic placement in Typhaceae and giant Indian-subcontinent stature of Typha elephantina.",
+      "paragraphs": [
+        "Placed in grass-and-sedge order Poales and family Typhaceae, Typha elephantina (Elephant-grass Cattail) was formally described by William Roxburgh in 1832 based on lower Bengal delta specimens—distinguished from cosmopolitan narrow-leaved Typha domingensis / T. angustifolia by its substantially taller stature and keeled triangular lower leaf cross-section.",
+        "Despite standing beside true grasses and sedges in marshes, cattails represent an ancient specialized wetland monocot lineage without hollow jointed bamboo culms."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/32750231/pexels-photo-32750231.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Detailed Typha wetland spikes",
+          "caption": "Velvety pistillate spikes holding up to 200,000 tiny wind-dispersed fruits per stalk."
+        }
+      ]
+    },
+    {
+      "number": "03",
+      "title": "Natural Habitat & Global Distribution",
+      "subtitle": "Southern Bengal charlands, Barishal-Noakhali canals, and brackish estuaries",
+      "summary": "Freshwater-to-brackish marsh adaptation across Barishal, Lakshmipur, Bhola, and South Asia.",
+      "paragraphs": [
+        "Native from North Africa across the Indian subcontinent, Bangladesh, and mainland Southeast Asia, Typha elephantina colonizes shallow marshes, canal borders, river sandbars (chars), and moderately saline tidal ditches.",
+        "In Bangladesh, Barishal, Jhalokati, Pirojpur, Bhola, Lakshmipur, and Noakhali anchor extensive semi-cultivated Hogla wetlands where periodic tidal inundation suppresses competing dryland weeds naturally."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/35027528/pexels-photo-35027528.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Reflective delta wetland landscape",
+          "caption": "Seasonal and tidal waterlogged depressions powering southern Bengal's Hogla bioeconomy."
+        }
+      ]
+    },
+    {
+      "number": "04",
+      "title": "Ecological Role & Pollinator Interactions",
+      "subtitle": "Constructed-wetland biofiltration, bird roosting, and tidal silt accretion",
+      "summary": "Wind pollination, heavy-metal & nitrate wastewater purification, and nesting habitat for rails and weavers.",
+      "paragraphs": [
+        "Purely wind-pollinated (anemophilous), male spikes shower clouds of bright yellow pollen grains in late spring before drying off. Underground, dense interlocking rhizomes and root microbiomes excel at absorbing excess agricultural nitrates, phosphates, and heavy metals—making Typha the world's premier plant for eco-friendly constructed wastewater reedbeds.",
+        "Above the mud, dense marsh beds shelter purple swamphens, waterhens, weaverbirds, and frogs while trapping sediment along fragile eroding delta chars."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/32750231/pexels-photo-32750231.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Lush marsh reed stand",
+          "caption": "Vertical reed stands filtering excess nutrients while sheltering wetland birds."
+        }
+      ]
+    },
+    {
+      "number": "05",
+      "title": "Economic, Culinary & Cultural Importance",
+      "subtitle": "Hogla Pata mats, export eco-baskets, and edible Hogla pollen-candy heritage",
+      "summary": "Sustainable rural handicraft livelihood exporting Bangladeshi Hogla baskets worldwide.",
+      "paragraphs": [
+        "Sun-dried golden-tan Hogla blades possess natural spongy warmth and soft flexibility: across Noakhali, Lakshmipur, and Barishal, tens of thousands of women artisans braid and weave dried Hogla Pata into iconic prayer mats, floor rugs, storage baskets, and laundry hampers exported globally as zero-plastic biodegradable homewares.",
+        "Seasonally during spring flowering, rural children and wetland harvesters also gather golden pollen from upper male spikes ('Hoglar Gura') to press sweet golden steamed cakes, while velvety seed fluff once stuffed soft rural pillows."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/32750231/pexels-photo-32750231.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Tall mature Hogla marsh reeds",
+          "caption": "Sun-cured flexible leaves transforming marsh reeds into global biodegradable craft exports."
+        }
+      ]
+    },
+    {
+      "number": "06",
+      "title": "Traditional & Scientific Medicinal Properties",
+      "subtitle": "Puhuang astringent pollen pharmacology and heavy-metal marsh bioaccumulation cautions",
+      "summary": "Traditional hemostatic pollen styptic uses paired with environmental water-purity safety.",
+      "paragraphs": [
+        "Across Asian ethnobotanical traditions (paralleling 'Puhuang' cattail pollen in East Asian pharmacopoeias), collected Typha pollen and velvety spike fluff were applied externally as dry styptic dressings on minor cuts, while rhizome starch provided bland soothing sustenance during digestive upset.",
+        "Phytochemical screening reveals isorhamnetin flavonoids, sitosterols, and phenolic compounds with mild anti-inflammatory and astringent action."
+      ],
+      "safetyNote": "CRITICAL ECOLOGICAL HYGIENE NOTE: Because Typha rhizomes actively absorb arsenic, lead, chromium, and industrial effluents from polluted canals, NEVER eat rhizomes, shoots, or pollen gathered near industrial zones, roadside runoff ditches, or polluted urban marshes.",
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/35027528/pexels-photo-35027528.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Wetland marsh habitat",
+          "caption": "Superior phytoremediation talent necessitates strict clean-water sourcing for any culinary use."
+        }
+      ]
+    },
+    {
+      "number": "07",
+      "title": "Comprehensive Cultivation & Care Guide",
+      "subtitle": "Rhizome division planting, water-depth regulation, and winter clean-cut renewal",
+      "summary": "Managing sustainable annual Hogla blade harvests in marshy canals or bio-filtration ponds.",
+      "paragraphs": [
+        "Divide healthy dormant rhizome crowns carrying 2 to 3 shoots in late winter or early spring and push firmly into wet alluvial or mildly brackish mud (pH 5.5–8.2) submerged under 15 to 45 centimetres of water spaced 1 metre apart. Full sunlight drives fast dense reed expansion within a single monsoon.",
+        "Harvest upright green leaves cleanly 15 centimetres above water level in late Hemonto–Sheet for basket weaving—dry neatly in bright clean sun to prevent black mildew—and never harvest from natural wild stands during peak waterbird nesting seasons."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/32750231/pexels-photo-32750231.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Healthy marshland Typha stand",
+          "caption": "Clean winter harvesting above waterlines promotes vigorous spring rhizome regrowth."
+        }
+      ]
+    }
+  ],
+  "schemaOrg": {
+    "@type": "Taxon",
+    "name": "Typha elephantina",
+    "alternateName": [
+      "Southern Cattail (Hogla)",
+      "Hogla (হোগলা)"
+    ],
+    "taxonRank": "Species",
+    "parentTaxon": {
+      "@type": "Taxon",
+      "name": "Typha",
+      "taxonRank": "Genus",
+      "parentTaxon": {
+        "@type": "Taxon",
+        "name": "Typhaceae",
+        "taxonRank": "Family"
+      }
+    }
+  }
+}

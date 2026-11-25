@@ -1,0 +1,106 @@
+{
+  "schemaVersion": "1.1.0",
+  "section": {
+    "id": "trivia",
+    "eyebrow": "04. Botanical Curiosities",
+    "heading": "Did You Know?",
+    "description": "Five remarkable physiological and evolutionary adaptations documented across our curated flora archive—from thermogenic blossoms and millennial seed dormancy to geometric phyllotaxis."
+  },
+  "items": [
+    {
+      "id": "lotus-thermogenic-blossom-dormancy",
+      "title": "Thermogenic Blossom Heating & 1,300-Year Dormancy",
+      "taxonLabel": "Nelumbo nucifera · Sacred Lotus",
+      "speciesSlug": "lotus",
+      "href": "./plant/?species=lotus",
+      "description": "Sacred Lotus flowers actively regulate their receptacle temperature between 30°C and 35°C using cyanide-resistant respiration to volatilize floral scents for nocturnal pollinators, while its hard-coated nutlets have successfully germinated after more than 1,300 years of dormancy in ancient lake sediments.",
+      "image": {
+        "imageUrl": "https://images.pexels.com/photos/33059564/pexels-photo-33059564.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "imageAlt": "Pink Nelumbo nucifera Sacred Lotus blossom emerging above peltate wetland foliage",
+        "photographer": "Pexels Botanical Contributor",
+        "aspectRatio": "4 / 3",
+        "fallbackLabel": "Nelumbo nucifera — Sacred Lotus"
+      },
+      "metadata": {
+        "phenomenon": "Thermogenesis & Dormancy",
+        "family": "Nelumbonaceae"
+      }
+    },
+    {
+      "id": "bamboo-intercalary-culm-elongation",
+      "title": "40+ cm Daily Intercalary Culm Elongation",
+      "taxonLabel": "Bambusoideae · Bamboo",
+      "speciesSlug": "bamboo",
+      "href": "./plant/?species=bamboo",
+      "description": "Unlike dicotyledonous trees that grow strictly from terminal tips and vascular cambium, woody bamboos retain active intercalary meristems at the base of every internode—allowing multiple culm joints to expand simultaneously and surge skyward by over 40 centimetres in a single monsoon day.",
+      "image": {
+        "imageUrl": "https://images.pexels.com/photos/20793642/pexels-photo-20793642.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "imageAlt": "Segmented woody bamboo culms showcasing rapid-elongating internodes in lush grove",
+        "photographer": "Pexels Botanical Contributor",
+        "aspectRatio": "4 / 3",
+        "fallbackLabel": "Bambusoideae — Bamboo"
+      },
+      "metadata": {
+        "phenomenon": "Intercalary Meristem Growth",
+        "family": "Poaceae"
+      }
+    },
+    {
+      "id": "banyan-aerial-prop-root-architecture",
+      "title": "Self-Supporting Aerial Prop-Root Clonal Architecture",
+      "taxonLabel": "Ficus benghalensis · Banyan",
+      "speciesSlug": "banyan",
+      "href": "./plant/?species=banyan",
+      "description": "Spreading horizontal boughs of the Banyan drop slender aerial adventitious roots toward the soil; once anchored, they undergo rapid secondary thickening into lignified pillar trunks indistinguishable from the primary stem, enabling one genetic individual to span several hectares as a living forest.",
+      "image": {
+        "imageUrl": "https://images.pexels.com/photos/5479919/pexels-photo-5479919.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "imageAlt": "Ancient Ficus benghalensis banyan canopy supported by cascading lignified aerial prop roots",
+        "photographer": "Pexels Botanical Contributor",
+        "aspectRatio": "4 / 3",
+        "fallbackLabel": "Ficus benghalensis — Banyan"
+      },
+      "metadata": {
+        "phenomenon": "Clonal Canopy Expansion",
+        "family": "Moraceae"
+      }
+    },
+    {
+      "id": "water-lily-protogynous-beetle-traps",
+      "title": "Protogynous Floral Timing & Botanical Beetle Traps",
+      "taxonLabel": "Nymphaea · Water Lily",
+      "speciesSlug": "water-lily",
+      "href": "./plant/?species=water-lily",
+      "description": "Tropical water lilies open on day one in a female-receptive phase filled with nectar-rich stigmatic fluid that lures and briefly detains pollen-dusted beetles overnight; on day two, the flower reopens in its male phase with erect pollen-shedding stamens, enforcing cross-pollination.",
+      "image": {
+        "imageUrl": "https://images.pexels.com/photos/31856394/pexels-photo-31856394.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "imageAlt": "Macro study of pink Nymphaea water lily petals and golden inner stamens",
+        "photographer": "Pexels Botanical Contributor",
+        "aspectRatio": "4 / 3",
+        "fallbackLabel": "Nymphaea — Water Lily"
+      },
+      "metadata": {
+        "phenomenon": "Protogynous Dichogamy",
+        "family": "Nymphaeaceae"
+      }
+    },
+    {
+      "id": "sunflower-fibonacci-phyllotaxis-spirals",
+      "title": "Fibonacci Golden-Angle Phyllotaxis Spirals",
+      "taxonLabel": "Helianthus annuus · Sunflower",
+      "speciesSlug": "sunflower",
+      "href": "./plant/?species=sunflower",
+      "description": "Developing disc florets in a sunflower capitulum emerge sequentially rotated by the botanical golden angle of roughly 137.5 degrees, automatically organizing mature achenes into interlocking clockwise and counter-clockwise spiral parastichies matching Fibonacci pairs (34/55 or 55/89) for maximum packing efficiency.",
+      "image": {
+        "imageUrl": "https://images.pexels.com/photos/34537615/pexels-photo-34537615/free-photo-of-vibrant-sunflower-in-full-bloom-close-up.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "imageAlt": "Macro close-up of Helianthus annuus disc florets arranged in interlocking Fibonacci spirals",
+        "photographer": "Pexels Botanical Contributor",
+        "aspectRatio": "4 / 3",
+        "fallbackLabel": "Helianthus annuus — Sunflower"
+      },
+      "metadata": {
+        "phenomenon": "Golden-Angle Phyllotaxis",
+        "family": "Asteraceae"
+      }
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "schemaVersion": "1.1.0",
+  "slug": "guava",
+  "commonName": "Guava",
+  "scientificName": "Psidium guajava",
+  "localName": "Peyara (পেয়ারা)",
+  "category": "Fruit Trees",
+  "categories": [
+    "Fruit Trees",
+    "Trees & Palms",
+    "Medicinal"
+  ],
+  "taxonomicDomain": "Tropical Pomology & Fruit Trees",
+  "featuredRank": null,
+  "shortSummary": "Fast-bearing myrtle fruit tree renowned for mottled peeling bark, aromatic vitamin-C-packed berries, and tannin-rich medicinal leaves.",
+  "leadOverview": "Guava (Psidium guajava)—cherished throughout Bengal as Peyara—is one of the most rewarding and nutritionally dense tropical fruit trees on Earth. Native to the Neotropics yet deeply naturalized across Bangladesh's famous floating orchards in Barishal and Pirojpur, its compact crooked canopy bears fragrant white myrtle flowers and crisp, vitamin-C-rich fruits year after year.",
+  "heroImage": {
+    "url": "https://images.pexels.com/photos/28884216/pexels-photo-28884216.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "alt": "Fresh green Psidium guajava guavas hanging amidst veined myrtle leaves",
+    "caption": "Developing green Psidium guajava fruits cradled in crisp opposite veined foliage."
+  },
+  "overview": {
+    "plantGroup": "Angiosperm (Eudicot)",
+    "family": "Myrtaceae",
+    "genus": "Psidium",
+    "species": "P. guajava",
+    "growthForm": "Small spreading evergreen tree (3–10 m)",
+    "nativeOrigin": "Tropical Americas (Mexico to Northern South America)",
+    "commonUses": "Fresh fruit, jellies & nectars, medicinal leaf infusions, floating canal orchards"
+  },
+  "cultivationTelemetry": {
+    "phMin": 5.0,
+    "phMax": 7.5,
+    "phOptimalLabel": "pH 5.0 – 7.5",
+    "sunlightLevel": 3,
+    "sunlightLabel": "Full Sun (6–8 hrs)",
+    "irrigationLevel": 2,
+    "irrigationLabel": "Moderate / Pruning-Guided",
+    "soilDrainageLabel": "Fertile Well-Drained Loam"
+  },
+  "sections": [
+    {
+      "number": "01",
+      "title": "Morphological Description",
+      "subtitle": "Coppery mottled flaking bark, four-angled twigs, and pompon stamen blossoms",
+      "summary": "Detailed breakdown of smooth exfoliating bark, aromatic oil-gland foliage, white brush blossoms, and seedy berries.",
+      "paragraphs": [
+        "Psidium guajava matures into an open, multi-branched small tree 3 to 10 metres tall characterized by smooth, greenish-copper bark that continuously peels away in thin papery flakes to reveal creamy-tan underbark. Young shoots are distinctly four-angled (quadrangular) and softly pubescent, carrying opposite, leathery oblong leaves 7 to 15 centimetres long marked by deeply sunken parallel lateral veins and translucent aromatic oil dots.",
+        "Axillary white flowers (2.5–3 cm wide) emerge singly or in pairs from current-season green shoots, crowned by a fluffy tuft of over 200 delicate white stamens tipped with golden anthers. Pollination produces true many-seeded botanical berries—globose to pyriform fruits crowned by a persistent five-lobed calyx, encasing crisp white or fragrant salmon-pink pulp studded with hard kidney-shaped seeds."
+      ],
+      "subblocks": [
+        {
+          "heading": "Exfoliating Copper Bark",
+          "text": "Smooth pale-brown and greenish bark flaking cleanly in thin irregular patches; flexible tough young stems with four ridges."
+        },
+        {
+          "heading": "Veined Aromatic Leaves",
+          "text": "Opposite elliptic-oblong leaves featuring 12–18 pairs of deeply impressed lateral veins and fragrant terpene glands."
+        },
+        {
+          "heading": "Myrtle Brush Blossoms",
+          "text": "Four or five pure-white petals surrounding a dense pompon of 200–300 creamy stamens rich in pollen and sweet nectar."
+        },
+        {
+          "heading": "Crowned Botanical Berries",
+          "text": "Aromatic yellow-green berries topped by a dry calyx ring, enclosing sweet-tart white or lycopene-pink flesh."
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/28884216/pexels-photo-28884216.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Guava fruits growing on leafy orchard branches",
+          "caption": "Crisp green Psidium guajava fruits showing deeply embossed parallel leaf venation."
+        },
+        {
+          "url": "https://images.pexels.com/photos/8668726/pexels-photo-8668726.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Sliced pink-fleshed ripe guava showcasing seeds and colour",
+          "caption": "Cross-section revealing lycopene-rich salmon-pink mesocarp and radially arranged hard seeds."
+        }
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Taxonomy & Botanical Classification",
+      "subtitle": "Myrtaceae kinship with Syzygium jam, eucalyptus, and cloves",
+      "summary": "Taxonomic placement in family Myrtaceae and cultivar diversity across Asia.",
+      "paragraphs": [
+        "Belonging to order Myrtales and family Myrtaceae, Psidium guajava is a close cousin of South Asia's black plum/jamun (Syzygium cumini), rose apple (jamrul), clove (Syzygium aromaticum), and eucalyptus. Across the family, opposite gland-dotted leaves, peeling bark, and brush-like clusters of free stamens serve as reliable morphological hallmarks.",
+        "Selective horticultural breeding has yielded world-renowned cultivars tailored for different seasons: Kazi Peyara, BARI Peyara-2, Swarupkathi, Allahabad Safeda, and crisp Thai seedless selections."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/8668726/pexels-photo-8668726.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Ripe pink guava cultivar interior",
+          "caption": "Pink-fleshed cultivar exhibiting high lycopene carotenoid expression alongside aromatic esters."
+        }
+      ]
+    },
+    {
+      "number": "03",
+      "title": "Natural Habitat & Global Distribution",
+      "subtitle": "Neotropical origins and Barishal's iconic floating Peyara markets",
+      "summary": "Global pantropical spread and unique tidal-canal raised-bed cultivation in southern Bangladesh.",
+      "paragraphs": [
+        "Originally domesticated thousands of years ago across southern Mexico, Central America, and northern South America, Spanish and Portuguese galleons carried Psidium guajava across Asia by the seventeenth century. Today it flourishes pan-tropically up to 1,500 metres elevation.",
+        "In southern Bangladesh's Swarupkathi (Pirojpur), Jhalokathi, and Barishal delta, growers cultivate vast canal-lined guava gardens on raised earthen beds ('kandi'), transporting mountains of freshly picked green Peyara daily through centuries-old floating boat markets at Bhimruli and Atghar-Kuriana."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/28884216/pexels-photo-28884216.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Tropical guava tree thriving in bright daylight",
+          "caption": "Productive alluvial orchard foliage bearing monsoon and winter fruit crops."
+        }
+      ]
+    },
+    {
+      "number": "04",
+      "title": "Ecological Role & Pollinator Interactions",
+      "subtitle": "Honeybee pollen harvesting, parakeet frugivory, and canopy adaptability",
+      "summary": "Insect pollination increasing fruit size alongside vertebrate seed dispersal.",
+      "paragraphs": [
+        "While guava flowers can self-pollinate, cross-pollination by honeybees (Apis cerana, Apis mellifera), stingless bees, and syrphid flies drawn to the abundant stamen brushes dramatically increases fruit set and berry weight.",
+        "Once berries ripen and release volatile ethyl butyrate aromas, rose-ringed parakeets, fruit bats, and squirrels feast upon the soft pulp, passing hard abrasion-resistant seeds intact across new habitats."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/36441123/pexels-photo-36441123.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Honeybees visiting open nectar blossoms",
+          "caption": "Bee foraging boosts cross-pollination and uniform seed development in guava orchards."
+        }
+      ]
+    },
+    {
+      "number": "05",
+      "title": "Economic, Culinary & Cultural Importance",
+      "subtitle": "Nutritional vitamin-C powerhouse, pectin jellies, and Bengali Peyara Makha",
+      "summary": "Unmatched ascorbic acid content, commercial puree processing, and street-food culture.",
+      "paragraphs": [
+        "Gram for gram, fresh guava fruit provides roughly three to four times more vitamin C (over 200 mg per 100 g) than oranges, alongside abundant soluble pectin, potassium, and pink-cultivar lycopene. Across Bangladesh, crisp half-ripe Peyara tossed with mustard oil, green chili, cilantro, and black salt ('Peyara Makha') is a beloved monsoon-to-autumn street snack.",
+        "High natural pectin inside guava rinds makes it a premier ingredient for translucent guava jelly, artisanal paste (goiabada), juices, and bakery jams worldwide."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/8668726/pexels-photo-8668726.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Freshly sliced pink guava ready for culinary use",
+          "caption": "Vitamin-C- and pectin-dense guava berries treasured fresh or cooked into clear preserves."
+        }
+      ]
+    },
+    {
+      "number": "06",
+      "title": "Traditional & Scientific Medicinal Properties",
+      "subtitle": "Quercetin leaf infusions, tannins, and gut-soothing ethnomedicine",
+      "summary": "Peer-studied antidiarrheal, oral-hygiene, and glycemic-supportive properties of guava leaves.",
+      "paragraphs": [
+        "Guava leaf decoctions are among the most widely validated herbal remedies in tropical ethnomedicine: tender flushed leaves rich in quercetin flavonoids, guaijaverin, ellagic acid, and condensed tannins are brewed across Asia and Latin America to ease acute watery diarrhea and soothe bleeding gums.",
+        "Pharmacological trials demonstrate that standardized guava leaf extracts inhibit smooth-muscle intestinal hypermotility, exert broad-spectrum antibacterial activity against enteric pathogens, and mildly blunt post-meal blood-glucose spikes by moderating alpha-glucosidase enzymes."
+      ],
+      "safetyNote": "Frequent large doses of concentrated tannin-rich guava leaf decoctions may worsen constipation or mildly alter oral blood-glucose-lowering medication absorption; monitor blood sugar carefully if combined with antidiabetic drugs.",
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/28884216/pexels-photo-28884216.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Guava leaves and immature green fruits",
+          "caption": "Young foliage rich in quercetin glycosides, caryophyllene terpenes, and astringent tannins."
+        }
+      ]
+    },
+    {
+      "number": "07",
+      "title": "Comprehensive Cultivation & Care Guide",
+      "subtitle": "Air-layering propagation, crop-regulation pruning, and fruit bagging",
+      "summary": "Producing sweet winter crops cleanly in pH 5.0–7.5 loam using selective pruning.",
+      "paragraphs": [
+        "Commercial growers propagate elite cultivars via air-layering (guti kolom) or veneer grafting during monsoon, yielding true-to-type fruit within 18 to 24 months. Trees tolerate a broad soil spectrum (pH 5.0–7.5) and even temporary dampness when grown on raised mounds in full sun.",
+        "Because guava bears flowers strictly on new vegetative shoots, light post-harvest pruning and withholding water briefly before spring ('bahar' regulation) allow orchardists to shift harvest away from watery monsoon rain into crisp Hemonto–Sheet winter—producing sweeter, less worm-prone fruit especially when young berries are enclosed in breathable white paper bags."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/28884216/pexels-photo-28884216.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Well-tended guava branches with healthy fruit",
+          "caption": "Targeted pruning stimulates vigorous new lateral shoots that yield high-brix winter fruit."
+        }
+      ]
+    }
+  ],
+  "schemaOrg": {
+    "@type": "Taxon",
+    "name": "Psidium guajava",
+    "alternateName": [
+      "Guava",
+      "Peyara (পেয়ারা)"
+    ],
+    "taxonRank": "Species",
+    "parentTaxon": {
+      "@type": "Taxon",
+      "name": "Psidium",
+      "taxonRank": "Genus",
+      "parentTaxon": {
+        "@type": "Taxon",
+        "name": "Myrtaceae",
+        "taxonRank": "Family"
+      }
+    }
+  }
+}

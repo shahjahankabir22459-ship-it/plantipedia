@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.0.0",
+  "page": "home",
+  "seo": {
+    "title": "Plantipedia — Dark Botanical Luxury Encyclopedia & Flora Archive (50 Species)",
+    "description": "Explore Plantipedia, a scholarly digital botanical archive documenting 50 curated plant species with 8-chapter monographs, taxonomy, ecology, and field photography.",
+    "keywords": "plantipedia, plant encyclopedia, botanical archive, 50 curated plant species, taxonomy, plant morphology, South Asian flora, medicinal plants, fruit trees, horticulture",
+    "author": "Jalees Habib, Rayaan Tasnim",
+    "canonicalFile": "",
+    "ogType": "website",
+    "ogTitle": "Plantipedia — 50 Curated Botanical Monographs & Flora Archive",
+    "ogDescription": "Explore Plantipedia's 50 curated botanical monographs spanning morphology, taxonomy, ecology, medicinal properties, and cultivation guides.",
+    "ogImage": "https://images.pexels.com/photos/31591013/pexels-photo-31591013/free-photo-of-lush-monstera-leaves-in-colombian-jungle.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "ogImageAlt": "Lush tropical botanical foliage featured in the Plantipedia Flora Archive",
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "EducationalOrganization",
+          "@id": "https://plantipedia.archive/#organization",
+          "name": "Plantipedia",
+          "description": "An educational botanical encyclopedia documenting 50 curated global and South Asian plant species with taxonomic precision, anatomical descriptions, ecological roles, and horticultural care guides.",
+          "url": "https://plantipedia.archive/",
+          "founder": [
+            { "@type": "Person", "name": "Jalees Habib" },
+            { "@type": "Person", "name": "Rayaan Tasnim" }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://plantipedia.archive/#website",
+          "name": "Plantipedia",
+          "url": "https://plantipedia.archive/",
+          "description": "Botanical luxury encyclopedia documenting 50 curated plant species with 8-chapter monographs covering morphology, taxonomy, ecology, medicinal properties, and cultivation.",
+          "publisher": { "@id": "https://plantipedia.archive/#organization" },
+          "author": [
+            { "@type": "Person", "name": "Jalees Habib" },
+            { "@type": "Person", "name": "Rayaan Tasnim" }
+          ],
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": {
+              "@type": "EntryPoint",
+              "urlTemplate": "https://rayaantasnim.github.io/plantipedia/species/?q={search_term_string}"
+            },
+            "query-input": "required name=search_term_string"
+          }
+        }
+      ]
+    }
+  },
+  "hero": {
+    "anchorId": "hero-search",
+    "kicker": "Botanical Encyclopedia & Flora Archive",
+    "headline": "Discover The Living Architecture of the Plant Kingdom.",
+    "subcopy": "Explore authoritative botanical monographs spanning flowering ornamentals, tropical fruit trees, sacred medicinal herbs, canopy giants, and wetland flora—engineered with Linnaean taxonomy, morphology, ecology, and horticultural care.",
+    "search": {
+      "placeholder": "Search species (EN / বাংলা / Latin / Family)...",
+      "ariaLabel": "Search botanical species",
+      "clearLabel": "Clear",
+      "submitLabel": "Search",
+      "suggestionsLabel": "Matching plant species"
+    },
+    "summaryBadges": [
+      "50 Curated Monographs",
+      "8 Structured Chapters",
+      "High-Res Field Photography"
+    ],
+    "backdropImage": {
+      "imageUrl": "https://images.pexels.com/photos/31591013/pexels-photo-31591013/free-photo-of-lush-monstera-leaves-in-colombian-jungle.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "imageAlt": ""
+    }
+  },
+  "about": {
+    "anchorId": "about-plantipedia",
+    "eyebrow": "01. About Plantipedia",
+    "heading": "An Academic Reference Built for Curious Botanists and Growers",
+    "paragraphs": [
+      "Plantipedia transforms botanical reference literature into a structured, high-contrast digital museum. Every entry in the archive pairs classical taxonomic rigor—from family lineage and floral morphology to pollination syndromes—with practical agronomic guidance rooted in South Asian, tropical, and global growing traditions.",
+      "Curated cleanly across 50 documented plant species, the archive delivers eight-chapter monographs backed by verified field photography and structured classification tables. Explore our top 3 flagship specimens below or open the complete A–Z botanical directory."
+    ],
+    "stats": [
+      {
+        "id": "homeStatSpeciesCount",
+        "dynamicCatalogCount": true,
+        "value": "50",
+        "title": "Indexed Archive Monographs",
+        "description": "50 complete, deeply researched entries across fruit trees, sacred herbs, ornamentals, palms, and aquatic flora."
+      },
+      {
+        "id": "stat-chapters",
+        "value": "08",
+        "title": "Botanical Chapters per Plant",
+        "description": "Classification overview, morphology, taxonomy, habitat, ecology, ethnobotany, medicine, and cultivation."
+      },
+      {
+        "id": "stat-domains",
+        "value": "06",
+        "title": "Curated Flora Domains",
+        "description": "Structured across Flowers, Fruit Trees, Medicinal Plants, Shrubs & Herbs, Trees & Palms, and Aquatic biomes."
+      }
+    ]
+  },
+  "globalGateway": {
+    "anchorId": "worldwide-gateway",
+    "eyebrow": "🌐 WORLDWIDE FLORA REGISTRY · LIVE UPLINK",
+    "statusTag": "ZERO-KEY LIVE UPLINK · STRICT LOCAL BYPASS",
+    "heading": "Worldwide Botanical Server Gateway",
+    "paragraphs": [
+      "While Plantipedia's core archive houses 50 deeply curated, eight-chapter botanical monographs, the global plant kingdom spans more than 390,000 documented vascular species. This dedicated gateway connects your research session directly to the Global Botanical Server for live taxonomic, morphological, and bilingual records.",
+      "Every query entered in this console bypasses the local 50-species index entirely—synthesizing real-time global botanical dossiers on demand with automated plant validation, English and বাংলা nomenclature cross-referencing, and instant split-screen comparison readiness."
+    ],
+    "search": {
+      "placeholder": "Query any worldwide species (e.g., Baobab, Ginkgo Biloba, Venus Flytrap, Rafflesia)...",
+      "ariaLabel": "Query Global Botanical Server by plant name",
+      "submitLabel": "Query Global Server →",
+      "validationHint": "Enter at least 2 characters of a common or Latin botanical name to query the Global Botanical Server."
+    },
+    "expeditionsLabel": "Global Expedition Chips",
+    "expeditions": [
+      "Baobab",
+      "Venus Flytrap",
+      "Ginkgo Biloba",
+      "Dragon Blood Tree",
+      "Rafflesia"
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "schemaVersion": "1.1.0",
+  "slug": "water-hyacinth",
+  "commonName": "Water Hyacinth",
+  "scientificName": "Pontederia crassipes",
+  "localName": "Kochuripana (কচুরিপানা)",
+  "category": "Aquatic",
+  "categories": [
+    "Aquatic",
+    "Flowers"
+  ],
+  "taxonomicDomain": "Hydrophytes & Wetland Flora",
+  "featuredRank": null,
+  "shortSummary": "Free-floating aquatic monocot famous for buoyant spongy air-filled petioles, orchid-like lavender flower spikes, and remarkable phytoremediation.",
+  "leadOverview": "Water Hyacinth (Pontederia crassipes, widely cited under its classic synonym Eichhornia crassipes)—known everywhere in Bangladesh as Kochuripana—is a remarkably buoyant free-floating hydrophyte. During Borsha and Shorot floodwaters, swollen spongy leaf stalks buoy glossy green rosettes across wetlands while sending up showy spikes of lavender-violet blooms marked with a golden peacock-eye nectar guide.",
+  "heroImage": {
+    "url": "https://images.pexels.com/photos/41052910/pexels-photo-41052910.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "alt": "Vibrant lavender-violet Pontederia crassipes water hyacinth flower spike with yellow eye spot",
+    "caption": "Showy lilac-violet Pontederia crassipes inflorescence showing characteristic golden nectar spot."
+  },
+  "overview": {
+    "plantGroup": "Angiosperm (Monocot)",
+    "family": "Pontederiaceae",
+    "genus": "Pontederia",
+    "species": "P. crassipes",
+    "growthForm": "Free-floating stoloniferous aquatic herb (0.3–1 m)",
+    "nativeOrigin": "Amazon & Orinoco Basins of Tropical South America",
+    "commonUses": "Floating vegetable beds (Dhap), woven handicrafts, organic mulch & biogas, wastewater phytoremediation"
+  },
+  "cultivationTelemetry": {
+    "phMin": 5.5,
+    "phMax": 8.0,
+    "phOptimalLabel": "pH 5.5 – 8.0",
+    "sunlightLevel": 3,
+    "sunlightLabel": "Full Sun Aquatic Surface",
+    "irrigationLevel": 3,
+    "irrigationLabel": "Permanent Floating Basin",
+    "soilDrainageLabel": "Nutrient-Rich Still Freshwater"
+  },
+  "sections": [
+    {
+      "number": "01",
+      "title": "Morphological Description",
+      "subtitle": "Spongy aerenchyma floats, feathered dark roots, and tristylous lilac spikes",
+      "summary": "Anatomy of inflated bladder petioles, trailing aquatic root curtains, stolons, and six-tepalled violet spikes.",
+      "paragraphs": [
+        "Pontederia crassipes floats effortlessly without anchoring in soil thanks to bulbous, bottle-shaped leaf petioles packed with honeycomb gas chambers (spongy aerenchyma tissue) that maintain upright buoyancy even during monsoon ripples. Glossy, rounded leathery leaf blades measure 10 to 20 centimetres across, while submerged beneath each rosette trails a dense dark-purple curtain of feathery fibrous roots up to 90 centimetres long.",
+        "From the center of the rosette rises a sturdy erect raceme bearing 8 to 15 delicate lavender-blue six-tepalled blossoms; the uppermost banner tepal carries a deep indigo-violet patch framing a luminous golden-yellow diamond nectar guide. Horizontal green stolons shoot laterally to clone dense interconnected rafts."
+      ],
+      "subblocks": [
+        {
+          "heading": "Bulbous Petiole Floats",
+          "text": "Spongy air-filled swollen leaf stalks acting as natural flotation pontoons across deep floodwaters."
+        },
+        {
+          "heading": "Submerged Root Curtain",
+          "text": "Dark violet-black feathery adventitious roots rich in root hairs that absorb dissolved nutrients and trace metals directly."
+        },
+        {
+          "heading": "Lavender Orchid-Like Spikes",
+          "text": "Showy lilac six-tepalled flowers featuring a distinct yellow-eyed banner petal adapted to visual bee navigation."
+        },
+        {
+          "heading": "Vegetative Stolons",
+          "text": "Rapidly elongating horizontal runners generating genetically identical daughter rosettes capable of doubling biomass every 10–14 days."
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/41052910/pexels-photo-41052910.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Water hyacinth purple flowers with golden center spot",
+          "caption": "Tristylous violet tepals with golden diamond nectar mark glowing in daylight."
+        },
+        {
+          "url": "https://images.pexels.com/photos/25014390/pexels-photo-25014390.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Close-up of blooming water hyacinth petals and inflated leaves",
+          "caption": "Buoyant rosette foliage framing delicate Pontederiaceae floral clusters."
+        }
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Taxonomy & Botanical Classification",
+      "subtitle": "From Eichhornia crassipes to Pontederia crassipes & tristyly genetics",
+      "summary": "Modern phylogenetic merger into genus Pontederia and Darwin-studied heterostyly.",
+      "paragraphs": [
+        "Historically celebrated in botany textbooks under the synonym Eichhornia crassipes, comprehensive phylogenetic DNA analyses demonstrated that floating water hyacinths nest squarely inside pickerelweed genus Pontederia within monocot family Pontederiaceae (order Commelinales), establishing Pontederia crassipes as the modern accepted name.",
+        "Like its close relatives, the species exhibits rare tristylous flowers—meaning individual populations produce three distinct flower morphs (short-, mid-, and long-styled) designed evolutionarily by Charles Darwin's famous studies to enforce outcrossing."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/25014390/pexels-photo-25014390.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Close-up of Pontederiaceae blossom",
+          "caption": "Detailed floral symmetry illustrating Pontederiaceae evolutionary traits."
+        }
+      ]
+    },
+    {
+      "number": "03",
+      "title": "Natural Habitat & Global Distribution",
+      "subtitle": "Amazonian origin and pantropical delta expansion across Bengal",
+      "summary": "Ecological behavior across tropical rivers, floodplains, and managed wetlands worldwide.",
+      "paragraphs": [
+        "Native to the slow-moving blackwater tributaries and seasonal floodplains of South America's Amazon and Orinoco basins—where seasonal floods and natural herbivorous weevils keep growth balanced—Pontederia crassipes was introduced globally in the late nineteenth century for its irresistible orchid-like blooms.",
+        "Arriving in Bengal around the early twentieth century, nutrient-rich alluvial floodwaters enabled it to colonize ponds, canals, and haors across Bangladesh, earning intense study both as an ecological competitor requiring thoughtful management and an abundant renewable biomass resource."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/26545863/pexels-photo-26545863.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Calm sunlit freshwater wetland pond",
+          "caption": "Still freshwater ponds and slow alluvial channels supporting floating hydrophyte colonies."
+        }
+      ]
+    },
+    {
+      "number": "04",
+      "title": "Ecological Role & Pollinator Interactions",
+      "subtitle": "Phytoremediation biofiltration, fish-fry shelter, and oxygen-shading balance",
+      "summary": "Dual ecological profile: filtering polluted effluents while requiring active thinning to prevent pond deoxygenation.",
+      "paragraphs": [
+        "Beneath floating rosettes, dense feathery roots shelter aquatic insect larvae, shrimp, and juvenile fish while harboring biofilms capable of hyper-accumulating excess nitrates, phosphates, and heavy metals from agricultural runoff—making controlled water hyacinth lagoons effective low-cost phytoremediation filters.",
+        "Conversely, unchecked solid mats block submerged sunlight and wind-driven oxygen exchange, underscoring why responsible periodic harvesting is vital to keep open water channels breathable for submerged aquatic flora and native fish."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/39665142/pexels-photo-39665142.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Bee pollinating sunlit blossom",
+          "caption": "Bees drawn to vibrant lilac spikes blooming across summer and autumn wetlands."
+        }
+      ]
+    },
+    {
+      "number": "05",
+      "title": "Economic, Culinary & Cultural Importance",
+      "subtitle": "FAO-recognized Baira floating gardens of Bangladesh, woven baskets, and compost",
+      "summary": "Ingenuity transforming invasive biomass into floating hydroponic farmland and artisan crafts.",
+      "paragraphs": [
+        "In southern Bangladesh's flooded peatlands of Gopalganj, Pirojpur, and Barishal, ingenious farmers weave tightly compacted Kochuripana mats into buoyant floating seedbeds known as 'Dhap' or 'Baira'—recognized by the UN FAO as a Globally Important Agricultural Heritage System (GIAHS). As the woven water hyacinth decays slowly over monsoon months, it warms and nourishes okra, bitter gourd, amaranth, and turmeric seedlings cleanly above rising floods!",
+        "Dried fibrous petioles are also braided into eco-friendly woven baskets, coasters, and artisanal handbags, while harvested mats supply rapid potassium-rich mulch and biogas feedstock."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/41052910/pexels-photo-41052910.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Blooming Kochuripana supporting aquatic biodiversity",
+          "caption": "Abundant renewable biomass transformed into floating Baira gardens and woven handicrafts."
+        }
+      ]
+    },
+    {
+      "number": "06",
+      "title": "Traditional & Scientific Medicinal Properties",
+      "subtitle": "Bioactive phenols, antimicrobial root extracts, and wastewater bioaccumulation cautions",
+      "summary": "Ethnobotanical poultice traditions contrasted with strict cautions against eating plants from polluted waters.",
+      "paragraphs": [
+        "Traditional folk remedies across tropical Asia occasionally apply crushed fresh leaves externally to minor itchy skin rashes or boil young blanched stalks from verified clean springs as minor fodder-greens. Phytochemical assays detect stigmasterol, flavonoids, and phenolic compounds with mild antibacterial action.",
+        "In environmental science, however, Pontederia crassipes is primarily respected as a bio-accumulator rather than an internal medicinal herb."
+      ],
+      "safetyNote": "Never eat or prepare herbal remedies from wild water hyacinth growing in urban canals, industrial rivers, or agricultural drains: its feathery roots rapidly absorb arsenic, lead, cadmium, and persistent pesticides from polluted water. Manage plants strictly inside closed basins to prevent release into public waterways.",
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/25014390/pexels-photo-25014390.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Water hyacinth rosette and purple bloom",
+          "caption": "High root surface area excels at sequestering dissolved nutrients and waterborne ions."
+        }
+      ]
+    },
+    {
+      "number": "07",
+      "title": "Comprehensive Cultivation & Care Guide",
+      "subtitle": "Contained patio water tubs, full sun, and responsible containment",
+      "summary": "Growing ornamental floating rosettes safely in closed sunny pH 5.5–8.0 water bowls.",
+      "paragraphs": [
+        "Because Pontederia crassipes can become aggressively invasive in open warm lakes, always cultivate it strictly inside isolated backyard concrete tubs, ceramic lotus bowls, or closed garden koi ponds disconnected from natural drainage streams. Place rosettes directly onto still freshwater (pH 5.5–8.0) receiving at least 6 hours of direct sunlight.",
+        "Plants absorb nutrients effortlessly from gentle compost tea or fish pond water without soil potting; pinch off surplus daughter stolons every two weeks and compost dried rosettes cleanly onto vegetable beds—never discard live plants into local canals or rivers."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/41052910/pexels-photo-41052910.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Floating water hyacinth spike in sunny water basin",
+          "caption": "Contained sunny water basins showcase striking violet blooms while safeguarding wild wetlands."
+        }
+      ]
+    }
+  ],
+  "schemaOrg": {
+    "@type": "Taxon",
+    "name": "Pontederia crassipes",
+    "alternateName": [
+      "Water Hyacinth",
+      "Eichhornia crassipes",
+      "Kochuripana (কচুরিপানা)"
+    ],
+    "taxonRank": "Species",
+    "parentTaxon": {
+      "@type": "Taxon",
+      "name": "Pontederia",
+      "taxonRank": "Genus",
+      "parentTaxon": {
+        "@type": "Taxon",
+        "name": "Pontederiaceae",
+        "taxonRank": "Family"
+      }
+    }
+  }
+}

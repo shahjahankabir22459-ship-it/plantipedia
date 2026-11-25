@@ -1,0 +1,204 @@
+{
+  "schemaVersion": "1.1.0",
+  "slug": "ashwagandha",
+  "commonName": "Ashwagandha",
+  "scientificName": "Withania somnifera",
+  "localName": "Ashwagandha (অশ্বগন্ধা)",
+  "category": "Medicinal",
+  "categories": [
+    "Medicinal",
+    "Shrubs & Herbs"
+  ],
+  "taxonomicDomain": "Ethnobotanical & Ayurvedic Herbs",
+  "featuredRank": null,
+  "shortSummary": "Drought-hardy nightshade subshrub famed in Ayurvedic Rasayana pharmacology for withanolide-rich roots enclosed alongside lantern-like berry calyces.",
+  "leadOverview": "Ashwagandha (Withania somnifera)—often called Indian Winter Cherry—is a compact, velvety-stemmed perennial subshrub of the nightshade family Solanaceae. Revered for over 3,000 years as a premier Ayurvedic adaptogen ('Rasayana'), its starchy pale taproots contain steroidal lactones (withanolides) widely studied for stress resilience, sleep balance, and physical vitality.",
+  "heroImage": {
+    "url": "https://images.pexels.com/photos/28511113/pexels-photo-28511113.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "alt": "Ayurvedic Withania somnifera ashwagandha botanical herbal preparation and natural plant specimen",
+    "caption": "Withania somnifera medicinal herb specimen valued across South Asia for adaptogenic root chemistry."
+  },
+  "overview": {
+    "plantGroup": "Angiosperm (Eudicot)",
+    "family": "Solanaceae",
+    "genus": "Withania",
+    "species": "W. somnifera",
+    "growthForm": "Tomentose perennial subshrub (0.5–1.5 m)",
+    "nativeOrigin": "Drier regions of India, South Asia, Middle East & North Africa",
+    "commonUses": "Adaptogenic root powder, Ayurvedic Rasayana tonics, traditional calming infusions"
+  },
+  "cultivationTelemetry": {
+    "phMin": 7.0,
+    "phMax": 8.2,
+    "phOptimalLabel": "pH 7.0 – 8.2",
+    "sunlightLevel": 3,
+    "sunlightLabel": "Full Dry Sun",
+    "irrigationLevel": 1,
+    "irrigationLabel": "Low / Drought-Tolerant",
+    "soilDrainageLabel": "Dry Sandy-Calcareous Loam"
+  },
+  "sections": [
+    {
+      "number": "01",
+      "title": "Morphological Description",
+      "subtitle": "Woolly star-haired stems, papery inflated lantern calyces, and fleshy taproots",
+      "summary": "Anatomy of tomentose shoots, ovate leaves, greenish campanulate flowers, and Physalis-like orange berries.",
+      "paragraphs": [
+        "Withania somnifera forms an erect, branching woody subshrub 50 to 150 centimetres tall clothed across young twigs, petioles, and leaf undersides in a fine silvery-grey felt of branched stellate hairs (tomentum). Leaves are alternate (occasionally paired near flowering nodes), dull matte-green, and ovate-elliptic measuring 5 to 10 centimetres long.",
+        "Inconspicuous small greenish-yellow bell-shaped flowers cluster tightly in leaf axils during Hemonto and Sheet. Following pollination, the persistent green calyx swells dramatically into a papery, ribbed bladder-like lantern (1.5–2 cm) enclosing a smooth pea-sized orange-red berry—while underground descends a stout, cylindrical fleshy taproot 20 to 30 centimetres long with a distinctive earthy odor."
+      ],
+      "subblocks": [
+        {
+          "heading": "Tomentose Branches",
+          "text": "Silvery-grey downy stems armed with star-shaped trichomes that reflect arid glare and reduce transpirational water loss."
+        },
+        {
+          "heading": "Matte Ovate Leaves",
+          "text": "Alternate simple dull-green blades (5–10 cm) containing foliar withaferin A for natural herbivore defense."
+        },
+        {
+          "heading": "Lantern Calyx Berries",
+          "text": "Accrescent papery beige calyx husks cradling bright scarlet-orange globose berries packed with flat yellow seeds."
+        },
+        {
+          "heading": "Starchy Medicinal Taproot",
+          "text": "Buff-white cylindrical roots (20–30 cm) rich in withanolides, starch grains, and characteristic horse-like herbal aroma."
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/28511113/pexels-photo-28511113.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Medicinal Ashwagandha botanical roots and natural preparation",
+          "caption": "Withania somnifera herbal specimen showing natural root-derived Ayurvedic material."
+        },
+        {
+          "url": "https://images.pexels.com/photos/36441123/pexels-photo-36441123.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Bees foraging around small herbal blossoms",
+          "caption": "Self-fertile and bee-visited axillary blooms maturing into winter lantern berries."
+        }
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Taxonomy & Botanical Classification",
+      "subtitle": "Solanaceae nightshade lineage with tomatillo and Physalis",
+      "summary": "Taxonomic placement in Solanaceae explained through inflated calyces and steroidal lactone chemistry.",
+      "paragraphs": [
+        "Placed within order Solanales and family Solanaceae, Withania somnifera shares its signature inflated lantern calyx with Physalis (cape gooseberry / ফসকা), alongside kinship to Solanum tomato and brinjal crops. Its genus honors nineteenth-century British paleobotanist Henry Witham.",
+        "The species epithet somnifera means 'sleep-inducing' in Latin, while Sanskrit 'Ashwagandha' translates literally to 'smell of a horse'—alluding both to fresh root aroma and traditional belief in imparting equine stamina."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/28511113/pexels-photo-28511113.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Withania somnifera Solanaceae botanical material",
+          "caption": "Distinctive Solanaceae adaptogen yielding unique steroidal lactone secondary metabolites."
+        }
+      ]
+    },
+    {
+      "number": "03",
+      "title": "Natural Habitat & Global Distribution",
+      "subtitle": "Arid Rajasthan scrublands, dry Gangetic uplands, and Mediterranean fringes",
+      "summary": "Dryland ecological distribution across India, Pakistan, Middle East, and cultivation in Bangladesh.",
+      "paragraphs": [
+        "Wild populations thrive across arid stony slopes, open scrublands, and sandy plains from the Mediterranean basin and Canary Islands across Arabia, Pakistan, and western India up to 1,500 metres elevation—enduring scorching heat and scarce rainfall (600–750 mm annually).",
+        "In Bangladesh, where heavy monsoon humidity challenges wet-season fields, agricultural trials across drier western districts (Bogura, Natore's Laxmipur Kholabaria medicinal hub, and Rajshahi highlands) successfully cultivate Ashwagandha as a dry Hemonto–Sheet winter crop."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/28511113/pexels-photo-28511113.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Dryland herbal Ashwagandha specimen",
+          "caption": "Adapted to warm sun-baked sandy soils and crisp post-monsoon winter growing windows."
+        }
+      ]
+    },
+    {
+      "number": "04",
+      "title": "Ecological Role & Pollinator Interactions",
+      "subtitle": "Self-pollination, wind-balloon dispersal, and leaf-feeding beetles",
+      "summary": "Reproductive self-compatibility, inflated lantern wind scatter, and alkaloid deterrence.",
+      "paragraphs": [
+        "Because axillary flowers open modestly without showy petals, Withania somnifera relies heavily on efficient self-pollination supplemented by occasional visits from small solitary bees and thrips.",
+        "Paper-thin inflated calyces protect ripening orange berries from direct desiccation while acting as miniature sails that tumble dry detached fruits across windy open ground, or float during sudden seasonal cloudbursts."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/36441123/pexels-photo-36441123.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Solitary insect pollinator on garden flower",
+          "caption": "Wild bees supplementing self-pollination across small cream-green Solanaceae blossoms."
+        }
+      ]
+    },
+    {
+      "number": "05",
+      "title": "Economic, Culinary & Cultural Importance",
+      "subtitle": "Global adaptogen commerce, Unani 'Asgandh', and Natore's herbal farms",
+      "summary": "Rising international herbal demand and smallholder dry-crop diversification.",
+      "paragraphs": [
+        "Ashwagandha has become one of the fastest-growing botanical commodities worldwide—valued across Ayurvedic, Unani ('Asgandh Nagori'), and modern nutraceutical formulations. Root slices are cleaned, shade-dried, and milled into smooth beige powder blended into warm milk, ghee, honey, or standardized capsules.",
+        "Notably, green berries also contain milk-coagulating enzymes (chymosin-like proteases) traditionally used across arid villages to curdle plant-friendly cheeses without animal rennet."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/28511113/pexels-photo-28511113.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Cultivated Ashwagandha roots and botanical display",
+          "caption": "Harvested roots powering regional medicinal herb cooperatives and global wellness research."
+        }
+      ]
+    },
+    {
+      "number": "06",
+      "title": "Traditional & Scientific Medicinal Properties",
+      "subtitle": "Withanolides, HPA-axis cortisol modulation, and clinical safety profile",
+      "summary": "Randomized clinical trials on stress adaptation, sleep quality, and contraindications.",
+      "paragraphs": [
+        "Categorized in Ayurveda as a 'Medhya' (mind-clarifying) and 'Balya' (strength-giving) Rasayana, standardized Ashwagandha root extracts derive bioactivity primarily from withanolides (such as withanolide A and withaferin A), sitoindosides, and trace tropane/piperidine alkaloids.",
+        "Randomized placebo-controlled human trials report statistically significant reductions in perceived stress scores, evening serum cortisol, and sleep-onset latency alongside modest improvements in aerobic recovery and calm focus."
+      ],
+      "safetyNote": "Avoid Ashwagandha during pregnancy (traditionally linked to uterine contractions), in autoimmune disorders without physician oversight, or alongside thyroid hormones, immunosuppressants, or sedatives; discontinue if rare idiosyncratic liver enzyme elevations or GI upset occur.",
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/28511113/pexels-photo-28511113.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Bioactive Withania somnifera botanical specimen",
+          "caption": "Root-concentrated withanolide lactones rigorously investigated for HPA-axis stress balance."
+        }
+      ]
+    },
+    {
+      "number": "07",
+      "title": "Comprehensive Cultivation & Care Guide",
+      "subtitle": "Sandy alkaline drainage, minimal nitrogen, and dry-season root lifting",
+      "summary": "Growing plump low-fibre medicinal roots in pH 7.0–8.2 dry sandy loam.",
+      "paragraphs": [
+        "Broadcast or drill fine flat seeds thinly across raised well-drained sandy-loam beds (optimal pH 7.0–8.2) at the tail end of Borsha or early Hemonto (September–October), allowing 15-to-20-centimetre spacing once seedlings emerge after 7 to 10 days. Give plants full scorching sunlight and avoid rich nitrogen fertilizers, which encourage leafy growth at the expense of root starch.",
+        "Ashwagandha is fiercely drought-tolerant and detests soggy soil—water sparingly only during prolonged dry spells. After 150 to 180 days (by Phalgun–Chaitra), when upper leaves yellow and lantern berries blush bright red, pull whole taproots cleanly, trim side rootlets, wash briefly, and dry in clean sunlight."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/28511113/pexels-photo-28511113.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Ashwagandha herbal yield",
+          "caption": "Lean dry sandy-loam soils produce dense, pale, aromatic taproots prized by pharmacopoeias."
+        }
+      ]
+    }
+  ],
+  "schemaOrg": {
+    "@type": "Taxon",
+    "name": "Withania somnifera",
+    "alternateName": [
+      "Ashwagandha",
+      "Ashwagandha (অশ্বগন্ধা)"
+    ],
+    "taxonRank": "Species",
+    "parentTaxon": {
+      "@type": "Taxon",
+      "name": "Withania",
+      "taxonRank": "Genus",
+      "parentTaxon": {
+        "@type": "Taxon",
+        "name": "Solanaceae",
+        "taxonRank": "Family"
+      }
+    }
+  }
+}

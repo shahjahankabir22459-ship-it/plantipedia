@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.0.0",
+  "page": "seasons",
+  "seo": {
+    "title": "Bangladeshi 6-Season Botanical Calendar (ষড়ঋতু) | Plantipedia",
+    "description": "Explore Bengal's six traditional botanical seasons—Summer (গ্রীষ্ম), Monsoon (বর্ষা), Autumn (শরৎ), Late Autumn (হেমন্ত), Winter (শীত), and Spring (বসন্ত)—and discover when local flora bloom, fruit, and flush.",
+    "keywords": "Bangladeshi 6 seasons, Shororitu, Bengal flora calendar, Grishmo, Borsha, Shorot, Hemonto, Sheet, Boshonto, seasonal blooming plants, Plantipedia",
+    "author": "Plantipedia Botanical Archive",
+    "canonicalFile": "seasons/",
+    "ogType": "website",
+    "ogTitle": "Bangladeshi 6-Season Botanical Calendar (ষড়ঋতু) | Plantipedia",
+    "ogDescription": "Interactive phenological calendar tracking blooming, fruiting, and canopy transitions across the six Bengali seasons.",
+    "ogImage": "https://images.pexels.com/photos/36002741/pexels-photo-36002741.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "ogImageAlt": "Bangladeshi 6-Season Botanical Calendar"
+  },
+  "banner": {
+    "breadcrumbs": [
+      { "label": "Home", "href": "./" },
+      { "label": "Available Species", "href": "./species/" },
+      { "label": "6-Season Calendar", "current": true }
+    ],
+    "eyebrow": "Phenology & Climate · ষড়ঋতু বর্ষপঞ্জি",
+    "headline": "Bangladeshi 6-Season Botanical Calendar",
+    "subcopy": "Bengal's alluvial ecosystems cycle through six distinct ecological seasons (Shororitu). Explore how flowering spikes, monsoon aquatic blooms, fruiting drupes, and cool-season ornamentals respond across the year."
+  },
+  "ui": {
+    "currentBadge": "Current Season",
+    "goBackLabel": "← Go Back",
+    "inspectSeasonCta": "Explore Season Flora →",
+    "speciesCountTemplate": "{count} Active Species",
+    "floraSectionHeading": "Flora Active in {season} ({bn})"
+  },
+  "seasons": [
+    {
+      "id": "grishmo",
+      "number": "01",
+      "nameEn": "Summer",
+      "nameBn": "গ্রীষ্ম",
+      "transliteration": "Grishmo",
+      "bengaliMonths": "বৈশাখ – জ্যৈষ্ঠ (Boishakh – Jyoishtho)",
+      "gregorianRange": "Mid-April to Mid-June",
+      "monthWindows": [[4, 14, 6, 14]],
+      "climateSummary": "Intense solar radiation, warm westerly winds, and pre-monsoon Nor'wester storms (Kalboishakhi) catalyze rapid fruit sugar accumulation and intense essential-oil synthesis.",
+      "phenologyHighlight": "Peak Fruit Ripening (Madhumas) · Mango, Jackfruit, & Nocturnal Jasmine",
+      "ecologicalNotes": [
+        "Known as 'Madhumas' (month of honey) as Mango and Jackfruit drupes and syncarps reach full sugar ripeness.",
+        "High evapotranspiration favors deep-rooted canopy trees, drought-hardy Neem drupes, and fragrant Beli blooms at dusk."
+      ]
+    },
+    {
+      "id": "borsha",
+      "number": "02",
+      "nameEn": "Monsoon",
+      "nameBn": "বর্ষা",
+      "transliteration": "Borsha",
+      "bengaliMonths": "আষাঢ় – শ্রাবণ (Asharh – Shrabon)",
+      "gregorianRange": "Mid-June to Mid-August",
+      "monthWindows": [[6, 15, 8, 15]],
+      "climateSummary": "Moisture-laden southwest monsoon winds inundate floodplains and haor basins, recharging soil aquifers and driving explosive vegetative growth.",
+      "phenologyHighlight": "Aquatic Macrophyte Spread · Bamboo Shoot Elongation · Rain-Lush Shrubs",
+      "ecologicalNotes": [
+        "Floodwaters transform wetlands into emerald meadows where Shapla (Water Lily) and Lotus pads expand rapidly.",
+        "Bamboo rhizomes send up explosive shoots (Karul), while Ixora, Hibiscus, and Tea canopies flush vigorously."
+      ]
+    },
+    {
+      "id": "shorot",
+      "number": "03",
+      "nameEn": "Autumn",
+      "nameBn": "শরৎ",
+      "transliteration": "Shorot",
+      "bengaliMonths": "ভাদ্র – আশ্বিন (Bhadro – Ashwin)",
+      "gregorianRange": "Mid-August to Mid-October",
+      "monthWindows": [[8, 16, 10, 15]],
+      "climateSummary": "Crystal-clear skies dotted with white clouds alternate with warm humid sunshine as floodwaters gently recede across alluvial plains.",
+      "phenologyHighlight": "Mass Wetland Blooming · Sacred Lotus & National Water Lily Peak",
+      "ecologicalNotes": [
+        "Clear, sunlit beels showcase peak blooming of Nymphaea nouchali (Shapla) and Nelumbo nucifera (Sacred Lotus).",
+        "Bamboo culms begin lignifying while Tulsi spikes attract late-season native bees."
+      ]
+    },
+    {
+      "id": "hemonto",
+      "number": "04",
+      "nameEn": "Late Autumn",
+      "nameBn": "হেমন্ত",
+      "transliteration": "Hemonto",
+      "bengaliMonths": "কার্তিক – অগ্রহায়ণ (Kartik – Agrohayon)",
+      "gregorianRange": "Mid-October to Mid-December",
+      "monthWindows": [[10, 16, 12, 15]],
+      "climateSummary": "Morning mist, crisp night cooling, and drying post-monsoon soils trigger physiological stress cues that initiate winter flower buds.",
+      "phenologyHighlight": "Post-Rain Floral Induction · Bougainvillea Bracts & Marigold Beds",
+      "ecologicalNotes": [
+        "Drying soils naturally induce floral bud initiation in Bougainvillea and arrest vegetative flushing in orchard trees.",
+        "Nurseries establish cool-season Marigold and Sunflower crops across fertile Gangetic loam."
+      ]
+    },
+    {
+      "id": "sheet",
+      "number": "05",
+      "nameEn": "Winter",
+      "nameBn": "শীত",
+      "transliteration": "Sheet",
+      "bengaliMonths": "পৌষ – মাঘ (Poush – Magh)",
+      "gregorianRange": "Mid-December to Mid-February",
+      "monthWindows": [[12, 16, 12, 31], [1, 1, 2, 12]],
+      "climateSummary": "Dry, cool northern breezes and mild sunlit afternoons create ideal conditions for long-lasting exhibition blooms and vernalization cues.",
+      "phenologyHighlight": "Cool-Season Ornamental Peak · Rose, Marigold, Orchid Spikes & Bougainvillea",
+      "ecologicalNotes": [
+        "Cool nights trigger flower spikes on Phalaenopsis orchids and prolong crisp petal vibrancy in Roses and Marigolds.",
+        "Dry winter air slows Mango vegetative shoots, priming terminal buds for spring panicle emergence."
+      ]
+    },
+    {
+      "id": "boshonto",
+      "number": "06",
+      "nameEn": "Spring",
+      "nameBn": "বসন্ত",
+      "transliteration": "Boshonto",
+      "bengaliMonths": "ফাল্গুন – চৈত্র (Falgun – Choitro)",
+      "gregorianRange": "Mid-February to Mid-April",
+      "monthWindows": [[2, 13, 4, 13]],
+      "climateSummary": "Gentle southern breezes ('Dokhina Batash') and warming golden days awaken dormant buds, copper foliage flushes, and pollinator guilds.",
+      "phenologyHighlight": "Orchard Panicle Emergence · Mango Mukul, Neem Blossoms & First-Flush Tea",
+      "ecologicalNotes": [
+        "Mango trees erupt in fragrant panicles (মুকুল) sustained by hoverflies and bees, while Neem briefly drops old leaves before bursting into white bloom.",
+        "Sylhet tea estates harvest prized First-Flush apical buds as Jackfruit trunks set young spikes."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "schemaVersion": "1.1.0",
+  "slug": "tulsi",
+  "commonName": "Tulsi (Holy Basil)",
+  "scientificName": "Ocimum tenuiflorum",
+  "localName": "Tulsi (তুলসী)",
+  "category": "Medicinal",
+  "categories": [
+    "Medicinal",
+    "Shrubs & Herbs"
+  ],
+  "taxonomicDomain": "Ethnobotanical & Ayurvedic Herbs",
+  "featuredRank": null,
+  "shortSummary": "Aromatic square-stemmed subshrub of the mint family revered as an adaptogenic medicinal herb across South Asian courtyards.",
+  "leadOverview": "Tulsi or Holy Basil (Ocimum tenuiflorum, synonym O. sanctum) is an intensely aromatic perennial subshrub of the Lamiaceae family. Distinguished by eugenol-rich glandular foliage, purplish-green square stems, and verticillaster flower spikes, Tulsi bridges sacred domestic architecture with modern adaptogenic phytotherapy.",
+  "heroImage": {
+    "url": "https://images.pexels.com/photos/38541130/pexels-photo-38541130.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "alt": "Aromatic green Tulsi Ocimum tenuiflorum leaves and flower spikes",
+    "caption": "Aromatic opposite leaves and terminal floral racemes of Ocimum tenuiflorum."
+  },
+  "overview": {
+    "plantGroup": "Angiosperm (Eudicot)",
+    "family": "Lamiaceae",
+    "genus": "Ocimum",
+    "species": "O. tenuiflorum",
+    "growthForm": "Branched aromatic perennial subshrub (30–100 cm)",
+    "nativeOrigin": "Indian Subcontinent & Tropical Asia",
+    "commonUses": "Herbal teas, respiratory remedies, courtyard worship, essential oil"
+  },
+  "sections": [
+    {
+      "number": "01",
+      "title": "Morphological Description",
+      "subtitle": "Quadrangular hairy stems, decussate serrated leaves, and bilabiate floral whorls",
+      "summary": "Diagnostic Lamiaceae square stems, oil-gland hairs, verticillaster spikes, and four-nutlet fruits.",
+      "paragraphs": [
+        "Ocimum tenuiflorum develops an upright, bushy subshrub 30 to 100 centimetres tall with woody lower stems and herbaceous four-angled (quadrangular) upper twigs covered in soft spreading trichomes. Two major morphotypes dominate cultivation: bright emerald-green Rama Tulsi and deeper anthocyanin-flushed purple-stemmed Krishna (Shyama) Tulsi.",
+        "Leaves arise in opposite decussate pairs on slender petioles, displaying elliptic-oblong blades with shallowly toothed margins and microscopic essential-oil glands on both surfaces. Terminal racemes bear whorls (verticillasters) of small white-to-lavender two-lipped flowers that yield clusters of four tiny reddish-brown nutlets inside persistent calyces."
+      ],
+      "subblocks": [
+        {
+          "heading": "Square Stems",
+          "text": "Characteristic quadrangular Lamiaceae stems turning woody at the base and clad in fine aromatic hairs."
+        },
+        {
+          "heading": "Glandular Foliage",
+          "text": "Opposite elliptic leaves (2.5–5 cm) studded with peltate trichomes releasing clove-like eugenol aroma."
+        },
+        {
+          "heading": "Verticillaster Spikes",
+          "text": "Slender terminal racemes carrying six-flowered whorls of miniature bilabiate white or purplish blossoms."
+        },
+        {
+          "heading": "Nutlets & Roots",
+          "text": "Mucilage-coated brown nutlets aiding moisture retention upon germination; fibrous spreading root crown."
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/32112349/pexels-photo-32112349.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Opposite pairs of aromatic basil leaves",
+          "caption": "Opposite decussate leaf geometry maximizing sunlight interception and trichome oil density."
+        },
+        {
+          "url": "https://images.pexels.com/photos/35494628/pexels-photo-35494628.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Terminal flower spikes of holy basil",
+          "caption": "Slender verticillaster floral whorls rising above aromatic vegetative shoots."
+        }
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Taxonomy & Botanical Classification",
+      "subtitle": "Lamiales order and Ocimum species distinctions",
+      "summary": "Botanical separation between holy basil (O. tenuiflorum) and culinary sweet basil (O. basilicum).",
+      "paragraphs": [
+        "Placed in order Lamiales and family Lamiaceae alongside mint, rosemary, and lavender, Ocimum tenuiflorum (formerly widely cited as O. sanctum) is distinct from culinary Italian sweet basil (Ocimum basilicum) and camphor-scented African basil (Ocimum gratissimum).",
+        "Taxonomists separate Tulsi by its noticeably smaller, densely pubescent leaves, persistent spreading fruiting calyces, and spicy clove-pepper volatile profile dominated by eugenol rather than sweet linalool or estragole."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/13995284/pexels-photo-13995284.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Freshly harvested Tulsi herb stems",
+          "caption": "Pubescent stems and smaller serrated blades distinguishing Tulsi from culinary sweet basil."
+        }
+      ]
+    },
+    {
+      "number": "03",
+      "title": "Natural Habitat & Global Distribution",
+      "subtitle": "Subtropical foothills to South Asian courtyard planters",
+      "summary": "Widespread cultivation from rural homestead pedestals to global medicinal herb farms.",
+      "paragraphs": [
+        "Native across the Indian subcontinent and extending through Malesia and northern Australia, wild Ocimum tenuiflorum colonizes sunny forest clearings, sandy river margins, and disturbed roadsides up to 1,800 metres in the lower Himalayas.",
+        "In cultivation across Bangladesh, India, and Nepal, almost every traditional courtyard houses a raised terracotta or brick pedestal (Tulsi Mancha) dedicated to keeping a living specimen watered and bathed in morning sunlight."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/34344554/pexels-photo-34344554.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Herbal tea plantation and garden beds",
+          "caption": "Warm sunny agricultural beds suited to intensive aromatic Tulsi leaf harvesting."
+        }
+      ]
+    },
+    {
+      "number": "04",
+      "title": "Ecological Role & Pollinator Interactions",
+      "subtitle": "Bee sanctuary spikes and volatile herbivore defense",
+      "summary": "Sustaining native solitary bees while repelling mosquitos and garden pests.",
+      "paragraphs": [
+        "Allowed to bolt into bloom, Tulsi flower spikes become magnets for honeybees, bumblebees, carpenter bees, and hoverflies drawn by steady daytime nectar secretion and landing-platform lower petals.",
+        "Meanwhile, dense volatile monoterpenes and sesquiterpenes—especially beta-caryophyllene and eugenol—deter chewing beetles, whiteflies, and mosquitoes around companion vegetables when interplanted along garden borders."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/36441123/pexels-photo-36441123.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Bees gathering nectar from herb blossoms",
+          "caption": "Native bees pollinating aromatic Lamiaceae florets rich in daytime nectar."
+        }
+      ]
+    },
+    {
+      "number": "05",
+      "title": "Economic, Culinary & Cultural Importance",
+      "subtitle": "Adaptogenic herbal tea market, Thai cooking, and sacred hospitality",
+      "summary": "Global herbal tea commerce, Southeast Asian stir-fries, and revered household symbol.",
+      "paragraphs": [
+        "Tulsi underpins a booming global wellness and herbal infusion industry, blended solo or with ginger and green tea for caffeine-free adaptogenic teas exported across North America, Europe, and Japan. In Thai cuisine, spicy Rama/Kaphrao basil imparts signature peppery heat to stir-fries (Pad Kaphrao).",
+        "Culturally across Bengal and northern India, Tulsi embodies household serenity and health; fresh leaves accompany celebratory rituals, while wooden prayer beads are carved from seasoned woody stems."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/38541130/pexels-photo-38541130.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Organic Tulsi herbs prepared for infusion",
+          "caption": "Shade-dried and fresh Tulsi foliage valued worldwide for aromatic herbal infusions."
+        }
+      ]
+    },
+    {
+      "number": "06",
+      "title": "Traditional & Scientific Medicinal Properties",
+      "subtitle": "Eugenol, ursolic acid, rosmarinic acid, and adaptogenic trials",
+      "summary": "Respiratory comfort and metabolic-stress resilience backed by contemporary human studies.",
+      "paragraphs": [
+        "Hailed in Ayurveda as 'The Incomparable One' and the 'Queen of Herbs', warm Tulsi leaf infusions with honey and ginger remain a classic household remedy for seasonal coughs, nasal congestion, and mild sore throats. Primary bioactives include eugenol, ursolic acid, rosmarinic acid, apigenin, and luteolin.",
+        "Controlled human clinical trials have documented reductions in perceived stress scores, improved fasting blood glucose regulation, and broad antimicrobial activity alongside liver-supportive antioxidant effects."
+      ],
+      "safetyNote": "Tulsi may mildly lower blood glucose and slow platelet clotting; consult a physician before combining concentrated extracts with antidiabetic drugs, anticoagulants, or during pregnancy and fertility planning.",
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/32112349/pexels-photo-32112349.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Close-up of medicinal holy basil leaves",
+          "caption": "Eugenol- and rosmarinic-acid-rich leaves prized in Ayurvedic phytotherapy."
+        }
+      ]
+    },
+    {
+      "number": "07",
+      "title": "Comprehensive Cultivation & Care Guide",
+      "subtitle": "Pinching flower spikes, well-drained pots, and frost protection",
+      "summary": "Keeping courtyard and container plants bushy, fragrant, and productive year-round.",
+      "paragraphs": [
+        "Grow Tulsi in bright warmth with 5 to 6 hours of direct sunlight daily and loose, well-drained composted loam (pH 6.0–7.5). Surface-sow seeds onto moist soil without burying deeply, as light stimulates germination within 7 to 10 days.",
+        "Pinch off emerging terminal flower buds regularly to redirect energy into dense leafy side shoots, water deeply whenever the top 2 centimetres of soil feel dry, and shelter potted plants indoors whenever winter nights drop below 10°C."
+      ],
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/35494628/pexels-photo-35494628.jpeg?auto=compress&cs=tinysrgb&w=1200",
+          "alt": "Sunlit garden Tulsi bush",
+          "caption": "Sun-drenched garden cultivation producing vigorous aromatic shoots and spikes."
+        }
+      ]
+    }
+  ],
+  "schemaOrg": {
+    "@type": "Taxon",
+    "name": "Ocimum tenuiflorum",
+    "alternateName": [
+      "Tulsi (Holy Basil)",
+      "Tulsi (তুলসী)"
+    ],
+    "taxonRank": "Species",
+    "parentTaxon": {
+      "@type": "Taxon",
+      "name": "Ocimum",
+      "taxonRank": "Genus",
+      "parentTaxon": {
+        "@type": "Taxon",
+        "name": "Lamiaceae",
+        "taxonRank": "Family"
+      }
+    }
+  }
+}
